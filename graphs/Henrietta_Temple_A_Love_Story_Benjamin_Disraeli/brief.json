@@ -1,0 +1,297 @@
+{
+  "slug": "Henrietta_Temple_A_Love_Story_Benjamin_Disraeli",
+  "title_display": "Henrietta Temple A Love Story Benjamin Disraeli",
+  "language": "en",
+  "length_tokens": 188035,
+  "length_words": 143908,
+  "unique_entities": 133,
+  "entity_mentions": 4262,
+  "scene_count": 59,
+  "top_entities": [
+    {
+      "label": "ferdinand",
+      "count": 920,
+      "type": "PERSON"
+    },
+    {
+      "label": "glastonbury",
+      "count": 481,
+      "type": "ORG"
+    },
+    {
+      "label": "temple",
+      "count": 316,
+      "type": "ORG"
+    },
+    {
+      "label": "henrietta",
+      "count": 312,
+      "type": "ORG"
+    },
+    {
+      "label": "armine",
+      "count": 295,
+      "type": "NORP"
+    },
+    {
+      "label": "grandison",
+      "count": 199,
+      "type": "PERSON"
+    },
+    {
+      "label": "ratcliffe",
+      "count": 150,
+      "type": "PERSON"
+    },
+    {
+      "label": "montfort",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "katherine",
+      "count": 100,
+      "type": "PERSON"
+    },
+    {
+      "label": "henrietta temple",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferdinand armine",
+      "count": 87,
+      "type": "PERSON"
+    },
+    {
+      "label": "bellair",
+      "count": 76,
+      "type": "PERSON"
+    },
+    {
+      "label": "ducie",
+      "count": 56,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "levison",
+      "count": 47,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 125669.54677338668,
+      "activity": 0.04804022569514621
+    },
+    {
+      "token": 147210.2101050525,
+      "activity": 0.04542364728899285
+    },
+    {
+      "token": 105822.036018009,
+      "activity": 0.04400127321367533
+    },
+    {
+      "token": 135922.52626313156,
+      "activity": 0.04260708296750362
+    },
+    {
+      "token": 138180.06303151575,
+      "activity": 0.04204186589595332
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 59,
+    "edges": 828,
+    "scene_entity_counts": [
+      31,
+      20,
+      11,
+      10,
+      16,
+      10,
+      24,
+      17,
+      19,
+      26,
+      14,
+      11,
+      13,
+      12,
+      14,
+      14,
+      12,
+      12,
+      7,
+      14,
+      16,
+      8,
+      9,
+      5,
+      7,
+      15,
+      18,
+      18,
+      16,
+      12,
+      13,
+      11,
+      16,
+      10,
+      11,
+      12,
+      12,
+      21,
+      19,
+      22,
+      26,
+      21,
+      14,
+      19,
+      34,
+      25,
+      18,
+      27,
+      23,
+      6,
+      12,
+      15,
+      20,
+      21,
+      30,
+      14,
+      20,
+      18,
+      20
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0221,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.565,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.565
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.4598
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1422
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.4746
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.565
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5773
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.37577448101849314,
+        "read_time_min": 79.5,
+        "driving_words": [
+          "superb",
+          "rejoice",
+          "triumphant",
+          "rejoices",
+          "terrific",
+          "brilliant"
+        ]
+      },
+      {
+        "position": 0.32323232323232326,
+        "smoothed": 0.3355928393010013,
+        "read_time_min": 193.1,
+        "driving_words": [
+          "wonderfully",
+          "winning",
+          "supreme",
+          "rapturous",
+          "triumphant",
+          "ecstatic"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.3606049491221371,
+        "read_time_min": 274.3,
+        "driving_words": [
+          "brilliant",
+          "triumphant",
+          "wonderful",
+          "happy",
+          "happiness",
+          "grateful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.09826631621285863,
+        "read_time_min": 317.6,
+        "driving_words": [
+          "torture",
+          "miserable",
+          "betrayed",
+          "deceit",
+          "lost",
+          "victim"
+        ]
+      },
+      {
+        "position": 0.7575757575757576,
+        "smoothed": 0.0753591488349928,
+        "read_time_min": 425.8,
+        "driving_words": [
+          "damned",
+          "miserable",
+          "worse",
+          "anger",
+          "abuse",
+          "anguish"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": 0.09086326701119425,
+        "read_time_min": 512.3,
+        "driving_words": [
+          "damned",
+          "hell",
+          "losing",
+          "worse",
+          "bad",
+          "die"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Henrietta_Temple_A_Love_Story_Benjamin_Disraeli/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "slug": "Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley",
+  "title": "Frankenstein or the modern prometheus Mary Wollstonecraft Shelley",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 92299,
+  "n_unique_entities": 57,
+  "n_entity_mentions": 681,
+  "sigma": 230.7475,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    1686.7857142857142,
+    5245.3403361344535,
+    8852.569659442725,
+    11200.498803827752,
+    13598.288277511961,
+    17185.07780320366,
+    20956.65543478261,
+    23330.26824324324,
+    26440.171814671812,
+    29921.04978354978,
+    33119.88437001595,
+    36083.563157894736,
+    41424.51875,
+    45838.0252016129,
+    47394.70351043643,
+    50202.361344537814,
+    52931.30803571429,
+    54826.46875,
+    58592.721153846156,
+    62018.98901098901,
+    63428.527992277996,
+    65894.28513513514,
+    69281.85833333334,
+    72525.72833333333,
+    74768.41583333333,
+    75963.29166666667,
+    77273.22192028986,
+    79009.07608695651,
+    81343.25,
+    84500.47222222222,
+    87059.16452991453,
+    88787.33936651584
+  ],
+  "n_scenes": 33,
+  "top_entities": [
+    {
+      "label": "elizabeth",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "justine",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "clerval",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "felix",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "geneva",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "safie",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "frankenstein",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "agatha",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "victor",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "ingolstadt",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "arabian",
+      "count": 13,
+      "type": "NORP"
+    },
+    {
+      "label": "ernest",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "kirwin",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "margaret",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "switzerland",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "m. waldman",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "de lacey",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "turk",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "italy",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "m. krempe",
+      "count": 7,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 48480.69034517258,
+      "activity": 0.046456745430210306
+    },
+    {
+      "token": 45340.98849424712,
+      "activity": 0.022296912396807613
+    },
+    {
+      "token": 25163.786893446722,
+      "activity": 0.021901650611205643
+    },
+    {
+      "token": 24702.06603301651,
+      "activity": 0.020643767784972636
+    },
+    {
+      "token": 28072.62831415708,
+      "activity": 0.02027001516784609
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 33,
+    "edges": 208,
+    "scene_entity_counts": [
+      7,
+      4,
+      6,
+      10,
+      9,
+      8,
+      8,
+      17,
+      15,
+      9,
+      6,
+      11,
+      4,
+      4,
+      7,
+      12,
+      6,
+      6,
+      4,
+      11,
+      11,
+      13,
+      9,
+      7,
+      8,
+      8,
+      5,
+      5,
+      8,
+      5,
+      9,
+      5,
+      8
+    ]
+  }
+}

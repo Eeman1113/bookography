@@ -1,0 +1,295 @@
+{
+  "slug": "Life_on_the_Mississippi_Mark_Twain",
+  "title_display": "Life on the Mississippi Mark Twain",
+  "language": "en",
+  "length_tokens": 186801,
+  "length_words": 148560,
+  "unique_entities": 218,
+  "entity_mentions": 1847,
+  "scene_count": 57,
+  "top_entities": [
+    {
+      "label": "mississippi",
+      "count": 121,
+      "type": "LOC"
+    },
+    {
+      "label": "new orleans",
+      "count": 121,
+      "type": "FAC"
+    },
+    {
+      "label": "st. louis",
+      "count": 86,
+      "type": "GPE"
+    },
+    {
+      "label": "bixby",
+      "count": 58,
+      "type": "PERSON"
+    },
+    {
+      "label": "brown",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "cairo",
+      "count": 31,
+      "type": "GPE"
+    },
+    {
+      "label": "missouri",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "napoleon",
+      "count": 26,
+      "type": "ORG"
+    },
+    {
+      "label": "stephen",
+      "count": 24,
+      "type": "GPE"
+    },
+    {
+      "label": "st. paul",
+      "count": 24,
+      "type": "GPE"
+    },
+    {
+      "label": "arkansas",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "memphis",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "south",
+      "count": 23,
+      "type": "LOC"
+    },
+    {
+      "label": "indian",
+      "count": 22,
+      "type": "NORP"
+    },
+    {
+      "label": "vicksburg",
+      "count": 20,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6634.71735867934,
+      "activity": 0.0335461523160497
+    },
+    {
+      "token": 131386.09304652325,
+      "activity": 0.027806115942547165
+    },
+    {
+      "token": 2523.0615307653825,
+      "activity": 0.027106614424852616
+    },
+    {
+      "token": 117088.74437218609,
+      "activity": 0.02635547333015504
+    },
+    {
+      "token": 162503.85192596298,
+      "activity": 0.026005613338384193
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 579,
+    "scene_entity_counts": [
+      44,
+      38,
+      11,
+      15,
+      9,
+      12,
+      11,
+      3,
+      3,
+      8,
+      15,
+      5,
+      8,
+      8,
+      7,
+      9,
+      9,
+      18,
+      6,
+      10,
+      20,
+      31,
+      28,
+      22,
+      19,
+      25,
+      11,
+      9,
+      4,
+      5,
+      18,
+      11,
+      9,
+      16,
+      20,
+      18,
+      16,
+      6,
+      19,
+      10,
+      24,
+      13,
+      23,
+      13,
+      11,
+      14,
+      11,
+      7,
+      12,
+      23,
+      12,
+      9,
+      15,
+      13,
+      24,
+      3,
+      4
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0119,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.216,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.216
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0973
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0606
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0973
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2028
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3229
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.23232323232323232,
+        "smoothed": 0.09557833523774256,
+        "read_time_min": 148.8,
+        "driving_words": [
+          "wonderful",
+          "funny",
+          "fun",
+          "triumph",
+          "great",
+          "perfection"
+        ]
+      },
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.07261738551699672,
+        "read_time_min": 350.3,
+        "driving_words": [
+          "wonderful",
+          "terrific",
+          "fun",
+          "brilliant",
+          "fantastic",
+          "good"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": 0.1410009667660741,
+        "read_time_min": 529.5,
+        "driving_words": [
+          "superb",
+          "amazing",
+          "wonderful",
+          "rejoices",
+          "brilliant",
+          "sparkling"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.32323232323232326,
+        "smoothed": -0.07248635158307458,
+        "read_time_min": 199.1,
+        "driving_words": [
+          "bastard",
+          "tortures",
+          "fraudulent",
+          "idiotic",
+          "bad",
+          "hideous"
+        ]
+      },
+      {
+        "position": 0.5050505050505051,
+        "smoothed": -0.061368664457293026,
+        "read_time_min": 299.9,
+        "driving_words": [
+          "'nigger'",
+          "hell",
+          "torture",
+          "awful",
+          "disastrous",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.8484848484848485,
+        "smoothed": -0.06366859657631607,
+        "read_time_min": 490.3,
+        "driving_words": [
+          "ass",
+          "damned",
+          "fraud",
+          "die",
+          "badly",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Life_on_the_Mississippi_Mark_Twain/sentiment_arc.png"
+  }
+}

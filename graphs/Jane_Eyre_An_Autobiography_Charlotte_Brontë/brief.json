@@ -1,0 +1,303 @@
+{
+  "slug": "Jane_Eyre_An_Autobiography_Charlotte_Brontë",
+  "title_display": "Jane Eyre An Autobiography Charlotte Brontë",
+  "language": "en",
+  "length_tokens": 247155,
+  "length_words": 189418,
+  "unique_entities": 148,
+  "entity_mentions": 2796,
+  "scene_count": 65,
+  "top_entities": [
+    {
+      "label": "rochester",
+      "count": 337,
+      "type": "PERSON"
+    },
+    {
+      "label": "jane",
+      "count": 285,
+      "type": "PERSON"
+    },
+    {
+      "label": "fairfax",
+      "count": 130,
+      "type": "PERSON"
+    },
+    {
+      "label": "bessie",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "reed",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "st. john",
+      "count": 73,
+      "type": "GPE"
+    },
+    {
+      "label": "mary",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "diana",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "thornfield",
+      "count": 67,
+      "type": "GPE"
+    },
+    {
+      "label": "mason",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "ingram",
+      "count": 51,
+      "type": "ORG"
+    },
+    {
+      "label": "brocklehurst",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "lowood",
+      "count": 46,
+      "type": "GPE"
+    },
+    {
+      "label": "georgiana",
+      "count": 40,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 118198.71135567783,
+      "activity": 0.023685039207038995
+    },
+    {
+      "token": 102372.94247123561,
+      "activity": 0.02338708999424505
+    },
+    {
+      "token": 91616.3651825913,
+      "activity": 0.023069238529621675
+    },
+    {
+      "token": 158134.05002501252,
+      "activity": 0.022933663818357746
+    },
+    {
+      "token": 245052.140070035,
+      "activity": 0.022754147649381825
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 65,
+    "edges": 811,
+    "scene_entity_counts": [
+      12,
+      13,
+      13,
+      16,
+      15,
+      8,
+      10,
+      14,
+      13,
+      15,
+      12,
+      13,
+      29,
+      16,
+      17,
+      19,
+      11,
+      13,
+      8,
+      14,
+      22,
+      15,
+      12,
+      23,
+      17,
+      29,
+      15,
+      14,
+      20,
+      14,
+      11,
+      14,
+      17,
+      10,
+      11,
+      19,
+      10,
+      15,
+      8,
+      13,
+      16,
+      20,
+      12,
+      17,
+      22,
+      8,
+      7,
+      14,
+      15,
+      16,
+      18,
+      12,
+      11,
+      12,
+      20,
+      16,
+      28,
+      11,
+      8,
+      10,
+      17,
+      14,
+      8,
+      14,
+      23
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0162,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.3284,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.3284
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3172
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2624
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.1366
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2533
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.3284
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.35353535353535354,
+        "smoothed": 0.14389270294093348,
+        "read_time_min": 273.7,
+        "driving_words": [
+          "brilliant",
+          "fantastic",
+          "win",
+          "wonderful",
+          "fun",
+          "handsome"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.14456906950957937,
+        "read_time_min": 433.2,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "rejoicing",
+          "triumph",
+          "win",
+          "beloved"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.1903314633858049,
+        "read_time_min": 650.7,
+        "driving_words": [
+          "hurrah",
+          "thrilled",
+          "rejoicing",
+          "winning",
+          "wonderfully",
+          "handsome"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": -0.04909437148040345,
+        "read_time_min": 41.7,
+        "driving_words": [
+          "hell",
+          "disgust",
+          "loose",
+          "abhor",
+          "killed",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.10101010101010101,
+        "smoothed": -0.06949667252573394,
+        "read_time_min": 92.5,
+        "driving_words": [
+          "torture",
+          "tortures",
+          "dead",
+          "died",
+          "lost",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": -0.08614785473016438,
+        "read_time_min": 491.2,
+        "driving_words": [
+          "bastard",
+          "hell",
+          "dick",
+          "tortured",
+          "foul",
+          "cruel"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Jane_Eyre_An_Autobiography_Charlotte_Brontë/sentiment_arc.png"
+  }
+}

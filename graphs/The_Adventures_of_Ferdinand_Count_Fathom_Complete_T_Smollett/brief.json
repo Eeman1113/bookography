@@ -1,0 +1,298 @@
+{
+  "slug": "The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett",
+  "title_display": "The Adventures of Ferdinand Count Fathom Complete T Smollett",
+  "language": "en",
+  "length_tokens": 200699,
+  "length_words": 163104,
+  "unique_entities": 126,
+  "entity_mentions": 1777,
+  "scene_count": 60,
+  "top_entities": [
+    {
+      "label": "renaldo",
+      "count": 186,
+      "type": "PERSON"
+    },
+    {
+      "label": "fathom",
+      "count": 125,
+      "type": "ORG"
+    },
+    {
+      "label": "ferdinand",
+      "count": 117,
+      "type": "ORG"
+    },
+    {
+      "label": "serafina",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "don diego",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 47,
+      "type": "NORP"
+    },
+    {
+      "label": "england",
+      "count": 45,
+      "type": "GPE"
+    },
+    {
+      "label": "german",
+      "count": 38,
+      "type": "NORP"
+    },
+    {
+      "label": "wilhelmina",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "mademoiselle",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "tyrolese",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "antonia",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "smollett",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "jew",
+      "count": 26,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 186039.71685842922,
+      "activity": 0.02831044967304368
+    },
+    {
+      "token": 187545.70485242622,
+      "activity": 0.025745327905031718
+    },
+    {
+      "token": 198690.016008004,
+      "activity": 0.0245703482972797
+    },
+    {
+      "token": 1104.391195597799,
+      "activity": 0.02254041666221054
+    },
+    {
+      "token": 181923.34967483743,
+      "activity": 0.02006223057670838
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 60,
+    "edges": 639,
+    "scene_entity_counts": [
+      28,
+      7,
+      17,
+      10,
+      7,
+      6,
+      10,
+      11,
+      5,
+      5,
+      5,
+      3,
+      8,
+      7,
+      12,
+      13,
+      17,
+      13,
+      12,
+      15,
+      9,
+      12,
+      6,
+      14,
+      24,
+      16,
+      15,
+      8,
+      10,
+      11,
+      13,
+      8,
+      12,
+      10,
+      12,
+      18,
+      17,
+      6,
+      7,
+      5,
+      10,
+      18,
+      10,
+      8,
+      8,
+      7,
+      6,
+      5,
+      29,
+      12,
+      22,
+      19,
+      24,
+      22,
+      13,
+      21,
+      32,
+      13,
+      14,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0122,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.4612,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4612
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.4042
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2192
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.4152
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4612
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5256
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.1834436605303308,
+        "read_time_min": 38.6,
+        "driving_words": [
+          "fabulous",
+          "fantastic",
+          "amazing",
+          "rejoiced",
+          "triumph",
+          "affection"
+        ]
+      },
+      {
+        "position": 0.29292929292929293,
+        "smoothed": 0.18400768262281184,
+        "read_time_min": 199.4,
+        "driving_words": [
+          "win",
+          "winning",
+          "rejoiced",
+          "triumph",
+          "masterpiece",
+          "good"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": 0.17492549659167478,
+        "read_time_min": 589.1,
+        "driving_words": [
+          "heavenly",
+          "triumph",
+          "amazing",
+          "wonderful",
+          "rejoice",
+          "miracle"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.038443599348317745,
+        "read_time_min": 385.0,
+        "driving_words": [
+          "torture",
+          "tortures",
+          "damned",
+          "tortured",
+          "anguish",
+          "scandalous"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.024145905707878067,
+        "read_time_min": 490.1,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "impeachment",
+          "lost",
+          "evil",
+          "losing"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.009864420450652743,
+        "read_time_min": 552.0,
+        "driving_words": [
+          "fraud",
+          "tortured",
+          "tortures",
+          "despair",
+          "charged",
+          "criminal"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Ferdinand_Count_Fathom_Complete_T_Smollett/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "slug": "The_Misplaced_Battleship_Harry_Harrison",
+  "title_display": "The Misplaced Battleship Harry Harrison",
+  "language": "en",
+  "length_tokens": 14638,
+  "length_words": 11346,
+  "unique_entities": 14,
+  "entity_mentions": 102,
+  "scene_count": 3,
+  "top_entities": [
+    {
+      "label": "pepe",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferraro",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "inskipp",
+      "count": 12,
+      "type": "ORG"
+    },
+    {
+      "label": "navy",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "angelina",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "cittanuvo",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "warlord",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "steng",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "the special corps",
+      "count": 4,
+      "type": "ORG"
+    },
+    {
+      "label": "mike",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "corps",
+      "count": 3,
+      "type": "ORG"
+    },
+    {
+      "label": "rocca",
+      "count": 3,
+      "type": "PERSON"
+    },
+    {
+      "label": "naval",
+      "count": 3,
+      "type": "GPE"
+    },
+    {
+      "label": "udrydde",
+      "count": 3,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 13853.52876438219,
+      "activity": 0.03162645138848413
+    },
+    {
+      "token": 292.8864432216108,
+      "activity": 0.030163032568457253
+    },
+    {
+      "token": 8603.539269634817,
+      "activity": 0.02966161642703223
+    },
+    {
+      "token": 13472.776388194097,
+      "activity": 0.028739223952621074
+    },
+    {
+      "token": 10931.986493246623,
+      "activity": 0.022574292128701795
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 9,
+    "scene_entity_counts": [
+      6,
+      10,
+      7
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 3744,
+    "volatility": 0.0027,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.8997,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.8997
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.416
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.416
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7235
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.7798
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.8902
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.03714268910416764,
+        "read_time_min": 8.7,
+        "driving_words": [
+          "winning",
+          "good",
+          "beautiful",
+          "great",
+          "won't",
+          "succeeded"
+        ]
+      },
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.03066798700527243,
+        "read_time_min": 11.8,
+        "driving_words": [
+          "winning",
+          "good",
+          "super",
+          "happy",
+          "successful",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.24242424242424243,
+        "smoothed": 0.017206355789959986,
+        "read_time_min": 14.9,
+        "driving_words": [
+          "happy",
+          "successful",
+          "good",
+          "beautiful",
+          "delightful",
+          "grateful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.4444444444444444,
+        "smoothed": -0.05326682924162596,
+        "read_time_min": 21.0,
+        "driving_words": [
+          "worry",
+          "bad",
+          "conspiracy",
+          "desperately",
+          "fake",
+          "terror"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": -0.05165414594845142,
+        "read_time_min": 27.1,
+        "driving_words": [
+          "hell",
+          "worry",
+          "losing",
+          "guilty",
+          "criminal",
+          "bribe"
+        ]
+      },
+      {
+        "position": 0.7171717171717171,
+        "smoothed": -0.03914390002315226,
+        "read_time_min": 29.3,
+        "driving_words": [
+          "hell",
+          "guilty",
+          "criminal",
+          "bribe",
+          "died",
+          "bad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Misplaced_Battleship_Harry_Harrison/sentiment_arc.png"
+  }
+}

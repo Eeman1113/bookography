@@ -1,0 +1,242 @@
+{
+  "slug": "The_Enchanted_April_Elizabeth_Von_Arnim",
+  "title": "The Enchanted April Elizabeth Von Arnim",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 102335,
+  "n_unique_entities": 60,
+  "n_entity_mentions": 2497,
+  "sigma": 255.8375,
+  "target_scenes": 34,
+  "detected_scene_boundaries": [
+    2208.3698830409357,
+    4450.792105263157,
+    6352.472727272727,
+    8494.722727272727,
+    11481.039285714285,
+    15044.287561576355,
+    17689.36173740053,
+    21351.980128205127,
+    25655.481300813008,
+    28484.160902803058,
+    31800.17960199005,
+    35514.522619047624,
+    38936.69866071429,
+    43418.67834051725,
+    47759.33657115104,
+    50701.82858124356,
+    53418.164871713656,
+    56459.61093835742,
+    59437.84037558685,
+    61369.69444444444,
+    63235.272401433685,
+    65816.97379032258,
+    68025.765625,
+    69252.82217261905,
+    70618.28571428571,
+    73468.72222222222,
+    76909.6497584541,
+    79471.53651059086,
+    81975.15442890443,
+    84285.73687368736,
+    86249.07237152287,
+    88416.9593837535,
+    90457.94237695078,
+    92091.7262644188,
+    94291.15906680806,
+    98322.91522186306
+  ],
+  "n_scenes": 37,
+  "top_entities": [
+    {
+      "label": "wilkins",
+      "count": 467,
+      "type": "PERSON"
+    },
+    {
+      "label": "fisher",
+      "count": 400,
+      "type": "PERSON"
+    },
+    {
+      "label": "arbuthnot",
+      "count": 218,
+      "type": "PERSON"
+    },
+    {
+      "label": "caroline",
+      "count": 173,
+      "type": "PERSON"
+    },
+    {
+      "label": "scrap",
+      "count": 144,
+      "type": "PERSON"
+    },
+    {
+      "label": "briggs",
+      "count": 139,
+      "type": "PERSON"
+    },
+    {
+      "label": "rose",
+      "count": 115,
+      "type": "PERSON"
+    },
+    {
+      "label": "lotty",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "mellersh",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "san salvatore",
+      "count": 81,
+      "type": "GPE"
+    },
+    {
+      "label": "frederick",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "francesca",
+      "count": 49,
+      "type": "ORG"
+    },
+    {
+      "label": "italy",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "domenico",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 29,
+      "type": "NORP"
+    },
+    {
+      "label": "costanza",
+      "count": 29,
+      "type": "ORG"
+    },
+    {
+      "label": "kate",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "hampstead",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "beppo",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "kate lumley",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "times",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "caroline dester",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "carlyle",
+      "count": 8,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85594.02101050525,
+      "activity": 0.05024165358030534
+    },
+    {
+      "token": 54980.84842421211,
+      "activity": 0.046399666278047966
+    },
+    {
+      "token": 84672.55427713857,
+      "activity": 0.0456620539773647
+    },
+    {
+      "token": 52165.25562781391,
+      "activity": 0.044040800040371884
+    },
+    {
+      "token": 100542.25912956479,
+      "activity": 0.04380308781625281
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 37,
+    "edges": 423,
+    "scene_entity_counts": [
+      12,
+      7,
+      4,
+      6,
+      12,
+      18,
+      16,
+      9,
+      14,
+      16,
+      17,
+      15,
+      14,
+      15,
+      17,
+      11,
+      14,
+      15,
+      12,
+      9,
+      14,
+      20,
+      13,
+      10,
+      9,
+      14,
+      17,
+      14,
+      15,
+      12,
+      15,
+      14,
+      9,
+      14,
+      6,
+      17,
+      17
+    ]
+  }
+}

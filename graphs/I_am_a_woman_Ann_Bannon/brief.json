@@ -1,0 +1,278 @@
+{
+  "slug": "I_am_a_woman_Ann_Bannon",
+  "title_display": "I am a woman Ann Bannon",
+  "language": "en",
+  "length_tokens": 107661,
+  "length_words": 78277,
+  "unique_entities": 41,
+  "entity_mentions": 2897,
+  "scene_count": 40,
+  "top_entities": [
+    {
+      "label": "laura",
+      "count": 1293,
+      "type": "PERSON"
+    },
+    {
+      "label": "marcie",
+      "count": 448,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 422,
+      "type": "PERSON"
+    },
+    {
+      "label": "beebo",
+      "count": 266,
+      "type": "PERSON"
+    },
+    {
+      "label": "sarah",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "terry",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "laur",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "merrill landon",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "marcie’s",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "jesus",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "laura’s",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "jean",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "chicago",
+      "count": 11,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 64359.029514757385,
+      "activity": 0.04982029419468792
+    },
+    {
+      "token": 104751.72586293147,
+      "activity": 0.047217264826352294
+    },
+    {
+      "token": 100066.17308654328,
+      "activity": 0.04687177648244655
+    },
+    {
+      "token": 35114.71735867934,
+      "activity": 0.044635254615238255
+    },
+    {
+      "token": 105559.57978989495,
+      "activity": 0.04457158763908113
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 321,
+    "scene_entity_counts": [
+      14,
+      7,
+      6,
+      9,
+      7,
+      10,
+      5,
+      5,
+      10,
+      7,
+      7,
+      11,
+      9,
+      8,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      5,
+      15,
+      7,
+      9,
+      14,
+      8,
+      6,
+      12,
+      10,
+      11,
+      8,
+      14,
+      12,
+      9,
+      15,
+      10,
+      14,
+      9,
+      7,
+      10
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0076,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8477,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8477
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5248
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0327
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5529
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.798
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8477
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.08652474836808564,
+        "read_time_min": 28.3,
+        "driving_words": [
+          "funny",
+          "win",
+          "wonderful",
+          "fun",
+          "nice",
+          "perfection"
+        ]
+      },
+      {
+        "position": 0.20202020202020202,
+        "smoothed": 0.04646902978151601,
+        "read_time_min": 75.2,
+        "driving_words": [
+          "funny",
+          "fun",
+          "brilliant",
+          "wonderful",
+          "terrific",
+          "wonderfully"
+        ]
+      },
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.06853953127120406,
+        "read_time_min": 97.2,
+        "driving_words": [
+          "brilliant",
+          "funny",
+          "wonderful",
+          "terrific",
+          "wonderfully",
+          "fun"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.12526235539075622,
+        "read_time_min": 213.1,
+        "driving_words": [
+          "bitch",
+          "bastard",
+          "hell",
+          "ass",
+          "tortured",
+          "damned"
+        ]
+      },
+      {
+        "position": 0.7878787878787878,
+        "smoothed": -0.10025114316820752,
+        "read_time_min": 235.2,
+        "driving_words": [
+          "bastard",
+          "bitch",
+          "hell",
+          "damned",
+          "tortured",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.0905437085343996,
+        "read_time_min": 265.5,
+        "driving_words": [
+          "bastard",
+          "hell",
+          "tortured",
+          "ass",
+          "kill",
+          "awful"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/I_am_a_woman_Ann_Bannon/sentiment_arc.png"
+  }
+}

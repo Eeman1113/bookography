@@ -1,0 +1,236 @@
+{
+  "slug": "Cranford_Elizabeth_Cleghorn_Gaskell",
+  "title": "Cranford Elizabeth Cleghorn Gaskell",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 92528,
+  "n_unique_entities": 93,
+  "n_entity_mentions": 1901,
+  "sigma": 231.32,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    3040.5834748160723,
+    6647.380542264753,
+    8900.28712121212,
+    10924.221078431372,
+    14124.834099264706,
+    17463.315557065216,
+    20438.091226708075,
+    24399.466720779223,
+    27881.508912655972,
+    30720.039215686273,
+    34402.43827160494,
+    37066.17677735207,
+    39257.44785534062,
+    42484.5218495935,
+    45431.38988095238,
+    47783.57738095238,
+    49616.3717948718,
+    51093.517628205125,
+    52988.801630434784,
+    55582.01293995859,
+    57690.24880952381,
+    58955.36944444444,
+    61305.794444444444,
+    64133.81153846154,
+    66542.6992743106,
+    69499.69290826285,
+    72163.66987829615,
+    73778.35220588234,
+    75771.86130952381,
+    78775.03851540617,
+    81511.60294117648,
+    84427.58823529413,
+    88574.66831683168
+  ],
+  "n_scenes": 34,
+  "top_entities": [
+    {
+      "label": "matty",
+      "count": 371,
+      "type": "PERSON"
+    },
+    {
+      "label": "cranford",
+      "count": 164,
+      "type": "GPE"
+    },
+    {
+      "label": "peter",
+      "count": 114,
+      "type": "PERSON"
+    },
+    {
+      "label": "jenkyns",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "martha",
+      "count": 105,
+      "type": "PERSON"
+    },
+    {
+      "label": "jamieson",
+      "count": 99,
+      "type": "PERSON"
+    },
+    {
+      "label": "glenmire",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "forrester",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessie",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "brown",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "deborah",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "matilda",
+      "count": 35,
+      "type": "ORG"
+    },
+    {
+      "label": "pole",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "hoggins",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "johnson",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitz-adam",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "jamieson’s",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "mulliner",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "holbrook",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "signor brunoni",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "barker",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "jenny",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "india",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "jem",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "betty",
+      "count": 14,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90536.67433716859,
+      "activity": 0.04897659814986156
+    },
+    {
+      "token": 90999.5407703852,
+      "activity": 0.04897147915212562
+    },
+    {
+      "token": 36149.86843421711,
+      "activity": 0.046358009859031324
+    },
+    {
+      "token": 40269.37968984492,
+      "activity": 0.045807507899606914
+    },
+    {
+      "token": 88592.63531765883,
+      "activity": 0.040593430940901475
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 34,
+    "edges": 431,
+    "scene_entity_counts": [
+      14,
+      14,
+      14,
+      9,
+      14,
+      22,
+      10,
+      16,
+      12,
+      14,
+      12,
+      27,
+      16,
+      22,
+      20,
+      12,
+      12,
+      11,
+      11,
+      16,
+      14,
+      11,
+      14,
+      17,
+      17,
+      25,
+      9,
+      13,
+      6,
+      12,
+      16,
+      15,
+      20,
+      37
+    ]
+  }
+}

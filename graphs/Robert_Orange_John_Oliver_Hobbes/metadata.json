@@ -1,0 +1,260 @@
+{
+  "slug": "Robert_Orange_John_Oliver_Hobbes",
+  "title": "Robert Orange John Oliver Hobbes",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 133165,
+  "n_unique_entities": 136,
+  "n_entity_mentions": 1874,
+  "sigma": 332.9125,
+  "target_scenes": 44,
+  "detected_scene_boundaries": [
+    3613.928321678322,
+    6236.81191369606,
+    8851.838137472285,
+    13159.170454545456,
+    17432.482142857145,
+    19727.457142857143,
+    21275.372727272726,
+    23178.229249011856,
+    25107.289855072464,
+    27661.166666666668,
+    30422.002008032126,
+    32654.509583789702,
+    34717.261961722485,
+    37215.306766917296,
+    40769.808791208794,
+    44584.37545787546,
+    48242.45238095238,
+    51616.55263157895,
+    55870.50090744102,
+    60118.82963179427,
+    62768.856965688305,
+    64551.86750164799,
+    66722.66307833258,
+    69257.50802854594,
+    73870.50073099416,
+    79565.07055555555,
+    83070.6362121212,
+    85071.12954545455,
+    86434.73478260869,
+    88274.8957201087,
+    90140.40921336207,
+    92264.33369252874,
+    94781.25306372548,
+    97447.95385395538,
+    99756.61120689654,
+    102683.85500000001,
+    105720.2354054054,
+    107206.90540540541,
+    108947.11538461538,
+    112847.63621794872,
+    118581.05571705426,
+    123227.05411449017,
+    125621.59958791209,
+    128063.17757936507,
+    131142.34722222222
+  ],
+  "n_scenes": 46,
+  "top_entities": [
+    {
+      "label": "sara",
+      "count": 190,
+      "type": "PERSON"
+    },
+    {
+      "label": "robert",
+      "count": 152,
+      "type": "PERSON"
+    },
+    {
+      "label": "orange",
+      "count": 111,
+      "type": "GPE"
+    },
+    {
+      "label": "reckage",
+      "count": 108,
+      "type": "ORG"
+    },
+    {
+      "label": "parflete",
+      "count": 108,
+      "type": "PERSON"
+    },
+    {
+      "label": "pensée",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "brigit",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "agnes",
+      "count": 73,
+      "type": "LOC"
+    },
+    {
+      "label": "beauclerk",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "disraeli",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "marshire",
+      "count": 32,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "d'alchingen",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "robert orange",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitz rewes",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "aumerle",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "garrow",
+      "count": 20,
+      "type": "LOC"
+    },
+    {
+      "label": "david",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 17,
+      "type": "NORP"
+    },
+    {
+      "label": "carillon",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "rennes",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "isidore",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "bradwyn",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "rome",
+      "count": 15,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 31375.80990495248,
+      "activity": 0.03946634801300071
+    },
+    {
+      "token": 9859.065532766384,
+      "activity": 0.035534841394483874
+    },
+    {
+      "token": 93461.27663831916,
+      "activity": 0.03469305619575881
+    },
+    {
+      "token": 77806.67933966983,
+      "activity": 0.033393315994111945
+    },
+    {
+      "token": 76674.21910955478,
+      "activity": 0.032125984895470736
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 46,
+    "edges": 640,
+    "scene_entity_counts": [
+      19,
+      10,
+      17,
+      28,
+      15,
+      16,
+      8,
+      11,
+      11,
+      14,
+      18,
+      23,
+      11,
+      5,
+      17,
+      9,
+      14,
+      4,
+      10,
+      17,
+      29,
+      6,
+      20,
+      22,
+      21,
+      45,
+      38,
+      18,
+      12,
+      19,
+      22,
+      19,
+      16,
+      16,
+      16,
+      12,
+      26,
+      12,
+      11,
+      14,
+      25,
+      26,
+      11,
+      23,
+      15,
+      5
+    ]
+  }
+}

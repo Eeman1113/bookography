@@ -1,0 +1,190 @@
+{
+  "slug": "Alices_Adventures_in_Wonderland_Lewis_Carroll",
+  "title": "Alices Adventures in Wonderland Lewis Carroll",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 37713,
+  "n_unique_entities": 32,
+  "n_entity_mentions": 792,
+  "sigma": 94.2825,
+  "target_scenes": 12,
+  "detected_scene_boundaries": [
+    4227.885507246377,
+    9825.468265867066,
+    13967.753591954022,
+    16295.545833333334,
+    18948.452884615384,
+    22163.33474736048,
+    25412.808761479275,
+    29175.487836234177,
+    32134.3546875,
+    34544.41689814815
+  ],
+  "n_scenes": 11,
+  "top_entities": [
+    {
+      "label": "alice",
+      "count": 381,
+      "type": "PERSON"
+    },
+    {
+      "label": "hatter",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "gryphon",
+      "count": 50,
+      "type": "ORG"
+    },
+    {
+      "label": "dormouse",
+      "count": 39,
+      "type": "ORG"
+    },
+    {
+      "label": "mouse",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "king",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "caterpillar",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "duchess",
+      "count": 24,
+      "type": "LOC"
+    },
+    {
+      "label": "queen",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "the march hare",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "cat",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "the white rabbit",
+      "count": 11,
+      "type": "FAC"
+    },
+    {
+      "label": "bill",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "majesty",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "pigeon",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "dodo",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "william",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "lory",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "lizard",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "dinah",
+      "count": 5,
+      "type": "GPE"
+    },
+    {
+      "label": "mabel",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 4,
+      "type": "NORP"
+    },
+    {
+      "label": "said",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary ann",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "soup",
+      "count": 4,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 21431.13156578289,
+      "activity": 0.05636684068062311
+    },
+    {
+      "token": 19846.435217608803,
+      "activity": 0.05212768749798051
+    },
+    {
+      "token": 27336.012006003002,
+      "activity": 0.04789359916587201
+    },
+    {
+      "token": 21072.688344172086,
+      "activity": 0.0458039009829359
+    },
+    {
+      "token": 12375.723861930965,
+      "activity": 0.04532264330783832
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 54,
+    "scene_entity_counts": [
+      5,
+      12,
+      7,
+      3,
+      7,
+      5,
+      6,
+      8,
+      11,
+      11,
+      11
+    ]
+  }
+}

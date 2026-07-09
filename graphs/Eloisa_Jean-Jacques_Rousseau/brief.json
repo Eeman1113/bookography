@@ -1,0 +1,299 @@
+{
+  "slug": "Eloisa_Jean-Jacques_Rousseau",
+  "title_display": "Eloisa Jean-Jacques Rousseau",
+  "language": "en",
+  "length_tokens": 391417,
+  "length_words": 318669,
+  "unique_entities": 100,
+  "entity_mentions": 2135,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "eloisa",
+      "count": 697,
+      "type": "PERSON"
+    },
+    {
+      "label": "wolmar",
+      "count": 228,
+      "type": "PERSON"
+    },
+    {
+      "label": "orbe",
+      "count": 103,
+      "type": "PERSON"
+    },
+    {
+      "label": "clara",
+      "count": 103,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 76,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 72,
+      "type": "NORP"
+    },
+    {
+      "label": "thou",
+      "count": 42,
+      "type": "NORP"
+    },
+    {
+      "label": "r.",
+      "count": 39,
+      "type": "NORP"
+    },
+    {
+      "label": "st. preux",
+      "count": 35,
+      "type": "GPE"
+    },
+    {
+      "label": "fanny",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "geneva",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "clarens",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 24,
+      "type": "GPE"
+    },
+    {
+      "label": "laura",
+      "count": 23,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 304869.7908954477,
+      "activity": 0.018531009909463287
+    },
+    {
+      "token": 128644.47823911955,
+      "activity": 0.013672108097505296
+    },
+    {
+      "token": 375359.915957979,
+      "activity": 0.013598995178309288
+    },
+    {
+      "token": 1958.0590295147572,
+      "activity": 0.013346440741314716
+    },
+    {
+      "token": 124924.16608304152,
+      "activity": 0.012094222044983862
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 592,
+    "scene_entity_counts": [
+      20,
+      16,
+      7,
+      4,
+      7,
+      5,
+      9,
+      7,
+      10,
+      16,
+      13,
+      18,
+      11,
+      8,
+      6,
+      6,
+      9,
+      10,
+      10,
+      19,
+      29,
+      18,
+      14,
+      7,
+      6,
+      11,
+      6,
+      4,
+      15,
+      11,
+      17,
+      20,
+      15,
+      14,
+      8,
+      2,
+      8,
+      6,
+      7,
+      13,
+      8,
+      8,
+      4,
+      6,
+      8,
+      7,
+      17,
+      15,
+      6,
+      8,
+      14,
+      18,
+      24,
+      10,
+      5,
+      9,
+      15,
+      9,
+      11,
+      26,
+      22
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0196,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.1392,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.1392
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0967
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0773
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.061
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0588
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0773
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.20837312598859556,
+        "read_time_min": 705.9,
+        "driving_words": [
+          "rejoiced",
+          "brilliant",
+          "miracle",
+          "pleasure",
+          "joy",
+          "sparkling"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.21450221115251317,
+        "read_time_min": 893.0,
+        "driving_words": [
+          "supreme",
+          "fantastic",
+          "perfectly",
+          "greater",
+          "pleasure",
+          "delightful"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.22404713243509009,
+        "read_time_min": 1105.0,
+        "driving_words": [
+          "triumph",
+          "supreme",
+          "pleased",
+          "love",
+          "greater",
+          "affection"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.20202020202020202,
+        "smoothed": 0.023084275570993355,
+        "read_time_min": 269.4,
+        "driving_words": [
+          "torture",
+          "horrid",
+          "cruel",
+          "crime",
+          "destruction",
+          "despair"
+        ]
+      },
+      {
+        "position": 0.3939393939393939,
+        "smoothed": -0.01869465635649968,
+        "read_time_min": 506.4,
+        "driving_words": [
+          "torture",
+          "evil",
+          "bad",
+          "destructive",
+          "betrays",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.00017940452776626036,
+        "read_time_min": 631.1,
+        "driving_words": [
+          "crime",
+          "guilt",
+          "cruel",
+          "bad",
+          "betrayed",
+          "abusing"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Eloisa_Jean-Jacques_Rousseau/sentiment_arc.png"
+  }
+}

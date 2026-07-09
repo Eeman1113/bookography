@@ -1,0 +1,216 @@
+{
+  "slug": "Dr_Mabuse_der_Spieler_Norbert_Jacques",
+  "title": "Dr Mabuse der Spieler Norbert Jacques",
+  "language": "de",
+  "status": "ok",
+  "n_tokens": 98462,
+  "n_unique_entities": 151,
+  "n_entity_mentions": 1558,
+  "sigma": 246.155,
+  "target_scenes": 32,
+  "detected_scene_boundaries": [
+    5605.219512195122,
+    9352.867660343269,
+    12637.505291005291,
+    15764.28380952381,
+    19103.213333333333,
+    24916.651250000003,
+    30539.560235507248,
+    36762.68860992039,
+    42031.0106048053,
+    46082.459507523934,
+    51416.91554467564,
+    54889.2514619883,
+    57510.90681003584,
+    60882.25741063645,
+    65039.29231280461,
+    69100.47749374827,
+    72695.13445484443,
+    76396.31375266524,
+    80542.2469555035,
+    83808.33843571006,
+    86066.96238612989,
+    89209.33483890395,
+    92803.59071869488
+  ],
+  "n_scenes": 24,
+  "top_entities": [
+    {
+      "label": "wenk",
+      "count": 363,
+      "type": "LOC"
+    },
+    {
+      "label": "hull",
+      "count": 56,
+      "type": "PER"
+    },
+    {
+      "label": "mabuse",
+      "count": 52,
+      "type": "MISC"
+    },
+    {
+      "label": "spoerri",
+      "count": 42,
+      "type": "PER"
+    },
+    {
+      "label": "münchen",
+      "count": 41,
+      "type": "LOC"
+    },
+    {
+      "label": "told",
+      "count": 38,
+      "type": "PER"
+    },
+    {
+      "label": "georg",
+      "count": 34,
+      "type": "PER"
+    },
+    {
+      "label": "carozza",
+      "count": 24,
+      "type": "LOC"
+    },
+    {
+      "label": "weltmann",
+      "count": 23,
+      "type": "PER"
+    },
+    {
+      "label": "augenblick",
+      "count": 20,
+      "type": "MISC"
+    },
+    {
+      "label": "schweiz",
+      "count": 20,
+      "type": "LOC"
+    },
+    {
+      "label": "basch",
+      "count": 20,
+      "type": "MISC"
+    },
+    {
+      "label": "konstanz",
+      "count": 20,
+      "type": "LOC"
+    },
+    {
+      "label": "mabuses",
+      "count": 19,
+      "type": "PER"
+    },
+    {
+      "label": "zeit",
+      "count": 17,
+      "type": "MISC"
+    },
+    {
+      "label": "kommissar",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "mann",
+      "count": 16,
+      "type": "PER"
+    },
+    {
+      "label": "andern",
+      "count": 15,
+      "type": "LOC"
+    },
+    {
+      "label": "tages",
+      "count": 15,
+      "type": "MISC"
+    },
+    {
+      "label": "schachen",
+      "count": 15,
+      "type": "MISC"
+    },
+    {
+      "label": "wenks",
+      "count": 14,
+      "type": "LOC"
+    },
+    {
+      "label": "schramms",
+      "count": 14,
+      "type": "LOC"
+    },
+    {
+      "label": "berlin",
+      "count": 13,
+      "type": "LOC"
+    },
+    {
+      "label": "balling",
+      "count": 13,
+      "type": "MISC"
+    },
+    {
+      "label": "karstens",
+      "count": 11,
+      "type": "PER"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 41817.60330165082,
+      "activity": 0.04081599389822974
+    },
+    {
+      "token": 85162.11555777889,
+      "activity": 0.03545424374926817
+    },
+    {
+      "token": 70976.63881940971,
+      "activity": 0.031068665703610724
+    },
+    {
+      "token": 63292.838919459726,
+      "activity": 0.030512167981391183
+    },
+    {
+      "token": 8570.39219609805,
+      "activity": 0.03041296760178097
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 494,
+    "scene_entity_counts": [
+      20,
+      22,
+      17,
+      18,
+      37,
+      45,
+      31,
+      28,
+      39,
+      30,
+      27,
+      15,
+      16,
+      18,
+      34,
+      33,
+      18,
+      26,
+      38,
+      26,
+      29,
+      26,
+      25,
+      27
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "Around_the_World_in_Eighty_Days_Jules_Verne",
+  "title": "Around the World in Eighty Days Jules Verne",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 84163,
+  "n_unique_entities": 141,
+  "n_entity_mentions": 2176,
+  "sigma": 210.4075,
+  "target_scenes": 28,
+  "detected_scene_boundaries": [
+    3564.75702247191,
+    7201.770082173402,
+    10776.74655026753,
+    13178.332628497072,
+    15138.609852216749,
+    17168.68571428571,
+    18537.386206896554,
+    19922.240316485593,
+    22385.627323874753,
+    24943.848214285714,
+    26943.409722222223,
+    29615.23399758454,
+    32334.211775362317,
+    35588.9509057971,
+    39847.3185427834,
+    43117.974581430746,
+    45672.86168582375,
+    48660.28898050975,
+    51457.10262148338,
+    53831.67703619909,
+    55947.3141025641,
+    58690.595221445226,
+    61549.39727272728,
+    64301.51137931035,
+    67010.24137931035,
+    69936.15217391304,
+    72637.20078502415,
+    75496.73170970267,
+    78785.43661971831,
+    80930.0352112676
+  ],
+  "n_scenes": 31,
+  "top_entities": [
+    {
+      "label": "fogg",
+      "count": 512,
+      "type": "PERSON"
+    },
+    {
+      "label": "aouda",
+      "count": 135,
+      "type": "PERSON"
+    },
+    {
+      "label": "phileas fogg",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 64,
+      "type": "GPE"
+    },
+    {
+      "label": "hong kong",
+      "count": 62,
+      "type": "GPE"
+    },
+    {
+      "label": "bombay",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "francis",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "yokohama",
+      "count": 40,
+      "type": "GPE"
+    },
+    {
+      "label": "india",
+      "count": 35,
+      "type": "GPE"
+    },
+    {
+      "label": "indian",
+      "count": 31,
+      "type": "NORP"
+    },
+    {
+      "label": "parsee",
+      "count": 31,
+      "type": "GPE"
+    },
+    {
+      "label": "american",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "liverpool",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "new york",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "san francisco",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "fix",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "suez",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "indians",
+      "count": 24,
+      "type": "NORP"
+    },
+    {
+      "label": "omaha",
+      "count": 24,
+      "type": "GPE"
+    },
+    {
+      "label": "japanese",
+      "count": 22,
+      "type": "NORP"
+    },
+    {
+      "label": "the reform club",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "english",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "frenchman",
+      "count": 19,
+      "type": "ORG"
+    },
+    {
+      "label": "stuart",
+      "count": 18,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 5725.878939469735,
+      "activity": 0.06081936879331872
+    },
+    {
+      "token": 57300.89144572286,
+      "activity": 0.05853296502026958
+    },
+    {
+      "token": 37512.92746373187,
+      "activity": 0.049796228539760186
+    },
+    {
+      "token": 42270.45922961481,
+      "activity": 0.0480085686002043
+    },
+    {
+      "token": 81972.69334667335,
+      "activity": 0.047892150114173526
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 538,
+    "scene_entity_counts": [
+      21,
+      33,
+      32,
+      22,
+      19,
+      21,
+      17,
+      12,
+      18,
+      17,
+      8,
+      27,
+      24,
+      31,
+      29,
+      24,
+      16,
+      21,
+      23,
+      28,
+      27,
+      34,
+      23,
+      22,
+      23,
+      11,
+      19,
+      22,
+      17,
+      15,
+      23
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "slug": "The_Lady_of_the_Lake_Walter_Scott",
+  "title": "The Lady of the Lake Walter Scott",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 109034,
+  "n_unique_entities": 275,
+  "n_entity_mentions": 2181,
+  "sigma": 272.585,
+  "target_scenes": 36,
+  "detected_scene_boundaries": [
+    2505.9867724867727,
+    5170.4023569023575,
+    7515.621212121212,
+    9398.365641711229,
+    11430.099407944996,
+    13205.409090909092,
+    15843.91211114467,
+    19278.826296958854,
+    22762.462379807694,
+    25244.694031762294,
+    27744.730253353206,
+    31131.02840909091,
+    33509.02573529412,
+    35733.69607843137,
+    38154.38284313725,
+    40124.34946808511,
+    41875.09885832901,
+    43758.6103277439,
+    47664.84400201613,
+    52166.64348118279,
+    55725.21875,
+    58978.822916666664,
+    61468.504508706465,
+    64626.04349680171,
+    68779.04470046083,
+    72706.33527796844,
+    75494.91005802708,
+    77262.09090909091,
+    79829.66666666666,
+    82209.06944444444,
+    85074.3178721174,
+    87990.48782161236,
+    89303.5012987013,
+    91031.41746031746,
+    93645.48888888888,
+    96371.39655172414,
+    99170.58746081505,
+    101761.05933014354,
+    104724.85980036299
+  ],
+  "n_scenes": 40,
+  "top_entities": [
+    {
+      "label": "scott",
+      "count": 130,
+      "type": "ORG"
+    },
+    {
+      "label": "douglas",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "shakespeare",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "ellen",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "scotland",
+      "count": 50,
+      "type": "GPE"
+    },
+    {
+      "label": "scottish",
+      "count": 42,
+      "type": "NORP"
+    },
+    {
+      "label": "highland",
+      "count": 40,
+      "type": "LOC"
+    },
+    {
+      "label": "roderick",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 35,
+      "type": "GPE"
+    },
+    {
+      "label": "james",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "allan",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "roderick dhu",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "stirling",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "chieftain",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "fitz-james",
+      "count": 23,
+      "type": "ORG"
+    },
+    {
+      "label": "milton",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "taylor",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "clan-alpine's",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "loch katrine",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "saxon",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "ms",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "highlanders",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "wb",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "malcolm",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "shall",
+      "count": 16,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 50671.164082041025,
+      "activity": 0.04727313634689383
+    },
+    {
+      "token": 95069.79439719861,
+      "activity": 0.03962356380813256
+    },
+    {
+      "token": 66107.05152576289,
+      "activity": 0.036600732227922594
+    },
+    {
+      "token": 13199.5927963982,
+      "activity": 0.036580647728658995
+    },
+    {
+      "token": 44725.892946473235,
+      "activity": 0.03563077442241895
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 1053,
+    "scene_entity_counts": [
+      29,
+      26,
+      22,
+      18,
+      40,
+      27,
+      35,
+      39,
+      49,
+      38,
+      39,
+      34,
+      29,
+      29,
+      33,
+      23,
+      24,
+      28,
+      45,
+      47,
+      33,
+      35,
+      35,
+      38,
+      61,
+      25,
+      25,
+      33,
+      33,
+      29,
+      22,
+      39,
+      18,
+      30,
+      32,
+      43,
+      30,
+      40,
+      29,
+      44
+    ]
+  }
+}

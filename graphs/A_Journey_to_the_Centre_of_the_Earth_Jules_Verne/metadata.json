@@ -1,0 +1,248 @@
+{
+  "slug": "A_Journey_to_the_Centre_of_the_Earth_Jules_Verne",
+  "title": "A Journey to the Centre of the Earth Jules Verne",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 110751,
+  "n_unique_entities": 60,
+  "n_entity_mentions": 696,
+  "sigma": 276.8775,
+  "target_scenes": 36,
+  "detected_scene_boundaries": [
+    1784.275,
+    3020.6388888888887,
+    4907.275252525253,
+    7098.136363636364,
+    9412.904761904761,
+    11995.953542392566,
+    13909.936280487804,
+    16877.114772727273,
+    21022.699494949495,
+    23636.83760683761,
+    25540.590384615385,
+    27629.867857142857,
+    29792.470443349754,
+    32060.00615763547,
+    34493.92857142857,
+    37613.75,
+    41449.5,
+    45034.57142857143,
+    48335.47767857143,
+    51208.90625,
+    53232.25,
+    55829.25,
+    58573.625,
+    61821.267857142855,
+    65613.14285714286,
+    69176.25,
+    72812.97727272726,
+    75220.8606060606,
+    77860.88333333333,
+    81332.7794117647,
+    84216.07941176472,
+    88145.55,
+    91842.475,
+    94481.975,
+    97657.2,
+    100991.7,
+    103871.27272727274,
+    105888.22727272726,
+    107996.29383116882
+  ],
+  "n_scenes": 40,
+  "top_entities": [
+    {
+      "label": "hans",
+      "count": 151,
+      "type": "PERSON"
+    },
+    {
+      "label": "iceland",
+      "count": 45,
+      "type": "GPE"
+    },
+    {
+      "label": "harry",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "sneffels",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "hardwigg",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "uncle",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "saknussemm",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "reykjavik",
+      "count": 19,
+      "type": "ORG"
+    },
+    {
+      "label": "icelandic",
+      "count": 17,
+      "type": "NORP"
+    },
+    {
+      "label": "danish",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "hamburg",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "m. fridriksson",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "gretchen",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "icelander",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 10,
+      "type": "NORP"
+    },
+    {
+      "label": "henry",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "stapi",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "port gretchen",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "scartaris",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "german",
+      "count": 8,
+      "type": "NORP"
+    },
+    {
+      "label": "arne saknussemm",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "humphry davy",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "latin",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "earth",
+      "count": 7,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 14404.702351175587,
+      "activity": 0.021448670547237064
+    },
+    {
+      "token": 12631.815907953976,
+      "activity": 0.020548740969646536
+    },
+    {
+      "token": 31302.526263131564,
+      "activity": 0.01774933437994718
+    },
+    {
+      "token": 109697.34867433716,
+      "activity": 0.017290676745270524
+    },
+    {
+      "token": 8088.794397198599,
+      "activity": 0.0170845043979124
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 310,
+    "scene_entity_counts": [
+      10,
+      6,
+      9,
+      7,
+      10,
+      10,
+      18,
+      17,
+      19,
+      10,
+      10,
+      10,
+      6,
+      14,
+      9,
+      11,
+      9,
+      10,
+      5,
+      11,
+      6,
+      9,
+      5,
+      4,
+      12,
+      7,
+      8,
+      2,
+      6,
+      9,
+      12,
+      11,
+      11,
+      10,
+      4,
+      5,
+      8,
+      7,
+      4,
+      19
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "slug": "Cranford_Elizabeth_Cleghorn_Gaskell",
+  "title_display": "Cranford Elizabeth Cleghorn Gaskell",
+  "language": "en",
+  "length_tokens": 92528,
+  "length_words": 72890,
+  "unique_entities": 93,
+  "entity_mentions": 1901,
+  "scene_count": 34,
+  "top_entities": [
+    {
+      "label": "matty",
+      "count": 371,
+      "type": "PERSON"
+    },
+    {
+      "label": "cranford",
+      "count": 164,
+      "type": "GPE"
+    },
+    {
+      "label": "peter",
+      "count": 114,
+      "type": "PERSON"
+    },
+    {
+      "label": "jenkyns",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "martha",
+      "count": 105,
+      "type": "PERSON"
+    },
+    {
+      "label": "jamieson",
+      "count": 99,
+      "type": "PERSON"
+    },
+    {
+      "label": "glenmire",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "forrester",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessie",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "brown",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "deborah",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "matilda",
+      "count": 35,
+      "type": "ORG"
+    },
+    {
+      "label": "pole",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "hoggins",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "johnson",
+      "count": 26,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90536.67433716859,
+      "activity": 0.04897659814986156
+    },
+    {
+      "token": 90999.5407703852,
+      "activity": 0.04897147915212562
+    },
+    {
+      "token": 36149.86843421711,
+      "activity": 0.046358009859031324
+    },
+    {
+      "token": 40269.37968984492,
+      "activity": 0.045807507899606914
+    },
+    {
+      "token": 88592.63531765883,
+      "activity": 0.040593430940901475
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 34,
+    "edges": 431,
+    "scene_entity_counts": [
+      14,
+      14,
+      14,
+      9,
+      14,
+      22,
+      10,
+      16,
+      12,
+      14,
+      12,
+      27,
+      16,
+      22,
+      20,
+      12,
+      12,
+      11,
+      11,
+      16,
+      14,
+      11,
+      14,
+      17,
+      17,
+      25,
+      9,
+      13,
+      6,
+      12,
+      16,
+      15,
+      20,
+      37
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0066,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.4903,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.4903
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.4606
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.42
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.317
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.42
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.4537
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1919191919191919,
+        "smoothed": 0.013611191637314595,
+        "read_time_min": 68.3,
+        "driving_words": [
+          "wonderful",
+          "best",
+          "good",
+          "excited",
+          "love",
+          "perfection"
+        ]
+      },
+      {
+        "position": 0.46464646464646464,
+        "smoothed": 0.044536177367112496,
+        "read_time_min": 136.9,
+        "driving_words": [
+          "triumphant",
+          "wonderful",
+          "gracious",
+          "good",
+          "happy",
+          "pleased"
+        ]
+      },
+      {
+        "position": 0.7575757575757576,
+        "smoothed": 0.04018871453069909,
+        "read_time_min": 210.6,
+        "driving_words": [
+          "wonderful",
+          "brilliant",
+          "great",
+          "happy",
+          "glad",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": -0.1015478362186973,
+        "read_time_min": 30.2,
+        "driving_words": [
+          "terrible",
+          "inexorable",
+          "destruction",
+          "lost",
+          "bad",
+          "terror"
+        ]
+      },
+      {
+        "position": 0.2727272727272727,
+        "smoothed": -0.042515528135819186,
+        "read_time_min": 88.6,
+        "driving_words": [
+          "bad",
+          "dead",
+          "worried",
+          "loss",
+          "terribly",
+          "destroying"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": -0.0842931478881362,
+        "read_time_min": 172.5,
+        "driving_words": [
+          "defective",
+          "cheated",
+          "panic",
+          "dead",
+          "despair",
+          "bad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cranford_Elizabeth_Cleghorn_Gaskell/sentiment_arc.png"
+  }
+}

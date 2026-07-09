@@ -1,0 +1,192 @@
+{
+  "slug": "The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe",
+  "title": "The Sorrows of Young Werther Johann Wolfgang von Goethe",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 54035,
+  "n_unique_entities": 23,
+  "n_entity_mentions": 490,
+  "sigma": 135.0875,
+  "target_scenes": 18,
+  "detected_scene_boundaries": [
+    2241.4375,
+    6257.072115384615,
+    9676.764245014245,
+    12101.157407407407,
+    14920.934027777777,
+    17988.939583333333,
+    21043.189583333333,
+    25245.92548076923,
+    28468.51923076923,
+    30880.0,
+    33262.88333333333,
+    37338.0196969697,
+    42510.4081027668,
+    46156.55298913043,
+    49126.89663461538,
+    51512.47859216255
+  ],
+  "n_scenes": 17,
+  "top_entities": [
+    {
+      "label": "charlotte",
+      "count": 179,
+      "type": "GPE"
+    },
+    {
+      "label": "albert",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "werther",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilhelm",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "walheim",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "daura",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "colma",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "morar",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "salgar",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "adieu",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "armin",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "armar",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "ossian",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "farewell",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "ullin",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "philip",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "schmidt",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "frederica",
+      "count": 4,
+      "type": "GPE"
+    },
+    {
+      "label": "minona",
+      "count": 4,
+      "type": "GPE"
+    },
+    {
+      "label": "jane",
+      "count": 3,
+      "type": "PERSON"
+    },
+    {
+      "label": "i.",
+      "count": 3,
+      "type": "ORG"
+    },
+    {
+      "label": "alpin",
+      "count": 3,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 48519.774887443724,
+      "activity": 0.03630561862632025
+    },
+    {
+      "token": 47303.40170085042,
+      "activity": 0.0348756593744047
+    },
+    {
+      "token": 48006.19509754877,
+      "activity": 0.03294268461920526
+    },
+    {
+      "token": 44086.7703851926,
+      "activity": 0.030580412140271396
+    },
+    {
+      "token": 46438.4252126063,
+      "activity": 0.03030012532953137
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 68,
+    "scene_entity_counts": [
+      2,
+      3,
+      3,
+      6,
+      7,
+      4,
+      3,
+      5,
+      3,
+      4,
+      6,
+      6,
+      7,
+      7,
+      14,
+      6,
+      5
+    ]
+  }
+}

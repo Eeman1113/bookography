@@ -1,0 +1,230 @@
+{
+  "slug": "The_King_in_Yellow_Robert_W_Chambers",
+  "title": "The King in Yellow Robert W Chambers",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 95142,
+  "n_unique_entities": 130,
+  "n_entity_mentions": 1548,
+  "sigma": 237.855,
+  "target_scenes": 31,
+  "detected_scene_boundaries": [
+    5137.139705882353,
+    8148.729545454546,
+    10792.220616883118,
+    14531.834156534955,
+    17019.92808510638,
+    19432.764347826087,
+    22223.304347826088,
+    25228.6875,
+    28415.2875,
+    31093.624390243902,
+    34358.28909612626,
+    36980.2091503268,
+    39122.83730158731,
+    41405.642857142855,
+    43075.19736842105,
+    44986.747368421056,
+    46872.05,
+    48875.38461538462,
+    51034.03167420815,
+    53019.055392156864,
+    56307.77938596491,
+    62103.37105263158,
+    67053.04710144928,
+    69628.73460144928,
+    72731.45648734177,
+    77572.35050908089,
+    83497.00844481605,
+    88065.80378874857,
+    90304.04353233831,
+    91533.05952380953
+  ],
+  "n_scenes": 31,
+  "top_entities": [
+    {
+      "label": "clifford",
+      "count": 138,
+      "type": "PERSON"
+    },
+    {
+      "label": "hastings",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "boris",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilde",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "elliott",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "sylvia",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "tessie",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "selby",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "hawberk",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "colette",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "louis",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "west",
+      "count": 32,
+      "type": "LOC"
+    },
+    {
+      "label": "braith",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "fallowby",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "rue barrée",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "constance",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "valentine",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "cécile",
+      "count": 17,
+      "type": "NORP"
+    },
+    {
+      "label": "vance",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "hartman",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "trent",
+      "count": 14,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58921.739869934965,
+      "activity": 0.05086116487573373
+    },
+    {
+      "token": 80101.20210105053,
+      "activity": 0.04860158916894439
+    },
+    {
+      "token": 81053.088044022,
+      "activity": 0.04644434016171732
+    },
+    {
+      "token": 57969.85392696348,
+      "activity": 0.04384490650653217
+    },
+    {
+      "token": 68630.97648824412,
+      "activity": 0.04137414725278583
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 311,
+    "scene_entity_counts": [
+      27,
+      21,
+      12,
+      20,
+      18,
+      13,
+      11,
+      11,
+      7,
+      7,
+      12,
+      5,
+      7,
+      6,
+      7,
+      8,
+      3,
+      3,
+      8,
+      16,
+      19,
+      29,
+      23,
+      13,
+      14,
+      28,
+      30,
+      26,
+      16,
+      6,
+      15
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "slug": "Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell",
+  "title_display": "Bidwells Travels from Wall Street to London Prison Fifteen Years in Solitude Austin Bidwell",
+  "language": "en",
+  "length_tokens": 169988,
+  "length_words": 138211,
+  "unique_entities": 259,
+  "entity_mentions": 2771,
+  "scene_count": 50,
+  "top_entities": [
+    {
+      "label": "london",
+      "count": 174,
+      "type": "GPE"
+    },
+    {
+      "label": "mac",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 81,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 71,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 63,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 54,
+      "type": "NORP"
+    },
+    {
+      "label": "america",
+      "count": 53,
+      "type": "GPE"
+    },
+    {
+      "label": "james",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "irving",
+      "count": 46,
+      "type": "PERSON"
+    },
+    {
+      "label": "the bank of england",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "havana",
+      "count": 44,
+      "type": "GPE"
+    },
+    {
+      "label": "nunn",
+      "count": 43,
+      "type": "GPE"
+    },
+    {
+      "label": "noyes",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "europe",
+      "count": 40,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 84440.76588294147,
+      "activity": 0.04922176082765815
+    },
+    {
+      "token": 119560.64132066033,
+      "activity": 0.041199219671835034
+    },
+    {
+      "token": 23640.013006503254,
+      "activity": 0.03831266102643525
+    },
+    {
+      "token": 133676.6203101551,
+      "activity": 0.03777410217839974
+    },
+    {
+      "token": 36650.52376188094,
+      "activity": 0.0376500298458446
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 853,
+    "scene_entity_counts": [
+      65,
+      25,
+      26,
+      16,
+      42,
+      15,
+      26,
+      23,
+      17,
+      23,
+      18,
+      18,
+      24,
+      18,
+      27,
+      16,
+      16,
+      14,
+      11,
+      32,
+      20,
+      33,
+      34,
+      26,
+      51,
+      18,
+      25,
+      21,
+      36,
+      18,
+      27,
+      51,
+      27,
+      38,
+      16,
+      10,
+      8,
+      36,
+      18,
+      5,
+      1,
+      7,
+      4,
+      7,
+      16,
+      18,
+      20,
+      21,
+      14,
+      14
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0074,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.642,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.642
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.5001
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.031
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0655
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3569
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.642
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.12121212121212122,
+        "smoothed": 0.10552207859021259,
+        "read_time_min": 82.2,
+        "driving_words": [
+          "amazing",
+          "triumph",
+          "brilliant",
+          "terrific",
+          "wonderful",
+          "fantastic"
+        ]
+      },
+      {
+        "position": 0.2727272727272727,
+        "smoothed": 0.08443279006441433,
+        "read_time_min": 159.9,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "fun",
+          "nice",
+          "devoted",
+          "grateful"
+        ]
+      },
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.09452099915659509,
+        "read_time_min": 325.6,
+        "driving_words": [
+          "win",
+          "winning",
+          "masterpiece",
+          "fun",
+          "brilliant",
+          "fantastic"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.42424242424242425,
+        "smoothed": 0.017858109240225333,
+        "read_time_min": 237.6,
+        "driving_words": [
+          "torturing",
+          "fraud",
+          "fraudulent",
+          "bankruptcy",
+          "deceived",
+          "madly"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": -0.09061300906300117,
+        "read_time_min": 465.5,
+        "driving_words": [
+          "fraud",
+          "ass",
+          "guilty",
+          "loss",
+          "crime",
+          "crimes"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.08700348004569593,
+        "read_time_min": 512.1,
+        "driving_words": [
+          "torturing",
+          "crime",
+          "criminal",
+          "worse",
+          "criminals",
+          "victim"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell/sentiment_arc.png"
+  }
+}

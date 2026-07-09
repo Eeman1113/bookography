@@ -1,0 +1,261 @@
+{
+  "slug": "The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole",
+  "title_display": "The Blue Lagoon A Romance H De Vere Stacpoole",
+  "language": "en",
+  "length_tokens": 84848,
+  "length_words": 66249,
+  "unique_entities": 60,
+  "entity_mentions": 1128,
+  "scene_count": 23,
+  "top_entities": [
+    {
+      "label": "dick",
+      "count": 300,
+      "type": "PERSON"
+    },
+    {
+      "label": "emmeline",
+      "count": 186,
+      "type": "ORG"
+    },
+    {
+      "label": "button",
+      "count": 135,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrange",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "paddy",
+      "count": 72,
+      "type": "GPE"
+    },
+    {
+      "label": "stacpoole",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "northumberland",
+      "count": 20,
+      "type": "ORG"
+    },
+    {
+      "label": "pacific",
+      "count": 19,
+      "type": "LOC"
+    },
+    {
+      "label": "le farge",
+      "count": 19,
+      "type": "FAC"
+    },
+    {
+      "label": "hannah",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "dicky",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "dick’s",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "paddy button",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "stannard",
+      "count": 10,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 83870.77138569285,
+      "activity": 0.040819153363523826
+    },
+    {
+      "token": 82257.87193596798,
+      "activity": 0.03555028247960317
+    },
+    {
+      "token": 37690.91345672836,
+      "activity": 0.032223888075553195
+    },
+    {
+      "token": 13921.868934467233,
+      "activity": 0.031582040152502516
+    },
+    {
+      "token": 32342.878439219607,
+      "activity": 0.031170348293114665
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 23,
+    "edges": 183,
+    "scene_entity_counts": [
+      25,
+      15,
+      14,
+      18,
+      13,
+      13,
+      7,
+      6,
+      9,
+      11,
+      11,
+      12,
+      10,
+      4,
+      5,
+      5,
+      6,
+      6,
+      4,
+      4,
+      11,
+      11,
+      23
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0051,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.4323,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.4323
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0312
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0312
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3129
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.4184
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.5732
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.0707070707070707,
+        "smoothed": -0.061289762204495286,
+        "read_time_min": 35.9,
+        "driving_words": [
+          "wonderful",
+          "funny",
+          "beauty",
+          "love",
+          "joy",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": -0.026167769025173444,
+        "read_time_min": 88.2,
+        "driving_words": [
+          "wonderful",
+          "funny",
+          "excitement",
+          "great",
+          "happy",
+          "dazzling"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.00712797615113703,
+        "read_time_min": 240.5,
+        "driving_words": [
+          "terrific",
+          "miracle",
+          "great",
+          "beautiful",
+          "charm",
+          "excited"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.494949494949495,
+        "smoothed": -0.11915060577071836,
+        "read_time_min": 131.4,
+        "driving_words": [
+          "dick",
+          "torture",
+          "nuts",
+          "bad",
+          "betrayed",
+          "kill"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": -0.10638041109557031,
+        "read_time_min": 156.4,
+        "driving_words": [
+          "dick",
+          "hell",
+          "dead",
+          "rotten",
+          "lost",
+          "terror"
+        ]
+      },
+      {
+        "position": 0.7171717171717171,
+        "smoothed": -0.10192435816596356,
+        "read_time_min": 181.4,
+        "driving_words": [
+          "dick",
+          "hell",
+          "destructive",
+          "mad",
+          "lost",
+          "nuts"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole/sentiment_arc.png"
+  }
+}

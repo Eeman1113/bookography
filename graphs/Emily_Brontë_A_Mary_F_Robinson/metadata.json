@@ -1,0 +1,216 @@
+{
+  "slug": "Emily_Brontë_A_Mary_F_Robinson",
+  "title": "Emily Brontë A Mary F Robinson",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 90011,
+  "n_unique_entities": 133,
+  "n_entity_mentions": 1834,
+  "sigma": 225.0275,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    2648.25569358178,
+    6766.603468757425,
+    12748.81206088993,
+    17329.798500881836,
+    19482.59989461006,
+    22946.01379974326,
+    26469.585655314757,
+    28902.031862745098,
+    31506.625938673344,
+    35664.934018646905,
+    39321.18349422378,
+    41313.54428264502,
+    44329.69811676083,
+    49276.24501915709,
+    54298.951451905625,
+    58313.00305110603,
+    63536.755682684976,
+    68535.15559210526,
+    72373.62071078431,
+    75848.30196078432,
+    79439.93448275863,
+    83320.07019704435,
+    86691.5623100304
+  ],
+  "n_scenes": 24,
+  "top_entities": [
+    {
+      "label": "charlotte",
+      "count": 224,
+      "type": "GPE"
+    },
+    {
+      "label": "branwell",
+      "count": 175,
+      "type": "ORG"
+    },
+    {
+      "label": "heathcliff",
+      "count": 102,
+      "type": "GPE"
+    },
+    {
+      "label": "anne",
+      "count": 90,
+      "type": "PERSON"
+    },
+    {
+      "label": "haworth",
+      "count": 85,
+      "type": "GPE"
+    },
+    {
+      "label": "bronte",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "catharine",
+      "count": 62,
+      "type": "GPE"
+    },
+    {
+      "label": "emily",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "emily bronte",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "gaskell",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 25,
+      "type": "NORP"
+    },
+    {
+      "label": "cathy",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "shirley",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "wuthering heights",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "brussels",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "earnshaw",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "maria",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "ellen",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "heger",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "hindley",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "linton",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "edgar",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "hareton",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "yorkshire",
+      "count": 15,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 360.22011005502753,
+      "activity": 0.05645306568198878
+    },
+    {
+      "token": 74160.31515757879,
+      "activity": 0.04928133060124044
+    },
+    {
+      "token": 32915.11255627814,
+      "activity": 0.04857123139636354
+    },
+    {
+      "token": 88253.92696348175,
+      "activity": 0.04834260186472841
+    },
+    {
+      "token": 27736.94847423712,
+      "activity": 0.045937988904912956
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 436,
+    "scene_entity_counts": [
+      35,
+      31,
+      30,
+      29,
+      16,
+      22,
+      22,
+      29,
+      15,
+      30,
+      24,
+      17,
+      17,
+      17,
+      18,
+      23,
+      30,
+      23,
+      19,
+      20,
+      33,
+      22,
+      15,
+      32
+    ]
+  }
+}

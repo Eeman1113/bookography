@@ -1,0 +1,196 @@
+{
+  "slug": "Love_and_Freindship_Jane_Austen",
+  "title": "Love and Freindship Jane Austen",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 41452,
+  "n_unique_entities": 125,
+  "n_entity_mentions": 950,
+  "sigma": 103.63,
+  "target_scenes": 13,
+  "detected_scene_boundaries": [
+    2419.5206742410132,
+    4788.9124356656,
+    6464.794303797468,
+    8681.518115942028,
+    11305.59963768116,
+    14571.389855072463,
+    17904.285606060606,
+    21100.94003868472,
+    24240.291713325867,
+    27070.190058479533,
+    30749.12111111111,
+    33801.46,
+    37398.80211267606
+  ],
+  "n_scenes": 14,
+  "top_entities": [
+    {
+      "label": "edward",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "laura",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "sophia",
+      "count": 42,
+      "type": "GPE"
+    },
+    {
+      "label": "matilda",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "augustus",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "house",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "lesley",
+      "count": 20,
+      "type": "ORG"
+    },
+    {
+      "label": "eloisa",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "augusta",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "husband",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "scotland",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "freind",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "charlotte",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "louisa",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "edinburgh",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "elizabeth",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "marlowe",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "scudamore",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "freindship",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "william",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "town",
+      "count": 10,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 39626.24362181091,
+      "activity": 0.05902894927835465
+    },
+    {
+      "token": 11902.388194097048,
+      "activity": 0.05659715100719829
+    },
+    {
+      "token": 3545.833416708354,
+      "activity": 0.05530536866619612
+    },
+    {
+      "token": 82.94347173586793,
+      "activity": 0.05187302219769201
+    },
+    {
+      "token": 13353.898949474737,
+      "activity": 0.04821275832497979
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 264,
+    "scene_entity_counts": [
+      26,
+      18,
+      21,
+      19,
+      20,
+      47,
+      25,
+      24,
+      24,
+      38,
+      35,
+      20,
+      31,
+      41
+    ]
+  }
+}

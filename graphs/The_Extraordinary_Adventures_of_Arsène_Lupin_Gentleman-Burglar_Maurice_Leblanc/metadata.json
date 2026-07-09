@@ -1,0 +1,224 @@
+{
+  "slug": "The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc",
+  "title": "The Extraordinary Adventures of Arsène Lupin Gentleman-Burglar Maurice Leblanc",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 73039,
+  "n_unique_entities": 83,
+  "n_entity_mentions": 997,
+  "sigma": 182.5975,
+  "target_scenes": 24,
+  "detected_scene_boundaries": [
+    3262.9477124183004,
+    5882.545138888889,
+    8070.639583333334,
+    9841.763945578232,
+    12027.05283446712,
+    14852.282222222222,
+    17709.872903225805,
+    19670.731950844856,
+    21278.584956709958,
+    23494.01854066986,
+    26796.37616099071,
+    30579.744582043342,
+    33879.698830409354,
+    35972.8253968254,
+    39064.317889317885,
+    42229.573300573305,
+    45666.11881977672,
+    48945.33049535604,
+    51149.92899159664,
+    53563.91428571429,
+    56948.02380952381,
+    60077.72835497835,
+    61771.19454545455,
+    63547.48019607843,
+    65837.65686274509,
+    69064.07364341084,
+    71324.64736135956
+  ],
+  "n_scenes": 28,
+  "top_entities": [
+    {
+      "label": "arsène lupin",
+      "count": 234,
+      "type": "PERSON"
+    },
+    {
+      "label": "ganimard",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "lupin",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "devanne",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "varin",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "andermatt",
+      "count": 39,
+      "type": "ORG"
+    },
+    {
+      "label": "holmes",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "louis lacombe",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "velmont",
+      "count": 23,
+      "type": "ORG"
+    },
+    {
+      "label": "henriette",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "nelly",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "cahorn",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "floriani",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "imbert",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "rouen",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "baudru",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "rozaine",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "victor danègre",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "america",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "arsène",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "daspry",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "malaquis",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "monsieur",
+      "count": 7,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 4530.621310655328,
+      "activity": 0.03956876610377485
+    },
+    {
+      "token": 64853.65182591296,
+      "activity": 0.03271752965771611
+    },
+    {
+      "token": 62624.87843921961,
+      "activity": 0.03131351512068215
+    },
+    {
+      "token": 10741.956978489245,
+      "activity": 0.030029538004817013
+    },
+    {
+      "token": 12714.96948474237,
+      "activity": 0.028726515698414657
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 207,
+    "scene_entity_counts": [
+      16,
+      16,
+      12,
+      9,
+      12,
+      9,
+      8,
+      7,
+      7,
+      12,
+      7,
+      14,
+      6,
+      3,
+      10,
+      17,
+      9,
+      6,
+      7,
+      10,
+      8,
+      12,
+      7,
+      20,
+      13,
+      12,
+      10,
+      11
+    ]
+  }
+}

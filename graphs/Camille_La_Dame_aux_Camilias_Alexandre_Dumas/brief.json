@@ -1,0 +1,270 @@
+{
+  "slug": "Camille_La_Dame_aux_Camilias_Alexandre_Dumas",
+  "title_display": "Camille La Dame aux Camilias Alexandre Dumas",
+  "language": "en",
+  "length_tokens": 86283,
+  "length_words": 67175,
+  "unique_entities": 41,
+  "entity_mentions": 911,
+  "scene_count": 32,
+  "top_entities": [
+    {
+      "label": "marguerite",
+      "count": 376,
+      "type": "NORP"
+    },
+    {
+      "label": "paris",
+      "count": 85,
+      "type": "GPE"
+    },
+    {
+      "label": "armand",
+      "count": 80,
+      "type": "ORG"
+    },
+    {
+      "label": "prudence",
+      "count": 59,
+      "type": "GPE"
+    },
+    {
+      "label": "gaston",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "mme",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "nanine",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "duvernoy",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "mlle",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "bougival",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "joseph",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "marguerite gautier",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "olympe",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "bagnères",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "manon",
+      "count": 9,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85764.04902451225,
+      "activity": 0.026069350156860363
+    },
+    {
+      "token": 56974.60730365182,
+      "activity": 0.02588472791008239
+    },
+    {
+      "token": 22487.704852426214,
+      "activity": 0.024948797517488543
+    },
+    {
+      "token": 68671.6668334167,
+      "activity": 0.02491831534032818
+    },
+    {
+      "token": 52744.67433716858,
+      "activity": 0.024669441989827182
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 32,
+    "edges": 234,
+    "scene_entity_counts": [
+      5,
+      6,
+      8,
+      10,
+      6,
+      8,
+      10,
+      13,
+      9,
+      4,
+      6,
+      5,
+      6,
+      6,
+      8,
+      9,
+      13,
+      6,
+      6,
+      10,
+      8,
+      12,
+      10,
+      7,
+      9,
+      13,
+      8,
+      15,
+      8,
+      5,
+      13,
+      13
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0068,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.9015,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.9015
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.6764
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3489
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0082
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0082
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.7023
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.3838383838383838,
+        "smoothed": 0.21600923574299782,
+        "read_time_min": 107.8,
+        "driving_words": [
+          "superb",
+          "thrilled",
+          "win",
+          "triumph",
+          "amazing",
+          "miracle"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": 0.2025915006510426,
+        "read_time_min": 121.6,
+        "driving_words": [
+          "win",
+          "triumph",
+          "amazing",
+          "miracle",
+          "great",
+          "good"
+        ]
+      },
+      {
+        "position": 0.6666666666666666,
+        "smoothed": 0.18697356901046142,
+        "read_time_min": 172.5,
+        "driving_words": [
+          "winning",
+          "good",
+          "love",
+          "happiness",
+          "succeeded",
+          "best"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.06060606060606061,
+        "smoothed": -0.004723361193401505,
+        "read_time_min": 33.9,
+        "driving_words": [
+          "kill",
+          "scandal",
+          "deceiving",
+          "die",
+          "dead",
+          "died"
+        ]
+      },
+      {
+        "position": 0.5353535353535354,
+        "smoothed": 0.14260050353238954,
+        "read_time_min": 142.4,
+        "driving_words": [
+          "terror",
+          "crime",
+          "deceiving",
+          "scandal",
+          "betrayed",
+          "destroyed"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.002714095977656519,
+        "read_time_min": 218.7,
+        "driving_words": [
+          "torturing",
+          "violence",
+          "bad",
+          "madly",
+          "deceiving",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Camille_La_Dame_aux_Camilias_Alexandre_Dumas/sentiment_arc.png"
+  }
+}

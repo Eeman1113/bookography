@@ -1,0 +1,244 @@
+{
+  "slug": "The_Red_Lily_Complete_Anatole_France",
+  "title": "The Red Lily Complete Anatole France",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 99388,
+  "n_unique_entities": 130,
+  "n_entity_mentions": 1525,
+  "sigma": 248.47,
+  "target_scenes": 33,
+  "detected_scene_boundaries": [
+    4199.9465855307635,
+    6261.54462474645,
+    8584.36974789916,
+    11198.527162977867,
+    14511.745650372824,
+    18757.14705882353,
+    22307.833333333336,
+    24351.690476190477,
+    26550.19585253456,
+    29845.161626344085,
+    33195.822916666664,
+    35121.32203389831,
+    36429.413870633,
+    37597.36012941762,
+    38879.068292682925,
+    41599.33571428571,
+    44779.49285714286,
+    46512.86339285714,
+    50039.91761363637,
+    55123.13956876457,
+    59234.5032051282,
+    62271.90202702703,
+    63988.291732909376,
+    66746.94837935174,
+    70083.01700680272,
+    72595.22619047618,
+    74534.56593406593,
+    76420.92917448404,
+    78231.46720867208,
+    79912.4611111111,
+    82168.89516129033,
+    84039.9012588513,
+    86935.93791574279,
+    90294.8431085044,
+    92763.7917251052,
+    95138.09197324415,
+    97313.74725274726
+  ],
+  "n_scenes": 38,
+  "top_entities": [
+    {
+      "label": "therese",
+      "count": 180,
+      "type": "NORP"
+    },
+    {
+      "label": "bell",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "choulette",
+      "count": 82,
+      "type": "PERSON"
+    },
+    {
+      "label": "dechartre",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "martin",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "florence",
+      "count": 51,
+      "type": "ORG"
+    },
+    {
+      "label": "paul vence",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "le menil",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 39,
+      "type": "GPE"
+    },
+    {
+      "label": "garain",
+      "count": 32,
+      "type": "GPE"
+    },
+    {
+      "label": "jacques",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "marmet",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "montessuy",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "france",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "napoleon",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "french",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "loyer",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "italy",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "vivian bell",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "joinville",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "count martin",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "venice",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 14,
+      "type": "NORP"
+    },
+    {
+      "label": "vence",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "fiesole",
+      "count": 12,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 83278.2516258129,
+      "activity": 0.045070445058296923
+    },
+    {
+      "token": 45442.58029014507,
+      "activity": 0.04073386902453324
+    },
+    {
+      "token": 89890.79339669835,
+      "activity": 0.03803504000291352
+    },
+    {
+      "token": 89343.89144572287,
+      "activity": 0.037490762726875834
+    },
+    {
+      "token": 88399.24262131065,
+      "activity": 0.037300528286527516
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 38,
+    "edges": 585,
+    "scene_entity_counts": [
+      39,
+      22,
+      7,
+      12,
+      31,
+      23,
+      15,
+      20,
+      18,
+      16,
+      24,
+      25,
+      19,
+      17,
+      10,
+      19,
+      25,
+      20,
+      21,
+      23,
+      20,
+      4,
+      19,
+      19,
+      25,
+      9,
+      16,
+      10,
+      16,
+      14,
+      15,
+      22,
+      20,
+      47,
+      25,
+      13,
+      9,
+      6
+    ]
+  }
+}

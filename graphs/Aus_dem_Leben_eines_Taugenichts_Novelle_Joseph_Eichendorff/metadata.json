@@ -1,0 +1,180 @@
+{
+  "slug": "Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff",
+  "title": "Aus dem Leben eines Taugenichts Novelle Joseph Eichendorff",
+  "language": "de",
+  "status": "ok",
+  "n_tokens": 39626,
+  "n_unique_entities": 64,
+  "n_entity_mentions": 372,
+  "sigma": 99.065,
+  "target_scenes": 13,
+  "detected_scene_boundaries": [
+    8922.7781124498,
+    14394.25469483568,
+    20231.1423759951,
+    27487.109035326088,
+    34128.015955105635
+  ],
+  "n_scenes": 6,
+  "top_entities": [
+    {
+      "label": "italien",
+      "count": 21,
+      "type": "LOC"
+    },
+    {
+      "label": "andern",
+      "count": 17,
+      "type": "LOC"
+    },
+    {
+      "label": "leonhard",
+      "count": 17,
+      "type": "PER"
+    },
+    {
+      "label": "mir",
+      "count": 12,
+      "type": "MISC"
+    },
+    {
+      "label": "bergen",
+      "count": 12,
+      "type": "LOC"
+    },
+    {
+      "label": "rom",
+      "count": 12,
+      "type": "LOC"
+    },
+    {
+      "label": "damen",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "stadt",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "hause",
+      "count": 10,
+      "type": "PER"
+    },
+    {
+      "label": "donau",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "guido",
+      "count": 10,
+      "type": "PER"
+    },
+    {
+      "label": "mond",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "erde",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "zeit",
+      "count": 8,
+      "type": "MISC"
+    },
+    {
+      "label": "mirs",
+      "count": 8,
+      "type": "PER"
+    },
+    {
+      "label": "wand",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "lerchen",
+      "count": 7,
+      "type": "MISC"
+    },
+    {
+      "label": "ach",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "kerl",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "deutschland",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "magd",
+      "count": 6,
+      "type": "MISC"
+    },
+    {
+      "label": "wien",
+      "count": 5,
+      "type": "LOC"
+    },
+    {
+      "label": "kutscher",
+      "count": 5,
+      "type": "LOC"
+    },
+    {
+      "label": "fenster",
+      "count": 5,
+      "type": "PER"
+    },
+    {
+      "label": "kirche",
+      "count": 5,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 23033.641820910456,
+      "activity": 0.03419445368690321
+    },
+    {
+      "token": 3171.5857928964483,
+      "activity": 0.02705162442764597
+    },
+    {
+      "token": 39387.13106553277,
+      "activity": 0.025854868394346548
+    },
+    {
+      "token": 25868.246623311654,
+      "activity": 0.025103078707747153
+    },
+    {
+      "token": 38059.02951475738,
+      "activity": 0.024234972004187214
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 117,
+    "scene_entity_counts": [
+      40,
+      24,
+      26,
+      33,
+      31,
+      27
+    ]
+  }
+}

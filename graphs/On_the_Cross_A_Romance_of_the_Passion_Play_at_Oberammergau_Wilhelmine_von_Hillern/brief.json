@@ -1,0 +1,302 @@
+{
+  "slug": "On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern",
+  "title_display": "On the Cross A Romance of the Passion Play at Oberammergau Wilhelmine von Hillern",
+  "language": "en",
+  "length_tokens": 221924,
+  "length_words": 171090,
+  "unique_entities": 122,
+  "entity_mentions": 2133,
+  "scene_count": 64,
+  "top_entities": [
+    {
+      "label": "freyer",
+      "count": 475,
+      "type": "PERSON"
+    },
+    {
+      "label": "ammergau",
+      "count": 162,
+      "type": "ORG"
+    },
+    {
+      "label": "ludwig",
+      "count": 103,
+      "type": "ORG"
+    },
+    {
+      "label": "countess",
+      "count": 101,
+      "type": "ORG"
+    },
+    {
+      "label": "josepha",
+      "count": 97,
+      "type": "PERSON"
+    },
+    {
+      "label": "martin",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "madeleine",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "countess wildenau",
+      "count": 46,
+      "type": "PERSON"
+    },
+    {
+      "label": "madeleine von wildenau",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "ludwig gross",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "joseph",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 37,
+      "type": "GPE"
+    },
+    {
+      "label": "christus",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "gross",
+      "count": 30,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 182845.01300650326,
+      "activity": 0.024997524292086664
+    },
+    {
+      "token": 191726.37368684344,
+      "activity": 0.022184187847767666
+    },
+    {
+      "token": 26422.04802401201,
+      "activity": 0.02206255569319508
+    },
+    {
+      "token": 95363.61030515259,
+      "activity": 0.020791499482437192
+    },
+    {
+      "token": 190283.15257628815,
+      "activity": 0.019042456105724328
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 64,
+    "edges": 742,
+    "scene_entity_counts": [
+      17,
+      11,
+      6,
+      9,
+      13,
+      15,
+      14,
+      18,
+      14,
+      22,
+      28,
+      28,
+      24,
+      18,
+      22,
+      10,
+      13,
+      21,
+      15,
+      9,
+      18,
+      8,
+      19,
+      9,
+      21,
+      26,
+      20,
+      13,
+      16,
+      10,
+      16,
+      6,
+      12,
+      7,
+      6,
+      10,
+      12,
+      15,
+      6,
+      16,
+      16,
+      5,
+      7,
+      7,
+      10,
+      10,
+      17,
+      12,
+      5,
+      11,
+      4,
+      16,
+      11,
+      13,
+      10,
+      11,
+      12,
+      11,
+      14,
+      11,
+      18,
+      11,
+      12,
+      17
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0143,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.4405,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4405
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2104
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0578
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2272
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4047
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4405
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.13033694300841775,
+        "read_time_min": 91.6,
+        "driving_words": [
+          "thrilled",
+          "superb",
+          "miracle",
+          "rejoicing",
+          "triumph",
+          "brilliant"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": 0.17984019568668438,
+        "read_time_min": 221.8,
+        "driving_words": [
+          "win",
+          "masterpiece",
+          "love",
+          "happiness",
+          "faithful",
+          "blessing"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.130771500515113,
+        "read_time_min": 592.8,
+        "driving_words": [
+          "miracle",
+          "exuberant",
+          "rejoiced",
+          "soothe",
+          "good",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": -0.03900633086897278,
+        "read_time_min": 137.2,
+        "driving_words": [
+          "cock",
+          "tortured",
+          "hell",
+          "torture",
+          "miserable",
+          "died"
+        ]
+      },
+      {
+        "position": 0.8080808080808081,
+        "smoothed": -0.10319427481340132,
+        "read_time_min": 540.7,
+        "driving_words": [
+          "torture",
+          "hell",
+          "tortured",
+          "criminals",
+          "mad",
+          "died"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.031022951114704822,
+        "read_time_min": 638.3,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "damned",
+          "loathed",
+          "die",
+          "angry"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/On_the_Cross_A_Romance_of_the_Passion_Play_at_Oberammergau_Wilhelmine_von_Hillern/sentiment_arc.png"
+  }
+}

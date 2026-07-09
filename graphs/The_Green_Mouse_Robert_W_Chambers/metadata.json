@@ -1,0 +1,212 @@
+{
+  "slug": "The_Green_Mouse_Robert_W_Chambers",
+  "title": "The Green Mouse Robert W Chambers",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 68355,
+  "n_unique_entities": 59,
+  "n_entity_mentions": 759,
+  "sigma": 170.8875,
+  "target_scenes": 22,
+  "detected_scene_boundaries": [
+    2486.0,
+    6218.0,
+    10295.592857142856,
+    14201.430694980694,
+    17071.39339339339,
+    19623.666666666664,
+    22134.939682539683,
+    24903.776488095238,
+    27621.62847222222,
+    30404.243055555555,
+    33919.26838235294,
+    37427.845882352936,
+    40724.50666666667,
+    43398.52456140351,
+    45518.83180778033,
+    49903.89425202653,
+    54998.52803129074,
+    57799.626841243866,
+    60496.379148936176,
+    63202.56,
+    65763.6379310345
+  ],
+  "n_scenes": 22,
+  "top_entities": [
+    {
+      "label": "brown",
+      "count": 85,
+      "type": "PERSON"
+    },
+    {
+      "label": "carr",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "smith",
+      "count": 63,
+      "type": "ORG"
+    },
+    {
+      "label": "sacharissa",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "flavilla",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "drusilla",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "clarence",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "linda",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "chambers",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "yates",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "destyn",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "ferdinand",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "oyster bay",
+      "count": 15,
+      "type": "LOC"
+    },
+    {
+      "label": "george",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "tuxedo",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "sybilla",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "beekman brown",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "betty",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "destyn-carr",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "limited",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "fate",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "vanderdynk",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "sparks",
+      "count": 6,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 52214.38619309655,
+      "activity": 0.04086312895543849
+    },
+    {
+      "token": 11694.381190595297,
+      "activity": 0.03921967709527332
+    },
+    {
+      "token": 12720.204102051026,
+      "activity": 0.03770884307481154
+    },
+    {
+      "token": 53889.89694847424,
+      "activity": 0.036030655875661816
+    },
+    {
+      "token": 13301.503751875938,
+      "activity": 0.03195245318362323
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 129,
+    "scene_entity_counts": [
+      2,
+      1,
+      2,
+      13,
+      19,
+      10,
+      6,
+      13,
+      5,
+      6,
+      6,
+      8,
+      9,
+      9,
+      9,
+      10,
+      21,
+      8,
+      9,
+      8,
+      8,
+      6
+    ]
+  }
+}

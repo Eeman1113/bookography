@@ -1,0 +1,290 @@
+{
+  "slug": "Only_a_girls_love_Charles_Garvice",
+  "title_display": "Only a girls love Charles Garvice",
+  "language": "en",
+  "length_tokens": 208692,
+  "length_words": 150430,
+  "unique_entities": 131,
+  "entity_mentions": 3965,
+  "scene_count": 52,
+  "top_entities": [
+    {
+      "label": "stella",
+      "count": 940,
+      "type": "PERSON"
+    },
+    {
+      "label": "leycester",
+      "count": 677,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 262,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper",
+      "count": 244,
+      "type": "GPE"
+    },
+    {
+      "label": "charles",
+      "count": 144,
+      "type": "PERSON"
+    },
+    {
+      "label": "etheridge",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "lilian",
+      "count": 94,
+      "type": "NORP"
+    },
+    {
+      "label": "charles garvice",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "penfold",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "wyndward",
+      "count": 63,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "georgie sheldon",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "lenore",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper adelstone",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "adelstone",
+      "count": 48,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 1670.3631815907954,
+      "activity": 0.08636542177009612
+    },
+    {
+      "token": 5219.884942471235,
+      "activity": 0.06436420314590093
+    },
+    {
+      "token": 7725.429714857429,
+      "activity": 0.051979145637314386
+    },
+    {
+      "token": 9395.792896448223,
+      "activity": 0.049101590578639456
+    },
+    {
+      "token": 109408.7883941971,
+      "activity": 0.04268920235711023
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 52,
+    "edges": 557,
+    "scene_entity_counts": [
+      40,
+      57,
+      11,
+      13,
+      12,
+      9,
+      7,
+      12,
+      11,
+      8,
+      14,
+      6,
+      14,
+      16,
+      11,
+      13,
+      15,
+      10,
+      6,
+      12,
+      9,
+      11,
+      14,
+      11,
+      13,
+      8,
+      12,
+      11,
+      12,
+      10,
+      17,
+      16,
+      16,
+      14,
+      13,
+      13,
+      7,
+      18,
+      17,
+      9,
+      21,
+      16,
+      9,
+      8,
+      11,
+      10,
+      10,
+      8,
+      16,
+      8,
+      16,
+      7
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0163,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5228,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5228
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2817
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0186
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3005
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5072
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5228
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.2390683937659351,
+        "read_time_min": 25.7,
+        "driving_words": [
+          "winning",
+          "win",
+          "wins",
+          "amazing",
+          "triumph",
+          "wonderful"
+        ]
+      },
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.28239664663272046,
+        "read_time_min": 178.9,
+        "driving_words": [
+          "wonderful",
+          "wonderfully",
+          "perfect",
+          "great",
+          "grateful",
+          "good"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.23039282750085427,
+        "read_time_min": 513.6,
+        "driving_words": [
+          "thrilled",
+          "supreme",
+          "triumph",
+          "win",
+          "brilliant",
+          "wonderful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.09692437777894508,
+        "read_time_min": 417.2,
+        "driving_words": [
+          "tortured",
+          "anger",
+          "angry",
+          "murdering",
+          "illegal",
+          "criminal"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.008938498182481887,
+        "read_time_min": 468.2,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "hated",
+          "anguish",
+          "awful",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": 0.002237764457971938,
+        "read_time_min": 553.4,
+        "driving_words": [
+          "torture",
+          "awful",
+          "deadly",
+          "killed",
+          "mad",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Only_a_girls_love_Charles_Garvice/sentiment_arc.png"
+  }
+}

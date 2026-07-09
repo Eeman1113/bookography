@@ -1,0 +1,295 @@
+{
+  "slug": "The_Odyssey_Homer",
+  "title_display": "The Odyssey Homer",
+  "language": "en",
+  "length_tokens": 160311,
+  "length_words": 129992,
+  "unique_entities": 177,
+  "entity_mentions": 3066,
+  "scene_count": 57,
+  "top_entities": [
+    {
+      "label": "ulysses",
+      "count": 510,
+      "type": "ORG"
+    },
+    {
+      "label": "telemachus",
+      "count": 199,
+      "type": "PERSON"
+    },
+    {
+      "label": "jove",
+      "count": 178,
+      "type": "PERSON"
+    },
+    {
+      "label": "minerva",
+      "count": 150,
+      "type": "PERSON"
+    },
+    {
+      "label": "penelope",
+      "count": 101,
+      "type": "GPE"
+    },
+    {
+      "label": "eumaeus",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "troy",
+      "count": 66,
+      "type": "GPE"
+    },
+    {
+      "label": "menelaus",
+      "count": 65,
+      "type": "PERSON"
+    },
+    {
+      "label": "ithaca",
+      "count": 63,
+      "type": "ORG"
+    },
+    {
+      "label": "achaeans",
+      "count": 60,
+      "type": "NORP"
+    },
+    {
+      "label": "phaeacians",
+      "count": 56,
+      "type": "NORP"
+    },
+    {
+      "label": "greek",
+      "count": 53,
+      "type": "NORP"
+    },
+    {
+      "label": "neptune",
+      "count": 45,
+      "type": "ORG"
+    },
+    {
+      "label": "pylos",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "euryclea",
+      "count": 41,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 16760.775387693848,
+      "activity": 0.04127085498659261
+    },
+    {
+      "token": 4410.730365182591,
+      "activity": 0.037332491278382646
+    },
+    {
+      "token": 47475.49774887443,
+      "activity": 0.03445859717380979
+    },
+    {
+      "token": 155257.7088544272,
+      "activity": 0.03362496801957782
+    },
+    {
+      "token": 15237.068534267133,
+      "activity": 0.03265472852523583
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 1008,
+    "scene_entity_counts": [
+      30,
+      27,
+      28,
+      16,
+      13,
+      23,
+      23,
+      18,
+      19,
+      23,
+      34,
+      21,
+      27,
+      13,
+      10,
+      16,
+      21,
+      20,
+      18,
+      13,
+      10,
+      7,
+      18,
+      14,
+      20,
+      47,
+      25,
+      13,
+      15,
+      14,
+      25,
+      29,
+      33,
+      22,
+      15,
+      15,
+      17,
+      23,
+      10,
+      11,
+      15,
+      22,
+      24,
+      16,
+      13,
+      15,
+      16,
+      18,
+      12,
+      15,
+      21,
+      50,
+      31,
+      25,
+      34,
+      34,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0096,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.4052,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4052
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1912
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.122
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2068
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3358
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4052
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.24242424242424243,
+        "smoothed": 0.15324093609431338,
+        "read_time_min": 136.4,
+        "driving_words": [
+          "rejoicing",
+          "win",
+          "good",
+          "best",
+          "great",
+          "love"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": 0.09461391030522212,
+        "read_time_min": 301.2,
+        "driving_words": [
+          "rejoice",
+          "rejoicing",
+          "funny",
+          "great",
+          "good",
+          "wealth"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": 0.059734937002454185,
+        "read_time_min": 373.9,
+        "driving_words": [
+          "win",
+          "brilliant",
+          "wonderfully",
+          "rejoicing",
+          "rejoiced",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.43434343434343436,
+        "smoothed": -0.050076302408793225,
+        "read_time_min": 228.5,
+        "driving_words": [
+          "slut",
+          "fraud",
+          "hell",
+          "dead",
+          "killed",
+          "victims"
+        ]
+      },
+      {
+        "position": 0.6666666666666666,
+        "smoothed": -0.0029131601343288472,
+        "read_time_min": 340.0,
+        "driving_words": [
+          "destruction",
+          "killing",
+          "miserable",
+          "angry",
+          "furious",
+          "kill"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": -0.07630538656217821,
+        "read_time_min": 436.9,
+        "driving_words": [
+          "hated",
+          "evil",
+          "die",
+          "angry",
+          "uproar",
+          "mad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Odyssey_Homer/sentiment_arc.png"
+  }
+}

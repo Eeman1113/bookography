@@ -1,0 +1,302 @@
+{
+  "slug": "The_Complete_Works_of_William_Shakespeare_William_Shakespeare",
+  "title_display": "The Complete Works of William Shakespeare William Shakespeare",
+  "language": "en",
+  "length_tokens": 461099,
+  "length_words": 988542,
+  "unique_entities": 623,
+  "entity_mentions": 11225,
+  "scene_count": 64,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 495,
+      "type": "PERSON"
+    },
+    {
+      "label": "antony",
+      "count": 298,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 238,
+      "type": "GPE"
+    },
+    {
+      "label": "prince",
+      "count": 211,
+      "type": "PERSON"
+    },
+    {
+      "label": "gloucester",
+      "count": 206,
+      "type": "PERSON"
+    },
+    {
+      "label": "exit",
+      "count": 195,
+      "type": "PERSON"
+    },
+    {
+      "label": "orlando",
+      "count": 167,
+      "type": "ORG"
+    },
+    {
+      "label": "nay",
+      "count": 162,
+      "type": "PERSON"
+    },
+    {
+      "label": "rome",
+      "count": 159,
+      "type": "GPE"
+    },
+    {
+      "label": "ephesus",
+      "count": 153,
+      "type": "ORG"
+    },
+    {
+      "label": "french",
+      "count": 148,
+      "type": "NORP"
+    },
+    {
+      "label": "horatio",
+      "count": 147,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 146,
+      "type": "GPE"
+    },
+    {
+      "label": "parolles",
+      "count": 143,
+      "type": "GPE"
+    },
+    {
+      "label": "enobarbus",
+      "count": 140,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 72889.92896448224,
+      "activity": 0.05094857415844659
+    },
+    {
+      "token": 75657.90095047523,
+      "activity": 0.05063330184794101
+    },
+    {
+      "token": 434110.27313656826,
+      "activity": 0.05040443592103609
+    },
+    {
+      "token": 60664.71935967984,
+      "activity": 0.0497778672136877
+    },
+    {
+      "token": 417271.7768884442,
+      "activity": 0.04651865587567083
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 64,
+    "edges": 2571,
+    "scene_entity_counts": [
+      11,
+      17,
+      10,
+      13,
+      50,
+      55,
+      50,
+      64,
+      59,
+      65,
+      59,
+      47,
+      38,
+      65,
+      44,
+      35,
+      32,
+      46,
+      30,
+      28,
+      27,
+      43,
+      41,
+      54,
+      37,
+      27,
+      25,
+      44,
+      63,
+      50,
+      46,
+      52,
+      62,
+      44,
+      52,
+      24,
+      23,
+      22,
+      25,
+      41,
+      44,
+      36,
+      76,
+      52,
+      56,
+      60,
+      64,
+      84,
+      73,
+      66,
+      69,
+      93,
+      65,
+      65,
+      78,
+      92,
+      45,
+      56,
+      59,
+      79,
+      96,
+      84,
+      37,
+      45
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0205,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.1239,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1239
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0541
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0066
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0541
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1164
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2326
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.18882695587527049,
+        "read_time_min": 138.6,
+        "driving_words": [
+          "win",
+          "wins",
+          "rejoices",
+          "marvel",
+          "good",
+          "great"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.16787371476746593,
+        "read_time_min": 2273.6,
+        "driving_words": [
+          "wonderful",
+          "heavenly",
+          "miracle",
+          "love",
+          "good",
+          "glad"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": 0.20244789542953132,
+        "read_time_min": 3657.4,
+        "driving_words": [
+          "heavenly",
+          "win",
+          "woo",
+          "blessing",
+          "love",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.32323232323232326,
+        "smoothed": -0.05762253794722099,
+        "read_time_min": 1285.2,
+        "driving_words": [
+          "torture",
+          "hell",
+          "tortures",
+          "tortured",
+          "terribly",
+          "die"
+        ]
+      },
+      {
+        "position": 0.43434343434343436,
+        "smoothed": -0.0617281512277434,
+        "read_time_min": 1720.1,
+        "driving_words": [
+          "prick",
+          "bastard",
+          "hell",
+          "ass",
+          "damned",
+          "die"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.02093864586988998,
+        "read_time_min": 2787.6,
+        "driving_words": [
+          "hell",
+          "damned",
+          "treason",
+          "betray",
+          "bad",
+          "evil"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Works_of_William_Shakespeare_William_Shakespeare/sentiment_arc.png"
+  }
+}

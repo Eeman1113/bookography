@@ -1,0 +1,268 @@
+{
+  "slug": "The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle",
+  "title_display": "The Hound of the Baskervilles Arthur Conan Doyle",
+  "language": "en",
+  "length_tokens": 76552,
+  "length_words": 59997,
+  "unique_entities": 55,
+  "entity_mentions": 1118,
+  "scene_count": 30,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 177,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 126,
+      "type": "PERSON"
+    },
+    {
+      "label": "watson",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "mortimer",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "stapleton",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "barrymore",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 49,
+      "type": "GPE"
+    },
+    {
+      "label": "baskerville",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "baskerville hall",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry baskerville",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles baskerville",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "coombe tracey",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "i.",
+      "count": 13,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 19109.02901450725,
+      "activity": 0.044412875331001994
+    },
+    {
+      "token": 22172.6008004002,
+      "activity": 0.033863472609373266
+    },
+    {
+      "token": 73793.78539269634,
+      "activity": 0.03357161668537316
+    },
+    {
+      "token": 9688.545772886442,
+      "activity": 0.033365957981696594
+    },
+    {
+      "token": 64756.24862431215,
+      "activity": 0.028807253845037337
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 30,
+    "edges": 345,
+    "scene_entity_counts": [
+      10,
+      12,
+      19,
+      16,
+      9,
+      9,
+      18,
+      25,
+      22,
+      12,
+      18,
+      14,
+      10,
+      10,
+      4,
+      5,
+      10,
+      12,
+      17,
+      16,
+      7,
+      10,
+      11,
+      16,
+      23,
+      12,
+      7,
+      15,
+      17,
+      14
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0045,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6389,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6389
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6047
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1545
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.6184
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6389
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6892
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.15151515151515152,
+        "smoothed": 0.04808887683449388,
+        "read_time_min": 50.3,
+        "driving_words": [
+          "triumph",
+          "good",
+          "splendid",
+          "glad",
+          "delightful",
+          "pleasure"
+        ]
+      },
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.03373197420056957,
+        "read_time_min": 76.6,
+        "driving_words": [
+          "triumph",
+          "fantastic",
+          "wonderful",
+          "pleasant",
+          "great",
+          "best"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.01344508015828918,
+        "read_time_min": 161.4,
+        "driving_words": [
+          "fantastic",
+          "supreme",
+          "triumph",
+          "good",
+          "best",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5353535353535354,
+        "smoothed": -0.06780495160682343,
+        "read_time_min": 127.1,
+        "driving_words": [
+          "hell",
+          "fatal",
+          "terrified",
+          "lost",
+          "died",
+          "crime"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": -0.06543372256310417,
+        "read_time_min": 141.2,
+        "driving_words": [
+          "hell",
+          "lost",
+          "badly",
+          "losing",
+          "terrible",
+          "selfish"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.05474479895012758,
+        "read_time_min": 199.8,
+        "driving_words": [
+          "tortured",
+          "terrible",
+          "anguish",
+          "agonised",
+          "despairing",
+          "worst"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle/sentiment_arc.png"
+  }
+}

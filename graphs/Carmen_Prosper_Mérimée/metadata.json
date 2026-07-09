@@ -1,0 +1,180 @@
+{
+  "slug": "Carmen_Prosper_Mérimée",
+  "title": "Carmen Prosper Mérimée",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 31672,
+  "n_unique_entities": 46,
+  "n_entity_mentions": 337,
+  "sigma": 79.18,
+  "target_scenes": 10,
+  "detected_scene_boundaries": [
+    7016.120740740741,
+    11935.211670973298,
+    15308.854263565892,
+    19831.470833333333,
+    26141.776524390243
+  ],
+  "n_scenes": 6,
+  "top_entities": [
+    {
+      "label": "carmen",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "spanish",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "el dancaire",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "garcia",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "seville",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "cordova",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "basque",
+      "count": 16,
+      "type": "NORP"
+    },
+    {
+      "label": "spain",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "don jose",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "antonio",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "gibraltar",
+      "count": 11,
+      "type": "LOC"
+    },
+    {
+      "label": "romany",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "calle del candilejo",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "andalusia",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "andalusian",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "dorotea",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "lucas",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "jose-maria",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "german",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "montilla",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "navarre",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "navarrese",
+      "count": 5,
+      "type": "NORP"
+    },
+    {
+      "label": "i.",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "english",
+      "count": 5,
+      "type": "NORP"
+    },
+    {
+      "label": "don pedro",
+      "count": 5,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 31179.853926963482,
+      "activity": 0.0338532817252356
+    },
+    {
+      "token": 23971.09704852426,
+      "activity": 0.033669645687093526
+    },
+    {
+      "token": 21515.366683341672,
+      "activity": 0.03308481637535356
+    },
+    {
+      "token": 21087.594297148575,
+      "activity": 0.030448125137242644
+    },
+    {
+      "token": 31005.57628814407,
+      "activity": 0.03039722363547472
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 68,
+    "scene_entity_counts": [
+      20,
+      22,
+      13,
+      17,
+      26,
+      16
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "Indias_Love_Lyrics_Laurence_Hope",
+  "title_display": "Indias Love Lyrics Laurence Hope",
+  "language": "en",
+  "length_tokens": 29675,
+  "length_words": 22168,
+  "unique_entities": 33,
+  "entity_mentions": 190,
+  "scene_count": 2,
+  "top_entities": [
+    {
+      "label": "fate",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "moghra",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "east",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "desert",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "temple",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "river",
+      "count": 8,
+      "type": "LOC"
+    },
+    {
+      "label": "lover",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "almond",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "time",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "eastern",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "sea",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "youth",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "aziza",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "death",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasmin",
+      "count": 6,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 15007.710855427713,
+      "activity": 0.03464917465253473
+    },
+    {
+      "token": 6056.524262131065,
+      "activity": 0.03363177532569233
+    },
+    {
+      "token": 3013.417708854427,
+      "activity": 0.028508638149424382
+    },
+    {
+      "token": 29347.422711355677,
+      "activity": 0.02711361019528193
+    },
+    {
+      "token": 11534.116058029014,
+      "activity": 0.02665251832658154
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 21,
+    "scene_entity_counts": [
+      29,
+      25
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 7315,
+    "volatility": 0.0032,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.7898,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.7898
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3354
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3354
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6526
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.725
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.7799
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.10101010101010101,
+        "smoothed": 0.1978733433387606,
+        "read_time_min": 20.6,
+        "driving_words": [
+          "brilliant",
+          "rejoice",
+          "love",
+          "delights",
+          "loved",
+          "great"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.17412581350971526,
+        "read_time_min": 67.4,
+        "driving_words": [
+          "thrilled",
+          "brilliant",
+          "rejoice",
+          "heavenly",
+          "wonderful",
+          "miracle"
+        ]
+      },
+      {
+        "position": 0.98989898989899,
+        "smoothed": 0.18525812751525478,
+        "read_time_min": 73.4,
+        "driving_words": [
+          "thrilled",
+          "rejoice",
+          "heavenly",
+          "wonderful",
+          "brilliant",
+          "miracle"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.14744889669638248,
+        "read_time_min": 36.8,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "hell",
+          "died",
+          "despairing",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": 0.08375731977728351,
+        "read_time_min": 49.4,
+        "driving_words": [
+          "hell",
+          "torture",
+          "lost",
+          "hated",
+          "killed",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": 0.08450711949406771,
+        "read_time_min": 53.6,
+        "driving_words": [
+          "torture",
+          "hell",
+          "hated",
+          "died",
+          "despairing",
+          "dying"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Indias_Love_Lyrics_Laurence_Hope/sentiment_arc.png"
+  }
+}

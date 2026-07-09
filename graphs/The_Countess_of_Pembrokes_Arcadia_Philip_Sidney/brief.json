@@ -1,0 +1,296 @@
+{
+  "slug": "The_Countess_of_Pembrokes_Arcadia_Philip_Sidney",
+  "title_display": "The Countess of Pembrokes Arcadia Philip Sidney",
+  "language": "en",
+  "length_tokens": 405687,
+  "length_words": 347822,
+  "unique_entities": 192,
+  "entity_mentions": 4855,
+  "scene_count": 58,
+  "top_entities": [
+    {
+      "label": "zelmane",
+      "count": 529,
+      "type": "PERSON"
+    },
+    {
+      "label": "philoclea",
+      "count": 403,
+      "type": "GPE"
+    },
+    {
+      "label": "basilius",
+      "count": 283,
+      "type": "ORG"
+    },
+    {
+      "label": "pamela",
+      "count": 260,
+      "type": "PERSON"
+    },
+    {
+      "label": "musidorus",
+      "count": 245,
+      "type": "PERSON"
+    },
+    {
+      "label": "pyrocles",
+      "count": 237,
+      "type": "GPE"
+    },
+    {
+      "label": "gynecia",
+      "count": 154,
+      "type": "PERSON"
+    },
+    {
+      "label": "dametas",
+      "count": 138,
+      "type": "ORG"
+    },
+    {
+      "label": "arcadia",
+      "count": 130,
+      "type": "ORG"
+    },
+    {
+      "label": "dorus",
+      "count": 129,
+      "type": "ORG"
+    },
+    {
+      "label": "thou",
+      "count": 104,
+      "type": "GPE"
+    },
+    {
+      "label": "palladius",
+      "count": 86,
+      "type": "GPE"
+    },
+    {
+      "label": "euarchus",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "amphialus",
+      "count": 75,
+      "type": "ORG"
+    },
+    {
+      "label": "cecropia",
+      "count": 70,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 74886.51025512756,
+      "activity": 0.028256063353212065
+    },
+    {
+      "token": 262813.0915457729,
+      "activity": 0.02611844904196158
+    },
+    {
+      "token": 62709.84192096048,
+      "activity": 0.02523215784929592
+    },
+    {
+      "token": 7711.889944972486,
+      "activity": 0.024372176777846137
+    },
+    {
+      "token": 402235.943971986,
+      "activity": 0.02309296641189882
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 58,
+    "edges": 1012,
+    "scene_entity_counts": [
+      54,
+      40,
+      29,
+      25,
+      20,
+      21,
+      19,
+      35,
+      26,
+      25,
+      22,
+      15,
+      26,
+      15,
+      17,
+      11,
+      11,
+      33,
+      35,
+      23,
+      41,
+      32,
+      15,
+      33,
+      16,
+      11,
+      17,
+      10,
+      7,
+      9,
+      19,
+      18,
+      25,
+      22,
+      17,
+      9,
+      17,
+      25,
+      18,
+      20,
+      13,
+      15,
+      9,
+      10,
+      11,
+      29,
+      28,
+      17,
+      15,
+      12,
+      12,
+      15,
+      22,
+      14,
+      20,
+      15,
+      16,
+      48
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0196,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.627,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.627
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5739
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3242
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5739
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.6363
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6651
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.22847962130695393,
+        "read_time_min": 88.2,
+        "driving_words": [
+          "heavenly",
+          "winning",
+          "rejoice",
+          "love",
+          "delighted",
+          "delightful"
+        ]
+      },
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.2841652011237893,
+        "read_time_min": 211.1,
+        "driving_words": [
+          "heavenly",
+          "winning",
+          "triumph",
+          "triumphant",
+          "rejoice",
+          "perfection"
+        ]
+      },
+      {
+        "position": 0.7171717171717171,
+        "smoothed": 0.16706999449382956,
+        "read_time_min": 989.1,
+        "driving_words": [
+          "heavenly",
+          "win",
+          "wonderful",
+          "triumph",
+          "good",
+          "finest"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.6161616161616161,
+        "smoothed": -0.03580472771184141,
+        "read_time_min": 852.6,
+        "driving_words": [
+          "torture",
+          "cruel",
+          "deadly",
+          "loathed",
+          "died",
+          "destroyed"
+        ]
+      },
+      {
+        "position": 0.8080808080808081,
+        "smoothed": -0.04389945262683428,
+        "read_time_min": 1111.9,
+        "driving_words": [
+          "hell",
+          "desperate",
+          "dying",
+          "deadly",
+          "die",
+          "evil"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.029856142741564007,
+        "read_time_min": 1234.8,
+        "driving_words": [
+          "rape",
+          "die",
+          "ugly",
+          "evil",
+          "loss",
+          "guilty"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Countess_of_Pembrokes_Arcadia_Philip_Sidney/sentiment_arc.png"
+  }
+}

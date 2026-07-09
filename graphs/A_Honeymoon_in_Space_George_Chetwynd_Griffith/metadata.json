@@ -1,0 +1,230 @@
+{
+  "slug": "A_Honeymoon_in_Space_George_Chetwynd_Griffith",
+  "title": "A Honeymoon in Space George Chetwynd Griffith",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 83194,
+  "n_unique_entities": 77,
+  "n_entity_mentions": 1642,
+  "sigma": 207.985,
+  "target_scenes": 27,
+  "detected_scene_boundaries": [
+    2256.2053571428573,
+    6116.600198412699,
+    8524.497782446311,
+    9670.86856617647,
+    12077.140625,
+    15204.939393939394,
+    17208.466179653682,
+    19242.576785714286,
+    21695.64523809524,
+    23908.62932900433,
+    26204.947134387352,
+    28163.086956521736,
+    30784.598913043475,
+    34008.212499999994,
+    36599.36377118644,
+    40049.76271186441,
+    43834.96644067796,
+    46643.56431372549,
+    49272.88431372549,
+    52165.16818181818,
+    54735.93326118326,
+    57002.76671870934,
+    60451.828109932496,
+    63893.00054466231,
+    66031.67056530213,
+    68210.37556099551,
+    71293.77906976745,
+    74687.36764705883,
+    77732.96098039215,
+    80782.02302083332
+  ],
+  "n_scenes": 31,
+  "top_entities": [
+    {
+      "label": "zaidie",
+      "count": 280,
+      "type": "ORG"
+    },
+    {
+      "label": "astronef",
+      "count": 221,
+      "type": "PERSON"
+    },
+    {
+      "label": "redgrave",
+      "count": 221,
+      "type": "PERSON"
+    },
+    {
+      "label": "earth",
+      "count": 82,
+      "type": "LOC"
+    },
+    {
+      "label": "van stuyler",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "murgatroyd",
+      "count": 53,
+      "type": "ORG"
+    },
+    {
+      "label": "lenox",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "sun",
+      "count": 47,
+      "type": "ORG"
+    },
+    {
+      "label": "mars",
+      "count": 41,
+      "type": "LOC"
+    },
+    {
+      "label": "venus",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "martian",
+      "count": 40,
+      "type": "NORP"
+    },
+    {
+      "label": "jupiter",
+      "count": 37,
+      "type": "LOC"
+    },
+    {
+      "label": "space",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "washington",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "new york",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "ganymede",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 20,
+      "type": "NORP"
+    },
+    {
+      "label": "st. louis",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "rennick",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "andrew",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "the r. force",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "atlantic",
+      "count": 13,
+      "type": "LOC"
+    },
+    {
+      "label": "mercury",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "the solar system",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "moon",
+      "count": 11,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 16064.281140570283,
+      "activity": 0.04448784697303388
+    },
+    {
+      "token": 67295.18809404701,
+      "activity": 0.04143718745810875
+    },
+    {
+      "token": 55434.25512756378,
+      "activity": 0.041073206825932136
+    },
+    {
+      "token": 50897.96848424212,
+      "activity": 0.040430034121325134
+    },
+    {
+      "token": 82693.59229614807,
+      "activity": 0.039117454445801704
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 423,
+    "scene_entity_counts": [
+      9,
+      27,
+      14,
+      14,
+      12,
+      19,
+      25,
+      25,
+      13,
+      11,
+      19,
+      6,
+      6,
+      12,
+      15,
+      16,
+      17,
+      17,
+      15,
+      19,
+      13,
+      19,
+      20,
+      17,
+      13,
+      20,
+      15,
+      14,
+      17,
+      17,
+      24
+    ]
+  }
+}

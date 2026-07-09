@@ -1,0 +1,282 @@
+{
+  "slug": "The_Brothers_Karamazov_Fyodor_Dostoyevsky",
+  "title": "The Brothers Karamazov Fyodor Dostoyevsky",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 433949,
+  "n_unique_entities": 244,
+  "n_entity_mentions": 7806,
+  "sigma": 1084.8725,
+  "target_scenes": 60,
+  "detected_scene_boundaries": [
+    10814.166353383458,
+    22532.573611447973,
+    31162.339486980178,
+    40141.50722891567,
+    48439.42857142857,
+    53287.5969924812,
+    63794.690260133095,
+    76512.41195535954,
+    84601.52647991542,
+    90051.43131313131,
+    95987.03171420083,
+    102755.23456690367,
+    108473.79200509636,
+    117997.04003623189,
+    126171.02159090909,
+    130376.72186147186,
+    140813.37657264608,
+    154000.1330661526,
+    161776.66518733065,
+    168082.02184918732,
+    177774.55925925926,
+    185727.24444444443,
+    191713.81051587302,
+    199735.78215534467,
+    205543.3598339161,
+    208944.54566082804,
+    215989.56243714382,
+    225887.7842442645,
+    232547.4455128205,
+    238957.67066705227,
+    246020.58433317335,
+    251482.16948161146,
+    259886.46735395188,
+    269461.0757575758,
+    278161.063476874,
+    286718.1230328296,
+    296092.5153135314,
+    304365.146025641,
+    309346.1623219373,
+    317671.8982342808,
+    327195.75710022636,
+    334176.14499275037,
+    342354.34015102126,
+    349330.6606379731,
+    356066.2491302457,
+    363174.3807668084,
+    369004.9057635468,
+    375472.99373376626,
+    383217.59659090906,
+    390689.8037037037,
+    397700.5844729345,
+    403704.6643899204,
+    408629.4658124705,
+    414333.5348944835,
+    419191.14361179364,
+    424425.3209090909
+  ],
+  "n_scenes": 57,
+  "top_entities": [
+    {
+      "label": "alyosha",
+      "count": 1136,
+      "type": "PERSON"
+    },
+    {
+      "label": "mitya",
+      "count": 853,
+      "type": "PERSON"
+    },
+    {
+      "label": "ivan",
+      "count": 640,
+      "type": "PERSON"
+    },
+    {
+      "label": "smerdyakov",
+      "count": 342,
+      "type": "PERSON"
+    },
+    {
+      "label": "grushenka",
+      "count": 240,
+      "type": "PERSON"
+    },
+    {
+      "label": "dmitri",
+      "count": 216,
+      "type": "PERSON"
+    },
+    {
+      "label": "fyodor pavlovitch",
+      "count": 215,
+      "type": "PERSON"
+    },
+    {
+      "label": "rakitin",
+      "count": 191,
+      "type": "ORG"
+    },
+    {
+      "label": "ilusha",
+      "count": 136,
+      "type": "ORG"
+    },
+    {
+      "label": "grigory",
+      "count": 135,
+      "type": "ORG"
+    },
+    {
+      "label": "dmitri fyodorovitch",
+      "count": 134,
+      "type": "PERSON"
+    },
+    {
+      "label": "katerina ivanovna",
+      "count": 122,
+      "type": "PERSON"
+    },
+    {
+      "label": "lise",
+      "count": 121,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 108,
+      "type": "PERSON"
+    },
+    {
+      "label": "zossima",
+      "count": 103,
+      "type": "PERSON"
+    },
+    {
+      "label": "alexey fyodorovitch",
+      "count": 100,
+      "type": "PERSON"
+    },
+    {
+      "label": "moscow",
+      "count": 91,
+      "type": "GPE"
+    },
+    {
+      "label": "russian",
+      "count": 88,
+      "type": "NORP"
+    },
+    {
+      "label": "karamazov",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "hohlakov",
+      "count": 85,
+      "type": "GPE"
+    },
+    {
+      "label": "nikolay parfenovitch",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "pyotr ilyitch",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "miüsov",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "kalganov",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "russia",
+      "count": 63,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 80537.6228114057,
+      "activity": 0.03525840170398424
+    },
+    {
+      "token": 359271.60580290144,
+      "activity": 0.03484739282135599
+    },
+    {
+      "token": 106587.52776388194,
+      "activity": 0.0345165298631837
+    },
+    {
+      "token": 254637.82091045522,
+      "activity": 0.034456822354117685
+    },
+    {
+      "token": 362093.67883941974,
+      "activity": 0.034424991149959644
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 1288,
+    "scene_entity_counts": [
+      39,
+      38,
+      24,
+      33,
+      35,
+      31,
+      33,
+      34,
+      23,
+      15,
+      25,
+      28,
+      19,
+      35,
+      22,
+      20,
+      34,
+      29,
+      26,
+      37,
+      21,
+      8,
+      9,
+      17,
+      26,
+      15,
+      26,
+      27,
+      32,
+      31,
+      23,
+      27,
+      26,
+      38,
+      33,
+      25,
+      28,
+      34,
+      21,
+      28,
+      22,
+      29,
+      47,
+      26,
+      24,
+      29,
+      25,
+      30,
+      20,
+      19,
+      33,
+      48,
+      19,
+      19,
+      22,
+      21,
+      24
+    ]
+  }
+}

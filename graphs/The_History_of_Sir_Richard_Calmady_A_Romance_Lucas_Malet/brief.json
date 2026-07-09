@@ -1,0 +1,296 @@
+{
+  "slug": "The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet",
+  "title_display": "The History of Sir Richard Calmady A Romance Lucas Malet",
+  "language": "en",
+  "length_tokens": 347885,
+  "length_words": 267465,
+  "unique_entities": 221,
+  "entity_mentions": 4996,
+  "scene_count": 58,
+  "top_entities": [
+    {
+      "label": "richard",
+      "count": 755,
+      "type": "PERSON"
+    },
+    {
+      "label": "katherine",
+      "count": 417,
+      "type": "PERSON"
+    },
+    {
+      "label": "honoria",
+      "count": 245,
+      "type": "GPE"
+    },
+    {
+      "label": "dickie",
+      "count": 240,
+      "type": "ORG"
+    },
+    {
+      "label": "calmady",
+      "count": 161,
+      "type": "PERSON"
+    },
+    {
+      "label": "helen",
+      "count": 157,
+      "type": "GPE"
+    },
+    {
+      "label": "julius",
+      "count": 149,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard calmady",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "ormiston",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "fallowfeild",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "knott",
+      "count": 100,
+      "type": "PERSON"
+    },
+    {
+      "label": "st. quentin",
+      "count": 98,
+      "type": "ORG"
+    },
+    {
+      "label": "louisa",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "quayle",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "de vallorbes",
+      "count": 71,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 124082.68734367185,
+      "activity": 0.029689745707791124
+    },
+    {
+      "token": 292890.8314157079,
+      "activity": 0.026176509058615433
+    },
+    {
+      "token": 72744.12806403202,
+      "activity": 0.025273109987178285
+    },
+    {
+      "token": 158192.37418709355,
+      "activity": 0.025210404564621734
+    },
+    {
+      "token": 175943.33366683344,
+      "activity": 0.024915398373985178
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 58,
+    "edges": 1405,
+    "scene_entity_counts": [
+      48,
+      32,
+      35,
+      15,
+      31,
+      21,
+      27,
+      22,
+      42,
+      35,
+      28,
+      16,
+      25,
+      23,
+      34,
+      56,
+      30,
+      19,
+      19,
+      21,
+      45,
+      27,
+      43,
+      37,
+      30,
+      32,
+      33,
+      38,
+      37,
+      16,
+      36,
+      19,
+      9,
+      23,
+      37,
+      37,
+      26,
+      39,
+      25,
+      16,
+      15,
+      14,
+      23,
+      22,
+      10,
+      26,
+      40,
+      34,
+      41,
+      27,
+      43,
+      21,
+      33,
+      20,
+      21,
+      17,
+      11,
+      24
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0093,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3201,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3201
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1375
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0263
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1503
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3201
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3388
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.14767573003526915,
+        "read_time_min": 134.4,
+        "driving_words": [
+          "superb",
+          "ecstatic",
+          "amazing",
+          "fantastic",
+          "heavenly",
+          "rejoiced"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": 0.14238682014421267,
+        "read_time_min": 332.1,
+        "driving_words": [
+          "outstanding",
+          "supreme",
+          "miracle",
+          "masterpiece",
+          "triumphant",
+          "lovely"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.18024308008066922,
+        "read_time_min": 508.9,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "exuberant",
+          "amazing",
+          "rejoiced",
+          "heavenly"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.696969696969697,
+        "smoothed": 0.00896866251697678,
+        "read_time_min": 737.8,
+        "driving_words": [
+          "dick",
+          "hell",
+          "nasty",
+          "awful",
+          "ugliness",
+          "kill"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.026247739946974373,
+        "read_time_min": 810.6,
+        "driving_words": [
+          "slut",
+          "cock",
+          "torturing",
+          "tortured",
+          "madness",
+          "disgust"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.05963729320551762,
+        "read_time_min": 935.4,
+        "driving_words": [
+          "bastards",
+          "bastard",
+          "tortured",
+          "hell",
+          "dick",
+          "violence"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_History_of_Sir_Richard_Calmady_A_Romance_Lucas_Malet/sentiment_arc.png"
+  }
+}

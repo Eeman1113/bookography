@@ -1,0 +1,298 @@
+{
+  "slug": "The_Count_of_Monte_Cristo_Alexandre_Dumas",
+  "title_display": "The Count of Monte Cristo Alexandre Dumas",
+  "language": "en",
+  "length_tokens": 429030,
+  "length_words": 466974,
+  "unique_entities": 375,
+  "entity_mentions": 9138,
+  "scene_count": 60,
+  "top_entities": [
+    {
+      "label": "dantès",
+      "count": 670,
+      "type": "PERSON"
+    },
+    {
+      "label": "franz",
+      "count": 518,
+      "type": "ORG"
+    },
+    {
+      "label": "monte cristo",
+      "count": 498,
+      "type": "ORG"
+    },
+    {
+      "label": "albert",
+      "count": 410,
+      "type": "PERSON"
+    },
+    {
+      "label": "danglars",
+      "count": 369,
+      "type": "ORG"
+    },
+    {
+      "label": "valentine",
+      "count": 344,
+      "type": "PERSON"
+    },
+    {
+      "label": "morrel",
+      "count": 292,
+      "type": "ORG"
+    },
+    {
+      "label": "caderousse",
+      "count": 271,
+      "type": "GPE"
+    },
+    {
+      "label": "villefort",
+      "count": 270,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 180,
+      "type": "GPE"
+    },
+    {
+      "label": "mercédès",
+      "count": 149,
+      "type": "PERSON"
+    },
+    {
+      "label": "edmond",
+      "count": 147,
+      "type": "PERSON"
+    },
+    {
+      "label": "fernand",
+      "count": 140,
+      "type": "GPE"
+    },
+    {
+      "label": "maximilian",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "de villefort",
+      "count": 119,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 13306.552276138069,
+      "activity": 0.044793685276679665
+    },
+    {
+      "token": 419156.39669834916,
+      "activity": 0.03834306918264486
+    },
+    {
+      "token": 234152.39569784893,
+      "activity": 0.03560059530647835
+    },
+    {
+      "token": 129846.1955977989,
+      "activity": 0.03532706839070197
+    },
+    {
+      "token": 55587.04902451226,
+      "activity": 0.03515903951647785
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 60,
+    "edges": 1756,
+    "scene_entity_counts": [
+      36,
+      31,
+      27,
+      34,
+      23,
+      19,
+      35,
+      45,
+      46,
+      22,
+      14,
+      22,
+      35,
+      28,
+      45,
+      51,
+      22,
+      44,
+      34,
+      22,
+      43,
+      31,
+      28,
+      42,
+      18,
+      34,
+      29,
+      36,
+      29,
+      37,
+      27,
+      41,
+      69,
+      61,
+      38,
+      33,
+      29,
+      30,
+      22,
+      30,
+      42,
+      44,
+      25,
+      56,
+      52,
+      44,
+      24,
+      42,
+      18,
+      14,
+      33,
+      67,
+      36,
+      53,
+      40,
+      38,
+      42,
+      32,
+      54,
+      33
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.014,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.5549,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.5549
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3496
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2369
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0872
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2659
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3496
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.35353535353535354,
+        "smoothed": 0.13178315318807038,
+        "read_time_min": 666.2,
+        "driving_words": [
+          "fabulous",
+          "delightful",
+          "perfect",
+          "grateful",
+          "happy",
+          "merry"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.11954709822662636,
+        "read_time_min": 887.8,
+        "driving_words": [
+          "brilliant",
+          "miracle",
+          "joy",
+          "pleasure",
+          "happy",
+          "succeeded"
+        ]
+      },
+      {
+        "position": 0.5353535353535354,
+        "smoothed": 0.1595376738695619,
+        "read_time_min": 998.6,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "goodness",
+          "perfectly",
+          "grand",
+          "excitement"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7777777777777778,
+        "smoothed": -0.06814668341626623,
+        "read_time_min": 1441.7,
+        "driving_words": [
+          "dying",
+          "desperate",
+          "dead",
+          "awful",
+          "crime",
+          "criminal"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": -0.061738092819344885,
+        "read_time_min": 1626.3,
+        "driving_words": [
+          "torture",
+          "tortures",
+          "lost",
+          "mad",
+          "terror",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.05565322117210753,
+        "read_time_min": 1774.0,
+        "driving_words": [
+          "hell",
+          "torture",
+          "cheated",
+          "crime",
+          "terror",
+          "deceived"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Count_of_Monte_Cristo_Alexandre_Dumas/sentiment_arc.png"
+  }
+}

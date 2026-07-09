@@ -1,0 +1,291 @@
+{
+  "slug": "Pride_and_Prejudice_Jane_Austen",
+  "title_display": "Pride and Prejudice Jane Austen",
+  "language": "en",
+  "length_tokens": 164219,
+  "length_words": 128560,
+  "unique_entities": 89,
+  "entity_mentions": 3950,
+  "scene_count": 53,
+  "top_entities": [
+    {
+      "label": "elizabeth",
+      "count": 633,
+      "type": "PERSON"
+    },
+    {
+      "label": "darcy",
+      "count": 392,
+      "type": "PERSON"
+    },
+    {
+      "label": "jane",
+      "count": 294,
+      "type": "PERSON"
+    },
+    {
+      "label": "bingley",
+      "count": 293,
+      "type": "GPE"
+    },
+    {
+      "label": "bennet",
+      "count": 246,
+      "type": "PERSON"
+    },
+    {
+      "label": "wickham",
+      "count": 192,
+      "type": "PERSON"
+    },
+    {
+      "label": "collins",
+      "count": 189,
+      "type": "PERSON"
+    },
+    {
+      "label": "lydia",
+      "count": 164,
+      "type": "GPE"
+    },
+    {
+      "label": "catherine",
+      "count": 109,
+      "type": "PERSON"
+    },
+    {
+      "label": "lizzy",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "gardiner",
+      "count": 94,
+      "type": "PERSON"
+    },
+    {
+      "label": "charlotte",
+      "count": 74,
+      "type": "GPE"
+    },
+    {
+      "label": "netherfield",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 58,
+      "type": "GPE"
+    },
+    {
+      "label": "kitty",
+      "count": 58,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58901.60380190095,
+      "activity": 0.04405557467455559
+    },
+    {
+      "token": 75413.76888444222,
+      "activity": 0.038369980675168704
+    },
+    {
+      "token": 48714.99449724863,
+      "activity": 0.0381255567592958
+    },
+    {
+      "token": 70731.21460730366,
+      "activity": 0.03718267069191711
+    },
+    {
+      "token": 158467.49474737368,
+      "activity": 0.03695906905692497
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 53,
+    "edges": 953,
+    "scene_entity_counts": [
+      19,
+      28,
+      21,
+      11,
+      22,
+      26,
+      20,
+      20,
+      13,
+      11,
+      16,
+      17,
+      24,
+      26,
+      22,
+      22,
+      16,
+      24,
+      27,
+      14,
+      21,
+      26,
+      26,
+      20,
+      27,
+      22,
+      16,
+      14,
+      12,
+      15,
+      21,
+      24,
+      23,
+      18,
+      12,
+      19,
+      15,
+      26,
+      17,
+      17,
+      19,
+      21,
+      17,
+      20,
+      15,
+      18,
+      18,
+      15,
+      27,
+      16,
+      21,
+      17,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0105,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5893,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5893
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5074
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2246
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5218
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5893
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6441
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.2597186938672697,
+        "read_time_min": 34.4,
+        "driving_words": [
+          "wonderfully",
+          "love",
+          "charm",
+          "beauties",
+          "good",
+          "great"
+        ]
+      },
+      {
+        "position": 0.18181818181818182,
+        "smoothed": 0.20188856183944331,
+        "read_time_min": 106.2,
+        "driving_words": [
+          "wonderful",
+          "succeeded",
+          "greatest",
+          "admire",
+          "great",
+          "dearly"
+        ]
+      },
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.21928408875639388,
+        "read_time_min": 197.2,
+        "driving_words": [
+          "triumph",
+          "rapturous",
+          "wonderful",
+          "rejoicing",
+          "excited",
+          "affectionate"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5252525252525253,
+        "smoothed": 0.06644388817582333,
+        "read_time_min": 269.1,
+        "driving_words": [
+          "mislead",
+          "evil",
+          "worst",
+          "worse",
+          "lost",
+          "anger"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": 0.01061854667464285,
+        "read_time_min": 369.7,
+        "driving_words": [
+          "hate",
+          "hatred",
+          "desperate",
+          "anger",
+          "loss",
+          "betray"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": 0.1104406678451469,
+        "read_time_min": 475.1,
+        "driving_words": [
+          "tortured",
+          "cruel",
+          "disgust",
+          "worse",
+          "cheat",
+          "betrayed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Pride_and_Prejudice_Jane_Austen/sentiment_arc.png"
+  }
+}

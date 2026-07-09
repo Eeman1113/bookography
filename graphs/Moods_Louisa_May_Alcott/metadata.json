@@ -1,0 +1,224 @@
+{
+  "slug": "Moods_Louisa_May_Alcott",
+  "title": "Moods Louisa May Alcott",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 109807,
+  "n_unique_entities": 41,
+  "n_entity_mentions": 1497,
+  "sigma": 274.5175,
+  "target_scenes": 36,
+  "detected_scene_boundaries": [
+    5583.011904761905,
+    11071.964126984127,
+    15108.08465116279,
+    18035.89812942366,
+    21430.860144927537,
+    24704.740579710146,
+    27423.317663043475,
+    33442.59017857142,
+    38845.72023809524,
+    40946.47893772894,
+    44067.65512820513,
+    47725.96851851852,
+    51064.35423280423,
+    54694.827649769584,
+    59241.098318462595,
+    63132.46004151531,
+    66319.48222996516,
+    70982.87325227963,
+    76417.15377176015,
+    81495.93473193473,
+    84831.80769230769,
+    87695.30883699634,
+    90917.5744047619,
+    93901.68154761905,
+    97889.76213369964,
+    102119.52820512821,
+    105681.12972972973
+  ],
+  "n_scenes": 28,
+  "top_entities": [
+    {
+      "label": "sylvia",
+      "count": 521,
+      "type": "PERSON"
+    },
+    {
+      "label": "warwick",
+      "count": 204,
+      "type": "PERSON"
+    },
+    {
+      "label": "mark",
+      "count": 136,
+      "type": "PERSON"
+    },
+    {
+      "label": "adam",
+      "count": 115,
+      "type": "PERSON"
+    },
+    {
+      "label": "prue",
+      "count": 96,
+      "type": "PERSON"
+    },
+    {
+      "label": "geoffrey",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "faith",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "moor",
+      "count": 52,
+      "type": "ORG"
+    },
+    {
+      "label": "ottila",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessie",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "yule",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "gabriel",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "nat",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "tilly",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "phebe",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "adam warwick",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "asked--",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "geoffrey moor",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "abel",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "bliss",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "kelpie",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "bishop",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "italian",
+      "count": 4,
+      "type": "NORP"
+    },
+    {
+      "label": "patience",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "maria",
+      "count": 4,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 52678.31615807904,
+      "activity": 0.03222016959239539
+    },
+    {
+      "token": 73771.6148074037,
+      "activity": 0.031435822408606054
+    },
+    {
+      "token": 72563.14457228614,
+      "activity": 0.0301759615864251
+    },
+    {
+      "token": 28838.494247123563,
+      "activity": 0.028091616961057397
+    },
+    {
+      "token": 57182.61430715358,
+      "activity": 0.02786719292188178
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 219,
+    "scene_entity_counts": [
+      4,
+      10,
+      10,
+      5,
+      5,
+      5,
+      5,
+      17,
+      12,
+      6,
+      8,
+      14,
+      12,
+      10,
+      12,
+      11,
+      7,
+      11,
+      10,
+      8,
+      6,
+      8,
+      5,
+      12,
+      13,
+      10,
+      11,
+      13
+    ]
+  }
+}

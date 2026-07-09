@@ -1,0 +1,265 @@
+{
+  "slug": "Oliver_Twist_Vol_2_Charles_Dickens",
+  "title_display": "Oliver Twist Vol 2 Charles Dickens",
+  "language": "en",
+  "length_tokens": 68901,
+  "length_words": 52008,
+  "unique_entities": 47,
+  "entity_mentions": 1268,
+  "scene_count": 27,
+  "top_entities": [
+    {
+      "label": "oliver",
+      "count": 197,
+      "type": "PERSON"
+    },
+    {
+      "label": "bumble",
+      "count": 156,
+      "type": "ORG"
+    },
+    {
+      "label": "jew",
+      "count": 97,
+      "type": "NORP"
+    },
+    {
+      "label": "sikes",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "giles",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "rose",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "corney",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "maylie",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "fagin",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "losberne",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "harry",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "blathers",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "toby",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "oliver’s",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "brittles",
+      "count": 20,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 18439.9699849925,
+      "activity": 0.050049882080034976
+    },
+    {
+      "token": 27642.72136068034,
+      "activity": 0.04693644229753461
+    },
+    {
+      "token": 8513.406703351677,
+      "activity": 0.04601032482160284
+    },
+    {
+      "token": 29159.279639819913,
+      "activity": 0.04529169417807554
+    },
+    {
+      "token": 2860.780390195098,
+      "activity": 0.044944165558494835
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 27,
+    "edges": 175,
+    "scene_entity_counts": [
+      10,
+      8,
+      6,
+      12,
+      7,
+      3,
+      16,
+      7,
+      5,
+      8,
+      4,
+      15,
+      7,
+      6,
+      5,
+      8,
+      10,
+      16,
+      11,
+      7,
+      8,
+      8,
+      10,
+      6,
+      9,
+      2,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0068,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.8872,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.8872
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.67
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.3724
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2933
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.3352
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.8872
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.09524639828654843,
+        "read_time_min": 154.1,
+        "driving_words": [
+          "overjoyed",
+          "brilliant",
+          "miracle",
+          "great",
+          "blessings",
+          "happiness"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.13604831096576486,
+        "read_time_min": 169.4,
+        "driving_words": [
+          "brilliant",
+          "miracle",
+          "win",
+          "triumph",
+          "great",
+          "affectionate"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": 0.155228073067044,
+        "read_time_min": 181.2,
+        "driving_words": [
+          "brilliant",
+          "win",
+          "triumph",
+          "good",
+          "happiness",
+          "joyful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": -0.037369859405092305,
+        "read_time_min": 26.8,
+        "driving_words": [
+          "tortured",
+          "ass",
+          "warnings",
+          "warning",
+          "hideous",
+          "jerk"
+        ]
+      },
+      {
+        "position": 0.12121212121212122,
+        "smoothed": -0.01708717553197655,
+        "read_time_min": 40.4,
+        "driving_words": [
+          "tortured",
+          "ass",
+          "dead",
+          "violently",
+          "violent",
+          "mad"
+        ]
+      },
+      {
+        "position": 0.23232323232323232,
+        "smoothed": -0.017485770210882375,
+        "read_time_min": 59.0,
+        "driving_words": [
+          "cruel",
+          "lost",
+          "violence",
+          "ugly",
+          "die",
+          "dying"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Oliver_Twist_Vol_2_Charles_Dickens/sentiment_arc.png"
+  }
+}

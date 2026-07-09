@@ -1,0 +1,262 @@
+{
+  "slug": "Ecce_Homo_Friedrich_Wilhelm_Nietzsche",
+  "title_display": "Ecce Homo Friedrich Wilhelm Nietzsche",
+  "language": "en",
+  "length_tokens": 61936,
+  "length_words": 47576,
+  "unique_entities": 62,
+  "entity_mentions": 626,
+  "scene_count": 24,
+  "top_entities": [
+    {
+      "label": "zarathustra",
+      "count": 82,
+      "type": "ORG"
+    },
+    {
+      "label": "german",
+      "count": 73,
+      "type": "NORP"
+    },
+    {
+      "label": "wagner",
+      "count": 56,
+      "type": "ORG"
+    },
+    {
+      "label": "nietzsche",
+      "count": 47,
+      "type": "ORG"
+    },
+    {
+      "label": "germans",
+      "count": 43,
+      "type": "NORP"
+    },
+    {
+      "label": "germany",
+      "count": 22,
+      "type": "GPE"
+    },
+    {
+      "label": "christianity",
+      "count": 17,
+      "type": "NORP"
+    },
+    {
+      "label": "dionysian",
+      "count": 17,
+      "type": "NORP"
+    },
+    {
+      "label": "schopenhauer",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "christian",
+      "count": 13,
+      "type": "NORP"
+    },
+    {
+      "label": "thou",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "europe",
+      "count": 12,
+      "type": "LOC"
+    },
+    {
+      "label": "greek",
+      "count": 11,
+      "type": "NORP"
+    },
+    {
+      "label": "french",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "dionysus",
+      "count": 8,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 16359.019509754879,
+      "activity": 0.04621886725796584
+    },
+    {
+      "token": 43593.06903451726,
+      "activity": 0.039619048650300775
+    },
+    {
+      "token": 45080.25262631316,
+      "activity": 0.03537034544430575
+    },
+    {
+      "token": 44429.60980490245,
+      "activity": 0.03511175858679356
+    },
+    {
+      "token": 30859.059529764883,
+      "activity": 0.03266565225398706
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 192,
+    "scene_entity_counts": [
+      15,
+      9,
+      9,
+      3,
+      8,
+      18,
+      19,
+      19,
+      10,
+      15,
+      12,
+      13,
+      14,
+      9,
+      8,
+      10,
+      23,
+      9,
+      7,
+      5,
+      6,
+      6,
+      3,
+      4
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0039,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.667,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.667
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.6658
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.4575
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.2445
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.2445
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.6779
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.10549263363735378,
+        "read_time_min": 58.0,
+        "driving_words": [
+          "rejoice",
+          "exuberant",
+          "masterpiece",
+          "amazing",
+          "triumph",
+          "supreme"
+        ]
+      },
+      {
+        "position": 0.35353535353535354,
+        "smoothed": 0.08945491640998428,
+        "read_time_min": 73.1,
+        "driving_words": [
+          "exuberant",
+          "masterpiece",
+          "amazing",
+          "triumph",
+          "rejoice",
+          "supreme"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.09037178882650633,
+        "read_time_min": 105.0,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "triumphant",
+          "rejoiced",
+          "supreme",
+          "wonderful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.01989348898417621,
+        "read_time_min": 23.0,
+        "driving_words": [
+          "prick",
+          "die",
+          "catastrophe",
+          "evil",
+          "lost",
+          "losing"
+        ]
+      },
+      {
+        "position": 0.16161616161616163,
+        "smoothed": 0.03004093111960765,
+        "read_time_min": 44.3,
+        "driving_words": [
+          "prick",
+          "hell",
+          "victim",
+          "bad",
+          "destructive",
+          "guilt"
+        ]
+      },
+      {
+        "position": 0.8181818181818182,
+        "smoothed": 0.02776554936269229,
+        "read_time_min": 143.0,
+        "driving_words": [
+          "fraud",
+          "torture",
+          "fatality",
+          "terrible",
+          "suck",
+          "died"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Ecce_Homo_Friedrich_Wilhelm_Nietzsche/sentiment_arc.png"
+  }
+}

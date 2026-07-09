@@ -1,0 +1,262 @@
+{
+  "slug": "The_Blue_Castle_a_novel_L_M_Montgomery",
+  "title_display": "The Blue Castle a novel L M Montgomery",
+  "language": "en",
+  "length_tokens": 92294,
+  "length_words": 71509,
+  "unique_entities": 106,
+  "entity_mentions": 1935,
+  "scene_count": 24,
+  "top_entities": [
+    {
+      "label": "barney",
+      "count": 253,
+      "type": "PERSON"
+    },
+    {
+      "label": "frederick",
+      "count": 129,
+      "type": "PERSON"
+    },
+    {
+      "label": "uncle benjamin",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "doss",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "cissy",
+      "count": 75,
+      "type": "ORG"
+    },
+    {
+      "label": "cousin stickles",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "mistawis",
+      "count": 51,
+      "type": "GPE"
+    },
+    {
+      "label": "abel",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "uncle james",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "deerwood",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "trent",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "olive",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "redfern",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "stirling",
+      "count": 39,
+      "type": "ORG"
+    },
+    {
+      "label": "barney snaith",
+      "count": 37,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 57296.454727363685,
+      "activity": 0.04210305076471005
+    },
+    {
+      "token": 19899.091045522764,
+      "activity": 0.04135883778507509
+    },
+    {
+      "token": 87214.34567283643,
+      "activity": 0.04101450943072555
+    },
+    {
+      "token": 52033.12206103052,
+      "activity": 0.039326587362417426
+    },
+    {
+      "token": 41137.100050025016,
+      "activity": 0.03875063696633254
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 496,
+    "scene_entity_counts": [
+      37,
+      19,
+      28,
+      20,
+      17,
+      33,
+      29,
+      28,
+      28,
+      24,
+      14,
+      29,
+      19,
+      23,
+      29,
+      27,
+      30,
+      19,
+      30,
+      10,
+      15,
+      26,
+      33,
+      35
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0093,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.7696,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.7696
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.7144
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5858
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.4759
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5858
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.7075
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.09625578392508306,
+        "read_time_min": 161.7,
+        "driving_words": [
+          "terrific",
+          "wonderful",
+          "funny",
+          "fun",
+          "miracle",
+          "triumph"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.18747392684175726,
+        "read_time_min": 189.0,
+        "driving_words": [
+          "wonderful",
+          "triumph",
+          "fun",
+          "triumphant",
+          "rapturous",
+          "amazing"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.16420001373109078,
+        "read_time_min": 208.9,
+        "driving_words": [
+          "wonderful",
+          "rapturous",
+          "amazing",
+          "fun",
+          "fantastic",
+          "miracle"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.10101010101010101,
+        "smoothed": -0.12812105176991087,
+        "read_time_min": 44.9,
+        "driving_words": [
+          "bad",
+          "died",
+          "hated",
+          "ugly",
+          "terrible",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": -0.04432146107111823,
+        "read_time_min": 97.0,
+        "driving_words": [
+          "cock",
+          "tortures",
+          "hell",
+          "selfishness",
+          "fatal",
+          "agonised"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": -0.04756695449551234,
+        "read_time_min": 248.6,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "loose",
+          "killed",
+          "hideous",
+          "mad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Blue_Castle_a_novel_L_M_Montgomery/sentiment_arc.png"
+  }
+}

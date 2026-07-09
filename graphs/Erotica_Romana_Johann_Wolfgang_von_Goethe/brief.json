@@ -1,0 +1,201 @@
+{
+  "slug": "Erotica_Romana_Johann_Wolfgang_von_Goethe",
+  "title_display": "Erotica Romana Johann Wolfgang von Goethe",
+  "language": "en",
+  "length_tokens": 8814,
+  "length_words": 6787,
+  "unique_entities": 7,
+  "entity_mentions": 53,
+  "scene_count": 3,
+  "top_entities": [
+    {
+      "label": "rome",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "cupid",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "jupiter",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "midas",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "werther",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "juno",
+      "count": 3,
+      "type": "PERSON"
+    },
+    {
+      "label": "hercules",
+      "count": 3,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 361.51375687843927,
+      "activity": 0.054045221505162146
+    },
+    {
+      "token": 2812.7533766883444,
+      "activity": 0.05121582269150439
+    },
+    {
+      "token": 767.1145572786394,
+      "activity": 0.04522550035442999
+    },
+    {
+      "token": 7662.328164082041,
+      "activity": 0.037837550005866805
+    },
+    {
+      "token": 3209.5367683841923,
+      "activity": 0.03561789304708783
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 7,
+    "scene_entity_counts": [
+      5,
+      4,
+      5
+    ]
+  },
+  "sentiment": {
+    "reliability": "low",
+    "window_size": 2239,
+    "volatility": 0.0065,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.9351,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.9351
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.8456
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.7134
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5682
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5682
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.9374
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5151515151515151,
+        "smoothed": 0.345969554728383,
+        "read_time_min": 13.8,
+        "driving_words": [
+          "rejoice",
+          "wonderful",
+          "love",
+          "sweetest",
+          "beloved",
+          "celebrate"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": 0.33870128576722736,
+        "read_time_min": 15.5,
+        "driving_words": [
+          "wonderful",
+          "supreme",
+          "love",
+          "loves",
+          "best",
+          "delicious"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.3221319531666738,
+        "read_time_min": 17.3,
+        "driving_words": [
+          "wonderful",
+          "supreme",
+          "triumph",
+          "winning",
+          "celebrate",
+          "delicious"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.11416025838468546,
+        "read_time_min": 5.0,
+        "driving_words": [
+          "despondent",
+          "worse",
+          "lost",
+          "horrible",
+          "deceived",
+          "cruel"
+        ]
+      },
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.10566343201363694,
+        "read_time_min": 6.5,
+        "driving_words": [
+          "despondent",
+          "worse",
+          "lost",
+          "horrible",
+          "deceived",
+          "cruel"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.16093401317890385,
+        "read_time_min": 8.3,
+        "driving_words": [
+          "horrible",
+          "deceived",
+          "cruel",
+          "guilty",
+          "guilt",
+          "hated"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Erotica_Romana_Johann_Wolfgang_von_Goethe/sentiment_arc.png"
+  }
+}

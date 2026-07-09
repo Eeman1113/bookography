@@ -1,0 +1,299 @@
+{
+  "slug": "Moby_Dick_Or_The_Whale_Herman_Melville",
+  "title_display": "Moby Dick Or The Whale Herman Melville",
+  "language": "en",
+  "length_tokens": 279483,
+  "length_words": 219035,
+  "unique_entities": 284,
+  "entity_mentions": 3397,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "ahab",
+      "count": 464,
+      "type": "PERSON"
+    },
+    {
+      "label": "starbuck",
+      "count": 191,
+      "type": "PERSON"
+    },
+    {
+      "label": "pequod",
+      "count": 158,
+      "type": "GPE"
+    },
+    {
+      "label": "flask",
+      "count": 87,
+      "type": "PERSON"
+    },
+    {
+      "label": "nantucket",
+      "count": 80,
+      "type": "GPE"
+    },
+    {
+      "label": "jonah",
+      "count": 76,
+      "type": "GPE"
+    },
+    {
+      "label": "moby dick",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 74,
+      "type": "GPE"
+    },
+    {
+      "label": "bildad",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "peleg",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "leviathan",
+      "count": 56,
+      "type": "GPE"
+    },
+    {
+      "label": "tashtego",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "indian",
+      "count": 51,
+      "type": "NORP"
+    },
+    {
+      "label": "the white whale",
+      "count": 48,
+      "type": "FAC"
+    },
+    {
+      "label": "pacific",
+      "count": 31,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 43900.62431215608,
+      "activity": 0.029435540915426092
+    },
+    {
+      "token": 181055.12256128064,
+      "activity": 0.02916676250850434
+    },
+    {
+      "token": 188604.91145572785,
+      "activity": 0.02530021950647235
+    },
+    {
+      "token": 78014.4852426213,
+      "activity": 0.02487390655405666
+    },
+    {
+      "token": 84305.975987994,
+      "activity": 0.02474673587356278
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 1118,
+    "scene_entity_counts": [
+      31,
+      33,
+      27,
+      8,
+      6,
+      22,
+      20,
+      19,
+      37,
+      17,
+      20,
+      21,
+      28,
+      28,
+      13,
+      34,
+      22,
+      22,
+      18,
+      13,
+      18,
+      28,
+      32,
+      22,
+      23,
+      23,
+      27,
+      35,
+      40,
+      39,
+      21,
+      13,
+      16,
+      15,
+      20,
+      21,
+      15,
+      19,
+      20,
+      37,
+      10,
+      33,
+      25,
+      17,
+      26,
+      18,
+      21,
+      14,
+      43,
+      46,
+      20,
+      19,
+      21,
+      21,
+      12,
+      11,
+      24,
+      20,
+      34,
+      22,
+      22
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0112,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3669,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3669
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1776
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.1296
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1916
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2574
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3669
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": 0.07334466345035938,
+        "read_time_min": 87.6,
+        "driving_words": [
+          "brilliant",
+          "heavenly",
+          "funny",
+          "beautiful",
+          "beloved",
+          "bliss"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.10744993293964634,
+        "read_time_min": 197.4,
+        "driving_words": [
+          "terrific",
+          "fun",
+          "supreme",
+          "fabulous",
+          "best",
+          "delights"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.08878218095377133,
+        "read_time_min": 687.2,
+        "driving_words": [
+          "wonderful",
+          "funny",
+          "amazing",
+          "terrific",
+          "grand",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3333333333333333,
+        "smoothed": -0.08993183803030345,
+        "read_time_min": 298.7,
+        "driving_words": [
+          "dick",
+          "damned",
+          "hell",
+          "mad",
+          "worse",
+          "murderous"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": -0.04948991660505188,
+        "read_time_min": 754.8,
+        "driving_words": [
+          "cock",
+          "damned",
+          "dick",
+          "dead",
+          "terrible",
+          "die"
+        ]
+      },
+      {
+        "position": 0.9393939393939394,
+        "smoothed": -0.046031433248841375,
+        "read_time_min": 805.5,
+        "driving_words": [
+          "dick",
+          "dumb",
+          "violent",
+          "fatal",
+          "lost",
+          "evil"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moby_Dick_Or_The_Whale_Herman_Melville/sentiment_arc.png"
+  }
+}

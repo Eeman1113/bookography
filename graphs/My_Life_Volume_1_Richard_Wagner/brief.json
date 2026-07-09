@@ -1,0 +1,297 @@
+{
+  "slug": "My_Life_Volume_1_Richard_Wagner",
+  "title_display": "My Life Volume 1 Richard Wagner",
+  "language": "en",
+  "length_tokens": 265609,
+  "length_words": 221692,
+  "unique_entities": 381,
+  "entity_mentions": 4541,
+  "scene_count": 59,
+  "top_entities": [
+    {
+      "label": "dresden",
+      "count": 336,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 231,
+      "type": "GPE"
+    },
+    {
+      "label": "minna",
+      "count": 172,
+      "type": "PERSON"
+    },
+    {
+      "label": "leipzig",
+      "count": 161,
+      "type": "GPE"
+    },
+    {
+      "label": "berlin",
+      "count": 132,
+      "type": "GPE"
+    },
+    {
+      "label": "german",
+      "count": 129,
+      "type": "NORP"
+    },
+    {
+      "label": "rienzi",
+      "count": 112,
+      "type": "GPE"
+    },
+    {
+      "label": "tannhäuser",
+      "count": 70,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 69,
+      "type": "NORP"
+    },
+    {
+      "label": "magdeburg",
+      "count": 63,
+      "type": "GPE"
+    },
+    {
+      "label": "liszt",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "lohengrin",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "germany",
+      "count": 53,
+      "type": "GPE"
+    },
+    {
+      "label": "königsberg",
+      "count": 47,
+      "type": "GPE"
+    },
+    {
+      "label": "riga",
+      "count": 45,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 173927.39969984995,
+      "activity": 0.04112920288279035
+    },
+    {
+      "token": 245810.3051525763,
+      "activity": 0.03246567575072957
+    },
+    {
+      "token": 124233.85692846424,
+      "activity": 0.031863557424039936
+    },
+    {
+      "token": 128618.58129064534,
+      "activity": 0.029550907954407384
+    },
+    {
+      "token": 130744.50825412707,
+      "activity": 0.029267494003074324
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 59,
+    "edges": 1470,
+    "scene_entity_counts": [
+      31,
+      28,
+      28,
+      26,
+      32,
+      19,
+      18,
+      20,
+      37,
+      29,
+      36,
+      24,
+      17,
+      36,
+      24,
+      17,
+      24,
+      30,
+      23,
+      41,
+      39,
+      35,
+      31,
+      25,
+      37,
+      26,
+      32,
+      20,
+      38,
+      59,
+      35,
+      28,
+      28,
+      32,
+      28,
+      33,
+      24,
+      42,
+      30,
+      54,
+      41,
+      37,
+      32,
+      40,
+      39,
+      34,
+      28,
+      38,
+      32,
+      30,
+      35,
+      24,
+      23,
+      23,
+      21,
+      42,
+      48,
+      36,
+      32
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0128,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.2954,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.2954
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1919
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.149
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0284
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0284
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2007
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1919191919191919,
+        "smoothed": 0.23431007797264708,
+        "read_time_min": 182.5,
+        "driving_words": [
+          "fabulous",
+          "triumph",
+          "exuberant",
+          "rapturous",
+          "wonderful",
+          "win"
+        ]
+      },
+      {
+        "position": 0.48484848484848486,
+        "smoothed": 0.2347173068155223,
+        "read_time_min": 430.6,
+        "driving_words": [
+          "miracle",
+          "rejoiced",
+          "triumph",
+          "wonderful",
+          "fantastic",
+          "wonderfully"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": 0.21307388093282562,
+        "read_time_min": 516.1,
+        "driving_words": [
+          "thrilled",
+          "win",
+          "brilliant",
+          "triumph",
+          "miracle",
+          "masterpiece"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.26262626262626265,
+        "smoothed": 0.042280700127675604,
+        "read_time_min": 242.4,
+        "driving_words": [
+          "hell",
+          "dreadful",
+          "bad",
+          "bankruptcy",
+          "harassed",
+          "defective"
+        ]
+      },
+      {
+        "position": 0.3434343434343434,
+        "smoothed": 0.04137431977869979,
+        "read_time_min": 310.8,
+        "driving_words": [
+          "bad",
+          "disgust",
+          "miserable",
+          "despair",
+          "deceived",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.9090909090909091,
+        "smoothed": 0.0335883356891804,
+        "read_time_min": 789.8,
+        "driving_words": [
+          "torture",
+          "charged",
+          "criminal",
+          "arrested",
+          "loss",
+          "betrayed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/My_Life_Volume_1_Richard_Wagner/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "slug": "The_Hound_of_the_Baskervilles_Arthur_Conan_Doyle",
+  "title": "The Hound of the Baskervilles Arthur Conan Doyle",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 76552,
+  "n_unique_entities": 55,
+  "n_entity_mentions": 1118,
+  "sigma": 191.38,
+  "target_scenes": 25,
+  "detected_scene_boundaries": [
+    1885.2685185185185,
+    4559.484042553191,
+    8058.994459219859,
+    10462.888988095237,
+    11960.586018237082,
+    14197.435707678076,
+    17583.957427536232,
+    20942.279166666667,
+    23683.55,
+    26491.059523809523,
+    30156.0873015873,
+    33756.14874551971,
+    36333.00430107527,
+    38324.23333333334,
+    39725.83529411764,
+    41324.15837104073,
+    44513.15034965035,
+    47393.64619164619,
+    49769.53182214472,
+    52697.7379032258,
+    54930.95833333333,
+    56805.490476190476,
+    59366.107142857145,
+    62728.72659574468,
+    65455.86588145896,
+    68002.83928571429,
+    70735.85606060606,
+    72910.18606060607,
+    74622.46095238096
+  ],
+  "n_scenes": 30,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 177,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 126,
+      "type": "PERSON"
+    },
+    {
+      "label": "watson",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "mortimer",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "stapleton",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "barrymore",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 49,
+      "type": "GPE"
+    },
+    {
+      "label": "baskerville",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "baskerville hall",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry baskerville",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles baskerville",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "coombe tracey",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "i.",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "selden",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "devonshire",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "frankland",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "charles’s",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "baker street",
+      "count": 11,
+      "type": "FAC"
+    },
+    {
+      "label": "laura lyons",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "times",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "lyons",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrade",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "sherlock holmes",
+      "count": 9,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 19109.02901450725,
+      "activity": 0.044412875331001994
+    },
+    {
+      "token": 22172.6008004002,
+      "activity": 0.033863472609373266
+    },
+    {
+      "token": 73793.78539269634,
+      "activity": 0.03357161668537316
+    },
+    {
+      "token": 9688.545772886442,
+      "activity": 0.033365957981696594
+    },
+    {
+      "token": 64756.24862431215,
+      "activity": 0.028807253845037337
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 30,
+    "edges": 345,
+    "scene_entity_counts": [
+      10,
+      12,
+      19,
+      16,
+      9,
+      9,
+      18,
+      25,
+      22,
+      12,
+      18,
+      14,
+      10,
+      10,
+      4,
+      5,
+      10,
+      12,
+      17,
+      16,
+      7,
+      10,
+      11,
+      16,
+      23,
+      12,
+      7,
+      15,
+      17,
+      14
+    ]
+  }
+}

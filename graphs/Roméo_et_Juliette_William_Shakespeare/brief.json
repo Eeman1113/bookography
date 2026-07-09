@@ -1,0 +1,256 @@
+{
+  "slug": "Roméo_et_Juliette_William_Shakespeare",
+  "title_display": "Roméo et Juliette William Shakespeare",
+  "language": "fr",
+  "length_tokens": 49444,
+  "length_words": 36944,
+  "unique_entities": 83,
+  "entity_mentions": 993,
+  "scene_count": 18,
+  "top_entities": [
+    {
+      "label": "roméo",
+      "count": 163,
+      "type": "ORG"
+    },
+    {
+      "label": "juliette",
+      "count": 87,
+      "type": "PER"
+    },
+    {
+      "label": "frère",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "tybalt",
+      "count": 52,
+      "type": "LOC"
+    },
+    {
+      "label": "capulet",
+      "count": 43,
+      "type": "LOC"
+    },
+    {
+      "label": "shakspeare",
+      "count": 39,
+      "type": "MISC"
+    },
+    {
+      "label": "montaigu",
+      "count": 36,
+      "type": "PER"
+    },
+    {
+      "label": "mercutio",
+      "count": 34,
+      "type": "LOC"
+    },
+    {
+      "label": "pâris",
+      "count": 30,
+      "type": "PER"
+    },
+    {
+      "label": "vérone",
+      "count": 23,
+      "type": "MISC"
+    },
+    {
+      "label": "laurence",
+      "count": 21,
+      "type": "PER"
+    },
+    {
+      "label": "dieu",
+      "count": 19,
+      "type": "MISC"
+    },
+    {
+      "label": "madame",
+      "count": 18,
+      "type": "PER"
+    },
+    {
+      "label": "mantoue",
+      "count": 16,
+      "type": "LOC"
+    },
+    {
+      "label": "benvolio",
+      "count": 15,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 5119.910455227614,
+      "activity": 0.09819865501858764
+    },
+    {
+      "token": 1360.3626813406702,
+      "activity": 0.050562780258758114
+    },
+    {
+      "token": 2077.6448224112055,
+      "activity": 0.049313884083171826
+    },
+    {
+      "token": 44916.70235117558,
+      "activity": 0.04874288369022447
+    },
+    {
+      "token": 28913.89044522261,
+      "activity": 0.0479983954559618
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 18,
+    "edges": 281,
+    "scene_entity_counts": [
+      15,
+      24,
+      17,
+      14,
+      34,
+      15,
+      16,
+      14,
+      18,
+      17,
+      27,
+      18,
+      19,
+      30,
+      22,
+      26,
+      20,
+      18
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0013,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.5583,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.5583
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.5462
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.4312
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.2028
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.2028
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.5676
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.3333333333333333,
+        "smoothed": -0.020172415133683702,
+        "read_time_min": 55.9,
+        "driving_words": [
+          "grand'mères",
+          "grand",
+          "good",
+          "excellent",
+          "affection",
+          "great"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": -0.01835929107966877,
+        "read_time_min": 67.9,
+        "driving_words": [
+          "grand",
+          "excellent",
+          "affection",
+          "good",
+          "great",
+          "l'affection"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": -0.021733721942452815,
+        "read_time_min": 99.5,
+        "driving_words": [
+          "affection",
+          "l'affection",
+          "grand",
+          "love",
+          "woo",
+          "d'affection"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": -0.040061995021763115,
+        "read_time_min": 39.6,
+        "driving_words": [
+          "cock",
+          "torture",
+          "dire",
+          "terrible",
+          "cruel",
+          "foul"
+        ]
+      },
+      {
+        "position": 0.8080808080808081,
+        "smoothed": -0.034055450789065425,
+        "read_time_min": 107.1,
+        "driving_words": [
+          "torture",
+          "cruel",
+          "l'horrible",
+          "vile",
+          "bankrupt",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": -0.03864252219426155,
+        "read_time_min": 125.6,
+        "driving_words": [
+          "violence",
+          "dire",
+          "crime",
+          "l'horrible",
+          "corruption",
+          "cruel"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Roméo_et_Juliette_William_Shakespeare/sentiment_arc.png"
+  }
+}

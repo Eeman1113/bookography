@@ -1,0 +1,288 @@
+{
+  "slug": "The_Mystery_of_Edwin_Drood_Charles_Dickens",
+  "title_display": "The Mystery of Edwin Drood Charles Dickens",
+  "language": "en",
+  "length_tokens": 129751,
+  "length_words": 97988,
+  "unique_entities": 89,
+  "entity_mentions": 2671,
+  "scene_count": 50,
+  "top_entities": [
+    {
+      "label": "rosa",
+      "count": 241,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper",
+      "count": 237,
+      "type": "PERSON"
+    },
+    {
+      "label": "crisparkle",
+      "count": 237,
+      "type": "PERSON"
+    },
+    {
+      "label": "grewgious",
+      "count": 232,
+      "type": "PERSON"
+    },
+    {
+      "label": "neville",
+      "count": 163,
+      "type": "GPE"
+    },
+    {
+      "label": "sapsea",
+      "count": 121,
+      "type": "PERSON"
+    },
+    {
+      "label": "twinkleton",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "durdles",
+      "count": 96,
+      "type": "ORG"
+    },
+    {
+      "label": "helena",
+      "count": 84,
+      "type": "ORG"
+    },
+    {
+      "label": "edwin",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "cloisterham",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "tartar",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "datchery",
+      "count": 58,
+      "type": "GPE"
+    },
+    {
+      "label": "dean",
+      "count": 50,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 111770.63531765885,
+      "activity": 0.04761345621205138
+    },
+    {
+      "token": 109563.78189094548,
+      "activity": 0.04574020645377656
+    },
+    {
+      "token": 58676.33816908455,
+      "activity": 0.04366875053779766
+    },
+    {
+      "token": 115275.63781890947,
+      "activity": 0.03983224903744719
+    },
+    {
+      "token": 96517.38369184593,
+      "activity": 0.037827632969738054
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 540,
+    "scene_entity_counts": [
+      6,
+      16,
+      11,
+      5,
+      9,
+      11,
+      17,
+      8,
+      7,
+      7,
+      13,
+      19,
+      8,
+      25,
+      19,
+      11,
+      13,
+      17,
+      7,
+      10,
+      13,
+      13,
+      14,
+      9,
+      7,
+      14,
+      10,
+      9,
+      18,
+      13,
+      17,
+      15,
+      15,
+      15,
+      15,
+      15,
+      9,
+      10,
+      14,
+      20,
+      11,
+      21,
+      13,
+      13,
+      10,
+      5,
+      18,
+      11,
+      16,
+      7
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0067,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.1153,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.1153
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.063
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.0115
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0155
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0463
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.063
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.3434343434343434,
+        "smoothed": 0.10905730436778523,
+        "read_time_min": 140.9,
+        "driving_words": [
+          "win",
+          "wonderful",
+          "amazing",
+          "fabulous",
+          "good",
+          "happiness"
+        ]
+      },
+      {
+        "position": 0.5454545454545454,
+        "smoothed": 0.09116843944912305,
+        "read_time_min": 212.0,
+        "driving_words": [
+          "wonderful",
+          "wonderfully",
+          "good",
+          "great",
+          "best",
+          "impressive"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.09008553398621084,
+        "read_time_min": 329.3,
+        "driving_words": [
+          "amazing",
+          "wonderful",
+          "rejoicing",
+          "great",
+          "fascination",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.02416619085992869,
+        "read_time_min": 94.7,
+        "driving_words": [
+          "fraud",
+          "charged",
+          "hated",
+          "loathing",
+          "obnoxious",
+          "died"
+        ]
+      },
+      {
+        "position": 0.6666666666666666,
+        "smoothed": -0.03407944500901284,
+        "read_time_min": 254.6,
+        "driving_words": [
+          "lost",
+          "mad",
+          "horrible",
+          "dreadful",
+          "terrible",
+          "destructive"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": 0.009763555590427865,
+        "read_time_min": 357.7,
+        "driving_words": [
+          "frauds",
+          "fraudulent",
+          "dreadful",
+          "dead",
+          "hate",
+          "worse"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Mystery_of_Edwin_Drood_Charles_Dickens/sentiment_arc.png"
+  }
+}

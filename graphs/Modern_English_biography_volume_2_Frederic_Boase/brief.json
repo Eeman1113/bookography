@@ -1,0 +1,306 @@
+{
+  "slug": "Modern_English_biography_volume_2_Frederic_Boase",
+  "title_display": "Modern English biography volume 2 Frederic Boase",
+  "language": "en",
+  "length_tokens": 415717,
+  "length_words": 609946,
+  "unique_entities": 1928,
+  "entity_mentions": 30771,
+  "scene_count": 68,
+  "top_entities": [
+    {
+      "label": "d.",
+      "count": 2465,
+      "type": "NORP"
+    },
+    {
+      "label": "b.",
+      "count": 2170,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 1652,
+      "type": "GPE"
+    },
+    {
+      "label": "ed",
+      "count": 751,
+      "type": "PERSON"
+    },
+    {
+      "label": "b.a.",
+      "count": 455,
+      "type": "GPE"
+    },
+    {
+      "label": "dublin",
+      "count": 441,
+      "type": "GPE"
+    },
+    {
+      "label": "glasgow",
+      "count": 258,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 228,
+      "type": "PERSON"
+    },
+    {
+      "label": "camb",
+      "count": 227,
+      "type": "PERSON"
+    },
+    {
+      "label": "r.",
+      "count": 223,
+      "type": "NORP"
+    },
+    {
+      "label": "ireland",
+      "count": 217,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 214,
+      "type": "GPE"
+    },
+    {
+      "label": "trin",
+      "count": 211,
+      "type": "GPE"
+    },
+    {
+      "label": "lieut",
+      "count": 210,
+      "type": "PERSON"
+    },
+    {
+      "label": "edinb",
+      "count": 207,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 5199.049524762381,
+      "activity": 0.09057772054228397
+    },
+    {
+      "token": 21836.008004002,
+      "activity": 0.08884794827173598
+    },
+    {
+      "token": 345840.7743871936,
+      "activity": 0.08840224246965651
+    },
+    {
+      "token": 62180.63231615808,
+      "activity": 0.08685763212090052
+    },
+    {
+      "token": 166785.5087543772,
+      "activity": 0.08613622791272807
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 68,
+    "edges": 12654,
+    "scene_entity_counts": [
+      260,
+      242,
+      233,
+      231,
+      200,
+      207,
+      234,
+      205,
+      269,
+      347,
+      216,
+      222,
+      288,
+      280,
+      233,
+      197,
+      197,
+      148,
+      163,
+      214,
+      232,
+      233,
+      230,
+      226,
+      217,
+      263,
+      273,
+      202,
+      200,
+      196,
+      207,
+      168,
+      134,
+      119,
+      185,
+      298,
+      271,
+      149,
+      218,
+      239,
+      187,
+      214,
+      176,
+      218,
+      200,
+      161,
+      162,
+      230,
+      240,
+      186,
+      141,
+      124,
+      180,
+      286,
+      314,
+      247,
+      213,
+      206,
+      203,
+      220,
+      202,
+      239,
+      233,
+      210,
+      197,
+      207,
+      164,
+      176
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0032,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.1164,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.1164
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.0853
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0095
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0027
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0589
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.1164
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.00856132465826091,
+        "read_time_min": 335.1,
+        "driving_words": [
+          "fun",
+          "succeeded",
+          "great",
+          "successful",
+          "perfect",
+          "beauty"
+        ]
+      },
+      {
+        "position": 0.42424242424242425,
+        "smoothed": 0.01304490073914844,
+        "read_time_min": 1038.1,
+        "driving_words": [
+          "winning",
+          "brilliant",
+          "supreme",
+          "excellent",
+          "succeeded",
+          "grand"
+        ]
+      },
+      {
+        "position": 0.7777777777777778,
+        "smoothed": 0.010027072851837307,
+        "read_time_min": 1886.5,
+        "driving_words": [
+          "winning",
+          "good",
+          "great",
+          "best",
+          "popular",
+          "benevolent"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1919191919191919,
+        "smoothed": -0.021835654631304643,
+        "read_time_min": 480.6,
+        "driving_words": [
+          "dick",
+          "criminals",
+          "killed",
+          "lost",
+          "died",
+          "bankrupt"
+        ]
+      },
+      {
+        "position": 0.35353535353535354,
+        "smoothed": -0.029607575376171962,
+        "read_time_min": 868.4,
+        "driving_words": [
+          "dick",
+          "fraudulent",
+          "crisis",
+          "angers",
+          "lost",
+          "destruction"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": -0.02029058376515949,
+        "read_time_min": 1474.4,
+        "driving_words": [
+          "bankruptcy",
+          "lost",
+          "slavery",
+          "slave",
+          "conspiracy",
+          "charged"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Modern_English_biography_volume_2_Frederic_Boase/sentiment_arc.png"
+  }
+}

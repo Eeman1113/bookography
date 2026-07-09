@@ -1,0 +1,212 @@
+{
+  "slug": "Manon_Lescaut_Prévost",
+  "title": "Manon Lescaut Prévost",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 79582,
+  "n_unique_entities": 38,
+  "n_entity_mentions": 720,
+  "sigma": 198.955,
+  "target_scenes": 26,
+  "detected_scene_boundaries": [
+    5055.517210144928,
+    7723.584918478261,
+    10805.523726851852,
+    14763.393518518518,
+    17462.512254901958,
+    20882.544117647056,
+    24863.152476780186,
+    28431.633001422473,
+    33463.88738738738,
+    37974.886524822694,
+    41053.434547421566,
+    45215.275295326144,
+    48939.003314393936,
+    51902.859375,
+    56202.38636363637,
+    59802.6196969697,
+    63015.316666666666,
+    66742.33333333333,
+    69840.39705882352,
+    73221.1538155803,
+    76910.23175675675
+  ],
+  "n_scenes": 22,
+  "top_entities": [
+    {
+      "label": "manon",
+      "count": 300,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 69,
+      "type": "GPE"
+    },
+    {
+      "label": "lescaut",
+      "count": 54,
+      "type": "PERSON"
+    },
+    {
+      "label": "tiberge",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. de t----",
+      "count": 29,
+      "type": "ORG"
+    },
+    {
+      "label": "st. lazare",
+      "count": 26,
+      "type": "FAC"
+    },
+    {
+      "label": "america",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "chaillot",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "hospital",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "amiens",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "magdalen",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "st. sulpice",
+      "count": 10,
+      "type": "FAC"
+    },
+    {
+      "label": "providence",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "le chatelet",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "france",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "synnelet",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "passy",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "havre-de-grace",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "havre",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "st. denis",
+      "count": 6,
+      "type": "FAC"
+    },
+    {
+      "label": "g---- m----",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "m. de t----'s",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "new orleans",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "m. g---- m----",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "manon lescaut",
+      "count": 4,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 42716.5647823912,
+      "activity": 0.02656189305451658
+    },
+    {
+      "token": 26354.48824412206,
+      "activity": 0.02327848763479922
+    },
+    {
+      "token": 31330.788894447225,
+      "activity": 0.022185547835015258
+    },
+    {
+      "token": 39014.19709854927,
+      "activity": 0.022090370865365302
+    },
+    {
+      "token": 41681.49424712356,
+      "activity": 0.020613657031672856
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 149,
+    "scene_entity_counts": [
+      13,
+      5,
+      6,
+      8,
+      4,
+      7,
+      11,
+      5,
+      11,
+      8,
+      10,
+      16,
+      9,
+      6,
+      5,
+      8,
+      6,
+      13,
+      10,
+      10,
+      7,
+      9
+    ]
+  }
+}

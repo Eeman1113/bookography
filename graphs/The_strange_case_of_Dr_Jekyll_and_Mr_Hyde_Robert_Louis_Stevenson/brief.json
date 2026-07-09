@@ -1,0 +1,249 @@
+{
+  "slug": "The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson",
+  "title_display": "The strange case of Dr Jekyll and Mr Hyde Robert Louis Stevenson",
+  "language": "en",
+  "length_tokens": 33031,
+  "length_words": 25967,
+  "unique_entities": 16,
+  "entity_mentions": 390,
+  "scene_count": 11,
+  "top_entities": [
+    {
+      "label": "utterson",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "hyde",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "jekyll",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry jekyll",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "edward hyde",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "poole",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "enfield",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "lanyon",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "guest",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "jekyll’s",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "soho",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "danvers",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "lanyon’s",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "satan",
+      "count": 3,
+      "type": "FAC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6444.072036018009,
+      "activity": 0.04297812463473067
+    },
+    {
+      "token": 28899.18459229615,
+      "activity": 0.036043292921310394
+    },
+    {
+      "token": 14722.22611305653,
+      "activity": 0.03536858025447335
+    },
+    {
+      "token": 14441.330665332667,
+      "activity": 0.03423723836879434
+    },
+    {
+      "token": 5353.536768384192,
+      "activity": 0.032379521834063174
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 68,
+    "scene_entity_counts": [
+      5,
+      7,
+      10,
+      7,
+      14,
+      5,
+      9,
+      6,
+      6,
+      7,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 8569,
+    "volatility": 0.0042,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8852,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8852
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.829
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3086
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.8482
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8852
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.9366
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.050394125988270026,
+        "read_time_min": 19.2,
+        "driving_words": [
+          "pleased",
+          "good",
+          "perfectly",
+          "best",
+          "celebrated",
+          "great"
+        ]
+      },
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.021536209530335963,
+        "read_time_min": 24.9,
+        "driving_words": [
+          "good",
+          "great",
+          "startling",
+          "pleasure",
+          "handsome",
+          "wealth"
+        ]
+      },
+      {
+        "position": 0.20202020202020202,
+        "smoothed": 0.02536708228721366,
+        "read_time_min": 31.2,
+        "driving_words": [
+          "startling",
+          "great",
+          "pleasure",
+          "good",
+          "handsome",
+          "wealth"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5151515151515151,
+        "smoothed": -0.07332129124274825,
+        "read_time_min": 53.0,
+        "driving_words": [
+          "ass",
+          "torture",
+          "scandal",
+          "mad",
+          "ugly",
+          "cruelty"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": -0.07909806401507577,
+        "read_time_min": 77.6,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "hell",
+          "damned",
+          "dead",
+          "destroyed"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.10171592866740602,
+        "read_time_min": 84.6,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "hell",
+          "damned",
+          "damage",
+          "despair"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson/sentiment_arc.png"
+  }
+}

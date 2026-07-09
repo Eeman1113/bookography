@@ -1,0 +1,284 @@
+{
+  "slug": "Robert_Orange_John_Oliver_Hobbes",
+  "title_display": "Robert Orange John Oliver Hobbes",
+  "language": "en",
+  "length_tokens": 133165,
+  "length_words": 100817,
+  "unique_entities": 136,
+  "entity_mentions": 1874,
+  "scene_count": 46,
+  "top_entities": [
+    {
+      "label": "sara",
+      "count": 190,
+      "type": "PERSON"
+    },
+    {
+      "label": "robert",
+      "count": 152,
+      "type": "PERSON"
+    },
+    {
+      "label": "orange",
+      "count": 111,
+      "type": "GPE"
+    },
+    {
+      "label": "reckage",
+      "count": 108,
+      "type": "ORG"
+    },
+    {
+      "label": "parflete",
+      "count": 108,
+      "type": "PERSON"
+    },
+    {
+      "label": "pensée",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "brigit",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "agnes",
+      "count": 73,
+      "type": "LOC"
+    },
+    {
+      "label": "beauclerk",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "disraeli",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "marshire",
+      "count": 32,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "d'alchingen",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "robert orange",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitz rewes",
+      "count": 21,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 31375.80990495248,
+      "activity": 0.03946634801300071
+    },
+    {
+      "token": 9859.065532766384,
+      "activity": 0.035534841394483874
+    },
+    {
+      "token": 93461.27663831916,
+      "activity": 0.03469305619575881
+    },
+    {
+      "token": 77806.67933966983,
+      "activity": 0.033393315994111945
+    },
+    {
+      "token": 76674.21910955478,
+      "activity": 0.032125984895470736
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 46,
+    "edges": 640,
+    "scene_entity_counts": [
+      19,
+      10,
+      17,
+      28,
+      15,
+      16,
+      8,
+      11,
+      11,
+      14,
+      18,
+      23,
+      11,
+      5,
+      17,
+      9,
+      14,
+      4,
+      10,
+      17,
+      29,
+      6,
+      20,
+      22,
+      21,
+      45,
+      38,
+      18,
+      12,
+      19,
+      22,
+      19,
+      16,
+      16,
+      16,
+      12,
+      26,
+      12,
+      11,
+      14,
+      25,
+      26,
+      11,
+      23,
+      15,
+      5
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0076,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.5855,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5855
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5276
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.384
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5276
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5936
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6337
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.10101010101010101,
+        "smoothed": 0.17022955875863233,
+        "read_time_min": 56.7,
+        "driving_words": [
+          "thrilled",
+          "brilliant",
+          "wonderful",
+          "supreme",
+          "affection",
+          "beauty"
+        ]
+      },
+      {
+        "position": 0.43434343434343436,
+        "smoothed": 0.11100797186486254,
+        "read_time_min": 177.8,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "miracle",
+          "triumph",
+          "supreme",
+          "love"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.14711596476976302,
+        "read_time_min": 269.5,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "wonderful",
+          "triumph",
+          "winning",
+          "excellence"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.017630506927728967,
+        "read_time_min": 225.5,
+        "driving_words": [
+          "hell",
+          "tortures",
+          "die",
+          "dead",
+          "lost",
+          "worst"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.05077293524526322,
+        "read_time_min": 298.9,
+        "driving_words": [
+          "ass",
+          "terrible",
+          "fatal",
+          "deceive",
+          "destroy",
+          "hatred"
+        ]
+      },
+      {
+        "position": 0.8282828282828283,
+        "smoothed": 0.025287124110975265,
+        "read_time_min": 320.9,
+        "driving_words": [
+          "prick",
+          "hell",
+          "fraud",
+          "guilty",
+          "kill",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Robert_Orange_John_Oliver_Hobbes/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "Oliver_Twist_Vol_2_Charles_Dickens",
+  "title": "Oliver Twist Vol 2 Charles Dickens",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 68901,
+  "n_unique_entities": 47,
+  "n_entity_mentions": 1268,
+  "sigma": 172.2525,
+  "target_scenes": 22,
+  "detected_scene_boundaries": [
+    1907.8127358490565,
+    3824.5011504832028,
+    6392.203414634147,
+    9744.607647058823,
+    12052.348039215685,
+    15724.221771467208,
+    19874.767020335985,
+    21976.409361955873,
+    23434.883720930233,
+    25831.93103448276,
+    28567.40603448276,
+    31487.441666666666,
+    34472.63333333333,
+    36877.30459770115,
+    39199.7555780933,
+    41369.658463385356,
+    43216.28300382653,
+    45547.67767137097,
+    48968.022983870964,
+    52706.22263513514,
+    55202.86013513514,
+    57559.19308510638,
+    60606.859389454214,
+    62681.78713768116,
+    64349.4162414966,
+    66391.53826530612
+  ],
+  "n_scenes": 27,
+  "top_entities": [
+    {
+      "label": "oliver",
+      "count": 197,
+      "type": "PERSON"
+    },
+    {
+      "label": "bumble",
+      "count": 156,
+      "type": "ORG"
+    },
+    {
+      "label": "jew",
+      "count": 97,
+      "type": "NORP"
+    },
+    {
+      "label": "sikes",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "giles",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "rose",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "corney",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "maylie",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "fagin",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "losberne",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "harry",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "blathers",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "toby",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "oliver’s",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "brittles",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "duff",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "nancy",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "barney",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "dodger",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "chitling",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "bill",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "oliver twist",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "chickweed",
+      "count": 10,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 18439.9699849925,
+      "activity": 0.050049882080034976
+    },
+    {
+      "token": 27642.72136068034,
+      "activity": 0.04693644229753461
+    },
+    {
+      "token": 8513.406703351677,
+      "activity": 0.04601032482160284
+    },
+    {
+      "token": 29159.279639819913,
+      "activity": 0.04529169417807554
+    },
+    {
+      "token": 2860.780390195098,
+      "activity": 0.044944165558494835
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 27,
+    "edges": 175,
+    "scene_entity_counts": [
+      10,
+      8,
+      6,
+      12,
+      7,
+      3,
+      16,
+      7,
+      5,
+      8,
+      4,
+      15,
+      7,
+      6,
+      5,
+      8,
+      10,
+      16,
+      11,
+      7,
+      8,
+      8,
+      10,
+      6,
+      9,
+      2,
+      8
+    ]
+  }
+}

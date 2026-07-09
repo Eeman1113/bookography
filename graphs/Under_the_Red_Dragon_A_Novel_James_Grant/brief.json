@@ -1,0 +1,293 @@
+{
+  "slug": "Under_the_Red_Dragon_A_Novel_James_Grant",
+  "title_display": "Under the Red Dragon A Novel James Grant",
+  "language": "en",
+  "length_tokens": 200496,
+  "length_words": 153963,
+  "unique_entities": 276,
+  "entity_mentions": 3843,
+  "scene_count": 55,
+  "top_entities": [
+    {
+      "label": "estelle",
+      "count": 231,
+      "type": "GPE"
+    },
+    {
+      "label": "madoc",
+      "count": 192,
+      "type": "PERSON"
+    },
+    {
+      "label": "guilfoyle",
+      "count": 138,
+      "type": "PERSON"
+    },
+    {
+      "label": "dora",
+      "count": 128,
+      "type": "PERSON"
+    },
+    {
+      "label": "russian",
+      "count": 114,
+      "type": "NORP"
+    },
+    {
+      "label": "caradoc",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "valerie",
+      "count": 87,
+      "type": "PERSON"
+    },
+    {
+      "label": "sebastopol",
+      "count": 84,
+      "type": "ORG"
+    },
+    {
+      "label": "craigaderyn",
+      "count": 79,
+      "type": "GPE"
+    },
+    {
+      "label": "phil",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "harry",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "naseby",
+      "count": 68,
+      "type": "ORG"
+    },
+    {
+      "label": "russians",
+      "count": 59,
+      "type": "NORP"
+    },
+    {
+      "label": "tolstoff",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "hardinge",
+      "count": 54,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 117348.24912456228,
+      "activity": 0.03360843997409238
+    },
+    {
+      "token": 175520.88544272137,
+      "activity": 0.031022031745290588
+    },
+    {
+      "token": 190565.5327663832,
+      "activity": 0.030522587180340486
+    },
+    {
+      "token": 30791.378189094547,
+      "activity": 0.03015776050317367
+    },
+    {
+      "token": 2607.7388694347173,
+      "activity": 0.02988240538410179
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 55,
+    "edges": 1614,
+    "scene_entity_counts": [
+      50,
+      40,
+      45,
+      34,
+      25,
+      39,
+      33,
+      32,
+      34,
+      34,
+      30,
+      22,
+      26,
+      25,
+      27,
+      25,
+      35,
+      37,
+      40,
+      34,
+      19,
+      25,
+      18,
+      19,
+      39,
+      32,
+      31,
+      44,
+      37,
+      49,
+      35,
+      30,
+      52,
+      32,
+      37,
+      30,
+      49,
+      39,
+      41,
+      37,
+      25,
+      30,
+      45,
+      28,
+      29,
+      35,
+      47,
+      40,
+      32,
+      44,
+      38,
+      42,
+      34,
+      31,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0153,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.6994,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6994
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.584
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3912
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.584
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7001
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.7065
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.1788428333514619,
+        "read_time_min": 25.8,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "winning",
+          "fun",
+          "win",
+          "supreme"
+        ]
+      },
+      {
+        "position": 0.09090909090909091,
+        "smoothed": 0.18806037094281888,
+        "read_time_min": 72.4,
+        "driving_words": [
+          "rejoicing",
+          "brilliant",
+          "funny",
+          "wonderful",
+          "win",
+          "wonderfully"
+        ]
+      },
+      {
+        "position": 0.16161616161616163,
+        "smoothed": 0.18542552214380187,
+        "read_time_min": 113.1,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "funny",
+          "winning",
+          "wonderful",
+          "love"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.42424242424242425,
+        "smoothed": 0.016805149605450688,
+        "read_time_min": 264.3,
+        "driving_words": [
+          "selfish",
+          "cruelty",
+          "terrible",
+          "despairing",
+          "dead",
+          "betray"
+        ]
+      },
+      {
+        "position": 0.6262626262626263,
+        "smoothed": -0.13244530619663714,
+        "read_time_min": 380.6,
+        "driving_words": [
+          "hell",
+          "lost",
+          "died",
+          "inexorable",
+          "terrible",
+          "fatal"
+        ]
+      },
+      {
+        "position": 0.9393939393939394,
+        "smoothed": -0.0678615621094959,
+        "read_time_min": 561.0,
+        "driving_words": [
+          "hell",
+          "bad",
+          "slave",
+          "miserable",
+          "loss",
+          "lost"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Under_the_Red_Dragon_A_Novel_James_Grant/sentiment_arc.png"
+  }
+}

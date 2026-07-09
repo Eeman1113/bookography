@@ -1,0 +1,210 @@
+{
+  "slug": "A_Study_in_Scarlet_Arthur_Conan_Doyle",
+  "title": "A Study in Scarlet Arthur Conan Doyle",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 56109,
+  "n_unique_entities": 61,
+  "n_entity_mentions": 621,
+  "sigma": 140.2725,
+  "target_scenes": 18,
+  "detected_scene_boundaries": [
+    2136.5486111111113,
+    4869.142045454546,
+    7370.0259740259735,
+    9034.139610389611,
+    10606.482467532467,
+    12525.893452380953,
+    14891.084429824561,
+    17366.949013157893,
+    19964.495923913044,
+    22881.07670221493,
+    25547.63142485361,
+    27362.810344827587,
+    30855.170114942528,
+    36070.408771929826,
+    40487.87781954887,
+    44247.874423963134,
+    46596.838709677424,
+    48542.0,
+    51502.18,
+    54259.54
+  ],
+  "n_scenes": 21,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "drebber",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrade",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "gregson",
+      "count": 41,
+      "type": "ORG"
+    },
+    {
+      "label": "stangerson",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "jefferson hope",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "john ferrier",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrier",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "lucy",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "sherlock holmes",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "stamford",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "mormon",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "joseph stangerson",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "utah",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "the brixton road",
+      "count": 9,
+      "type": "FAC"
+    },
+    {
+      "label": "cleveland",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "lucy ferrier",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "mormons",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "german",
+      "count": 8,
+      "type": "NORP"
+    },
+    {
+      "label": "salt lake city",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "afghanistan",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "charpentier",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "scotland yard",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "american",
+      "count": 6,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 24727.937968984494,
+      "activity": 0.04439428491075563
+    },
+    {
+      "token": 20601.936968484242,
+      "activity": 0.03522291162501436
+    },
+    {
+      "token": 11816.64232116058,
+      "activity": 0.02932530923928416
+    },
+    {
+      "token": 46115.77988994497,
+      "activity": 0.028405090804515924
+    },
+    {
+      "token": 21977.270635317658,
+      "activity": 0.027742344651751898
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 21,
+    "edges": 192,
+    "scene_entity_counts": [
+      10,
+      6,
+      5,
+      7,
+      7,
+      11,
+      8,
+      10,
+      8,
+      24,
+      16,
+      7,
+      13,
+      16,
+      22,
+      11,
+      11,
+      15,
+      12,
+      19,
+      15
+    ]
+  }
+}

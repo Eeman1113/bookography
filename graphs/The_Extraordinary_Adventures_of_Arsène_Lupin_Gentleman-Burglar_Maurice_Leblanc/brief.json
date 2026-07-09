@@ -1,0 +1,266 @@
+{
+  "slug": "The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc",
+  "title_display": "The Extraordinary Adventures of Arsène Lupin Gentleman-Burglar Maurice Leblanc",
+  "language": "en",
+  "length_tokens": 73039,
+  "length_words": 54578,
+  "unique_entities": 83,
+  "entity_mentions": 997,
+  "scene_count": 28,
+  "top_entities": [
+    {
+      "label": "arsène lupin",
+      "count": 234,
+      "type": "PERSON"
+    },
+    {
+      "label": "ganimard",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "lupin",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "devanne",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "varin",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "andermatt",
+      "count": 39,
+      "type": "ORG"
+    },
+    {
+      "label": "holmes",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "louis lacombe",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "velmont",
+      "count": 23,
+      "type": "ORG"
+    },
+    {
+      "label": "henriette",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "nelly",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "cahorn",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "floriani",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "imbert",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 15,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 4530.621310655328,
+      "activity": 0.03956876610377485
+    },
+    {
+      "token": 64853.65182591296,
+      "activity": 0.03271752965771611
+    },
+    {
+      "token": 62624.87843921961,
+      "activity": 0.03131351512068215
+    },
+    {
+      "token": 10741.956978489245,
+      "activity": 0.030029538004817013
+    },
+    {
+      "token": 12714.96948474237,
+      "activity": 0.028726515698414657
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 207,
+    "scene_entity_counts": [
+      16,
+      16,
+      12,
+      9,
+      12,
+      9,
+      8,
+      7,
+      7,
+      12,
+      7,
+      14,
+      6,
+      3,
+      10,
+      17,
+      9,
+      6,
+      7,
+      10,
+      8,
+      12,
+      7,
+      20,
+      13,
+      12,
+      10,
+      11
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0036,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.5561,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5561
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5177
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.4058
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0061
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.3912
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5177
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.010820676368071816,
+        "read_time_min": 23.6,
+        "driving_words": [
+          "supreme",
+          "miracle",
+          "fantastic",
+          "fabulous",
+          "funny",
+          "impressed"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.008975857424311968,
+        "read_time_min": 122.7,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "terrific",
+          "great",
+          "best",
+          "soothe"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.04010731103839604,
+        "read_time_min": 142.5,
+        "driving_words": [
+          "brilliant",
+          "excitement",
+          "succeeded",
+          "perfection",
+          "visionary",
+          "handsome"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.25252525252525254,
+        "smoothed": -0.10126388934059528,
+        "read_time_min": 65.0,
+        "driving_words": [
+          "worse",
+          "lost",
+          "abuse",
+          "violent",
+          "anger",
+          "worry"
+        ]
+      },
+      {
+        "position": 0.5252525252525253,
+        "smoothed": 0.0016185000923939457,
+        "read_time_min": 113.7,
+        "driving_words": [
+          "torture",
+          "guilty",
+          "loss",
+          "lost",
+          "died",
+          "crimes"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": -0.01194085349989947,
+        "read_time_min": 183.9,
+        "driving_words": [
+          "loss",
+          "lost",
+          "crime",
+          "victim",
+          "anger",
+          "worst"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Extraordinary_Adventures_of_Arsène_Lupin_Gentleman-Burglar_Maurice_Leblanc/sentiment_arc.png"
+  }
+}

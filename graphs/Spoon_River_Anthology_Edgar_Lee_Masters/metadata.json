@@ -1,0 +1,202 @@
+{
+  "slug": "Spoon_River_Anthology_Edgar_Lee_Masters",
+  "title": "Spoon River Anthology Edgar Lee Masters",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 51738,
+  "n_unique_entities": 99,
+  "n_entity_mentions": 504,
+  "sigma": 129.345,
+  "target_scenes": 17,
+  "detected_scene_boundaries": [
+    2080.139945652174,
+    4911.552989130435,
+    7591.6169772256735,
+    10381.030721966206,
+    13407.120669056152,
+    16720.838246409676,
+    21158.795918367345,
+    25621.7123015873,
+    28633.589444444446,
+    31184.22,
+    34034.559375,
+    36369.046875,
+    38157.0375,
+    40855.02857142857,
+    44265.99107142857,
+    48040.1625
+  ],
+  "n_scenes": 17,
+  "top_entities": [
+    {
+      "label": "spoon river",
+      "count": 74,
+      "type": "LOC"
+    },
+    {
+      "label": "thomas rhodes",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "benjamin pantier",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "loki",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "jesus",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "chicago",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "yogarindra",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "kinsey keene",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "a. d. blood",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "daisy fraser",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "peoria",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "doc hill",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "minerva",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "somers",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack mcguire",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "christian",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "truth",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "altgeld",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "whedon",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "john cabanis",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "allen",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "bengal mike",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "beelzebub",
+      "count": 6,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 46224.253126563286,
+      "activity": 0.04724775398947125
+    },
+    {
+      "token": 48113.59829914958,
+      "activity": 0.039612646954260075
+    },
+    {
+      "token": 26994.34267133567,
+      "activity": 0.03428599817623102
+    },
+    {
+      "token": 19229.910455227615,
+      "activity": 0.032545686087568665
+    },
+    {
+      "token": 38822.161080540274,
+      "activity": 0.028784894681001424
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 193,
+    "scene_entity_counts": [
+      22,
+      15,
+      15,
+      11,
+      21,
+      23,
+      29,
+      14,
+      21,
+      12,
+      12,
+      13,
+      9,
+      20,
+      9,
+      39,
+      7
+    ]
+  }
+}

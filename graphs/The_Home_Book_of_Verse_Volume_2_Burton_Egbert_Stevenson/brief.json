@@ -1,0 +1,300 @@
+{
+  "slug": "The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson",
+  "title_display": "The Home Book of Verse Volume 2 Burton Egbert Stevenson",
+  "language": "en",
+  "length_tokens": 250262,
+  "length_words": 178790,
+  "unique_entities": 381,
+  "entity_mentions": 2601,
+  "scene_count": 62,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 128,
+      "type": "PERSON"
+    },
+    {
+      "label": "shall",
+      "count": 62,
+      "type": "PERSON"
+    },
+    {
+      "label": "song",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "sweet",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "time",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "robert browning",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "nay",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "la",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "kiss",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "beata mea domina",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "venus",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "death",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "irish",
+      "count": 20,
+      "type": "NORP"
+    },
+    {
+      "label": "ye",
+      "count": 19,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 91015.3811905953,
+      "activity": 0.03026608166051724
+    },
+    {
+      "token": 138338.37168584293,
+      "activity": 0.026797247161418392
+    },
+    {
+      "token": 151233.26063031517,
+      "activity": 0.024922561126769636
+    },
+    {
+      "token": 13020.08204102051,
+      "activity": 0.0244928916988838
+    },
+    {
+      "token": 80999.93346673338,
+      "activity": 0.024187819249425275
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 62,
+    "edges": 1028,
+    "scene_entity_counts": [
+      21,
+      21,
+      31,
+      31,
+      30,
+      45,
+      18,
+      26,
+      33,
+      26,
+      26,
+      22,
+      25,
+      26,
+      32,
+      42,
+      45,
+      22,
+      25,
+      30,
+      30,
+      14,
+      19,
+      29,
+      20,
+      13,
+      20,
+      11,
+      23,
+      12,
+      20,
+      10,
+      26,
+      29,
+      24,
+      28,
+      22,
+      15,
+      19,
+      18,
+      12,
+      13,
+      18,
+      24,
+      32,
+      23,
+      14,
+      23,
+      34,
+      24,
+      14,
+      20,
+      21,
+      14,
+      15,
+      17,
+      7,
+      13,
+      16,
+      32,
+      25,
+      19
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.015,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.7687,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.7687
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4985
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4985
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.6088
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7315
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.7686
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.5326335179695288,
+        "read_time_min": 47.3,
+        "driving_words": [
+          "amazing",
+          "win",
+          "heavenly",
+          "triumph",
+          "rejoice",
+          "winning"
+        ]
+      },
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.42638676205590853,
+        "read_time_min": 190.5,
+        "driving_words": [
+          "rejoice",
+          "win",
+          "brilliant",
+          "love",
+          "pleasure",
+          "beauty"
+        ]
+      },
+      {
+        "position": 0.9090909090909091,
+        "smoothed": 0.40265328542968226,
+        "read_time_min": 633.8,
+        "driving_words": [
+          "heavenly",
+          "wins",
+          "win",
+          "wonderful",
+          "triumph",
+          "glad"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.32323232323232326,
+        "smoothed": 0.2688119656073262,
+        "read_time_min": 238.2,
+        "driving_words": [
+          "dick",
+          "angry",
+          "dead",
+          "die",
+          "plagued",
+          "plagues"
+        ]
+      },
+      {
+        "position": 0.5151515151515151,
+        "smoothed": 0.21348676329823912,
+        "read_time_min": 367.8,
+        "driving_words": [
+          "hell",
+          "lost",
+          "losing",
+          "died",
+          "dead",
+          "loose"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.12014315848876667,
+        "read_time_min": 497.4,
+        "driving_words": [
+          "hell",
+          "dead",
+          "die",
+          "betrayed",
+          "cruelty",
+          "dying"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Home_Book_of_Verse_Volume_2_Burton_Egbert_Stevenson/sentiment_arc.png"
+  }
+}

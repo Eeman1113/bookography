@@ -1,0 +1,239 @@
+{
+  "slug": "Undine_La_Motte-Fouqué",
+  "title_display": "Undine La Motte-Fouqué",
+  "language": "en",
+  "length_tokens": 42038,
+  "length_words": 33455,
+  "unique_entities": 13,
+  "entity_mentions": 436,
+  "scene_count": 11,
+  "top_entities": [
+    {
+      "label": "undine",
+      "count": 189,
+      "type": "PERSON"
+    },
+    {
+      "label": "bertalda",
+      "count": 112,
+      "type": "ORG"
+    },
+    {
+      "label": "huldbrand",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "kuhleborn",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "ringstetten",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "danube",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "heilmann",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "castle ringstetten",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "the black valley",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "fouque",
+      "count": 4,
+      "type": "NORP"
+    },
+    {
+      "label": "christian",
+      "count": 3,
+      "type": "NORP"
+    },
+    {
+      "label": "the mediterranean sea",
+      "count": 3,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 29062.098049024513,
+      "activity": 0.03858647141835456
+    },
+    {
+      "token": 34445.52576288144,
+      "activity": 0.032199522573668635
+    },
+    {
+      "token": 35896.52776388194,
+      "activity": 0.029860931277948324
+    },
+    {
+      "token": 24351.5987993997,
+      "activity": 0.028412986982113086
+    },
+    {
+      "token": 28220.93746873437,
+      "activity": 0.028127877957346663
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 47,
+    "scene_entity_counts": [
+      3,
+      4,
+      3,
+      5,
+      2,
+      3,
+      8,
+      9,
+      7,
+      8,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0046,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.5566,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.5566
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3807
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2403
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0643
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2712
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3807
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.12221080303224831,
+        "read_time_min": 23.8,
+        "driving_words": [
+          "wonderful",
+          "victory",
+          "loved",
+          "won",
+          "lovely",
+          "love"
+        ]
+      },
+      {
+        "position": 0.43434343434343436,
+        "smoothed": 0.13574566154466616,
+        "read_time_min": 60.8,
+        "driving_words": [
+          "rejoicing",
+          "heavenly",
+          "winning",
+          "wonderful",
+          "rejoiced",
+          "rejoice"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": 0.12046622344718522,
+        "read_time_min": 75.0,
+        "driving_words": [
+          "winning",
+          "wonderful",
+          "rejoiced",
+          "rejoice",
+          "brilliant",
+          "pleased"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": 0.04699637625289674,
+        "read_time_min": 37.1,
+        "driving_words": [
+          "awful",
+          "lost",
+          "dumb",
+          "loss",
+          "uproar",
+          "warning"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.02477697794620347,
+        "read_time_min": 102.4,
+        "driving_words": [
+          "terror",
+          "angry",
+          "evil",
+          "violence",
+          "disgusted",
+          "violent"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.033654403442636364,
+        "read_time_min": 111.0,
+        "driving_words": [
+          "terror",
+          "dead",
+          "evil",
+          "terrified",
+          "terrible",
+          "worse"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Undine_La_Motte-Fouqué/sentiment_arc.png"
+  }
+}

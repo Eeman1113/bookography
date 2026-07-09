@@ -1,0 +1,271 @@
+{
+  "slug": "Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley",
+  "title_display": "Frankenstein or the modern prometheus Mary Wollstonecraft Shelley",
+  "language": "en",
+  "length_tokens": 92299,
+  "length_words": 75297,
+  "unique_entities": 57,
+  "entity_mentions": 681,
+  "scene_count": 33,
+  "top_entities": [
+    {
+      "label": "elizabeth",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "justine",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "clerval",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "felix",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "geneva",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "safie",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "frankenstein",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "agatha",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "victor",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "ingolstadt",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "arabian",
+      "count": 13,
+      "type": "NORP"
+    },
+    {
+      "label": "ernest",
+      "count": 13,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 48480.69034517258,
+      "activity": 0.046456745430210306
+    },
+    {
+      "token": 45340.98849424712,
+      "activity": 0.022296912396807613
+    },
+    {
+      "token": 25163.786893446722,
+      "activity": 0.021901650611205643
+    },
+    {
+      "token": 24702.06603301651,
+      "activity": 0.020643767784972636
+    },
+    {
+      "token": 28072.62831415708,
+      "activity": 0.02027001516784609
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 33,
+    "edges": 208,
+    "scene_entity_counts": [
+      7,
+      4,
+      6,
+      10,
+      9,
+      8,
+      8,
+      17,
+      15,
+      9,
+      6,
+      11,
+      4,
+      4,
+      7,
+      12,
+      6,
+      6,
+      4,
+      11,
+      11,
+      13,
+      9,
+      7,
+      8,
+      8,
+      5,
+      5,
+      8,
+      5,
+      9,
+      5,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0155,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.567,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.567
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3557
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0629
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3743
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5007
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.567
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.19527662895675701,
+        "read_time_min": 30.6,
+        "driving_words": [
+          "triumph",
+          "wonderfully",
+          "wonderful",
+          "overjoyed",
+          "beloved",
+          "excited"
+        ]
+      },
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.11906484166068904,
+        "read_time_min": 56.9,
+        "driving_words": [
+          "brilliant",
+          "miracle",
+          "wonderful",
+          "supreme",
+          "winning",
+          "great"
+        ]
+      },
+      {
+        "position": 0.5050505050505051,
+        "smoothed": 0.16325362446616817,
+        "read_time_min": 151.9,
+        "driving_words": [
+          "rejoiced",
+          "wonderful",
+          "win",
+          "ecstatic",
+          "perfectly",
+          "paradise"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3333333333333333,
+        "smoothed": -0.1658975243757583,
+        "read_time_min": 107.1,
+        "driving_words": [
+          "torture",
+          "tortures",
+          "hell",
+          "lost",
+          "destroyed",
+          "crime"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": -0.1359763222846691,
+        "read_time_min": 228.4,
+        "driving_words": [
+          "tortures",
+          "torture",
+          "tortured",
+          "miserable",
+          "terrible",
+          "cheat"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.09552934883703394,
+        "read_time_min": 273.3,
+        "driving_words": [
+          "hell",
+          "torture",
+          "fraud",
+          "tortured",
+          "evil",
+          "loss"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Frankenstein_or_the_modern_prometheus_Mary_Wollstonecraft_Shelley/sentiment_arc.png"
+  }
+}

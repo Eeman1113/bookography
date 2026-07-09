@@ -1,0 +1,214 @@
+{
+  "slug": "The_Blue_Lagoon_A_Romance_H_De_Vere_Stacpoole",
+  "title": "The Blue Lagoon A Romance H De Vere Stacpoole",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 84848,
+  "n_unique_entities": 60,
+  "n_entity_mentions": 1128,
+  "sigma": 212.12,
+  "target_scenes": 28,
+  "detected_scene_boundaries": [
+    4487.578947368422,
+    8624.200821201941,
+    11507.30896656535,
+    15772.16598062954,
+    20315.364194915255,
+    23660.739772727273,
+    26211.666927899685,
+    27939.678544061302,
+    30563.29710806697,
+    34732.21655251141,
+    39176.820098039214,
+    43931.21176470588,
+    48560.3,
+    53546.91891891892,
+    57918.353701527616,
+    61974.63716356108,
+    66554.62830687831,
+    69700.49945533769,
+    71877.29411764705,
+    73648.3768382353,
+    76905.13060897436,
+    81271.4289044289
+  ],
+  "n_scenes": 23,
+  "top_entities": [
+    {
+      "label": "dick",
+      "count": 300,
+      "type": "PERSON"
+    },
+    {
+      "label": "emmeline",
+      "count": 186,
+      "type": "ORG"
+    },
+    {
+      "label": "button",
+      "count": 135,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrange",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "paddy",
+      "count": 72,
+      "type": "GPE"
+    },
+    {
+      "label": "stacpoole",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "northumberland",
+      "count": 20,
+      "type": "ORG"
+    },
+    {
+      "label": "pacific",
+      "count": 19,
+      "type": "LOC"
+    },
+    {
+      "label": "le farge",
+      "count": 19,
+      "type": "FAC"
+    },
+    {
+      "label": "hannah",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "dicky",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "dick’s",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "paddy button",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "stannard",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "stannistreet",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "san francisco",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "boston",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "shenandoah",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "koko",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "marquesas",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "james",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "buck",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "arago",
+      "count": 6,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 83870.77138569285,
+      "activity": 0.040819153363523826
+    },
+    {
+      "token": 82257.87193596798,
+      "activity": 0.03555028247960317
+    },
+    {
+      "token": 37690.91345672836,
+      "activity": 0.032223888075553195
+    },
+    {
+      "token": 13921.868934467233,
+      "activity": 0.031582040152502516
+    },
+    {
+      "token": 32342.878439219607,
+      "activity": 0.031170348293114665
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 23,
+    "edges": 183,
+    "scene_entity_counts": [
+      25,
+      15,
+      14,
+      18,
+      13,
+      13,
+      7,
+      6,
+      9,
+      11,
+      11,
+      12,
+      10,
+      4,
+      5,
+      5,
+      6,
+      6,
+      4,
+      4,
+      11,
+      11,
+      23
+    ]
+  }
+}

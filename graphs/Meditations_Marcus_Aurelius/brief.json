@@ -1,0 +1,275 @@
+{
+  "slug": "Meditations_Marcus_Aurelius",
+  "title_display": "Meditations Marcus Aurelius",
+  "language": "en",
+  "length_tokens": 90597,
+  "length_words": 71982,
+  "unique_entities": 73,
+  "entity_mentions": 761,
+  "scene_count": 37,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 203,
+      "type": "NORP"
+    },
+    {
+      "label": "marcus",
+      "count": 46,
+      "type": "GPE"
+    },
+    {
+      "label": "fronto",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "stoic",
+      "count": 23,
+      "type": "NORP"
+    },
+    {
+      "label": "roman",
+      "count": 21,
+      "type": "NORP"
+    },
+    {
+      "label": "greek",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "rome",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "b.c.",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "plato",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "marcus aurelius",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "christian",
+      "count": 14,
+      "type": "NORP"
+    },
+    {
+      "label": "xii",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "xiv",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "whatsoever",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "xv",
+      "count": 13,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 88465.92896448224,
+      "activity": 0.03804548329259341
+    },
+    {
+      "token": 89553.6248124062,
+      "activity": 0.036019250023306644
+    },
+    {
+      "token": 87740.7983991996,
+      "activity": 0.032911522812324664
+    },
+    {
+      "token": 2401.9949974987494,
+      "activity": 0.03128141451648786
+    },
+    {
+      "token": 3988.2181090545273,
+      "activity": 0.026505792816374347
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 37,
+    "edges": 285,
+    "scene_entity_counts": [
+      11,
+      16,
+      12,
+      14,
+      7,
+      5,
+      6,
+      7,
+      9,
+      14,
+      5,
+      3,
+      4,
+      4,
+      7,
+      11,
+      10,
+      8,
+      6,
+      5,
+      9,
+      15,
+      10,
+      10,
+      5,
+      5,
+      6,
+      12,
+      7,
+      5,
+      9,
+      7,
+      15,
+      12,
+      8,
+      15,
+      44
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.006,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.6595,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6595
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2924
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2924
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5495
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.6342
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.6519
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.17055214597730078,
+        "read_time_min": 30.0,
+        "driving_words": [
+          "wonderful",
+          "win",
+          "rejoice",
+          "happy",
+          "perfect",
+          "affection"
+        ]
+      },
+      {
+        "position": 0.3333333333333333,
+        "smoothed": 0.14473322844411404,
+        "read_time_min": 102.6,
+        "driving_words": [
+          "rejoice",
+          "admire",
+          "good",
+          "perfect",
+          "pleased",
+          "happiness"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": 0.14336564980974373,
+        "read_time_min": 255.4,
+        "driving_words": [
+          "wonderful",
+          "wins",
+          "rejoiced",
+          "rejoice",
+          "ominous",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.16161616161616163,
+        "smoothed": 0.07497199941619373,
+        "read_time_min": 60.1,
+        "driving_words": [
+          "fraudulent",
+          "evil",
+          "bad",
+          "worse",
+          "dreadful",
+          "vile"
+        ]
+      },
+      {
+        "position": 0.5454545454545454,
+        "smoothed": 0.014156906142297046,
+        "read_time_min": 155.2,
+        "driving_words": [
+          "guilt",
+          "worse",
+          "anger",
+          "die",
+          "damage",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.8282828282828283,
+        "smoothed": 0.051822533661868155,
+        "read_time_min": 225.4,
+        "driving_words": [
+          "kill",
+          "die",
+          "angry",
+          "chide",
+          "dead",
+          "guilty"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Meditations_Marcus_Aurelius/sentiment_arc.png"
+  }
+}

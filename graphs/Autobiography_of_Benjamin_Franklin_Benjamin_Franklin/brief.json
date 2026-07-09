@@ -1,0 +1,276 @@
+{
+  "slug": "Autobiography_of_Benjamin_Franklin_Benjamin_Franklin",
+  "title_display": "Autobiography of Benjamin Franklin Benjamin Franklin",
+  "language": "en",
+  "length_tokens": 98313,
+  "length_words": 75520,
+  "unique_entities": 156,
+  "entity_mentions": 1348,
+  "scene_count": 38,
+  "top_entities": [
+    {
+      "label": "franklin",
+      "count": 93,
+      "type": "ORG"
+    },
+    {
+      "label": "philadelphia",
+      "count": 71,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 50,
+      "type": "GPE"
+    },
+    {
+      "label": "assembly",
+      "count": 49,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "boston",
+      "count": 41,
+      "type": "GPE"
+    },
+    {
+      "label": "keimer",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "pennsylvania",
+      "count": 31,
+      "type": "GPE"
+    },
+    {
+      "label": "thro",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "america",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "house",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "french",
+      "count": 22,
+      "type": "NORP"
+    },
+    {
+      "label": "ralph",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 19,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 3836.0860430215107,
+      "activity": 0.04728288680042213
+    },
+    {
+      "token": 93541.48274137068,
+      "activity": 0.043411543389963524
+    },
+    {
+      "token": 1721.320660330165,
+      "activity": 0.042949928736360075
+    },
+    {
+      "token": 3000.016008004002,
+      "activity": 0.04122341172398646
+    },
+    {
+      "token": 18442.72136068034,
+      "activity": 0.03278714474812957
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 38,
+    "edges": 496,
+    "scene_entity_counts": [
+      27,
+      23,
+      16,
+      13,
+      15,
+      16,
+      29,
+      26,
+      9,
+      19,
+      23,
+      16,
+      14,
+      12,
+      6,
+      4,
+      9,
+      14,
+      21,
+      12,
+      5,
+      12,
+      13,
+      18,
+      8,
+      9,
+      25,
+      21,
+      11,
+      24,
+      13,
+      27,
+      23,
+      21,
+      22,
+      34,
+      24,
+      18
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.006,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.569,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.569
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.3811
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0043
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0284
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3584
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.569
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.17379097089233753,
+        "read_time_min": 22.6,
+        "driving_words": [
+          "wonderful",
+          "wonderfully",
+          "successful",
+          "charm",
+          "fascinated",
+          "great"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.1580168766741361,
+        "read_time_min": 75.6,
+        "driving_words": [
+          "wonderful",
+          "amazing",
+          "good",
+          "succeed",
+          "excellent",
+          "great"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": 0.19359176514770723,
+        "read_time_min": 136.5,
+        "driving_words": [
+          "supreme",
+          "good",
+          "great",
+          "excellent",
+          "pleasure",
+          "affection"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7777777777777778,
+        "smoothed": 0.046969432475156836,
+        "read_time_min": 223.8,
+        "driving_words": [
+          "foul",
+          "die",
+          "bloody",
+          "abusive",
+          "selfish",
+          "loss"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.04112738069514544,
+        "read_time_min": 247.7,
+        "driving_words": [
+          "damned",
+          "killed",
+          "lost",
+          "destroy'd",
+          "abusing",
+          "loss"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": 0.07140286174527957,
+        "read_time_min": 268.8,
+        "driving_words": [
+          "damned",
+          "died",
+          "loss",
+          "foul",
+          "deceiving",
+          "damages"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_Benjamin_Franklin_Benjamin_Franklin/sentiment_arc.png"
+  }
+}

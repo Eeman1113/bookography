@@ -1,0 +1,174 @@
+{
+  "slug": "Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass",
+  "title": "Narrative of the Life of Frederick Douglass an American Slave Frederick Douglass",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 51129,
+  "n_unique_entities": 60,
+  "n_entity_mentions": 493,
+  "sigma": 127.8225,
+  "target_scenes": 17,
+  "detected_scene_boundaries": [
+    19809.53296202202,
+    31426.69970672833
+  ],
+  "n_scenes": 3,
+  "top_entities": [
+    {
+      "label": "covey",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "baltimore",
+      "count": 42,
+      "type": "GPE"
+    },
+    {
+      "label": "lloyd’s",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "new bedford",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "henry",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "maryland",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "lloyd",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "thomas",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "gore",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "freeland",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "master hugh",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "gardner",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "christianity",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "easton",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "hamilton",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "douglass",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "hugh",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "sabbath",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "johnson",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "frederick douglass",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "narrative",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "lucretia",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "auld",
+      "count": 7,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 38493.06653326663,
+      "activity": 0.034574829920773986
+    },
+    {
+      "token": 46114.94947473737,
+      "activity": 0.03386992250753485
+    },
+    {
+      "token": 31561.75687843922,
+      "activity": 0.03217230696653508
+    },
+    {
+      "token": 46498.60130065033,
+      "activity": 0.02928130475165695
+    },
+    {
+      "token": 21305.464732366185,
+      "activity": 0.02882626569370738
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 47,
+    "scene_entity_counts": [
+      40,
+      25,
+      42
+    ]
+  }
+}

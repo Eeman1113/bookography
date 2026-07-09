@@ -1,0 +1,297 @@
+{
+  "slug": "The_Monk_A_Romance_M_G_Lewis",
+  "title_display": "The Monk A Romance M G Lewis",
+  "language": "en",
+  "length_tokens": 173479,
+  "length_words": 138446,
+  "unique_entities": 360,
+  "entity_mentions": 4206,
+  "scene_count": 59,
+  "top_entities": [
+    {
+      "label": "antonia",
+      "count": 290,
+      "type": "GPE"
+    },
+    {
+      "label": "matilda",
+      "count": 175,
+      "type": "ORG"
+    },
+    {
+      "label": "agnes",
+      "count": 154,
+      "type": "LOC"
+    },
+    {
+      "label": "lorenzo",
+      "count": 132,
+      "type": "PERSON"
+    },
+    {
+      "label": "ambrosio",
+      "count": 113,
+      "type": "GPE"
+    },
+    {
+      "label": "elvira",
+      "count": 107,
+      "type": "ORG"
+    },
+    {
+      "label": "nuns",
+      "count": 88,
+      "type": "GPE"
+    },
+    {
+      "label": "madrid",
+      "count": 79,
+      "type": "GPE"
+    },
+    {
+      "label": "marquis",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "friend",
+      "count": 55,
+      "type": "ORG"
+    },
+    {
+      "label": "lady",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "abbey",
+      "count": 49,
+      "type": "GPE"
+    },
+    {
+      "label": "house",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "flora",
+      "count": 46,
+      "type": "PERSON"
+    },
+    {
+      "label": "jacintha",
+      "count": 40,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 163931.93696848422,
+      "activity": 0.043188098598566635
+    },
+    {
+      "token": 146228.32916458228,
+      "activity": 0.04165599282039337
+    },
+    {
+      "token": 123230.99549774887,
+      "activity": 0.04107111676987254
+    },
+    {
+      "token": 119933.26463231616,
+      "activity": 0.040244549538534236
+    },
+    {
+      "token": 153518.0500250125,
+      "activity": 0.03965763698739856
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 59,
+    "edges": 1655,
+    "scene_entity_counts": [
+      29,
+      46,
+      39,
+      52,
+      40,
+      29,
+      32,
+      22,
+      36,
+      25,
+      39,
+      25,
+      25,
+      40,
+      43,
+      41,
+      25,
+      44,
+      38,
+      38,
+      48,
+      39,
+      41,
+      35,
+      16,
+      33,
+      34,
+      22,
+      39,
+      25,
+      27,
+      16,
+      15,
+      24,
+      32,
+      22,
+      23,
+      20,
+      29,
+      42,
+      31,
+      52,
+      36,
+      36,
+      20,
+      29,
+      39,
+      38,
+      68,
+      46,
+      36,
+      42,
+      25,
+      38,
+      38,
+      38,
+      61,
+      24,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0154,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6793,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6793
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.3603
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1251
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1584
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4323
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6793
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.11551431753244373,
+        "read_time_min": 35.6,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "amazing",
+          "luckily",
+          "handsome",
+          "sparkling"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.10735039993234086,
+        "read_time_min": 87.5,
+        "driving_words": [
+          "heavenly",
+          "miracle",
+          "wonderful",
+          "rejoice",
+          "beauty",
+          "adoration"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.1787255981059221,
+        "read_time_min": 305.4,
+        "driving_words": [
+          "rejoice",
+          "rejoiced",
+          "brilliant",
+          "fantastic",
+          "heavenly",
+          "wonderful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.0842183201098341,
+        "read_time_min": 383.3,
+        "driving_words": [
+          "rape",
+          "tortures",
+          "deceived",
+          "slave",
+          "crime",
+          "guilt"
+        ]
+      },
+      {
+        "position": 0.8181818181818182,
+        "smoothed": -0.14933018971936515,
+        "read_time_min": 440.4,
+        "driving_words": [
+          "torture",
+          "losing",
+          "die",
+          "loss",
+          "crimes",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.2120974681670073,
+        "read_time_min": 518.2,
+        "driving_words": [
+          "tortures",
+          "hell",
+          "torture",
+          "rape",
+          "dreadful",
+          "terrible"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Monk_A_Romance_M_G_Lewis/sentiment_arc.png"
+  }
+}

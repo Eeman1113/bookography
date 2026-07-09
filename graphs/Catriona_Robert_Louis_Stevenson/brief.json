@@ -1,0 +1,287 @@
+{
+  "slug": "Catriona_Robert_Louis_Stevenson",
+  "title_display": "Catriona Robert Louis Stevenson",
+  "language": "en",
+  "length_tokens": 131850,
+  "length_words": 102697,
+  "unique_entities": 135,
+  "entity_mentions": 1863,
+  "scene_count": 49,
+  "top_entities": [
+    {
+      "label": "alan",
+      "count": 202,
+      "type": "PERSON"
+    },
+    {
+      "label": "i.",
+      "count": 188,
+      "type": "ORG"
+    },
+    {
+      "label": "catriona",
+      "count": 143,
+      "type": "ORG"
+    },
+    {
+      "label": "james more",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "james",
+      "count": 74,
+      "type": "PERSON"
+    },
+    {
+      "label": "balfour",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "david",
+      "count": 65,
+      "type": "PERSON"
+    },
+    {
+      "label": "stewart",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "andie",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "drummond",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "neil",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "grant",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "scotland",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "bass",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "highland",
+      "count": 23,
+      "type": "FAC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 8904.259629814907,
+      "activity": 0.038302674839961734
+    },
+    {
+      "token": 128221.33866933468,
+      "activity": 0.03385508523061651
+    },
+    {
+      "token": 130463.89294647325,
+      "activity": 0.030821713036522667
+    },
+    {
+      "token": 60944.710355177594,
+      "activity": 0.029024034367017497
+    },
+    {
+      "token": 62329.81740870436,
+      "activity": 0.027758042552422615
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 49,
+    "edges": 668,
+    "scene_entity_counts": [
+      21,
+      23,
+      17,
+      21,
+      15,
+      9,
+      13,
+      10,
+      12,
+      19,
+      21,
+      11,
+      15,
+      28,
+      27,
+      26,
+      21,
+      15,
+      11,
+      17,
+      18,
+      13,
+      11,
+      12,
+      21,
+      29,
+      21,
+      22,
+      18,
+      15,
+      13,
+      17,
+      19,
+      16,
+      14,
+      19,
+      23,
+      14,
+      7,
+      13,
+      6,
+      16,
+      5,
+      6,
+      8,
+      17,
+      15,
+      17,
+      26
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0056,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.5809,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.5809
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5255
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.4594
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.2986
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.2986
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.5854
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": 0.056782682738068226,
+        "read_time_min": 50.0,
+        "driving_words": [
+          "rejoiced",
+          "fun",
+          "triumph",
+          "lucky",
+          "great",
+          "blessing"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": 0.06260951622643691,
+        "read_time_min": 136.1,
+        "driving_words": [
+          "rejoice",
+          "rejoicing",
+          "wow",
+          "good",
+          "mirthful",
+          "mirth"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.14166573557296694,
+        "read_time_min": 259.7,
+        "driving_words": [
+          "wonderful",
+          "pleased",
+          "good",
+          "best",
+          "merry",
+          "beautiful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.16161616161616163,
+        "smoothed": -0.02726905881195802,
+        "read_time_min": 79.9,
+        "driving_words": [
+          "ass",
+          "damned",
+          "torture",
+          "dying",
+          "criminal",
+          "worst"
+        ]
+      },
+      {
+        "position": 0.40404040404040403,
+        "smoothed": 0.03255811645292311,
+        "read_time_min": 169.8,
+        "driving_words": [
+          "damned",
+          "stupidity",
+          "terrible",
+          "deadly",
+          "liars",
+          "die"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": -0.005303164122310844,
+        "read_time_min": 349.6,
+        "driving_words": [
+          "lost",
+          "disgusted",
+          "destruction",
+          "warning",
+          "damaged",
+          "violence"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Catriona_Robert_Louis_Stevenson/sentiment_arc.png"
+  }
+}

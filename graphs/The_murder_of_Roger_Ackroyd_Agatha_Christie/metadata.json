@@ -1,0 +1,234 @@
+{
+  "slug": "The_murder_of_Roger_Ackroyd_Agatha_Christie",
+  "title": "The murder of Roger Ackroyd Agatha Christie",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 100884,
+  "n_unique_entities": 77,
+  "n_entity_mentions": 2443,
+  "sigma": 252.21,
+  "target_scenes": 33,
+  "detected_scene_boundaries": [
+    2253.445930232558,
+    4078.9392857142857,
+    6590.543554006968,
+    10340.665333866455,
+    14595.943908711026,
+    18067.195343137253,
+    20777.2902027027,
+    24091.222439544807,
+    27012.94002669718,
+    29744.982789855072,
+    32242.944852941175,
+    34796.096638655465,
+    37379.81043956044,
+    39758.273237179485,
+    41838.7828525641,
+    44577.46182983683,
+    48038.49067599067,
+    51354.234615384616,
+    55452.25833333333,
+    59402.462254901955,
+    62422.035104364324,
+    66245.9168970814,
+    70044.525,
+    73649.19047619047,
+    77781.32391774892,
+    80468.28724340175,
+    82277.4293809939,
+    84382.10296010296,
+    87455.05280112044,
+    90779.46946778712,
+    94396.93667679839,
+    98375.47635933806
+  ],
+  "n_scenes": 33,
+  "top_entities": [
+    {
+      "label": "poirot",
+      "count": 341,
+      "type": "PERSON"
+    },
+    {
+      "label": "ackroyd",
+      "count": 308,
+      "type": "ORG"
+    },
+    {
+      "label": "caroline",
+      "count": 202,
+      "type": "PERSON"
+    },
+    {
+      "label": "flora",
+      "count": 164,
+      "type": "PERSON"
+    },
+    {
+      "label": "parker",
+      "count": 148,
+      "type": "ORG"
+    },
+    {
+      "label": "blunt",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "ralph",
+      "count": 102,
+      "type": "PERSON"
+    },
+    {
+      "label": "raymond",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "ralph paton",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheppard",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "russell",
+      "count": 60,
+      "type": "PERSON"
+    },
+    {
+      "label": "raglan",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrars",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "ganett",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. poirot",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "james",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "ursula",
+      "count": 32,
+      "type": "ORG"
+    },
+    {
+      "label": "roger",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "paton",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "ursula bourne",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "king’s abbot",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "roger ackroyd",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "hammond",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles kent",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "flora ackroyd",
+      "count": 18,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 49709.732366183096,
+      "activity": 0.0491082075032674
+    },
+    {
+      "token": 85238.31265632817,
+      "activity": 0.04782822728469528
+    },
+    {
+      "token": 62023.615307653825,
+      "activity": 0.0462386587286678
+    },
+    {
+      "token": 60257.27963981991,
+      "activity": 0.044819746735695346
+    },
+    {
+      "token": 3128.937468734367,
+      "activity": 0.044697131585425307
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 33,
+    "edges": 523,
+    "scene_entity_counts": [
+      11,
+      17,
+      16,
+      17,
+      20,
+      12,
+      9,
+      11,
+      24,
+      15,
+      15,
+      17,
+      14,
+      20,
+      14,
+      14,
+      23,
+      16,
+      26,
+      20,
+      23,
+      32,
+      22,
+      17,
+      27,
+      19,
+      11,
+      19,
+      24,
+      30,
+      16,
+      20,
+      9
+    ]
+  }
+}

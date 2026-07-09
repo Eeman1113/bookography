@@ -1,0 +1,309 @@
+{
+  "slug": "The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency",
+  "title_display": "The 2006 CIA World Factbook United States Central Intelligence Agency",
+  "language": "en",
+  "length_tokens": 406740,
+  "length_words": 1027816,
+  "unique_entities": 1040,
+  "entity_mentions": 14252,
+  "scene_count": 71,
+  "top_entities": [
+    {
+      "label": "us",
+      "count": 721,
+      "type": "GPE"
+    },
+    {
+      "label": "na",
+      "count": 226,
+      "type": "ORG"
+    },
+    {
+      "label": "uk",
+      "count": 205,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 198,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 169,
+      "type": "NORP"
+    },
+    {
+      "label": "washington",
+      "count": 156,
+      "type": "GPE"
+    },
+    {
+      "label": "china",
+      "count": 142,
+      "type": "GPE"
+    },
+    {
+      "label": "germany",
+      "count": 127,
+      "type": "GPE"
+    },
+    {
+      "label": "dc",
+      "count": 115,
+      "type": "GPE"
+    },
+    {
+      "label": "russia",
+      "count": 108,
+      "type": "GPE"
+    },
+    {
+      "label": "un",
+      "count": 108,
+      "type": "ORG"
+    },
+    {
+      "label": "ppp",
+      "count": 108,
+      "type": "ORG"
+    },
+    {
+      "label": "australia",
+      "count": 106,
+      "type": "GPE"
+    },
+    {
+      "label": "spain",
+      "count": 105,
+      "type": "GPE"
+    },
+    {
+      "label": "imf",
+      "count": 93,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6918.0220110055025,
+      "activity": 0.09605134586293453
+    },
+    {
+      "token": 306427.6808404202,
+      "activity": 0.06960518389321448
+    },
+    {
+      "token": 325757.44822411204,
+      "activity": 0.06172574043642545
+    },
+    {
+      "token": 309886.69184592296,
+      "activity": 0.05845702867584352
+    },
+    {
+      "token": 1017.3561780890445,
+      "activity": 0.05505288526187948
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 71,
+    "edges": 7113,
+    "scene_entity_counts": [
+      144,
+      245,
+      77,
+      77,
+      53,
+      71,
+      124,
+      117,
+      121,
+      115,
+      147,
+      115,
+      193,
+      160,
+      130,
+      56,
+      94,
+      92,
+      148,
+      106,
+      65,
+      71,
+      92,
+      123,
+      151,
+      82,
+      121,
+      118,
+      110,
+      94,
+      143,
+      101,
+      102,
+      157,
+      137,
+      125,
+      103,
+      83,
+      84,
+      59,
+      113,
+      162,
+      100,
+      78,
+      154,
+      186,
+      132,
+      83,
+      123,
+      161,
+      101,
+      131,
+      203,
+      117,
+      133,
+      170,
+      75,
+      64,
+      78,
+      116,
+      187,
+      103,
+      114,
+      74,
+      97,
+      41,
+      106,
+      112,
+      147,
+      89,
+      97
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0131,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.2021,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.2021
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1059
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.092
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0909
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.2021
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.208
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.7575757575757576,
+        "smoothed": 0.13648464407351013,
+        "read_time_min": 3104.3,
+        "driving_words": [
+          "winning",
+          "winner",
+          "supreme",
+          "popular",
+          "won",
+          "great"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.11217088551152388,
+        "read_time_min": 3556.7,
+        "driving_words": [
+          "popular",
+          "grand",
+          "freedom",
+          "progress",
+          "peace",
+          "solidarity"
+        ]
+      },
+      {
+        "position": 0.98989898989899,
+        "smoothed": 0.045567516233162096,
+        "read_time_min": 4050.1,
+        "driving_words": [
+          "succeeded",
+          "great",
+          "good",
+          "peace",
+          "effective",
+          "resolve"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": -0.02792529378656331,
+        "read_time_min": 143.4,
+        "driving_words": [
+          "illegal",
+          "hazardous",
+          "lost",
+          "loss",
+          "damaged",
+          "corruption"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": -0.15367715908622537,
+        "read_time_min": 2405.2,
+        "driving_words": [
+          "loss",
+          "damage",
+          "toxic",
+          "damaging",
+          "hazardous",
+          "destruction"
+        ]
+      },
+      {
+        "position": 0.9393939393939394,
+        "smoothed": -0.080202656812943,
+        "read_time_min": 3844.5,
+        "driving_words": [
+          "plague",
+          "victims",
+          "violence",
+          "corruption",
+          "victim",
+          "abuse"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_2006_CIA_World_Factbook_United_States_Central_Intelligence_Agency/sentiment_arc.png"
+  }
+}

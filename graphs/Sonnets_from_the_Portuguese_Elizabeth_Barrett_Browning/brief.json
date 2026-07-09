@@ -1,0 +1,176 @@
+{
+  "slug": "Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning",
+  "title_display": "Sonnets from the Portuguese Elizabeth Barrett Browning",
+  "language": "en",
+  "length_tokens": 7532,
+  "length_words": 5666,
+  "unique_entities": 2,
+  "entity_mentions": 29,
+  "scene_count": 3,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "belovëd",
+      "count": 12,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6875.475237618809,
+      "activity": 0.042296958959101474
+    },
+    {
+      "token": 4581.1385692846425,
+      "activity": 0.041365117809066175
+    },
+    {
+      "token": 1352.4907453726864,
+      "activity": 0.03276989604561457
+    },
+    {
+      "token": 3190.9739869934965,
+      "activity": 0.028194085940919853
+    },
+    {
+      "token": 3778.685842921461,
+      "activity": 0.026153349014339525
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 4,
+    "scene_entity_counts": [
+      2,
+      2,
+      2
+    ]
+  },
+  "sentiment": {
+    "reliability": "low",
+    "window_size": 1869,
+    "volatility": 0.0069,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.3393,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3393
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0183
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0183
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2675
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3281
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.4425
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.28716790272784104,
+        "read_time_min": 8.0,
+        "driving_words": [
+          "wonderful",
+          "love",
+          "praise",
+          "loved",
+          "beloved",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.3838383838383838,
+        "smoothed": 0.3014024389300898,
+        "read_time_min": 9.6,
+        "driving_words": [
+          "wonderful",
+          "heavenly",
+          "love",
+          "beloved",
+          "beautiful",
+          "great"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.32329316373582645,
+        "read_time_min": 18.6,
+        "driving_words": [
+          "thrilled",
+          "love",
+          "joy",
+          "happy",
+          "good",
+          "perfect"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.202748956823154,
+        "read_time_min": 5.7,
+        "driving_words": [
+          "died",
+          "worse",
+          "dreadful",
+          "ungrateful",
+          "dead",
+          "bloody"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.13898952193504577,
+        "read_time_min": 12.3,
+        "driving_words": [
+          "bloody",
+          "died",
+          "dead",
+          "losing",
+          "despairs",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.16373466840088186,
+        "read_time_min": 13.6,
+        "driving_words": [
+          "died",
+          "dead",
+          "losing",
+          "despairs",
+          "bad",
+          "loose"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning/sentiment_arc.png"
+  }
+}

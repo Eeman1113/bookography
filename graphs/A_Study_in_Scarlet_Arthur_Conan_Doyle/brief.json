@@ -1,0 +1,259 @@
+{
+  "slug": "A_Study_in_Scarlet_Arthur_Conan_Doyle",
+  "title_display": "A Study in Scarlet Arthur Conan Doyle",
+  "language": "en",
+  "length_tokens": 56109,
+  "length_words": 44121,
+  "unique_entities": 61,
+  "entity_mentions": 621,
+  "scene_count": 21,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "drebber",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrade",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "gregson",
+      "count": 41,
+      "type": "ORG"
+    },
+    {
+      "label": "stangerson",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "jefferson hope",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "john ferrier",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrier",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "lucy",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "sherlock holmes",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "stamford",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "mormon",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "joseph stangerson",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "utah",
+      "count": 9,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 24727.937968984494,
+      "activity": 0.04439428491075563
+    },
+    {
+      "token": 20601.936968484242,
+      "activity": 0.03522291162501436
+    },
+    {
+      "token": 11816.64232116058,
+      "activity": 0.02932530923928416
+    },
+    {
+      "token": 46115.77988994497,
+      "activity": 0.028405090804515924
+    },
+    {
+      "token": 21977.270635317658,
+      "activity": 0.027742344651751898
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 21,
+    "edges": 192,
+    "scene_entity_counts": [
+      10,
+      6,
+      5,
+      7,
+      7,
+      11,
+      8,
+      10,
+      8,
+      24,
+      16,
+      7,
+      13,
+      16,
+      22,
+      11,
+      11,
+      15,
+      12,
+      19,
+      15
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0043,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.2383,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.2383
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2021
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.1638
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0787
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0787
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2052
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.03512356071378244,
+        "read_time_min": 24.1,
+        "driving_words": [
+          "fantastic",
+          "wonderfully",
+          "wonderful",
+          "fun",
+          "excitement",
+          "great"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": 0.04474994290583171,
+        "read_time_min": 109.6,
+        "driving_words": [
+          "funny",
+          "great",
+          "perfect",
+          "good",
+          "best",
+          "won"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.04133406468822541,
+        "read_time_min": 142.7,
+        "driving_words": [
+          "good",
+          "wealth",
+          "love",
+          "inspiring",
+          "great",
+          "devoted"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": -0.04693764336868136,
+        "read_time_min": 44.8,
+        "driving_words": [
+          "damned",
+          "crimes",
+          "criminals",
+          "crime",
+          "terrible",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.32323232323232326,
+        "smoothed": -0.07389257319948726,
+        "read_time_min": 64.1,
+        "driving_words": [
+          "damned",
+          "dead",
+          "died",
+          "violent",
+          "worse",
+          "killed"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.06685847595617571,
+        "read_time_min": 151.0,
+        "driving_words": [
+          "died",
+          "terrible",
+          "lost",
+          "inexorable",
+          "despair",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Study_in_Scarlet_Arthur_Conan_Doyle/sentiment_arc.png"
+  }
+}

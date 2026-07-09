@@ -1,0 +1,261 @@
+{
+  "slug": "A_Room_with_a_View_E_M_Forster",
+  "title_display": "A Room with a View E M Forster",
+  "language": "en",
+  "length_tokens": 91553,
+  "length_words": 68547,
+  "unique_entities": 100,
+  "entity_mentions": 2302,
+  "scene_count": 23,
+  "top_entities": [
+    {
+      "label": "lucy",
+      "count": 461,
+      "type": "PERSON"
+    },
+    {
+      "label": "beebe",
+      "count": 203,
+      "type": "PERSON"
+    },
+    {
+      "label": "bartlett",
+      "count": 198,
+      "type": "PERSON"
+    },
+    {
+      "label": "freddy",
+      "count": 125,
+      "type": "PERSON"
+    },
+    {
+      "label": "honeychurch",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "emerson",
+      "count": 98,
+      "type": "PERSON"
+    },
+    {
+      "label": "charlotte",
+      "count": 89,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "eager",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "italy",
+      "count": 54,
+      "type": "GPE"
+    },
+    {
+      "label": "florence",
+      "count": 43,
+      "type": "ORG"
+    },
+    {
+      "label": "lavish",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "vyse",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "windy corner",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "alans",
+      "count": 31,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 13648.07203601801,
+      "activity": 0.04701793674810586
+    },
+    {
+      "token": 24914.601300650327,
+      "activity": 0.046080740135466244
+    },
+    {
+      "token": 366.3911955977989,
+      "activity": 0.04542421006829246
+    },
+    {
+      "token": 81522.04102051025,
+      "activity": 0.04443216747328281
+    },
+    {
+      "token": 50561.98499249625,
+      "activity": 0.04316987213539131
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 23,
+    "edges": 498,
+    "scene_entity_counts": [
+      27,
+      35,
+      38,
+      28,
+      32,
+      20,
+      13,
+      17,
+      29,
+      28,
+      30,
+      28,
+      15,
+      18,
+      26,
+      28,
+      35,
+      27,
+      33,
+      27,
+      23,
+      16,
+      25
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0066,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.4093,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.4093
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2451
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2353
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0193
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2451
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2583
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.09050745103691679,
+        "read_time_min": 27.1,
+        "driving_words": [
+          "funny",
+          "triumph",
+          "wonderful",
+          "rejoice",
+          "supreme",
+          "good"
+        ]
+      },
+      {
+        "position": 0.43434343434343436,
+        "smoothed": 0.12142731820759364,
+        "read_time_min": 121.7,
+        "driving_words": [
+          "funny",
+          "wonderful",
+          "wonderfully",
+          "fantastic",
+          "win",
+          "rejoicing"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.08111574709286896,
+        "read_time_min": 150.1,
+        "driving_words": [
+          "funny",
+          "brilliant",
+          "supreme",
+          "fun",
+          "wonderful",
+          "perfect"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.26262626262626265,
+        "smoothed": 0.0005094751998444077,
+        "read_time_min": 81.5,
+        "driving_words": [
+          "boring",
+          "warning",
+          "terrible",
+          "died",
+          "worrying",
+          "hideous"
+        ]
+      },
+      {
+        "position": 0.7474747474747475,
+        "smoothed": -0.0026863986304301924,
+        "read_time_min": 195.0,
+        "driving_words": [
+          "bad",
+          "terrible",
+          "worries",
+          "awful",
+          "died",
+          "violently"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.002643747692103209,
+        "read_time_min": 247.1,
+        "driving_words": [
+          "hell",
+          "ugliness",
+          "dead",
+          "terrible",
+          "worried",
+          "destroyed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Room_with_a_View_E_M_Forster/sentiment_arc.png"
+  }
+}

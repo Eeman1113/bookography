@@ -1,0 +1,268 @@
+{
+  "slug": "The_Mystery_of_Edwin_Drood_Charles_Dickens",
+  "title": "The Mystery of Edwin Drood Charles Dickens",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 129751,
+  "n_unique_entities": 89,
+  "n_entity_mentions": 2671,
+  "sigma": 324.3775,
+  "target_scenes": 43,
+  "detected_scene_boundaries": [
+    2047.620352250489,
+    5651.481780821918,
+    7960.271481481482,
+    9312.23954599761,
+    10746.049731182797,
+    12897.244496855346,
+    15026.196732627704,
+    16583.887970235635,
+    18301.004532912888,
+    20089.822965116276,
+    22601.749264705883,
+    25612.971949891067,
+    28184.60826210826,
+    30737.317016317014,
+    32707.605206999575,
+    34309.48399487836,
+    36394.98824451411,
+    38374.226155539254,
+    40819.414893617024,
+    43092.26274588519,
+    45377.94182389937,
+    48387.27333333333,
+    51164.205873015875,
+    53777.97813716682,
+    56880.19559748428,
+    59891.17380952381,
+    62477.01825396826,
+    65125.11699346405,
+    67623.84690799397,
+    69738.01282051281,
+    71797.41666666666,
+    74259.27972027972,
+    77440.78961038962,
+    81588.15,
+    85153.68311688313,
+    87593.99204545455,
+    90280.7375,
+    93239.07317073172,
+    95923.33179142137,
+    99365.99671592774,
+    103634.47048960428,
+    107459.01975068804,
+    110537.98090470894,
+    113609.80940204563,
+    116048.40997130559,
+    117546.88235294117,
+    121485.18082788671,
+    126037.37668350167,
+    127990.67539525691
+  ],
+  "n_scenes": 50,
+  "top_entities": [
+    {
+      "label": "rosa",
+      "count": 241,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper",
+      "count": 237,
+      "type": "PERSON"
+    },
+    {
+      "label": "crisparkle",
+      "count": 237,
+      "type": "PERSON"
+    },
+    {
+      "label": "grewgious",
+      "count": 232,
+      "type": "PERSON"
+    },
+    {
+      "label": "neville",
+      "count": 163,
+      "type": "GPE"
+    },
+    {
+      "label": "sapsea",
+      "count": 121,
+      "type": "PERSON"
+    },
+    {
+      "label": "twinkleton",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "durdles",
+      "count": 96,
+      "type": "ORG"
+    },
+    {
+      "label": "helena",
+      "count": 84,
+      "type": "ORG"
+    },
+    {
+      "label": "edwin",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "cloisterham",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "tartar",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "datchery",
+      "count": 58,
+      "type": "GPE"
+    },
+    {
+      "label": "dean",
+      "count": 50,
+      "type": "ORG"
+    },
+    {
+      "label": "edwin drood",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "billickin",
+      "count": 49,
+      "type": "ORG"
+    },
+    {
+      "label": "tope",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "eddy",
+      "count": 35,
+      "type": "ORG"
+    },
+    {
+      "label": "honeythunder",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "bazzard",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "cathedral",
+      "count": 32,
+      "type": "ORG"
+    },
+    {
+      "label": "pussy",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "septimus",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "ma",
+      "count": 21,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 111770.63531765885,
+      "activity": 0.04761345621205138
+    },
+    {
+      "token": 109563.78189094548,
+      "activity": 0.04574020645377656
+    },
+    {
+      "token": 58676.33816908455,
+      "activity": 0.04366875053779766
+    },
+    {
+      "token": 115275.63781890947,
+      "activity": 0.03983224903744719
+    },
+    {
+      "token": 96517.38369184593,
+      "activity": 0.037827632969738054
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 540,
+    "scene_entity_counts": [
+      6,
+      16,
+      11,
+      5,
+      9,
+      11,
+      17,
+      8,
+      7,
+      7,
+      13,
+      19,
+      8,
+      25,
+      19,
+      11,
+      13,
+      17,
+      7,
+      10,
+      13,
+      13,
+      14,
+      9,
+      7,
+      14,
+      10,
+      9,
+      18,
+      13,
+      17,
+      15,
+      15,
+      15,
+      15,
+      15,
+      9,
+      10,
+      14,
+      20,
+      11,
+      21,
+      13,
+      13,
+      10,
+      5,
+      18,
+      11,
+      16,
+      7
+    ]
+  }
+}

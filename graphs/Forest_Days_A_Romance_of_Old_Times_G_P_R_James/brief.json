@@ -1,0 +1,296 @@
+{
+  "slug": "Forest_Days_A_Romance_of_Old_Times_G_P_R_James",
+  "title_display": "Forest Days A Romance of Old Times G P R James",
+  "language": "en",
+  "length_tokens": 221501,
+  "length_words": 171372,
+  "unique_entities": 161,
+  "entity_mentions": 3928,
+  "scene_count": 58,
+  "top_entities": [
+    {
+      "label": "hugh",
+      "count": 301,
+      "type": "GPE"
+    },
+    {
+      "label": "lucy",
+      "count": 276,
+      "type": "PERSON"
+    },
+    {
+      "label": "hugh de monthermer",
+      "count": 250,
+      "type": "PERSON"
+    },
+    {
+      "label": "earl",
+      "count": 244,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard de ashby",
+      "count": 211,
+      "type": "PERSON"
+    },
+    {
+      "label": "edward",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "de montfort",
+      "count": 116,
+      "type": "ORG"
+    },
+    {
+      "label": "nottingham",
+      "count": 108,
+      "type": "PERSON"
+    },
+    {
+      "label": "robin",
+      "count": 104,
+      "type": "PERSON"
+    },
+    {
+      "label": "robin hood",
+      "count": 87,
+      "type": "PERSON"
+    },
+    {
+      "label": "kate",
+      "count": 87,
+      "type": "PERSON"
+    },
+    {
+      "label": "ashby",
+      "count": 80,
+      "type": "ORG"
+    },
+    {
+      "label": "tangel",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "guy de margan",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 63,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 77785.39269634818,
+      "activity": 0.03270443823649996
+    },
+    {
+      "token": 138395.947973987,
+      "activity": 0.03202970924897798
+    },
+    {
+      "token": 88865.93296648323,
+      "activity": 0.030195982143358176
+    },
+    {
+      "token": 45984.24212106053,
+      "activity": 0.029699286661594413
+    },
+    {
+      "token": 105597.54877438719,
+      "activity": 0.029662946193103768
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 58,
+    "edges": 1198,
+    "scene_entity_counts": [
+      10,
+      18,
+      15,
+      20,
+      20,
+      32,
+      32,
+      22,
+      35,
+      25,
+      24,
+      25,
+      15,
+      15,
+      9,
+      11,
+      23,
+      32,
+      33,
+      23,
+      25,
+      30,
+      25,
+      25,
+      29,
+      40,
+      34,
+      34,
+      15,
+      37,
+      32,
+      26,
+      15,
+      30,
+      36,
+      18,
+      23,
+      24,
+      15,
+      21,
+      16,
+      20,
+      24,
+      25,
+      19,
+      22,
+      21,
+      13,
+      25,
+      14,
+      19,
+      20,
+      25,
+      29,
+      23,
+      18,
+      21,
+      32
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0098,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8706,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8706
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3628
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.222
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3981
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7152
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8706
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.1445162642964368,
+        "read_time_min": 52.6,
+        "driving_words": [
+          "win",
+          "triumph",
+          "rejoices",
+          "merry",
+          "good",
+          "loved"
+        ]
+      },
+      {
+        "position": 0.1919191919191919,
+        "smoothed": 0.19169830603765384,
+        "read_time_min": 143.9,
+        "driving_words": [
+          "fun",
+          "wonderful",
+          "good",
+          "charm",
+          "merry",
+          "greater"
+        ]
+      },
+      {
+        "position": 0.3434343434343434,
+        "smoothed": 0.14979412843910234,
+        "read_time_min": 241.7,
+        "driving_words": [
+          "triumph",
+          "win",
+          "winning",
+          "good",
+          "love",
+          "faithful"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.40404040404040403,
+        "smoothed": 0.0676034581063864,
+        "read_time_min": 280.8,
+        "driving_words": [
+          "evil",
+          "violence",
+          "anger",
+          "violent",
+          "chastise",
+          "angry"
+        ]
+      },
+      {
+        "position": 0.7575757575757576,
+        "smoothed": -0.05314894141639873,
+        "read_time_min": 509.0,
+        "driving_words": [
+          "hell",
+          "torture",
+          "horrible",
+          "horrified",
+          "terror",
+          "miserable"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": -0.08765973918735487,
+        "read_time_min": 587.2,
+        "driving_words": [
+          "worst",
+          "desperate",
+          "die",
+          "dying",
+          "guilt",
+          "evil"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Forest_Days_A_Romance_of_Old_Times_G_P_R_James/sentiment_arc.png"
+  }
+}

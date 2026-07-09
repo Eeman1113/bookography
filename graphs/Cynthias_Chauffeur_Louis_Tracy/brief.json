@@ -1,0 +1,279 @@
+{
+  "slug": "Cynthias_Chauffeur_Louis_Tracy",
+  "title_display": "Cynthias Chauffeur Louis Tracy",
+  "language": "en",
+  "length_tokens": 109614,
+  "length_words": 83982,
+  "unique_entities": 130,
+  "entity_mentions": 3062,
+  "scene_count": 41,
+  "top_entities": [
+    {
+      "label": "medenham",
+      "count": 387,
+      "type": "PERSON"
+    },
+    {
+      "label": "cynthia",
+      "count": 385,
+      "type": "PERSON"
+    },
+    {
+      "label": "devar",
+      "count": 256,
+      "type": "PERSON"
+    },
+    {
+      "label": "vanrenen",
+      "count": 167,
+      "type": "PERSON"
+    },
+    {
+      "label": "dale",
+      "count": 165,
+      "type": "ORG"
+    },
+    {
+      "label": "marigny",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitzroy",
+      "count": 118,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 86,
+      "type": "GPE"
+    },
+    {
+      "label": "mercury",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "bristol",
+      "count": 73,
+      "type": "ORG"
+    },
+    {
+      "label": "simmonds",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "frenchman",
+      "count": 62,
+      "type": "ORG"
+    },
+    {
+      "label": "hereford",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "american",
+      "count": 42,
+      "type": "NORP"
+    },
+    {
+      "label": "earl",
+      "count": 41,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90421.12906453227,
+      "activity": 0.05501656832145425
+    },
+    {
+      "token": 49131.189594797404,
+      "activity": 0.0537737559025608
+    },
+    {
+      "token": 59549.633816908456,
+      "activity": 0.04984433931588798
+    },
+    {
+      "token": 102265.25512756378,
+      "activity": 0.049652017418757376
+    },
+    {
+      "token": 91408.1395697849,
+      "activity": 0.04754497687464503
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 41,
+    "edges": 869,
+    "scene_entity_counts": [
+      27,
+      15,
+      12,
+      17,
+      20,
+      27,
+      31,
+      18,
+      18,
+      24,
+      34,
+      20,
+      24,
+      19,
+      24,
+      26,
+      24,
+      25,
+      39,
+      20,
+      26,
+      20,
+      25,
+      38,
+      13,
+      12,
+      20,
+      25,
+      33,
+      28,
+      22,
+      27,
+      28,
+      22,
+      26,
+      41,
+      22,
+      21,
+      37,
+      38,
+      11
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0065,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.7796,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.7796
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6399
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.4297
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6399
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7444
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.7869
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": 0.12974901975455375,
+        "read_time_min": 43.9,
+        "driving_words": [
+          "wins",
+          "winning",
+          "winner",
+          "funny",
+          "win",
+          "triumph"
+        ]
+      },
+      {
+        "position": 0.1919191919191919,
+        "smoothed": 0.12197869698297974,
+        "read_time_min": 76.8,
+        "driving_words": [
+          "thrilled",
+          "fun",
+          "wonderful",
+          "miracle",
+          "brilliant",
+          "amazing"
+        ]
+      },
+      {
+        "position": 0.8282828282828283,
+        "smoothed": 0.08412544665445366,
+        "read_time_min": 265.1,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "fun",
+          "amazing",
+          "delightfully",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3939393939393939,
+        "smoothed": -0.007796539125503872,
+        "read_time_min": 136.6,
+        "driving_words": [
+          "furious",
+          "badly",
+          "mad",
+          "dumb",
+          "anger",
+          "hate"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.008913918131768282,
+        "read_time_min": 229.2,
+        "driving_words": [
+          "damned",
+          "torture",
+          "dick",
+          "mad",
+          "panic",
+          "betray"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": -0.04254580653225466,
+        "read_time_min": 301.0,
+        "driving_words": [
+          "torture",
+          "damned",
+          "scandal",
+          "foul",
+          "anger",
+          "ridiculous"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Cynthias_Chauffeur_Louis_Tracy/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "slug": "A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice",
+  "title_display": "A Romance of Billy-Goat Hill Alice Caldwell Hegan Rice",
+  "language": "en",
+  "length_tokens": 109886,
+  "length_words": 82734,
+  "unique_entities": 120,
+  "entity_mentions": 2315,
+  "scene_count": 43,
+  "top_entities": [
+    {
+      "label": "lady",
+      "count": 292,
+      "type": "PERSON"
+    },
+    {
+      "label": "donald",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "chick",
+      "count": 135,
+      "type": "ORG"
+    },
+    {
+      "label": "sequin",
+      "count": 109,
+      "type": "PERSON"
+    },
+    {
+      "label": "connie",
+      "count": 100,
+      "type": "PERSON"
+    },
+    {
+      "label": "myrtella",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "gooch",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "gerald",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "noah",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "don",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "queerington",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "bertie",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "jimpson",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "phineas",
+      "count": 41,
+      "type": "NORP"
+    },
+    {
+      "label": "margery",
+      "count": 40,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 80421.08804402202,
+      "activity": 0.04167959143577614
+    },
+    {
+      "token": 76573.18909454728,
+      "activity": 0.038760653073084676
+    },
+    {
+      "token": 90480.59529764883,
+      "activity": 0.03858317899794346
+    },
+    {
+      "token": 46834.4272136068,
+      "activity": 0.03670224252042037
+    },
+    {
+      "token": 77892.46873436718,
+      "activity": 0.03643438640041498
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 43,
+    "edges": 721,
+    "scene_entity_counts": [
+      21,
+      14,
+      13,
+      13,
+      18,
+      22,
+      9,
+      9,
+      19,
+      18,
+      29,
+      21,
+      14,
+      17,
+      28,
+      21,
+      12,
+      20,
+      14,
+      16,
+      24,
+      24,
+      11,
+      17,
+      20,
+      18,
+      20,
+      11,
+      12,
+      20,
+      21,
+      26,
+      25,
+      26,
+      21,
+      29,
+      16,
+      24,
+      27,
+      22,
+      26,
+      24,
+      29
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0052,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.3706,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.3706
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.1886
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1572
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0594
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.1739
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.1886
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.3333333333333333,
+        "smoothed": 0.09507209278464629,
+        "read_time_min": 117.0,
+        "driving_words": [
+          "amazing",
+          "funny",
+          "won't",
+          "affection",
+          "delighted",
+          "magnificent"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.022662908502996106,
+        "read_time_min": 184.6,
+        "driving_words": [
+          "fun",
+          "brilliant",
+          "wonderful",
+          "won't",
+          "happiness",
+          "wealth"
+        ]
+      },
+      {
+        "position": 0.9090909090909091,
+        "smoothed": 0.04071248052905123,
+        "read_time_min": 284.5,
+        "driving_words": [
+          "winner",
+          "brilliant",
+          "win",
+          "miracle",
+          "happy",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": -0.036562755892088926,
+        "read_time_min": 61.1,
+        "driving_words": [
+          "dick",
+          "lost",
+          "criminals",
+          "terror",
+          "mad",
+          "cheat"
+        ]
+      },
+      {
+        "position": 0.6161616161616161,
+        "smoothed": -0.009199090264053142,
+        "read_time_min": 199.3,
+        "driving_words": [
+          "dick",
+          "violently",
+          "awful",
+          "horrible",
+          "miserable",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.02038299125289985,
+        "read_time_min": 302.1,
+        "driving_words": [
+          "nigger",
+          "foul",
+          "inexorable",
+          "die",
+          "miserably",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice/sentiment_arc.png"
+  }
+}

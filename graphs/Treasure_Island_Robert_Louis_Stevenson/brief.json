@@ -1,0 +1,240 @@
+{
+  "slug": "Treasure_Island_Robert_Louis_Stevenson",
+  "title_display": "Treasure Island Robert Louis Stevenson",
+  "language": "en",
+  "length_tokens": 91027,
+  "length_words": 70496,
+  "unique_entities": 71,
+  "entity_mentions": 965,
+  "scene_count": 2,
+  "top_entities": [
+    {
+      "label": "jim",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "silver",
+      "count": 75,
+      "type": "ORG"
+    },
+    {
+      "label": "flint",
+      "count": 54,
+      "type": "GPE"
+    },
+    {
+      "label": "livesey",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "smollett",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "hispaniola",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "ben gunn",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "trelawney",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "hunter",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "hawkins",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "dick",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "morgan",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "bill",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "joyce",
+      "count": 18,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 84787.59979989995,
+      "activity": 0.02934755528129896
+    },
+    {
+      "token": 29734.85642821411,
+      "activity": 0.02907025676491366
+    },
+    {
+      "token": 17941.092546273136,
+      "activity": 0.0272983652203347
+    },
+    {
+      "token": 21083.060530265135,
+      "activity": 0.026335888452205553
+    },
+    {
+      "token": 46719.697848924465,
+      "activity": 0.024861561354612403
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 49,
+    "scene_entity_counts": [
+      64,
+      56
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0072,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.2707,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2707
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2318
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0174
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2384
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2707
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3486
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1919191919191919,
+        "smoothed": 0.11188553110514386,
+        "read_time_min": 66.4,
+        "driving_words": [
+          "wonderful",
+          "overjoyed",
+          "grand",
+          "great",
+          "delight",
+          "best"
+        ]
+      },
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.03661176822793045,
+        "read_time_min": 110.4,
+        "driving_words": [
+          "stunning",
+          "faithful",
+          "luck",
+          "great",
+          "pleasant",
+          "handsome"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.04092325132401726,
+        "read_time_min": 254.7,
+        "driving_words": [
+          "wonderful",
+          "merry",
+          "glad",
+          "lucky",
+          "good",
+          "luck"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": -0.07568298613123574,
+        "read_time_min": 29.8,
+        "driving_words": [
+          "horrible",
+          "evil",
+          "worse",
+          "lost",
+          "kill",
+          "die"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": -0.05070999424173999,
+        "read_time_min": 178.9,
+        "driving_words": [
+          "tortured",
+          "die",
+          "dreadful",
+          "angry",
+          "died",
+          "betrayed"
+        ]
+      },
+      {
+        "position": 0.7474747474747475,
+        "smoothed": -0.06059363765880883,
+        "read_time_min": 200.9,
+        "driving_words": [
+          "cock",
+          "tortured",
+          "dick",
+          "violent",
+          "die",
+          "disgust"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Treasure_Island_Robert_Louis_Stevenson/sentiment_arc.png"
+  }
+}

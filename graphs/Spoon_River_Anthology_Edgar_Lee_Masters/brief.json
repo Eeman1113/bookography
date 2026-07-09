@@ -1,0 +1,255 @@
+{
+  "slug": "Spoon_River_Anthology_Edgar_Lee_Masters",
+  "title_display": "Spoon River Anthology Edgar Lee Masters",
+  "language": "en",
+  "length_tokens": 51738,
+  "length_words": 39408,
+  "unique_entities": 99,
+  "entity_mentions": 504,
+  "scene_count": 17,
+  "top_entities": [
+    {
+      "label": "spoon river",
+      "count": 74,
+      "type": "LOC"
+    },
+    {
+      "label": "thomas rhodes",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "benjamin pantier",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "loki",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "jesus",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "chicago",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "yogarindra",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "kinsey keene",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "a. d. blood",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "daisy fraser",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "peoria",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "doc hill",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "minerva",
+      "count": 6,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 46224.253126563286,
+      "activity": 0.04724775398947125
+    },
+    {
+      "token": 48113.59829914958,
+      "activity": 0.039612646954260075
+    },
+    {
+      "token": 26994.34267133567,
+      "activity": 0.03428599817623102
+    },
+    {
+      "token": 19229.910455227615,
+      "activity": 0.032545686087568665
+    },
+    {
+      "token": 38822.161080540274,
+      "activity": 0.028784894681001424
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 193,
+    "scene_entity_counts": [
+      22,
+      15,
+      15,
+      11,
+      21,
+      23,
+      29,
+      14,
+      21,
+      12,
+      12,
+      13,
+      9,
+      20,
+      9,
+      39,
+      7
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0029,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.6365,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.6365
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5748
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.4423
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.1102
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.4222
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.6365
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.3939393939393939,
+        "smoothed": 0.003652153184559837,
+        "read_time_min": 66.3,
+        "driving_words": [
+          "win",
+          "wonderful",
+          "fantastic",
+          "triumph",
+          "ecstatic",
+          "brilliant"
+        ]
+      },
+      {
+        "position": 0.7878787878787878,
+        "smoothed": 0.00858660273092729,
+        "read_time_min": 112.7,
+        "driving_words": [
+          "thrilled",
+          "winning",
+          "triumph",
+          "rapturous",
+          "rejoicing",
+          "win"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.008843524247654092,
+        "read_time_min": 124.6,
+        "driving_words": [
+          "thrilled",
+          "winning",
+          "rapturous",
+          "rejoicing",
+          "win",
+          "supreme"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": -0.06746962191139864,
+        "read_time_min": 23.6,
+        "driving_words": [
+          "cock",
+          "ass",
+          "torture",
+          "tortured",
+          "killing",
+          "bankruptcy"
+        ]
+      },
+      {
+        "position": 0.2727272727272727,
+        "smoothed": -0.028578959591330007,
+        "read_time_min": 52.1,
+        "driving_words": [
+          "cock",
+          "torture",
+          "tortured",
+          "hell",
+          "damned",
+          "madness"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": -0.05181350577484066,
+        "read_time_min": 85.4,
+        "driving_words": [
+          "cock",
+          "tortured",
+          "fraud",
+          "rape",
+          "despair",
+          "guilty"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Spoon_River_Anthology_Edgar_Lee_Masters/sentiment_arc.png"
+  }
+}

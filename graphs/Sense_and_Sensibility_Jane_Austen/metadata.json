@@ -1,0 +1,264 @@
+{
+  "slug": "Sense_and_Sensibility_Jane_Austen",
+  "title": "Sense and Sensibility Jane Austen",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 152266,
+  "n_unique_entities": 79,
+  "n_entity_mentions": 3287,
+  "sigma": 380.665,
+  "target_scenes": 50,
+  "detected_scene_boundaries": [
+    3790.4760869565216,
+    7731.896086956522,
+    11151.400645161291,
+    14092.858422939069,
+    15821.105363984674,
+    18250.15485893417,
+    20715.52115027829,
+    22218.32431233363,
+    24299.630434782608,
+    27316.53076923077,
+    31202.322977022977,
+    35003.94315118843,
+    37324.896845035575,
+    39959.00709566919,
+    43402.04060579456,
+    46575.83346581876,
+    50056.6417733523,
+    53352.57159026599,
+    56122.537442396315,
+    58814.06015037594,
+    62873.71742232087,
+    66901.36873811034,
+    69396.63661814108,
+    72221.82487725042,
+    75585.83504273504,
+    78104.23434343433,
+    81563.31898395722,
+    85643.62616099071,
+    88845.24743677376,
+    92051.99350649351,
+    94794.63820747154,
+    98302.39747718733,
+    101274.45797101449,
+    104212.17464788732,
+    108150.629486597,
+    111285.63744740533,
+    114626.11096690461,
+    118372.96117070896,
+    120980.92733304795,
+    123256.74017272185,
+    127848.82496251873,
+    133016.15014367815,
+    137120.72537878787,
+    140323.58834827144,
+    143512.5606320852,
+    146951.39634146343,
+    149294.70165505225
+  ],
+  "n_scenes": 48,
+  "top_entities": [
+    {
+      "label": "marianne",
+      "count": 533,
+      "type": "PERSON"
+    },
+    {
+      "label": "elinor",
+      "count": 417,
+      "type": "PERSON"
+    },
+    {
+      "label": "edward",
+      "count": 231,
+      "type": "PERSON"
+    },
+    {
+      "label": "jennings",
+      "count": 229,
+      "type": "PERSON"
+    },
+    {
+      "label": "willoughby",
+      "count": 197,
+      "type": "PERSON"
+    },
+    {
+      "label": "dashwood",
+      "count": 188,
+      "type": "ORG"
+    },
+    {
+      "label": "lucy",
+      "count": 165,
+      "type": "PERSON"
+    },
+    {
+      "label": "brandon",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 105,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrars",
+      "count": 103,
+      "type": "PERSON"
+    },
+    {
+      "label": "middleton",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "barton",
+      "count": 73,
+      "type": "GPE"
+    },
+    {
+      "label": "palmer",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "norland",
+      "count": 51,
+      "type": "ORG"
+    },
+    {
+      "label": "fanny",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "john dashwood",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "margaret",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "robert",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "cleveland",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "steeles",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "steele",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "devonshire",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "delaford",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "charlotte",
+      "count": 21,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90414.48474237119,
+      "activity": 0.04092748252374112
+    },
+    {
+      "token": 148075.61780890444,
+      "activity": 0.03866578852724132
+    },
+    {
+      "token": 33515.05752876438,
+      "activity": 0.03762674887510576
+    },
+    {
+      "token": 25974.169584792395,
+      "activity": 0.036129573082867766
+    },
+    {
+      "token": 141220.26513256627,
+      "activity": 0.035768149544720254
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 48,
+    "edges": 748,
+    "scene_entity_counts": [
+      10,
+      9,
+      19,
+      18,
+      13,
+      11,
+      12,
+      9,
+      12,
+      16,
+      13,
+      20,
+      8,
+      15,
+      15,
+      24,
+      23,
+      19,
+      14,
+      22,
+      21,
+      18,
+      10,
+      13,
+      12,
+      16,
+      15,
+      29,
+      24,
+      23,
+      21,
+      25,
+      32,
+      14,
+      20,
+      15,
+      15,
+      19,
+      21,
+      13,
+      16,
+      20,
+      14,
+      13,
+      19,
+      18,
+      24,
+      25
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "Indias_Love_Lyrics_Laurence_Hope",
+  "title": "Indias Love Lyrics Laurence Hope",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 29675,
+  "n_unique_entities": 33,
+  "n_entity_mentions": 190,
+  "sigma": 74.1875,
+  "target_scenes": 9,
+  "detected_scene_boundaries": [
+    16107.21
+  ],
+  "n_scenes": 2,
+  "top_entities": [
+    {
+      "label": "fate",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "moghra",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "east",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "desert",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "temple",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "river",
+      "count": 8,
+      "type": "LOC"
+    },
+    {
+      "label": "lover",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "almond",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "time",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "eastern",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "sea",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "youth",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "aziza",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "death",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasmin",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "lotus",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "tamarind",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "kotri",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "pale",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "down",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "delight",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "west",
+      "count": 4,
+      "type": "LOC"
+    },
+    {
+      "label": "beloved",
+      "count": 3,
+      "type": "ORG"
+    },
+    {
+      "label": "camp",
+      "count": 3,
+      "type": "LOC"
+    },
+    {
+      "label": "king",
+      "count": 3,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 15007.710855427713,
+      "activity": 0.03464917465253473
+    },
+    {
+      "token": 6056.524262131065,
+      "activity": 0.03363177532569233
+    },
+    {
+      "token": 3013.417708854427,
+      "activity": 0.028508638149424382
+    },
+    {
+      "token": 29347.422711355677,
+      "activity": 0.02711361019528193
+    },
+    {
+      "token": 11534.116058029014,
+      "activity": 0.02665251832658154
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 21,
+    "scene_entity_counts": [
+      29,
+      25
+    ]
+  }
+}

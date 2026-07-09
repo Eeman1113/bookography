@@ -1,0 +1,252 @@
+{
+  "slug": "Romeo_and_Juliet_William_Shakespeare",
+  "title_display": "Romeo and Juliet William Shakespeare",
+  "language": "en",
+  "length_tokens": 37715,
+  "length_words": 26862,
+  "unique_entities": 48,
+  "entity_mentions": 990,
+  "scene_count": 14,
+  "top_entities": [
+    {
+      "label": "juliet",
+      "count": 163,
+      "type": "PERSON"
+    },
+    {
+      "label": "nurse",
+      "count": 124,
+      "type": "GPE"
+    },
+    {
+      "label": "mercutio",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "benvolio",
+      "count": 74,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 69,
+      "type": "GPE"
+    },
+    {
+      "label": "romeo",
+      "count": 64,
+      "type": "ORG"
+    },
+    {
+      "label": "paris",
+      "count": 52,
+      "type": "GPE"
+    },
+    {
+      "label": "montague",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "capulet",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "peter",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "exit",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "prince",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "verona",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "nay",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "mantua",
+      "count": 12,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 320.72936468234116,
+      "activity": 0.11581931461818885
+    },
+    {
+      "token": 14810.150075037518,
+      "activity": 0.07468967197376582
+    },
+    {
+      "token": 9282.285142571285,
+      "activity": 0.06523309901416784
+    },
+    {
+      "token": 13715.896948474237,
+      "activity": 0.061239602907264205
+    },
+    {
+      "token": 4886.406203101551,
+      "activity": 0.058123164309106266
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 200,
+    "scene_entity_counts": [
+      25,
+      15,
+      20,
+      21,
+      18,
+      12,
+      19,
+      14,
+      13,
+      19,
+      16,
+      18,
+      21,
+      17
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 8864,
+    "volatility": 0.008,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.9232,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.9232
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5446
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0834
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5762
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.8365
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.9232
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.12121212121212122,
+        "smoothed": 0.23286444830500816,
+        "read_time_min": 26.5,
+        "driving_words": [
+          "rejoice",
+          "love",
+          "good",
+          "beauty",
+          "bliss",
+          "beauties"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.2513511934741983,
+        "read_time_min": 33.0,
+        "driving_words": [
+          "triumph",
+          "love",
+          "delight",
+          "beauty",
+          "beautify",
+          "happy"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": 0.21987612285938476,
+        "read_time_min": 39.5,
+        "driving_words": [
+          "triumph",
+          "good",
+          "beauty",
+          "love",
+          "wealth",
+          "best"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7878787878787878,
+        "smoothed": -0.047048826328209295,
+        "read_time_min": 74.4,
+        "driving_words": [
+          "cock",
+          "torture",
+          "hell",
+          "damned",
+          "abuses",
+          "kill"
+        ]
+      },
+      {
+        "position": 0.8585858585858586,
+        "smoothed": -0.0396666613507514,
+        "read_time_min": 79.5,
+        "driving_words": [
+          "cock",
+          "torture",
+          "hell",
+          "damned",
+          "terror",
+          "deadly"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.09231634165833008,
+        "read_time_min": 87.5,
+        "driving_words": [
+          "cock",
+          "loathed",
+          "dead",
+          "loss",
+          "abhors",
+          "hate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Romeo_and_Juliet_William_Shakespeare/sentiment_arc.png"
+  }
+}

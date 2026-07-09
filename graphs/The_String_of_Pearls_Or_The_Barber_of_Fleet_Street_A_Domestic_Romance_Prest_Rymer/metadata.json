@@ -1,0 +1,282 @@
+{
+  "slug": "The_String_of_Pearls_Or_The_Barber_of_Fleet_Street_A_Domestic_Romance_Prest_Rymer",
+  "title": "The String of Pearls Or The Barber of Fleet Street A Domestic Romance Prest Rymer",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 444404,
+  "n_unique_entities": 174,
+  "n_entity_mentions": 7436,
+  "sigma": 1111.01,
+  "target_scenes": 60,
+  "detected_scene_boundaries": [
+    10399.136760471813,
+    19764.053649154775,
+    30296.84889292796,
+    42099.35661764706,
+    51326.51442307692,
+    58613.53031290743,
+    64988.19286351472,
+    73375.38673395818,
+    80806.16226027397,
+    86212.36,
+    91902.7501724138,
+    101991.86750118091,
+    111246.74303052151,
+    124526.21820175438,
+    138905.83859890111,
+    148167.1148085785,
+    156606.31451612903,
+    162730.6708064516,
+    168557.65950617284,
+    176996.74961853237,
+    184830.4133591128,
+    189016.8377062127,
+    194625.6984050377,
+    202267.66854327937,
+    207608.0894814221,
+    212174.39599483204,
+    220210.40644789865,
+    228579.76613970727,
+    234994.21099899814,
+    241247.08453570108,
+    250095.08077373117,
+    260257.34078193462,
+    269245.55632522726,
+    276506.12939675595,
+    280872.68634792627,
+    284431.36672673654,
+    289354.70535914076,
+    296299.3856965689,
+    304074.39527845033,
+    311091.79464285716,
+    319050.9861111111,
+    327579.3929507338,
+    334345.98143639683,
+    340182.47226160933,
+    345531.0742952699,
+    350623.93079710146,
+    355839.7663793104,
+    361277.4860029663,
+    369916.2789373814,
+    378296.67436974787,
+    384540.06519726536,
+    393068.44974974403,
+    402288.9747146582,
+    409076.64830435533,
+    417659.09923986485,
+    432192.94169207313
+  ],
+  "n_scenes": 57,
+  "top_entities": [
+    {
+      "label": "todd",
+      "count": 710,
+      "type": "PERSON"
+    },
+    {
+      "label": "johanna",
+      "count": 691,
+      "type": "PERSON"
+    },
+    {
+      "label": "lovett",
+      "count": 629,
+      "type": "ORG"
+    },
+    {
+      "label": "tobias",
+      "count": 484,
+      "type": "PERSON"
+    },
+    {
+      "label": "ben",
+      "count": 388,
+      "type": "PERSON"
+    },
+    {
+      "label": "oakley",
+      "count": 373,
+      "type": "PERSON"
+    },
+    {
+      "label": "sweeney todd",
+      "count": 257,
+      "type": "ORG"
+    },
+    {
+      "label": "richard blunt",
+      "count": 257,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard",
+      "count": 244,
+      "type": "PERSON"
+    },
+    {
+      "label": "lupin",
+      "count": 231,
+      "type": "PERSON"
+    },
+    {
+      "label": "arabella",
+      "count": 227,
+      "type": "PERSON"
+    },
+    {
+      "label": "crotchet",
+      "count": 227,
+      "type": "PERSON"
+    },
+    {
+      "label": "ragg",
+      "count": 153,
+      "type": "PERSON"
+    },
+    {
+      "label": "fogg",
+      "count": 133,
+      "type": "PERSON"
+    },
+    {
+      "label": "mark ingestrie",
+      "count": 128,
+      "type": "PERSON"
+    },
+    {
+      "label": "jeffery",
+      "count": 115,
+      "type": "PERSON"
+    },
+    {
+      "label": "thornhill",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 106,
+      "type": "GPE"
+    },
+    {
+      "label": "charley",
+      "count": 94,
+      "type": "PERSON"
+    },
+    {
+      "label": "watson",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "fleet street",
+      "count": 76,
+      "type": "FAC"
+    },
+    {
+      "label": "st. dunstan's",
+      "count": 70,
+      "type": "GPE"
+    },
+    {
+      "label": "minna",
+      "count": 70,
+      "type": "GPE"
+    },
+    {
+      "label": "sweeney todd's",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "johanna oakley",
+      "count": 56,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 423950.2356178089,
+      "activity": 0.03356422624333036
+    },
+    {
+      "token": 292785.7683841921,
+      "activity": 0.03273911646811112
+    },
+    {
+      "token": 274111.5052526263,
+      "activity": 0.032438427401556745
+    },
+    {
+      "token": 406387.53576788394,
+      "activity": 0.03174544368254919
+    },
+    {
+      "token": 223646.53226613306,
+      "activity": 0.0315965850066899
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 1095,
+    "scene_entity_counts": [
+      30,
+      25,
+      25,
+      22,
+      17,
+      22,
+      19,
+      17,
+      18,
+      15,
+      14,
+      9,
+      22,
+      20,
+      28,
+      34,
+      31,
+      14,
+      19,
+      18,
+      34,
+      10,
+      29,
+      26,
+      16,
+      13,
+      30,
+      27,
+      16,
+      20,
+      19,
+      34,
+      27,
+      25,
+      18,
+      10,
+      16,
+      32,
+      17,
+      22,
+      24,
+      26,
+      24,
+      17,
+      12,
+      22,
+      14,
+      13,
+      19,
+      11,
+      23,
+      27,
+      26,
+      30,
+      37,
+      48,
+      36
+    ]
+  }
+}

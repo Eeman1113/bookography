@@ -1,0 +1,202 @@
+{
+  "slug": "Thuvia_maid_of_Mars_Edgar_Rice_Burroughs",
+  "title": "Thuvia maid of Mars Edgar Rice Burroughs",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 59943,
+  "n_unique_entities": 63,
+  "n_entity_mentions": 1585,
+  "sigma": 149.8575,
+  "target_scenes": 19,
+  "detected_scene_boundaries": [
+    4565.961904761904,
+    7975.380548829701,
+    10831.14406779661,
+    15430.886534839925,
+    21102.057692307695,
+    25291.225650964025,
+    27687.016724088433,
+    30153.162182622873,
+    32536.601133806475,
+    35415.32206005004,
+    39704.180069930066,
+    43455.77408906883,
+    46797.13840985442,
+    50151.32166344294,
+    53523.85069337442,
+    57133.960017383746
+  ],
+  "n_scenes": 17,
+  "top_entities": [
+    {
+      "label": "carthoris",
+      "count": 330,
+      "type": "PERSON"
+    },
+    {
+      "label": "thuvia",
+      "count": 162,
+      "type": "GPE"
+    },
+    {
+      "label": "jav",
+      "count": 99,
+      "type": "PERSON"
+    },
+    {
+      "label": "tario",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "lothar",
+      "count": 58,
+      "type": "GPE"
+    },
+    {
+      "label": "kar komak",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "vas kor",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "heliumite",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "dusar",
+      "count": 44,
+      "type": "GPE"
+    },
+    {
+      "label": "thuria",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "astok",
+      "count": 37,
+      "type": "GPE"
+    },
+    {
+      "label": "helium",
+      "count": 35,
+      "type": "ORG"
+    },
+    {
+      "label": "mars",
+      "count": 34,
+      "type": "LOC"
+    },
+    {
+      "label": "komal",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "dusarian",
+      "count": 31,
+      "type": "NORP"
+    },
+    {
+      "label": "martian",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "torquas",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "ptarth",
+      "count": 26,
+      "type": "LOC"
+    },
+    {
+      "label": "torquasians",
+      "count": 26,
+      "type": "NORP"
+    },
+    {
+      "label": "barsoomian",
+      "count": 25,
+      "type": "NORP"
+    },
+    {
+      "label": "kulan tith",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "john carter",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "the prince of helium",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "barsoom",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "thuvan dihn",
+      "count": 16,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58532.65832916459,
+      "activity": 0.0728889685726561
+    },
+    {
+      "token": 51306.034017008504,
+      "activity": 0.0552121934237117
+    },
+    {
+      "token": 59762.084042021015,
+      "activity": 0.05450261359918272
+    },
+    {
+      "token": 59462.22411205603,
+      "activity": 0.05296737553880122
+    },
+    {
+      "token": 23509.018509254627,
+      "activity": 0.05187152085621776
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 311,
+    "scene_entity_counts": [
+      22,
+      21,
+      17,
+      25,
+      22,
+      24,
+      10,
+      15,
+      11,
+      10,
+      31,
+      19,
+      29,
+      24,
+      27,
+      26,
+      41
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "slug": "The_Pirate_Walter_Scott",
+  "title_display": "The Pirate Walter Scott",
+  "language": "en",
+  "length_tokens": 259982,
+  "length_words": 200685,
+  "unique_entities": 276,
+  "entity_mentions": 5243,
+  "scene_count": 63,
+  "top_entities": [
+    {
+      "label": "cleveland",
+      "count": 449,
+      "type": "GPE"
+    },
+    {
+      "label": "mordaunt",
+      "count": 415,
+      "type": "PERSON"
+    },
+    {
+      "label": "minna",
+      "count": 365,
+      "type": "PERSON"
+    },
+    {
+      "label": "norna",
+      "count": 336,
+      "type": "GPE"
+    },
+    {
+      "label": "brenda",
+      "count": 251,
+      "type": "PERSON"
+    },
+    {
+      "label": "udaller",
+      "count": 188,
+      "type": "PERSON"
+    },
+    {
+      "label": "mertoun",
+      "count": 151,
+      "type": "PERSON"
+    },
+    {
+      "label": "magnus",
+      "count": 130,
+      "type": "GPE"
+    },
+    {
+      "label": "zetland",
+      "count": 127,
+      "type": "GPE"
+    },
+    {
+      "label": "bunce",
+      "count": 121,
+      "type": "PERSON"
+    },
+    {
+      "label": "triptolemus",
+      "count": 97,
+      "type": "ORG"
+    },
+    {
+      "label": "magnus troil",
+      "count": 86,
+      "type": "ORG"
+    },
+    {
+      "label": "swertha",
+      "count": 79,
+      "type": "GPE"
+    },
+    {
+      "label": "halcro",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "burgh",
+      "count": 74,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 251137.22411205602,
+      "activity": 0.03639519644883641
+    },
+    {
+      "token": 229938.17308654328,
+      "activity": 0.03327165162223333
+    },
+    {
+      "token": 241122.9484742371,
+      "activity": 0.032770970026919796
+    },
+    {
+      "token": 65157.819409704854,
+      "activity": 0.03254944165705557
+    },
+    {
+      "token": 238131.67133566784,
+      "activity": 0.03240729336238798
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 63,
+    "edges": 1519,
+    "scene_entity_counts": [
+      62,
+      37,
+      32,
+      24,
+      23,
+      15,
+      26,
+      22,
+      27,
+      28,
+      36,
+      20,
+      14,
+      14,
+      25,
+      24,
+      26,
+      17,
+      27,
+      27,
+      26,
+      31,
+      28,
+      39,
+      37,
+      35,
+      39,
+      35,
+      39,
+      47,
+      34,
+      36,
+      39,
+      28,
+      12,
+      22,
+      25,
+      27,
+      35,
+      24,
+      19,
+      12,
+      25,
+      40,
+      26,
+      15,
+      18,
+      27,
+      19,
+      9,
+      14,
+      21,
+      37,
+      26,
+      37,
+      31,
+      32,
+      41,
+      27,
+      30,
+      52,
+      32,
+      41
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0102,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.4434,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4434
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3766
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0563
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3876
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4434
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4631
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.1278167715765963,
+        "read_time_min": 58.5,
+        "driving_words": [
+          "wonderfully",
+          "fun",
+          "wonderful",
+          "triumph",
+          "won",
+          "wealth"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": 0.22139731377696728,
+        "read_time_min": 258.8,
+        "driving_words": [
+          "rejoicing",
+          "love",
+          "pleased",
+          "handsome",
+          "best",
+          "greater"
+        ]
+      },
+      {
+        "position": 0.8585858585858586,
+        "smoothed": 0.10867430340923306,
+        "read_time_min": 674.9,
+        "driving_words": [
+          "triumph",
+          "fun",
+          "best",
+          "loves",
+          "good",
+          "perfectly"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.010469871922071739,
+        "read_time_min": 382.1,
+        "driving_words": [
+          "tortures",
+          "hell",
+          "evil",
+          "worse",
+          "violent",
+          "awful"
+        ]
+      },
+      {
+        "position": 0.5959595959595959,
+        "smoothed": -0.024170649521254375,
+        "read_time_min": 474.6,
+        "driving_words": [
+          "hell",
+          "hate",
+          "victim",
+          "betrayed",
+          "inexorable",
+          "cruelty"
+        ]
+      },
+      {
+        "position": 0.6767676767676768,
+        "smoothed": -0.0020652322610103723,
+        "read_time_min": 536.2,
+        "driving_words": [
+          "miserable",
+          "mad",
+          "lost",
+          "dead",
+          "ludicrous",
+          "loose"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Pirate_Walter_Scott/sentiment_arc.png"
+  }
+}

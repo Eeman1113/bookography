@@ -1,0 +1,254 @@
+{
+  "slug": "A_Romance_of_Billy-Goat_Hill_Alice_Caldwell_Hegan_Rice",
+  "title": "A Romance of Billy-Goat Hill Alice Caldwell Hegan Rice",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 109886,
+  "n_unique_entities": 120,
+  "n_entity_mentions": 2315,
+  "sigma": 274.715,
+  "target_scenes": 36,
+  "detected_scene_boundaries": [
+    2970.2076923076925,
+    5478.371153846154,
+    7465.993376068376,
+    8819.122222222222,
+    10708.901587301589,
+    13602.739087301587,
+    15972.234375,
+    17347.07068452381,
+    20168.06380952381,
+    23125.33651162791,
+    26155.49196617336,
+    29441.682296650717,
+    31170.053508771933,
+    32617.171739130434,
+    35780.59975331483,
+    39019.52649903289,
+    41062.04712430427,
+    43576.62530612245,
+    45990.34148148148,
+    48347.94115890084,
+    52145.48695014663,
+    55404.7337944664,
+    56866.564855072465,
+    58597.60277777778,
+    61105.101587301586,
+    63482.87601078167,
+    64988.55590496157,
+    66849.16861598441,
+    69384.94110275689,
+    71870.60022148394,
+    74588.30368468742,
+    76754.67348084015,
+    79032.6280262947,
+    81454.37882279011,
+    83521.0224014337,
+    86567.66666666666,
+    89474.32828282828,
+    93238.20889748549,
+    97508.97188449849,
+    99977.03571428571,
+    103155.87121212122,
+    106423.82895860009
+  ],
+  "n_scenes": 43,
+  "top_entities": [
+    {
+      "label": "lady",
+      "count": 292,
+      "type": "PERSON"
+    },
+    {
+      "label": "donald",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "chick",
+      "count": 135,
+      "type": "ORG"
+    },
+    {
+      "label": "sequin",
+      "count": 109,
+      "type": "PERSON"
+    },
+    {
+      "label": "connie",
+      "count": 100,
+      "type": "PERSON"
+    },
+    {
+      "label": "myrtella",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "gooch",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "gerald",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "noah",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "don",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "queerington",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "bertie",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "jimpson",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "phineas",
+      "count": 41,
+      "type": "NORP"
+    },
+    {
+      "label": "margery",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "dillingham",
+      "count": 38,
+      "type": "ORG"
+    },
+    {
+      "label": "thornwood",
+      "count": 38,
+      "type": "ORG"
+    },
+    {
+      "label": "uncle jimpson",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheeley",
+      "count": 37,
+      "type": "ORG"
+    },
+    {
+      "label": "decker",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "flathers",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "hattie",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "maria",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "morley",
+      "count": 26,
+      "type": "ORG"
+    },
+    {
+      "label": "hill",
+      "count": 24,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 80421.08804402202,
+      "activity": 0.04167959143577614
+    },
+    {
+      "token": 76573.18909454728,
+      "activity": 0.038760653073084676
+    },
+    {
+      "token": 90480.59529764883,
+      "activity": 0.03858317899794346
+    },
+    {
+      "token": 46834.4272136068,
+      "activity": 0.03670224252042037
+    },
+    {
+      "token": 77892.46873436718,
+      "activity": 0.03643438640041498
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 43,
+    "edges": 721,
+    "scene_entity_counts": [
+      21,
+      14,
+      13,
+      13,
+      18,
+      22,
+      9,
+      9,
+      19,
+      18,
+      29,
+      21,
+      14,
+      17,
+      28,
+      21,
+      12,
+      20,
+      14,
+      16,
+      24,
+      24,
+      11,
+      17,
+      20,
+      18,
+      20,
+      11,
+      12,
+      20,
+      21,
+      26,
+      25,
+      26,
+      21,
+      29,
+      16,
+      24,
+      27,
+      22,
+      26,
+      24,
+      29
+    ]
+  }
+}

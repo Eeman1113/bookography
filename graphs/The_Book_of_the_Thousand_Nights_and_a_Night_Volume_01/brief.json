@@ -1,0 +1,299 @@
+{
+  "slug": "The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01",
+  "title_display": "The Book of the Thousand Nights and a Night Volume 01",
+  "language": "en",
+  "length_tokens": 232984,
+  "length_words": 178453,
+  "unique_entities": 310,
+  "entity_mentions": 3665,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "arab",
+      "count": 272,
+      "type": "NORP"
+    },
+    {
+      "label": "thou",
+      "count": 221,
+      "type": "GPE"
+    },
+    {
+      "label": "wazir",
+      "count": 113,
+      "type": "ORG"
+    },
+    {
+      "label": "ifrit",
+      "count": 86,
+      "type": "ORG"
+    },
+    {
+      "label": "quoth",
+      "count": 76,
+      "type": "PERSON"
+    },
+    {
+      "label": "sultan",
+      "count": 73,
+      "type": "LOC"
+    },
+    {
+      "label": "egypt",
+      "count": 63,
+      "type": "GPE"
+    },
+    {
+      "label": "caliph",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "cairo",
+      "count": 55,
+      "type": "GPE"
+    },
+    {
+      "label": "moslems",
+      "count": 48,
+      "type": "NORP"
+    },
+    {
+      "label": "badr al-din hasan",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "persian",
+      "count": 43,
+      "type": "NORP"
+    },
+    {
+      "label": "baghdad",
+      "count": 42,
+      "type": "GPE"
+    },
+    {
+      "label": "moslem",
+      "count": 41,
+      "type": "NORP"
+    },
+    {
+      "label": "king",
+      "count": 41,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 215150.8844422211,
+      "activity": 0.03969979933186453
+    },
+    {
+      "token": 163402.7843921961,
+      "activity": 0.0368361625333181
+    },
+    {
+      "token": 120162.81790895447,
+      "activity": 0.03529048614290604
+    },
+    {
+      "token": 113636.03051525762,
+      "activity": 0.03493467668831135
+    },
+    {
+      "token": 53612.89644822411,
+      "activity": 0.033958820894135495
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 1490,
+    "scene_entity_counts": [
+      39,
+      60,
+      14,
+      17,
+      12,
+      60,
+      20,
+      43,
+      25,
+      21,
+      23,
+      20,
+      18,
+      55,
+      33,
+      51,
+      7,
+      18,
+      15,
+      18,
+      23,
+      25,
+      11,
+      13,
+      29,
+      19,
+      9,
+      66,
+      73,
+      82,
+      36,
+      29,
+      28,
+      37,
+      28,
+      22,
+      18,
+      24,
+      39,
+      52,
+      66,
+      21,
+      14,
+      10,
+      13,
+      17,
+      19,
+      17,
+      11,
+      10,
+      12,
+      7,
+      7,
+      16,
+      11,
+      73,
+      41,
+      43,
+      28,
+      54,
+      78
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0138,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.4732,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.4732
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.4623
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.3959
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2606
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.3959
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.4569
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.10415023940966656,
+        "read_time_min": 190.2,
+        "driving_words": [
+          "win",
+          "ecstatic",
+          "overjoyed",
+          "fun",
+          "rejoiced",
+          "heavenly"
+        ]
+      },
+      {
+        "position": 0.43434343434343436,
+        "smoothed": 0.13750029463493474,
+        "read_time_min": 312.7,
+        "driving_words": [
+          "rejoicing",
+          "rejoiced",
+          "amazing",
+          "awesome",
+          "rejoice",
+          "winning"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": 0.108284063032683,
+        "read_time_min": 428.4,
+        "driving_words": [
+          "rejoiced",
+          "win",
+          "fun",
+          "rejoicing",
+          "beautiful",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": -0.02611127380804028,
+        "read_time_min": 54.0,
+        "driving_words": [
+          "cock",
+          "ass",
+          "hell",
+          "hideous",
+          "slaves",
+          "slave"
+        ]
+      },
+      {
+        "position": 0.18181818181818182,
+        "smoothed": -0.10196270302401839,
+        "read_time_min": 142.5,
+        "driving_words": [
+          "bitch",
+          "damned",
+          "whore",
+          "torture",
+          "evil",
+          "die"
+        ]
+      },
+      {
+        "position": 0.5252525252525253,
+        "smoothed": -0.035857277217271194,
+        "read_time_min": 373.9,
+        "driving_words": [
+          "hell",
+          "sinful",
+          "furious",
+          "terror",
+          "die",
+          "evil"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Book_of_the_Thousand_Nights_and_a_Night_Volume_01/sentiment_arc.png"
+  }
+}

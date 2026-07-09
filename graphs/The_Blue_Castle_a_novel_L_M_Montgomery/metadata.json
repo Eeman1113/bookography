@@ -1,0 +1,216 @@
+{
+  "slug": "The_Blue_Castle_a_novel_L_M_Montgomery",
+  "title": "The Blue Castle a novel L M Montgomery",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 92294,
+  "n_unique_entities": 106,
+  "n_entity_mentions": 1935,
+  "sigma": 230.735,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    4582.941558441558,
+    7922.229650631059,
+    12298.985644637054,
+    15943.574175824175,
+    18850.535714285714,
+    22743.085,
+    26446.89951612903,
+    29493.504275165178,
+    33277.523092369476,
+    36228.15833333333,
+    38822.05201149425,
+    43108.927991886405,
+    47434.90034748077,
+    50058.82158931083,
+    54545.841294387166,
+    59364.24430152275,
+    62741.73749350874,
+    67952.48790517659,
+    73089.13564102564,
+    76898.92818181819,
+    79915.79943181819,
+    83523.18125,
+    88461.2579710145
+  ],
+  "n_scenes": 24,
+  "top_entities": [
+    {
+      "label": "barney",
+      "count": 253,
+      "type": "PERSON"
+    },
+    {
+      "label": "frederick",
+      "count": 129,
+      "type": "PERSON"
+    },
+    {
+      "label": "uncle benjamin",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "doss",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "cissy",
+      "count": 75,
+      "type": "ORG"
+    },
+    {
+      "label": "cousin stickles",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "mistawis",
+      "count": 51,
+      "type": "GPE"
+    },
+    {
+      "label": "abel",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "uncle james",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "deerwood",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "trent",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "olive",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "redfern",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "stirling",
+      "count": 39,
+      "type": "ORG"
+    },
+    {
+      "label": "barney snaith",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "stalling",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "jane",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "aunt wellington",
+      "count": 30,
+      "type": "ORG"
+    },
+    {
+      "label": "stirlings",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "port lawrence",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "cousin georgiana",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "valancy",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "bernie",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "cousin",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "john foster",
+      "count": 19,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 57296.454727363685,
+      "activity": 0.04210305076471005
+    },
+    {
+      "token": 19899.091045522764,
+      "activity": 0.04135883778507509
+    },
+    {
+      "token": 87214.34567283643,
+      "activity": 0.04101450943072555
+    },
+    {
+      "token": 52033.12206103052,
+      "activity": 0.039326587362417426
+    },
+    {
+      "token": 41137.100050025016,
+      "activity": 0.03875063696633254
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 496,
+    "scene_entity_counts": [
+      37,
+      19,
+      28,
+      20,
+      17,
+      33,
+      29,
+      28,
+      28,
+      24,
+      14,
+      29,
+      19,
+      23,
+      29,
+      27,
+      30,
+      19,
+      30,
+      10,
+      15,
+      26,
+      33,
+      35
+    ]
+  }
+}

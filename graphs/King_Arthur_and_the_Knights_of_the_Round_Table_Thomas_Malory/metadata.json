@@ -1,0 +1,262 @@
+{
+  "slug": "King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory",
+  "title": "King Arthur and the Knights of the Round Table Thomas Malory",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 126786,
+  "n_unique_entities": 203,
+  "n_entity_mentions": 3467,
+  "sigma": 316.965,
+  "target_scenes": 42,
+  "detected_scene_boundaries": [
+    4036.5981800766285,
+    7580.574747474748,
+    9583.741414141414,
+    11046.50992063492,
+    13739.953661844484,
+    17486.91242807825,
+    19974.137717601545,
+    21548.46764184397,
+    24631.82203815261,
+    27982.002959205245,
+    30155.67276887872,
+    32357.547285679197,
+    34498.66949152542,
+    37401.20351445663,
+    40218.77467767929,
+    41879.58467341671,
+    43719.805347326335,
+    46092.7808908046,
+    49338.31770833333,
+    52716.568933823524,
+    55599.72741596639,
+    58477.72570598007,
+    61413.13932474083,
+    63445.221248630885,
+    65962.56573426574,
+    68570.42937062937,
+    71763.76262626263,
+    75795.77316644708,
+    78686.4485080989,
+    82135.05705882353,
+    85750.76072463769,
+    89035.09163372859,
+    92089.64226044226,
+    94931.3141173088,
+    97629.97238134206,
+    99638.9306680162,
+    101186.86152882205,
+    103754.6222943723,
+    106763.6876321353,
+    109147.83914728682,
+    111267.36181434599,
+    113253.05008595093,
+    115001.52848567223,
+    117152.18869891576,
+    120889.08377896613,
+    123982.33674339301
+  ],
+  "n_scenes": 47,
+  "top_entities": [
+    {
+      "label": "lancelot",
+      "count": 389,
+      "type": "PERSON"
+    },
+    {
+      "label": "arthur",
+      "count": 232,
+      "type": "PERSON"
+    },
+    {
+      "label": "king arthur",
+      "count": 203,
+      "type": "GPE"
+    },
+    {
+      "label": "gawain",
+      "count": 186,
+      "type": "PERSON"
+    },
+    {
+      "label": "tristram",
+      "count": 140,
+      "type": "ORG"
+    },
+    {
+      "label": "thou",
+      "count": 124,
+      "type": "GPE"
+    },
+    {
+      "label": "beaumains",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "merlin",
+      "count": 97,
+      "type": "NORP"
+    },
+    {
+      "label": "galahad",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "bors",
+      "count": 82,
+      "type": "PERSON"
+    },
+    {
+      "label": "balin",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "anon",
+      "count": 68,
+      "type": "LOC"
+    },
+    {
+      "label": "gareth",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "key",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "percival",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "lionel",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "camelot",
+      "count": 33,
+      "type": "LOC"
+    },
+    {
+      "label": "ireland",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "tor",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "lavaine",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "marhaus",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "queen guinevere",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "cornwall",
+      "count": 25,
+      "type": "NORP"
+    },
+    {
+      "label": "accolon",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "the round table",
+      "count": 24,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 116002.88394197098,
+      "activity": 0.05664873205428068
+    },
+    {
+      "token": 1458.7568784392197,
+      "activity": 0.05580647655203068
+    },
+    {
+      "token": 74396.6008004002,
+      "activity": 0.05548614662816765
+    },
+    {
+      "token": 122789.27463731865,
+      "activity": 0.0504561763812993
+    },
+    {
+      "token": 90189.22961480741,
+      "activity": 0.050327934934344495
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 47,
+    "edges": 686,
+    "scene_entity_counts": [
+      41,
+      25,
+      11,
+      16,
+      23,
+      28,
+      15,
+      17,
+      16,
+      22,
+      11,
+      19,
+      13,
+      15,
+      20,
+      10,
+      22,
+      26,
+      16,
+      6,
+      17,
+      15,
+      14,
+      14,
+      14,
+      12,
+      19,
+      42,
+      21,
+      27,
+      29,
+      25,
+      24,
+      26,
+      22,
+      15,
+      4,
+      12,
+      14,
+      11,
+      14,
+      27,
+      22,
+      23,
+      19,
+      19,
+      16
+    ]
+  }
+}

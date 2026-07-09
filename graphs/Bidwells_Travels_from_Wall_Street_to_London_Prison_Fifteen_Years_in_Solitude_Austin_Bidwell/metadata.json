@@ -1,0 +1,268 @@
+{
+  "slug": "Bidwells_Travels_from_Wall_Street_to_London_Prison_Fifteen_Years_in_Solitude_Austin_Bidwell",
+  "title": "Bidwells Travels from Wall Street to London Prison Fifteen Years in Solitude Austin Bidwell",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 169988,
+  "n_unique_entities": 259,
+  "n_entity_mentions": 2771,
+  "sigma": 424.97,
+  "target_scenes": 56,
+  "detected_scene_boundaries": [
+    6305.25153643547,
+    12291.039915966387,
+    15974.41917293233,
+    20351.954887218046,
+    25735.164682539682,
+    29340.23611111111,
+    33576.78676470588,
+    37958.092320261436,
+    40824.774305555555,
+    43228.28125,
+    45661.66032608696,
+    48069.29328063241,
+    50368.94545454545,
+    53176.19607843137,
+    55456.01129582268,
+    57833.762025901946,
+    59920.140686061655,
+    61745.14700255102,
+    64368.534007352944,
+    67637.16578801331,
+    70355.61268343816,
+    73204.35233918129,
+    76907.49763832659,
+    81602.05465587045,
+    87912.81636155606,
+    92580.71156832298,
+    94693.98133116882,
+    97440.71212121213,
+    100660.16886608016,
+    103942.56129032258,
+    109382.72236842106,
+    114741.98563372718,
+    118189.82149315422,
+    121332.5644778481,
+    125302.95386904762,
+    128839.73992673992,
+    131896.2173076923,
+    135536.75833333333,
+    139120.54583333334,
+    141976.88392857142,
+    143596.85714285716,
+    145327.7857142857,
+    147562.36666666667,
+    150103.04234234235,
+    152816.9501854796,
+    155726.96749226004,
+    158409.68161881977,
+    162680.42863636365,
+    167310.24357142858
+  ],
+  "n_scenes": 50,
+  "top_entities": [
+    {
+      "label": "london",
+      "count": 174,
+      "type": "GPE"
+    },
+    {
+      "label": "mac",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 81,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 71,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 63,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 54,
+      "type": "NORP"
+    },
+    {
+      "label": "america",
+      "count": 53,
+      "type": "GPE"
+    },
+    {
+      "label": "james",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "irving",
+      "count": 46,
+      "type": "PERSON"
+    },
+    {
+      "label": "the bank of england",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "havana",
+      "count": 44,
+      "type": "GPE"
+    },
+    {
+      "label": "nunn",
+      "count": 43,
+      "type": "GPE"
+    },
+    {
+      "label": "noyes",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "europe",
+      "count": 40,
+      "type": "LOC"
+    },
+    {
+      "label": "brea",
+      "count": 39,
+      "type": "GPE"
+    },
+    {
+      "label": "spanish",
+      "count": 35,
+      "type": "NORP"
+    },
+    {
+      "label": "cuba",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 31,
+      "type": "NORP"
+    },
+    {
+      "label": "countess",
+      "count": 29,
+      "type": "NORP"
+    },
+    {
+      "label": "france",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "rio",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "madrid",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "ireland",
+      "count": 24,
+      "type": "GPE"
+    },
+    {
+      "label": "f. a. warren",
+      "count": 23,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 84440.76588294147,
+      "activity": 0.04922176082765815
+    },
+    {
+      "token": 119560.64132066033,
+      "activity": 0.041199219671835034
+    },
+    {
+      "token": 23640.013006503254,
+      "activity": 0.03831266102643525
+    },
+    {
+      "token": 133676.6203101551,
+      "activity": 0.03777410217839974
+    },
+    {
+      "token": 36650.52376188094,
+      "activity": 0.0376500298458446
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 853,
+    "scene_entity_counts": [
+      65,
+      25,
+      26,
+      16,
+      42,
+      15,
+      26,
+      23,
+      17,
+      23,
+      18,
+      18,
+      24,
+      18,
+      27,
+      16,
+      16,
+      14,
+      11,
+      32,
+      20,
+      33,
+      34,
+      26,
+      51,
+      18,
+      25,
+      21,
+      36,
+      18,
+      27,
+      51,
+      27,
+      38,
+      16,
+      10,
+      8,
+      36,
+      18,
+      5,
+      1,
+      7,
+      4,
+      7,
+      16,
+      18,
+      20,
+      21,
+      14,
+      14
+    ]
+  }
+}

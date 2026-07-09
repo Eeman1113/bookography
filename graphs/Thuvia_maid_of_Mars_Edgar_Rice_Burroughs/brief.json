@@ -1,0 +1,255 @@
+{
+  "slug": "Thuvia_maid_of_Mars_Edgar_Rice_Burroughs",
+  "title_display": "Thuvia maid of Mars Edgar Rice Burroughs",
+  "language": "en",
+  "length_tokens": 59943,
+  "length_words": 47740,
+  "unique_entities": 63,
+  "entity_mentions": 1585,
+  "scene_count": 17,
+  "top_entities": [
+    {
+      "label": "carthoris",
+      "count": 330,
+      "type": "PERSON"
+    },
+    {
+      "label": "thuvia",
+      "count": 162,
+      "type": "GPE"
+    },
+    {
+      "label": "jav",
+      "count": 99,
+      "type": "PERSON"
+    },
+    {
+      "label": "tario",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "lothar",
+      "count": 58,
+      "type": "GPE"
+    },
+    {
+      "label": "kar komak",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "vas kor",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "heliumite",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "dusar",
+      "count": 44,
+      "type": "GPE"
+    },
+    {
+      "label": "thuria",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "astok",
+      "count": 37,
+      "type": "GPE"
+    },
+    {
+      "label": "helium",
+      "count": 35,
+      "type": "ORG"
+    },
+    {
+      "label": "mars",
+      "count": 34,
+      "type": "LOC"
+    },
+    {
+      "label": "komal",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "dusarian",
+      "count": 31,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58532.65832916459,
+      "activity": 0.0728889685726561
+    },
+    {
+      "token": 51306.034017008504,
+      "activity": 0.0552121934237117
+    },
+    {
+      "token": 59762.084042021015,
+      "activity": 0.05450261359918272
+    },
+    {
+      "token": 59462.22411205603,
+      "activity": 0.05296737553880122
+    },
+    {
+      "token": 23509.018509254627,
+      "activity": 0.05187152085621776
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 311,
+    "scene_entity_counts": [
+      22,
+      21,
+      17,
+      25,
+      22,
+      24,
+      10,
+      15,
+      11,
+      10,
+      31,
+      19,
+      29,
+      24,
+      27,
+      26,
+      41
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0041,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.5409,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5409
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3543
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.0314
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0013
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.4792
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5409
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.003950779787523069,
+        "read_time_min": 23.0,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "triumph",
+          "pleased",
+          "greater",
+          "pleasure"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": -0.008971861063460373,
+        "read_time_min": 140.5,
+        "driving_words": [
+          "succeeds",
+          "good",
+          "loved",
+          "great",
+          "glad",
+          "love"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": -0.013816456059583425,
+        "read_time_min": 154.2,
+        "driving_words": [
+          "great",
+          "pleasure",
+          "best",
+          "pleasant",
+          "glad",
+          "love"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1919191919191919,
+        "smoothed": -0.11011254641084377,
+        "read_time_min": 49.0,
+        "driving_words": [
+          "torture",
+          "dead",
+          "slave",
+          "cruel",
+          "despair",
+          "betrayed"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": -0.08864227283034551,
+        "read_time_min": 65.7,
+        "driving_words": [
+          "torture",
+          "loose",
+          "dying",
+          "cheated",
+          "charged",
+          "hideous"
+        ]
+      },
+      {
+        "position": 0.5151515151515151,
+        "smoothed": -0.09382237192282464,
+        "read_time_min": 97.8,
+        "driving_words": [
+          "tortured",
+          "kill",
+          "terror",
+          "killed",
+          "die",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Thuvia_maid_of_Mars_Edgar_Rice_Burroughs/sentiment_arc.png"
+  }
+}

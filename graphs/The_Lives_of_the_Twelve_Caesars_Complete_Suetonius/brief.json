@@ -1,0 +1,293 @@
+{
+  "slug": "The_Lives_of_the_Twelve_Caesars_Complete_Suetonius",
+  "title_display": "The Lives of the Twelve Caesars Complete Suetonius",
+  "language": "en",
+  "length_tokens": 307636,
+  "length_words": 230616,
+  "unique_entities": 598,
+  "entity_mentions": 7527,
+  "scene_count": 55,
+  "top_entities": [
+    {
+      "label": "augustus",
+      "count": 379,
+      "type": "PERSON"
+    },
+    {
+      "label": "rome",
+      "count": 378,
+      "type": "GPE"
+    },
+    {
+      "label": "senate",
+      "count": 274,
+      "type": "ORG"
+    },
+    {
+      "label": "roman",
+      "count": 225,
+      "type": "NORP"
+    },
+    {
+      "label": "tiberius",
+      "count": 205,
+      "type": "ORG"
+    },
+    {
+      "label": "nero",
+      "count": 150,
+      "type": "ORG"
+    },
+    {
+      "label": "caesar",
+      "count": 135,
+      "type": "ORG"
+    },
+    {
+      "label": "claudius",
+      "count": 105,
+      "type": "NORP"
+    },
+    {
+      "label": "romans",
+      "count": 101,
+      "type": "NORP"
+    },
+    {
+      "label": "greek",
+      "count": 98,
+      "type": "NORP"
+    },
+    {
+      "label": "cicero",
+      "count": 90,
+      "type": "ORG"
+    },
+    {
+      "label": "vespasian",
+      "count": 86,
+      "type": "NORP"
+    },
+    {
+      "label": "pompey",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "suetonius",
+      "count": 78,
+      "type": "ORG"
+    },
+    {
+      "label": "julius caesar",
+      "count": 77,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 305480.47773886943,
+      "activity": 0.07970114599268549
+    },
+    {
+      "token": 302710.3776888444,
+      "activity": 0.07936280734444182
+    },
+    {
+      "token": 294707.8664332166,
+      "activity": 0.05414419820280679
+    },
+    {
+      "token": 285166.41070535267,
+      "activity": 0.05246810789703576
+    },
+    {
+      "token": 292245.5552776388,
+      "activity": 0.05182205583875388
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 55,
+    "edges": 3130,
+    "scene_entity_counts": [
+      67,
+      44,
+      49,
+      76,
+      54,
+      42,
+      65,
+      72,
+      52,
+      39,
+      74,
+      74,
+      74,
+      65,
+      49,
+      70,
+      55,
+      80,
+      69,
+      62,
+      66,
+      38,
+      33,
+      41,
+      46,
+      82,
+      92,
+      65,
+      58,
+      65,
+      60,
+      41,
+      36,
+      40,
+      66,
+      58,
+      53,
+      40,
+      60,
+      66,
+      40,
+      44,
+      64,
+      62,
+      55,
+      91,
+      105,
+      96,
+      77,
+      89,
+      106,
+      104,
+      138,
+      181,
+      138
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0155,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.1978,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1978
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0846
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.0394
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0846
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.186
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2173
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.21959589211426625,
+        "read_time_min": 242.8,
+        "driving_words": [
+          "fabulous",
+          "wonderful",
+          "supreme",
+          "brilliant",
+          "magnificent",
+          "popular"
+        ]
+      },
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.06855614638486633,
+        "read_time_min": 581.6,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "supreme",
+          "best",
+          "succeeds",
+          "excellent"
+        ]
+      },
+      {
+        "position": 0.8282828282828283,
+        "smoothed": 0.09086168832286137,
+        "read_time_min": 750.9,
+        "driving_words": [
+          "fabulous",
+          "brilliant",
+          "masterpieces",
+          "pleasure",
+          "great",
+          "admired"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.35353535353535354,
+        "smoothed": -0.14391536523649,
+        "read_time_min": 332.0,
+        "driving_words": [
+          "torture",
+          "tortures",
+          "killed",
+          "outrage",
+          "loss",
+          "died"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": -0.07533693280825977,
+        "read_time_min": 438.9,
+        "driving_words": [
+          "obnoxious",
+          "kill",
+          "violent",
+          "vomited",
+          "killed",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": -0.07018472037000666,
+        "read_time_min": 528.1,
+        "driving_words": [
+          "rape",
+          "torture",
+          "victims",
+          "cruelty",
+          "losing",
+          "crimes"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lives_of_the_Twelve_Caesars_Complete_Suetonius/sentiment_arc.png"
+  }
+}

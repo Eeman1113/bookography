@@ -1,0 +1,299 @@
+{
+  "slug": "Autobiography_of_a_Yogi_Paramahansa_Yogananda",
+  "title_display": "Autobiography of a Yogi Paramahansa Yogananda",
+  "language": "en",
+  "length_tokens": 205936,
+  "length_words": 157139,
+  "unique_entities": 327,
+  "entity_mentions": 4051,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "india",
+      "count": 201,
+      "type": "GPE"
+    },
+    {
+      "label": "lahiri mahasaya",
+      "count": 186,
+      "type": "PERSON"
+    },
+    {
+      "label": "sri yukteswar",
+      "count": 176,
+      "type": "FAC"
+    },
+    {
+      "label": "babaji",
+      "count": 124,
+      "type": "PERSON"
+    },
+    {
+      "label": "hindu",
+      "count": 72,
+      "type": "NORP"
+    },
+    {
+      "label": "indian",
+      "count": 71,
+      "type": "NORP"
+    },
+    {
+      "label": "america",
+      "count": 67,
+      "type": "GPE"
+    },
+    {
+      "label": "benares",
+      "count": 65,
+      "type": "FAC"
+    },
+    {
+      "label": "sri yukteswar’s",
+      "count": 60,
+      "type": "FAC"
+    },
+    {
+      "label": "gandhi",
+      "count": 58,
+      "type": "PERSON"
+    },
+    {
+      "label": "sanskrit",
+      "count": 53,
+      "type": "ORG"
+    },
+    {
+      "label": "ranchi",
+      "count": 52,
+      "type": "GPE"
+    },
+    {
+      "label": "ananta",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "chapter",
+      "count": 48,
+      "type": "ORG"
+    },
+    {
+      "label": "wright",
+      "count": 47,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 927.1710855427714,
+      "activity": 0.04463760940787861
+    },
+    {
+      "token": 173484.012006003,
+      "activity": 0.04306096992563334
+    },
+    {
+      "token": 136397.16858429214,
+      "activity": 0.03967177915477888
+    },
+    {
+      "token": 153498.32416208103,
+      "activity": 0.0378345873111978
+    },
+    {
+      "token": 146493.03151575787,
+      "activity": 0.03757961650418079
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 1434,
+    "scene_entity_counts": [
+      50,
+      17,
+      26,
+      24,
+      33,
+      38,
+      24,
+      31,
+      30,
+      21,
+      32,
+      34,
+      27,
+      21,
+      8,
+      19,
+      29,
+      13,
+      16,
+      25,
+      23,
+      24,
+      27,
+      23,
+      28,
+      24,
+      20,
+      35,
+      35,
+      29,
+      33,
+      33,
+      30,
+      24,
+      17,
+      24,
+      43,
+      32,
+      19,
+      30,
+      27,
+      26,
+      27,
+      40,
+      21,
+      30,
+      41,
+      40,
+      44,
+      24,
+      31,
+      43,
+      57,
+      17,
+      33,
+      23,
+      30,
+      17,
+      26,
+      49,
+      44
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0071,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.476,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.476
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3884
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1485
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.1266
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1846
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.476
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.6666666666666666,
+        "smoothed": 0.20892656099741294,
+        "read_time_min": 412.4,
+        "driving_words": [
+          "thrilled",
+          "win",
+          "wonderful",
+          "awesome",
+          "brilliant",
+          "rejoicing"
+        ]
+      },
+      {
+        "position": 0.7575757575757576,
+        "smoothed": 0.22379469157488927,
+        "read_time_min": 465.9,
+        "driving_words": [
+          "supreme",
+          "heavenly",
+          "funny",
+          "rejoiced",
+          "miracle",
+          "rejoicing"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.18014817599043972,
+        "read_time_min": 596.7,
+        "driving_words": [
+          "wonderful",
+          "triumphant",
+          "triumph",
+          "ecstatic",
+          "rejoicing",
+          "heavenly"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.23232323232323232,
+        "smoothed": 0.10237717395250517,
+        "read_time_min": 156.7,
+        "driving_words": [
+          "hell",
+          "died",
+          "warning",
+          "ugly",
+          "slave",
+          "idiocy"
+        ]
+      },
+      {
+        "position": 0.36363636363636365,
+        "smoothed": 0.08808879043538796,
+        "read_time_min": 234.0,
+        "driving_words": [
+          "cock",
+          "torture",
+          "torturing",
+          "evil",
+          "destroy",
+          "worst"
+        ]
+      },
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.09232923773921776,
+        "read_time_min": 370.8,
+        "driving_words": [
+          "destroy",
+          "dead",
+          "violent",
+          "furious",
+          "hysterical",
+          "dying"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Autobiography_of_a_Yogi_Paramahansa_Yogananda/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "As_You_Like_It_William_Shakespeare",
+  "title_display": "As You Like It William Shakespeare",
+  "language": "en",
+  "length_tokens": 32581,
+  "length_words": 23557,
+  "unique_entities": 44,
+  "entity_mentions": 662,
+  "scene_count": 6,
+  "top_entities": [
+    {
+      "label": "orlando",
+      "count": 167,
+      "type": "ORG"
+    },
+    {
+      "label": "jaques",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "phoebe",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "oliver",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 37,
+      "type": "GPE"
+    },
+    {
+      "label": "audrey",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "adam",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "celia",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "silvius",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "nay",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "le beau",
+      "count": 14,
+      "type": "FAC"
+    },
+    {
+      "label": "exit",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "duke",
+      "count": 10,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 814.9074537268634,
+      "activity": 0.07428569671686759
+    },
+    {
+      "token": 16705.6028014007,
+      "activity": 0.06680509220268216
+    },
+    {
+      "token": 27087.523761880937,
+      "activity": 0.060926199269785396
+    },
+    {
+      "token": 29907.103551775886,
+      "activity": 0.056094214968018766
+    },
+    {
+      "token": 1613.5167583791895,
+      "activity": 0.056031404221248055
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 86,
+    "scene_entity_counts": [
+      26,
+      25,
+      18,
+      18,
+      19,
+      24
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 7773,
+    "volatility": 0.0045,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.7336,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.7336
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5735
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2917
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2603
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3407
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.7336
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.17759206803615118,
+        "read_time_min": 53.2,
+        "driving_words": [
+          "heavenly",
+          "wonderful",
+          "love",
+          "good",
+          "loved",
+          "great"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.19240677834563047,
+        "read_time_min": 71.0,
+        "driving_words": [
+          "praised",
+          "joy",
+          "good",
+          "glad",
+          "excellent",
+          "love"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.19828012150694554,
+        "read_time_min": 77.4,
+        "driving_words": [
+          "love",
+          "woo",
+          "loved",
+          "perfect",
+          "best",
+          "marvel"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.08710883333957785,
+        "read_time_min": 24.5,
+        "driving_words": [
+          "cock",
+          "ass",
+          "lost",
+          "dead",
+          "cruel",
+          "guilty"
+        ]
+      },
+      {
+        "position": 0.2222222222222222,
+        "smoothed": 0.0800710806681072,
+        "read_time_min": 29.6,
+        "driving_words": [
+          "cock",
+          "prick",
+          "ass",
+          "damned",
+          "mad",
+          "hate"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": 0.07028089873738938,
+        "read_time_min": 34.7,
+        "driving_words": [
+          "cock",
+          "prick",
+          "ass",
+          "damned",
+          "die",
+          "worse"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/As_You_Like_It_William_Shakespeare/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "The_Romance_of_Tristan_and_Iseult_Joseph_Bédier",
+  "title": "The Romance of Tristan and Iseult Joseph Bédier",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 32905,
+  "n_unique_entities": 53,
+  "n_entity_mentions": 897,
+  "sigma": 82.2625,
+  "target_scenes": 10,
+  "detected_scene_boundaries": [
+    16265.259070100143
+  ],
+  "n_scenes": 2,
+  "top_entities": [
+    {
+      "label": "tristan",
+      "count": 301,
+      "type": "GPE"
+    },
+    {
+      "label": "iseult",
+      "count": 161,
+      "type": "ORG"
+    },
+    {
+      "label": "king mark",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "king",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "kaherdin",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "mark",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "cornwall",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "brangien",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "morholt",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "tintagel",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "queen",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "fair",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "lyonesse",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "ireland",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "perinis",
+      "count": 12,
+      "type": "NORP"
+    },
+    {
+      "label": "ogrin",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "the white hands",
+      "count": 9,
+      "type": "FAC"
+    },
+    {
+      "label": "rivalen",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "rohalt",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "barony",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "ivan",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "cornish",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "gorvenal",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "andret",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "riol",
+      "count": 6,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 7999.671835917959,
+      "activity": 0.06565758193852214
+    },
+    {
+      "token": 2650.097048524262,
+      "activity": 0.06041532619033175
+    },
+    {
+      "token": 26484.51025512756,
+      "activity": 0.05735218300308549
+    },
+    {
+      "token": 30270.363181590794,
+      "activity": 0.056739849805583185
+    },
+    {
+      "token": 26007.163581790894,
+      "activity": 0.05582941289765172
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 29,
+    "scene_entity_counts": [
+      38,
+      44
+    ]
+  }
+}

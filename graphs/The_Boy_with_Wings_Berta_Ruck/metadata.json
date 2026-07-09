@@ -1,0 +1,262 @@
+{
+  "slug": "The_Boy_with_Wings_Berta_Ruck",
+  "title": "The Boy with Wings Berta Ruck",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 126197,
+  "n_unique_entities": 122,
+  "n_entity_mentions": 1790,
+  "sigma": 315.4925,
+  "target_scenes": 42,
+  "detected_scene_boundaries": [
+    3372.366956521739,
+    5459.811250000001,
+    7032.221726190476,
+    9353.590476190475,
+    12035.361538461537,
+    14012.314479638007,
+    16989.677941176473,
+    19911.352027027027,
+    21640.127027027025,
+    23433.856410256412,
+    25343.27527818094,
+    28307.823215750614,
+    32452.34280936455,
+    36040.606643356645,
+    38450.38961038961,
+    40721.69322344322,
+    43269.7317948718,
+    45646.77176470588,
+    48058.70065359477,
+    51322.02888888889,
+    54264.213684210525,
+    56546.073684210525,
+    59050.245161290324,
+    62196.238184546135,
+    65112.277805864505,
+    69046.57763975154,
+    72664.10907335907,
+    74251.12647262646,
+    75676.29397734048,
+    78078.739490161,
+    82091.05815018315,
+    85613.0493197279,
+    87424.7700156986,
+    89076.15034965036,
+    91602.21536796537,
+    94348.58333333333,
+    96864.19246031746,
+    100318.49007936507,
+    103991.97822299652,
+    106433.65943992772,
+    108794.62670565302,
+    111973.74493927124,
+    114727.81730769231,
+    117390.8508064516,
+    120794.99607672189,
+    123772.98902027027
+  ],
+  "n_scenes": 47,
+  "top_entities": [
+    {
+      "label": "leslie",
+      "count": 258,
+      "type": "PERSON"
+    },
+    {
+      "label": "gwenna",
+      "count": 176,
+      "type": "NORP"
+    },
+    {
+      "label": "paul",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "dampier",
+      "count": 77,
+      "type": "PERSON"
+    },
+    {
+      "label": "paul dampier",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "ryan",
+      "count": 54,
+      "type": "PERSON"
+    },
+    {
+      "label": "taffy",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 38,
+      "type": "GPE"
+    },
+    {
+      "label": "welsh",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "leslie long",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "airman",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "german",
+      "count": 28,
+      "type": "NORP"
+    },
+    {
+      "label": "gwenna williams",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "crewe",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "club",
+      "count": 26,
+      "type": "ORG"
+    },
+    {
+      "label": "butcher",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "conyers",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "long",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "machine",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "england",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "p.d.q.",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "swayne",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "aeroplane",
+      "count": 19,
+      "type": "ORG"
+    },
+    {
+      "label": "williams",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "baker",
+      "count": 17,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 124807.14957478739,
+      "activity": 0.042307372075484205
+    },
+    {
+      "token": 102017.37668834417,
+      "activity": 0.027849208742388745
+    },
+    {
+      "token": 22663.513756878438,
+      "activity": 0.02780003405871824
+    },
+    {
+      "token": 1515.1095547773887,
+      "activity": 0.027796416852602136
+    },
+    {
+      "token": 105236.98449224612,
+      "activity": 0.02729863167992571
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 47,
+    "edges": 716,
+    "scene_entity_counts": [
+      26,
+      15,
+      6,
+      11,
+      12,
+      9,
+      16,
+      18,
+      19,
+      17,
+      18,
+      26,
+      17,
+      21,
+      11,
+      11,
+      17,
+      14,
+      14,
+      28,
+      18,
+      14,
+      16,
+      18,
+      21,
+      22,
+      16,
+      16,
+      16,
+      20,
+      30,
+      27,
+      21,
+      15,
+      25,
+      16,
+      19,
+      26,
+      32,
+      20,
+      16,
+      14,
+      14,
+      14,
+      13,
+      15,
+      18
+    ]
+  }
+}

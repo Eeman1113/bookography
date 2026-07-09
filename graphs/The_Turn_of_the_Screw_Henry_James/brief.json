@@ -1,0 +1,234 @@
+{
+  "slug": "The_Turn_of_the_Screw_Henry_James",
+  "title_display": "The Turn of the Screw Henry James",
+  "language": "en",
+  "length_tokens": 56496,
+  "length_words": 43448,
+  "unique_entities": 12,
+  "entity_mentions": 274,
+  "scene_count": 11,
+  "top_entities": [
+    {
+      "label": "grose",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "flora",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "miles",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "quint",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessel",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "douglas",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "harley street",
+      "count": 6,
+      "type": "FAC"
+    },
+    {
+      "label": "bly",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 4,
+      "type": "GPE"
+    },
+    {
+      "label": "peter quint",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "luke",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "griffin",
+      "count": 3,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 22467.996498249122,
+      "activity": 0.02005859490443414
+    },
+    {
+      "token": 16306.960980490245,
+      "activity": 0.017873868575588037
+    },
+    {
+      "token": 44455.545272636315,
+      "activity": 0.01647018027794503
+    },
+    {
+      "token": 45953.41170585292,
+      "activity": 0.016404395046669778
+    },
+    {
+      "token": 38181.46323161581,
+      "activity": 0.01636197286806394
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 49,
+    "scene_entity_counts": [
+      7,
+      6,
+      5,
+      5,
+      5,
+      4,
+      7,
+      4,
+      7,
+      6,
+      5
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0051,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.8213,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.8213
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.7101
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.5184
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.7101
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.8195
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.8311
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.1387647995282563,
+        "read_time_min": 25.4,
+        "driving_words": [
+          "supreme",
+          "heavenly",
+          "win",
+          "wonderful",
+          "best",
+          "impressed"
+        ]
+      },
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.012680914830156247,
+        "read_time_min": 57.8,
+        "driving_words": [
+          "wonderful",
+          "wonderfully",
+          "rejoice",
+          "miracle",
+          "perfectly",
+          "good"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": 0.02052711766111932,
+        "read_time_min": 118.7,
+        "driving_words": [
+          "fantastic",
+          "triumph",
+          "fabulous",
+          "brilliant",
+          "greater",
+          "successfully"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.46464646464646464,
+        "smoothed": -0.013422516513546895,
+        "read_time_min": 82.2,
+        "driving_words": [
+          "fraud",
+          "died",
+          "dreadful",
+          "miserable",
+          "despair",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": -0.028387278812287323,
+        "read_time_min": 136.2,
+        "driving_words": [
+          "damned",
+          "awful",
+          "terrible",
+          "miserable",
+          "dumb",
+          "bribed"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.021082313960103804,
+        "read_time_min": 148.4,
+        "driving_words": [
+          "betrayed",
+          "evil",
+          "dreadful",
+          "worry",
+          "worse",
+          "ugly"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Turn_of_the_Screw_Henry_James/sentiment_arc.png"
+  }
+}

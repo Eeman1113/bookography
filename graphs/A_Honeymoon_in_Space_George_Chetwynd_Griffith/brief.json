@@ -1,0 +1,269 @@
+{
+  "slug": "A_Honeymoon_in_Space_George_Chetwynd_Griffith",
+  "title_display": "A Honeymoon in Space George Chetwynd Griffith",
+  "language": "en",
+  "length_tokens": 83194,
+  "length_words": 64805,
+  "unique_entities": 77,
+  "entity_mentions": 1642,
+  "scene_count": 31,
+  "top_entities": [
+    {
+      "label": "zaidie",
+      "count": 280,
+      "type": "ORG"
+    },
+    {
+      "label": "astronef",
+      "count": 221,
+      "type": "PERSON"
+    },
+    {
+      "label": "redgrave",
+      "count": 221,
+      "type": "PERSON"
+    },
+    {
+      "label": "earth",
+      "count": 82,
+      "type": "LOC"
+    },
+    {
+      "label": "van stuyler",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "murgatroyd",
+      "count": 53,
+      "type": "ORG"
+    },
+    {
+      "label": "lenox",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "sun",
+      "count": 47,
+      "type": "ORG"
+    },
+    {
+      "label": "mars",
+      "count": 41,
+      "type": "LOC"
+    },
+    {
+      "label": "venus",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "martian",
+      "count": 40,
+      "type": "NORP"
+    },
+    {
+      "label": "jupiter",
+      "count": 37,
+      "type": "LOC"
+    },
+    {
+      "label": "space",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "washington",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "new york",
+      "count": 23,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 16064.281140570283,
+      "activity": 0.04448784697303388
+    },
+    {
+      "token": 67295.18809404701,
+      "activity": 0.04143718745810875
+    },
+    {
+      "token": 55434.25512756378,
+      "activity": 0.041073206825932136
+    },
+    {
+      "token": 50897.96848424212,
+      "activity": 0.040430034121325134
+    },
+    {
+      "token": 82693.59229614807,
+      "activity": 0.039117454445801704
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 423,
+    "scene_entity_counts": [
+      9,
+      27,
+      14,
+      14,
+      12,
+      19,
+      25,
+      25,
+      13,
+      11,
+      19,
+      6,
+      6,
+      12,
+      15,
+      16,
+      17,
+      17,
+      15,
+      19,
+      13,
+      19,
+      20,
+      17,
+      13,
+      20,
+      15,
+      14,
+      17,
+      17,
+      24
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0046,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.1494,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1494
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0965
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.0544
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0965
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1386
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1938
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.15773058318183836,
+        "read_time_min": 51.0,
+        "driving_words": [
+          "wonderful",
+          "miracle",
+          "amazing",
+          "supreme",
+          "triumph",
+          "heavenly"
+        ]
+      },
+      {
+        "position": 0.6161616161616161,
+        "smoothed": 0.1600681053345809,
+        "read_time_min": 155.1,
+        "driving_words": [
+          "thrilled",
+          "wonderful",
+          "miracle",
+          "brilliant",
+          "funny",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.17314661435408688,
+        "read_time_min": 175.0,
+        "driving_words": [
+          "thrilled",
+          "brilliant",
+          "funny",
+          "wonderful",
+          "miracle",
+          "love"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3939393939393939,
+        "smoothed": 0.03064391233913428,
+        "read_time_min": 106.4,
+        "driving_words": [
+          "die",
+          "awful",
+          "dead",
+          "betraying",
+          "horrible",
+          "violent"
+        ]
+      },
+      {
+        "position": 0.7777777777777778,
+        "smoothed": 0.13456073845968225,
+        "read_time_min": 190.5,
+        "driving_words": [
+          "hell",
+          "plague",
+          "awful",
+          "dead",
+          "dying",
+          "ridiculous"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": 0.08502610237238263,
+        "read_time_min": 217.1,
+        "driving_words": [
+          "hell",
+          "crime",
+          "lost",
+          "loose",
+          "awful",
+          "hideous"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_Honeymoon_in_Space_George_Chetwynd_Griffith/sentiment_arc.png"
+  }
+}

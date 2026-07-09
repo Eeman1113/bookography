@@ -1,0 +1,255 @@
+{
+  "slug": "The_Great_Gatsby_F_Scott_Fitzgerald",
+  "title_display": "The Great Gatsby F Scott Fitzgerald",
+  "language": "en",
+  "length_tokens": 64913,
+  "length_words": 49967,
+  "unique_entities": 61,
+  "entity_mentions": 1193,
+  "scene_count": 17,
+  "top_entities": [
+    {
+      "label": "gatsby",
+      "count": 246,
+      "type": "PERSON"
+    },
+    {
+      "label": "daisy",
+      "count": 165,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom",
+      "count": 160,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilson",
+      "count": 65,
+      "type": "ORG"
+    },
+    {
+      "label": "jordan",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "new york",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "baker",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "wolfshiem",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "west egg",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "nick",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "michaelis",
+      "count": 22,
+      "type": "GPE"
+    },
+    {
+      "label": "chicago",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "tom buchanan",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "myrtle",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "mckee",
+      "count": 16,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 42830.87943971986,
+      "activity": 0.047729288621848234
+    },
+    {
+      "token": 45623.49174587294,
+      "activity": 0.04457064347099609
+    },
+    {
+      "token": 11625.060530265133,
+      "activity": 0.04333487135123967
+    },
+    {
+      "token": 43188.07403701851,
+      "activity": 0.04276117607533566
+    },
+    {
+      "token": 37375.54377188595,
+      "activity": 0.038705852425441584
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 226,
+    "scene_entity_counts": [
+      18,
+      12,
+      19,
+      17,
+      18,
+      15,
+      21,
+      18,
+      11,
+      25,
+      21,
+      16,
+      14,
+      13,
+      13,
+      18,
+      18
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0033,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5504,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5504
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.5088
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.0464
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0799
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3231
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5504
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.2727272727272727,
+        "smoothed": 0.058683920522594024,
+        "read_time_min": 63.6,
+        "driving_words": [
+          "triumph",
+          "win",
+          "funny",
+          "amazing",
+          "triumphant",
+          "fantastic"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.06997843692821576,
+        "read_time_min": 95.9,
+        "driving_words": [
+          "funny",
+          "ecstatic",
+          "fun",
+          "fantastic",
+          "nice",
+          "startling"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.0502877648879818,
+        "read_time_min": 110.4,
+        "driving_words": [
+          "ecstatic",
+          "funny",
+          "fun",
+          "fantastic",
+          "nice",
+          "happy"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.024284707480458582,
+        "read_time_min": 121.7,
+        "driving_words": [
+          "hell",
+          "lost",
+          "dead",
+          "hysterical",
+          "died",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": -0.03311941842557623,
+        "read_time_min": 137.9,
+        "driving_words": [
+          "bitch",
+          "hell",
+          "damned",
+          "awful",
+          "suck",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": -0.011104756033040522,
+        "read_time_min": 166.9,
+        "driving_words": [
+          "bitch",
+          "damned",
+          "hell",
+          "dead",
+          "lost",
+          "died"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Great_Gatsby_F_Scott_Fitzgerald/sentiment_arc.png"
+  }
+}

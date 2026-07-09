@@ -1,0 +1,271 @@
+{
+  "slug": "The_murder_of_Roger_Ackroyd_Agatha_Christie",
+  "title_display": "The murder of Roger Ackroyd Agatha Christie",
+  "language": "en",
+  "length_tokens": 100884,
+  "length_words": 72830,
+  "unique_entities": 77,
+  "entity_mentions": 2443,
+  "scene_count": 33,
+  "top_entities": [
+    {
+      "label": "poirot",
+      "count": 341,
+      "type": "PERSON"
+    },
+    {
+      "label": "ackroyd",
+      "count": 308,
+      "type": "ORG"
+    },
+    {
+      "label": "caroline",
+      "count": 202,
+      "type": "PERSON"
+    },
+    {
+      "label": "flora",
+      "count": 164,
+      "type": "PERSON"
+    },
+    {
+      "label": "parker",
+      "count": 148,
+      "type": "ORG"
+    },
+    {
+      "label": "blunt",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "ralph",
+      "count": 102,
+      "type": "PERSON"
+    },
+    {
+      "label": "raymond",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "ralph paton",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheppard",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "russell",
+      "count": 60,
+      "type": "PERSON"
+    },
+    {
+      "label": "raglan",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrars",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "ganett",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. poirot",
+      "count": 43,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 49709.732366183096,
+      "activity": 0.0491082075032674
+    },
+    {
+      "token": 85238.31265632817,
+      "activity": 0.04782822728469528
+    },
+    {
+      "token": 62023.615307653825,
+      "activity": 0.0462386587286678
+    },
+    {
+      "token": 60257.27963981991,
+      "activity": 0.044819746735695346
+    },
+    {
+      "token": 3128.937468734367,
+      "activity": 0.044697131585425307
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 33,
+    "edges": 523,
+    "scene_entity_counts": [
+      11,
+      17,
+      16,
+      17,
+      20,
+      12,
+      9,
+      11,
+      24,
+      15,
+      15,
+      17,
+      14,
+      20,
+      14,
+      14,
+      23,
+      16,
+      26,
+      20,
+      23,
+      32,
+      22,
+      17,
+      27,
+      19,
+      11,
+      19,
+      24,
+      30,
+      16,
+      20,
+      9
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0049,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.3063,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.3063
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3003
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.0395
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0583
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1701
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3003
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.015548799660280221,
+        "read_time_min": 25.1,
+        "driving_words": [
+          "amazing",
+          "good",
+          "successful",
+          "genial",
+          "love",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": 0.06969893966785545,
+        "read_time_min": 96.2,
+        "driving_words": [
+          "triumphant",
+          "funny",
+          "wonderful",
+          "astounded",
+          "great",
+          "nice"
+        ]
+      },
+      {
+        "position": 0.7272727272727273,
+        "smoothed": 0.013439688709667719,
+        "read_time_min": 202.8,
+        "driving_words": [
+          "wonderful",
+          "triumph",
+          "winning",
+          "amazing",
+          "great",
+          "greatest"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": -0.05710797633641339,
+        "read_time_min": 55.5,
+        "driving_words": [
+          "hell",
+          "damned",
+          "hate",
+          "hater",
+          "arrested",
+          "warning"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": -0.03310499527237567,
+        "read_time_min": 220.5,
+        "driving_words": [
+          "cock",
+          "prick",
+          "hell",
+          "killed",
+          "kill",
+          "greed"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.026493789386498046,
+        "read_time_min": 263.7,
+        "driving_words": [
+          "scandal",
+          "lost",
+          "terrible",
+          "arrested",
+          "badly",
+          "apathetic"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_murder_of_Roger_Ackroyd_Agatha_Christie/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "slug": "The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle",
+  "title_display": "The Adventures of Sherlock Holmes Arthur Conan Doyle",
+  "language": "en",
+  "length_tokens": 136993,
+  "length_words": 105849,
+  "unique_entities": 138,
+  "entity_mentions": 1572,
+  "scene_count": 50,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 434,
+      "type": "PERSON"
+    },
+    {
+      "label": "watson",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrade",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "rucastle",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "mccarthy",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "baker street",
+      "count": 27,
+      "type": "FAC"
+    },
+    {
+      "label": "england",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "arthur",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "sherlock holmes",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "hunter",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "turner",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "majesty",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "geese",
+      "count": 16,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 39953.144572286146,
+      "activity": 0.02866218710421227
+    },
+    {
+      "token": 33785.42071035518,
+      "activity": 0.027470531312993304
+    },
+    {
+      "token": 136512.28814407205,
+      "activity": 0.025998683328134313
+    },
+    {
+      "token": 10279.539769884943,
+      "activity": 0.024581919036191342
+    },
+    {
+      "token": 26247.091545772888,
+      "activity": 0.023848262869043586
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 416,
+    "scene_entity_counts": [
+      9,
+      11,
+      11,
+      6,
+      12,
+      12,
+      10,
+      11,
+      10,
+      11,
+      17,
+      15,
+      21,
+      12,
+      10,
+      12,
+      8,
+      16,
+      10,
+      13,
+      15,
+      14,
+      14,
+      12,
+      14,
+      13,
+      7,
+      11,
+      12,
+      16,
+      11,
+      6,
+      2,
+      12,
+      10,
+      7,
+      4,
+      10,
+      16,
+      16,
+      13,
+      9,
+      7,
+      7,
+      8,
+      16,
+      10,
+      7,
+      7,
+      11
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0056,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.6757,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6757
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.1399
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.1399
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4079
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.659
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.7778
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.10693190026097132,
+        "read_time_min": 35.5,
+        "driving_words": [
+          "superb",
+          "funny",
+          "wonderful",
+          "rejoiced",
+          "good",
+          "handsome"
+        ]
+      },
+      {
+        "position": 0.8181818181818182,
+        "smoothed": 0.05570033451114462,
+        "read_time_min": 333.7,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "great",
+          "charming",
+          "fascinating",
+          "greatest"
+        ]
+      },
+      {
+        "position": 0.9393939393939394,
+        "smoothed": 0.03740521417756628,
+        "read_time_min": 380.2,
+        "driving_words": [
+          "great",
+          "greatest",
+          "good",
+          "impressed",
+          "greater",
+          "affection"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.25252525252525254,
+        "smoothed": -0.03572523819582781,
+        "read_time_min": 116.8,
+        "driving_words": [
+          "deception",
+          "illegal",
+          "crime",
+          "bad",
+          "defects",
+          "ungrateful"
+        ]
+      },
+      {
+        "position": 0.35353535353535354,
+        "smoothed": -0.05375854332576134,
+        "read_time_min": 155.5,
+        "driving_words": [
+          "slut",
+          "cock",
+          "died",
+          "worse",
+          "worst",
+          "mad"
+        ]
+      },
+      {
+        "position": 0.6262626262626263,
+        "smoothed": -0.04079040566848031,
+        "read_time_min": 260.1,
+        "driving_words": [
+          "terror",
+          "violent",
+          "mad",
+          "ungrateful",
+          "horrible",
+          "anger"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle/sentiment_arc.png"
+  }
+}

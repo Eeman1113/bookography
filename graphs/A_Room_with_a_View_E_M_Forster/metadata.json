@@ -1,0 +1,214 @@
+{
+  "slug": "A_Room_with_a_View_E_M_Forster",
+  "title": "A Room with a View E M Forster",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 91553,
+  "n_unique_entities": 100,
+  "n_entity_mentions": 2302,
+  "sigma": 228.8825,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    3103.3176914778855,
+    9759.342324601575,
+    17917.56562557245,
+    22829.758164165934,
+    25655.88811188811,
+    28243.484432234432,
+    31043.966062544423,
+    35022.3296881927,
+    40420.58633180391,
+    45897.19500469043,
+    49991.7536268556,
+    52502.597994987475,
+    54453.03571428571,
+    57671.97280701754,
+    61055.97697368421,
+    64106.05892857142,
+    67927.98681318681,
+    73606.26435216701,
+    79563.13316295392,
+    82724.02199608958,
+    85080.2157286152,
+    87522.23965632298
+  ],
+  "n_scenes": 23,
+  "top_entities": [
+    {
+      "label": "lucy",
+      "count": 461,
+      "type": "PERSON"
+    },
+    {
+      "label": "beebe",
+      "count": 203,
+      "type": "PERSON"
+    },
+    {
+      "label": "bartlett",
+      "count": 198,
+      "type": "PERSON"
+    },
+    {
+      "label": "freddy",
+      "count": 125,
+      "type": "PERSON"
+    },
+    {
+      "label": "honeychurch",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "emerson",
+      "count": 98,
+      "type": "PERSON"
+    },
+    {
+      "label": "charlotte",
+      "count": 89,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "eager",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "italy",
+      "count": 54,
+      "type": "GPE"
+    },
+    {
+      "label": "florence",
+      "count": 43,
+      "type": "ORG"
+    },
+    {
+      "label": "lavish",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "vyse",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "windy corner",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "alans",
+      "count": 31,
+      "type": "NORP"
+    },
+    {
+      "label": "emersons",
+      "count": 30,
+      "type": "ORG"
+    },
+    {
+      "label": "minnie",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "greece",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "rome",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 21,
+      "type": "NORP"
+    },
+    {
+      "label": "george emerson",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "harry",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "santa croce",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "alan",
+      "count": 17,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 13648.07203601801,
+      "activity": 0.04701793674810586
+    },
+    {
+      "token": 24914.601300650327,
+      "activity": 0.046080740135466244
+    },
+    {
+      "token": 366.3911955977989,
+      "activity": 0.04542421006829246
+    },
+    {
+      "token": 81522.04102051025,
+      "activity": 0.04443216747328281
+    },
+    {
+      "token": 50561.98499249625,
+      "activity": 0.04316987213539131
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 23,
+    "edges": 498,
+    "scene_entity_counts": [
+      27,
+      35,
+      38,
+      28,
+      32,
+      20,
+      13,
+      17,
+      29,
+      28,
+      30,
+      28,
+      15,
+      18,
+      26,
+      28,
+      35,
+      27,
+      33,
+      27,
+      23,
+      16,
+      25
+    ]
+  }
+}

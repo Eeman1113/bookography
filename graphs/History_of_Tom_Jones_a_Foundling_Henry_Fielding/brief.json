@@ -1,0 +1,298 @@
+{
+  "slug": "History_of_Tom_Jones_a_Foundling_Henry_Fielding",
+  "title_display": "History of Tom Jones a Foundling Henry Fielding",
+  "language": "en",
+  "length_tokens": 408518,
+  "length_words": 352733,
+  "unique_entities": 175,
+  "entity_mentions": 5621,
+  "scene_count": 60,
+  "top_entities": [
+    {
+      "label": "jones",
+      "count": 1326,
+      "type": "PERSON"
+    },
+    {
+      "label": "sophia",
+      "count": 778,
+      "type": "GPE"
+    },
+    {
+      "label": "partridge",
+      "count": 333,
+      "type": "GPE"
+    },
+    {
+      "label": "allworthy",
+      "count": 290,
+      "type": "PERSON"
+    },
+    {
+      "label": "blifil",
+      "count": 251,
+      "type": "PERSON"
+    },
+    {
+      "label": "honour",
+      "count": 185,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitzpatrick",
+      "count": 133,
+      "type": "GPE"
+    },
+    {
+      "label": "bellaston",
+      "count": 128,
+      "type": "GPE"
+    },
+    {
+      "label": "tom",
+      "count": 117,
+      "type": "PERSON"
+    },
+    {
+      "label": "nightingale",
+      "count": 115,
+      "type": "GPE"
+    },
+    {
+      "label": "miller",
+      "count": 114,
+      "type": "PERSON"
+    },
+    {
+      "label": "thwackum",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "western",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "molly",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 62,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 3065.4102051025516,
+      "activity": 0.0300633464604322
+    },
+    {
+      "token": 303679.97098549275,
+      "activity": 0.027932596927047994
+    },
+    {
+      "token": 331268.6628314157,
+      "activity": 0.026362604385140247
+    },
+    {
+      "token": 401773.0975487744,
+      "activity": 0.025267841373606485
+    },
+    {
+      "token": 244006.65232616308,
+      "activity": 0.023852701295722506
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 60,
+    "edges": 972,
+    "scene_entity_counts": [
+      39,
+      16,
+      12,
+      23,
+      24,
+      22,
+      14,
+      21,
+      28,
+      26,
+      21,
+      22,
+      17,
+      23,
+      18,
+      13,
+      20,
+      25,
+      16,
+      11,
+      20,
+      11,
+      15,
+      19,
+      35,
+      9,
+      14,
+      24,
+      26,
+      19,
+      10,
+      18,
+      24,
+      26,
+      22,
+      17,
+      16,
+      20,
+      24,
+      18,
+      13,
+      15,
+      27,
+      13,
+      12,
+      9,
+      22,
+      17,
+      18,
+      14,
+      19,
+      19,
+      12,
+      23,
+      25,
+      17,
+      23,
+      18,
+      17,
+      16
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0114,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.3581,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3581
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0999
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0999
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2084
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3507
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3563
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.16684750906310988,
+        "read_time_min": 33.8,
+        "driving_words": [
+          "amazing",
+          "wonderfully",
+          "triumph",
+          "heavenly",
+          "great",
+          "pleased"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.1261217705487911,
+        "read_time_min": 200.0,
+        "driving_words": [
+          "triumph",
+          "fun",
+          "best",
+          "heroic",
+          "soothe",
+          "good"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.14758993231206954,
+        "read_time_min": 961.7,
+        "driving_words": [
+          "wins",
+          "miracle",
+          "brilliant",
+          "wonderful",
+          "perfect",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.0707070707070707,
+        "smoothed": 0.029180395312853637,
+        "read_time_min": 116.9,
+        "driving_words": [
+          "bastard",
+          "slut",
+          "terror",
+          "cruel",
+          "guilt",
+          "slave"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": 0.025991577423201406,
+        "read_time_min": 629.3,
+        "driving_words": [
+          "whore",
+          "damned",
+          "hated",
+          "bad",
+          "destroying",
+          "destruction"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": 0.022983759717276522,
+        "read_time_min": 1321.7,
+        "driving_words": [
+          "prick",
+          "frauds",
+          "ludicrous",
+          "abusive",
+          "abused",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/History_of_Tom_Jones_a_Foundling_Henry_Fielding/sentiment_arc.png"
+  }
+}

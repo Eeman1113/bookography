@@ -1,0 +1,252 @@
+{
+  "slug": "The_Green_Mummy_Fergus_Hume",
+  "title": "The Green Mummy Fergus Hume",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 117901,
+  "n_unique_entities": 100,
+  "n_entity_mentions": 3721,
+  "sigma": 294.7525,
+  "target_scenes": 39,
+  "detected_scene_boundaries": [
+    5058.45,
+    8563.39375,
+    11125.445579268293,
+    14442.165593313235,
+    19290.965326544945,
+    22219.834895833334,
+    24060.103231292516,
+    25899.60764305722,
+    28000.035158891144,
+    31159.893932780447,
+    34116.849897365726,
+    37214.06427581428,
+    41081.59751359752,
+    44258.14141414141,
+    46884.821144133646,
+    49814.918727106226,
+    52500.273033126294,
+    55548.38565217391,
+    58596.145056179776,
+    61092.31925371064,
+    63368.07086419753,
+    65824.84416666666,
+    68071.48087349397,
+    70248.4767068273,
+    74253.34761904762,
+    78397.49369747899,
+    80719.7721653879,
+    82885.5062671367,
+    85273.74428274427,
+    87496.08262108262,
+    90205.3190649666,
+    92783.4429412701,
+    95146.23354065535,
+    97511.609375,
+    99635.49649003622,
+    101220.54323262098,
+    103237.06731916926,
+    105866.06068075118,
+    108394.80643939394,
+    111171.3400600836,
+    114630.27290640394
+  ],
+  "n_scenes": 42,
+  "top_entities": [
+    {
+      "label": "braddock",
+      "count": 434,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasher",
+      "count": 393,
+      "type": "PERSON"
+    },
+    {
+      "label": "lucy",
+      "count": 328,
+      "type": "PERSON"
+    },
+    {
+      "label": "random",
+      "count": 226,
+      "type": "PERSON"
+    },
+    {
+      "label": "don pedro",
+      "count": 209,
+      "type": "PERSON"
+    },
+    {
+      "label": "hope",
+      "count": 192,
+      "type": "PERSON"
+    },
+    {
+      "label": "archie",
+      "count": 172,
+      "type": "ORG"
+    },
+    {
+      "label": "bolton",
+      "count": 157,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "cockatoo",
+      "count": 106,
+      "type": "GPE"
+    },
+    {
+      "label": "sidney",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "peruvian",
+      "count": 61,
+      "type": "NORP"
+    },
+    {
+      "label": "mummy",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "hervey",
+      "count": 56,
+      "type": "GPE"
+    },
+    {
+      "label": "donna inez",
+      "count": 54,
+      "type": "PERSON"
+    },
+    {
+      "label": "kendal",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "fort",
+      "count": 47,
+      "type": "LOC"
+    },
+    {
+      "label": "london",
+      "count": 46,
+      "type": "GPE"
+    },
+    {
+      "label": "de gayangos",
+      "count": 45,
+      "type": "GPE"
+    },
+    {
+      "label": "widow anne",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "gartley",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "pierside",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "lima",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "malta",
+      "count": 32,
+      "type": "GPE"
+    },
+    {
+      "label": "vasa",
+      "count": 32,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 57740.92046023012,
+      "activity": 0.05595701305463024
+    },
+    {
+      "token": 106634.91745872937,
+      "activity": 0.0559333844872601
+    },
+    {
+      "token": 94308.20410205102,
+      "activity": 0.055560212198463424
+    },
+    {
+      "token": 76555.37768884443,
+      "activity": 0.05294371334571555
+    },
+    {
+      "token": 116484.49224612306,
+      "activity": 0.05288674477011309
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 42,
+    "edges": 924,
+    "scene_entity_counts": [
+      27,
+      13,
+      25,
+      25,
+      24,
+      25,
+      12,
+      11,
+      21,
+      20,
+      25,
+      27,
+      22,
+      36,
+      26,
+      38,
+      22,
+      21,
+      33,
+      26,
+      21,
+      28,
+      20,
+      23,
+      37,
+      38,
+      30,
+      25,
+      30,
+      27,
+      16,
+      19,
+      23,
+      24,
+      15,
+      9,
+      14,
+      18,
+      32,
+      21,
+      39,
+      36
+    ]
+  }
+}

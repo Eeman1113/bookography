@@ -1,0 +1,276 @@
+{
+  "slug": "The_Red_Lily_Complete_Anatole_France",
+  "title_display": "The Red Lily Complete Anatole France",
+  "language": "en",
+  "length_tokens": 99388,
+  "length_words": 77192,
+  "unique_entities": 130,
+  "entity_mentions": 1525,
+  "scene_count": 38,
+  "top_entities": [
+    {
+      "label": "therese",
+      "count": 180,
+      "type": "NORP"
+    },
+    {
+      "label": "bell",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "choulette",
+      "count": 82,
+      "type": "PERSON"
+    },
+    {
+      "label": "dechartre",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "martin",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "florence",
+      "count": 51,
+      "type": "ORG"
+    },
+    {
+      "label": "paul vence",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "le menil",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 39,
+      "type": "GPE"
+    },
+    {
+      "label": "garain",
+      "count": 32,
+      "type": "GPE"
+    },
+    {
+      "label": "jacques",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "marmet",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "montessuy",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "france",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "napoleon",
+      "count": 25,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 83278.2516258129,
+      "activity": 0.045070445058296923
+    },
+    {
+      "token": 45442.58029014507,
+      "activity": 0.04073386902453324
+    },
+    {
+      "token": 89890.79339669835,
+      "activity": 0.03803504000291352
+    },
+    {
+      "token": 89343.89144572287,
+      "activity": 0.037490762726875834
+    },
+    {
+      "token": 88399.24262131065,
+      "activity": 0.037300528286527516
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 38,
+    "edges": 585,
+    "scene_entity_counts": [
+      39,
+      22,
+      7,
+      12,
+      31,
+      23,
+      15,
+      20,
+      18,
+      16,
+      24,
+      25,
+      19,
+      17,
+      10,
+      19,
+      25,
+      20,
+      21,
+      23,
+      20,
+      4,
+      19,
+      19,
+      25,
+      9,
+      16,
+      10,
+      16,
+      14,
+      15,
+      22,
+      20,
+      47,
+      25,
+      13,
+      9,
+      6
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.006,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5778,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5778
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2733
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2022
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.227
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3734
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5778
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.18396382066676265,
+        "read_time_min": 33.6,
+        "driving_words": [
+          "triumphant",
+          "brilliant",
+          "win",
+          "fun",
+          "pleased",
+          "great"
+        ]
+      },
+      {
+        "position": 0.15151515151515152,
+        "smoothed": 0.19421008724225605,
+        "read_time_min": 60.7,
+        "driving_words": [
+          "fun",
+          "brilliant",
+          "win",
+          "wonderful",
+          "popular",
+          "pleasant"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": 0.15794125224455857,
+        "read_time_min": 218.2,
+        "driving_words": [
+          "superb",
+          "brilliant",
+          "rejoiced",
+          "loyalty",
+          "victor",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.2727272727272727,
+        "smoothed": 0.1035076545425157,
+        "read_time_min": 93.3,
+        "driving_words": [
+          "terrible",
+          "violence",
+          "bad",
+          "crime",
+          "dying",
+          "selfish"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.11170075595734037,
+        "read_time_min": 253.5,
+        "driving_words": [
+          "torture",
+          "lost",
+          "despair",
+          "terrible",
+          "betray",
+          "fatality"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.027279247546235483,
+        "read_time_min": 283.3,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "dying",
+          "selfishness",
+          "violent",
+          "worst"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Red_Lily_Complete_Anatole_France/sentiment_arc.png"
+  }
+}

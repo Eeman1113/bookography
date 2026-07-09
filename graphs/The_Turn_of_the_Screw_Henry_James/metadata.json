@@ -1,0 +1,125 @@
+{
+  "slug": "The_Turn_of_the_Screw_Henry_James",
+  "title": "The Turn of the Screw Henry James",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 56496,
+  "n_unique_entities": 12,
+  "n_entity_mentions": 274,
+  "sigma": 141.24,
+  "target_scenes": 18,
+  "detected_scene_boundaries": [
+    4950.490783410139,
+    10811.29435483871,
+    16454.458333333336,
+    19573.270833333336,
+    25255.98161764706,
+    31736.79411764706,
+    35988.84,
+    41668.015,
+    48214.7375,
+    52844.85416666667
+  ],
+  "n_scenes": 11,
+  "top_entities": [
+    {
+      "label": "grose",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "flora",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "miles",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "quint",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessel",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "douglas",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "harley street",
+      "count": 6,
+      "type": "FAC"
+    },
+    {
+      "label": "bly",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 4,
+      "type": "GPE"
+    },
+    {
+      "label": "peter quint",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "luke",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "griffin",
+      "count": 3,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 22467.996498249122,
+      "activity": 0.02005859490443414
+    },
+    {
+      "token": 16306.960980490245,
+      "activity": 0.017873868575588037
+    },
+    {
+      "token": 44455.545272636315,
+      "activity": 0.01647018027794503
+    },
+    {
+      "token": 45953.41170585292,
+      "activity": 0.016404395046669778
+    },
+    {
+      "token": 38181.46323161581,
+      "activity": 0.01636197286806394
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 49,
+    "scene_entity_counts": [
+      7,
+      6,
+      5,
+      5,
+      5,
+      4,
+      7,
+      4,
+      7,
+      6,
+      5
+    ]
+  }
+}

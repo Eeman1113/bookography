@@ -1,0 +1,196 @@
+{
+  "slug": "The_Sex_Life_of_the_Gods_M_E_Knerr",
+  "title": "The Sex Life of the Gods M E Knerr",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 42875,
+  "n_unique_entities": 47,
+  "n_entity_mentions": 756,
+  "sigma": 107.1875,
+  "target_scenes": 14,
+  "detected_scene_boundaries": [
+    4883.391060688901,
+    7076.82001614205,
+    10866.386904761905,
+    14383.39880952381,
+    17072.128787878788,
+    20287.293642951252,
+    22948.766137123745,
+    24700.378492935633,
+    26768.369202226346,
+    29565.12693757855,
+    33348.42853598015,
+    37068.83846153846,
+    40176.20769230769
+  ],
+  "n_scenes": 14,
+  "top_entities": [
+    {
+      "label": "nick",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth",
+      "count": 74,
+      "type": "PERSON"
+    },
+    {
+      "label": "danson",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "narvi",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "cartwell",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "terran",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "brice",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "lors",
+      "count": 32,
+      "type": "ORG"
+    },
+    {
+      "label": "nolan",
+      "count": 23,
+      "type": "ORG"
+    },
+    {
+      "label": "dickson",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "everett",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "zark",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "nick danson",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "andy",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "sam",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "russian",
+      "count": 13,
+      "type": "NORP"
+    },
+    {
+      "label": "imry",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "pennsylvania",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "jela",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth danson",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "thista",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "terrans",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "terra",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "nolan brice",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "morgan",
+      "count": 8,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 21705.096548274134,
+      "activity": 0.07464476239467101
+    },
+    {
+      "token": 35045.58079039519,
+      "activity": 0.054880235085225916
+    },
+    {
+      "token": 24879.35967983992,
+      "activity": 0.04789427203028623
+    },
+    {
+      "token": 36053.62381190595,
+      "activity": 0.04519216509132913
+    },
+    {
+      "token": 27367.29564782391,
+      "activity": 0.043317157991716614
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 164,
+    "scene_entity_counts": [
+      24,
+      15,
+      9,
+      19,
+      10,
+      6,
+      18,
+      14,
+      10,
+      20,
+      21,
+      19,
+      15,
+      11
+    ]
+  }
+}

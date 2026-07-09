@@ -1,0 +1,59 @@
+{
+  "slug": "Sonnets_from_the_Portuguese_Elizabeth_Barrett_Browning",
+  "title": "Sonnets from the Portuguese Elizabeth Barrett Browning",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 7532,
+  "n_unique_entities": 2,
+  "n_entity_mentions": 29,
+  "sigma": 18.83,
+  "target_scenes": 3,
+  "detected_scene_boundaries": [
+    2417.4058823529413,
+    5259.205882352941
+  ],
+  "n_scenes": 3,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "belovëd",
+      "count": 12,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6875.475237618809,
+      "activity": 0.042296958959101474
+    },
+    {
+      "token": 4581.1385692846425,
+      "activity": 0.041365117809066175
+    },
+    {
+      "token": 1352.4907453726864,
+      "activity": 0.03276989604561457
+    },
+    {
+      "token": 3190.9739869934965,
+      "activity": 0.028194085940919853
+    },
+    {
+      "token": 3778.685842921461,
+      "activity": 0.026153349014339525
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 4,
+    "scene_entity_counts": [
+      2,
+      2,
+      2
+    ]
+  }
+}

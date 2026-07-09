@@ -1,0 +1,256 @@
+{
+  "slug": "A_farewell_to_arms_Ernest_Hemingway",
+  "title": "A farewell to arms Ernest Hemingway",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 123201,
+  "n_unique_entities": 106,
+  "n_entity_mentions": 1473,
+  "sigma": 308.0025,
+  "target_scenes": 41,
+  "detected_scene_boundaries": [
+    1793.3148148148148,
+    5160.652937420178,
+    9200.36986863711,
+    12334.917366946778,
+    15741.54723707665,
+    19596.136762360446,
+    22770.239035087718,
+    25334.916666666664,
+    27348.777985074626,
+    29781.55515898767,
+    31981.78550724638,
+    34664.21228070175,
+    38212.06170598911,
+    41618.739901477835,
+    45712.80714285714,
+    50516.24565217391,
+    54579.49565217391,
+    56970.45,
+    58667.842307692306,
+    60297.86730769231,
+    62270.9875,
+    64882.7125,
+    68401.51764705882,
+    71900.79820261439,
+    74873.84093291406,
+    77331.97072218609,
+    79737.03761755486,
+    83917.72727272726,
+    87670.88888888889,
+    89922.98371647511,
+    93220.2548275862,
+    96508.39076923077,
+    98479.83603238866,
+    99981.716374269,
+    101817.0379403794,
+    103694.21254355401,
+    106133.73883928571,
+    109136.40767045454,
+    111697.14204545454,
+    114198.9875,
+    116420.42000000001,
+    118780.58153846154,
+    121230.52820512821
+  ],
+  "n_scenes": 44,
+  "top_entities": [
+    {
+      "label": "catherine",
+      "count": 268,
+      "type": "PERSON"
+    },
+    {
+      "label": "rinaldi",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "tenente",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "piani",
+      "count": 59,
+      "type": "ORG"
+    },
+    {
+      "label": "italian",
+      "count": 57,
+      "type": "NORP"
+    },
+    {
+      "label": "bonello",
+      "count": 48,
+      "type": "ORG"
+    },
+    {
+      "label": "ferguson",
+      "count": 37,
+      "type": "ORG"
+    },
+    {
+      "label": "american",
+      "count": 35,
+      "type": "NORP"
+    },
+    {
+      "label": "austrians",
+      "count": 34,
+      "type": "NORP"
+    },
+    {
+      "label": "aymo",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "milan",
+      "count": 30,
+      "type": "GPE"
+    },
+    {
+      "label": "italians",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "barkley",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "germans",
+      "count": 23,
+      "type": "NORP"
+    },
+    {
+      "label": "ettore",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "montreux",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "british",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "austrian",
+      "count": 18,
+      "type": "NORP"
+    },
+    {
+      "label": "udine",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "manera",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "rome",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "italy",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "van campen",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "fergy",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "switzerland",
+      "count": 14,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 28165.28264132066,
+      "activity": 0.05176706726397296
+    },
+    {
+      "token": 91090.34517258628,
+      "activity": 0.04475077225991214
+    },
+    {
+      "token": 6964.282141070535,
+      "activity": 0.03798377455601635
+    },
+    {
+      "token": 43634.61730865433,
+      "activity": 0.037051817561076276
+    },
+    {
+      "token": 70505.6528264132,
+      "activity": 0.035970370065507434
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 44,
+    "edges": 355,
+    "scene_entity_counts": [
+      7,
+      13,
+      19,
+      14,
+      24,
+      11,
+      12,
+      8,
+      6,
+      22,
+      10,
+      14,
+      9,
+      13,
+      29,
+      25,
+      7,
+      5,
+      3,
+      13,
+      6,
+      8,
+      14,
+      17,
+      10,
+      8,
+      11,
+      15,
+      7,
+      12,
+      13,
+      9,
+      5,
+      5,
+      3,
+      9,
+      9,
+      9,
+      7,
+      8,
+      2,
+      4,
+      3,
+      3
+    ]
+  }
+}

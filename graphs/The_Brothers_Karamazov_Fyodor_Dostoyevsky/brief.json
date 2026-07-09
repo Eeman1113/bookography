@@ -1,0 +1,295 @@
+{
+  "slug": "The_Brothers_Karamazov_Fyodor_Dostoyevsky",
+  "title_display": "The Brothers Karamazov Fyodor Dostoyevsky",
+  "language": "en",
+  "length_tokens": 433949,
+  "length_words": 360136,
+  "unique_entities": 244,
+  "entity_mentions": 7806,
+  "scene_count": 57,
+  "top_entities": [
+    {
+      "label": "alyosha",
+      "count": 1136,
+      "type": "PERSON"
+    },
+    {
+      "label": "mitya",
+      "count": 853,
+      "type": "PERSON"
+    },
+    {
+      "label": "ivan",
+      "count": 640,
+      "type": "PERSON"
+    },
+    {
+      "label": "smerdyakov",
+      "count": 342,
+      "type": "PERSON"
+    },
+    {
+      "label": "grushenka",
+      "count": 240,
+      "type": "PERSON"
+    },
+    {
+      "label": "dmitri",
+      "count": 216,
+      "type": "PERSON"
+    },
+    {
+      "label": "fyodor pavlovitch",
+      "count": 215,
+      "type": "PERSON"
+    },
+    {
+      "label": "rakitin",
+      "count": 191,
+      "type": "ORG"
+    },
+    {
+      "label": "ilusha",
+      "count": 136,
+      "type": "ORG"
+    },
+    {
+      "label": "grigory",
+      "count": 135,
+      "type": "ORG"
+    },
+    {
+      "label": "dmitri fyodorovitch",
+      "count": 134,
+      "type": "PERSON"
+    },
+    {
+      "label": "katerina ivanovna",
+      "count": 122,
+      "type": "PERSON"
+    },
+    {
+      "label": "lise",
+      "count": 121,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 108,
+      "type": "PERSON"
+    },
+    {
+      "label": "zossima",
+      "count": 103,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 80537.6228114057,
+      "activity": 0.03525840170398424
+    },
+    {
+      "token": 359271.60580290144,
+      "activity": 0.03484739282135599
+    },
+    {
+      "token": 106587.52776388194,
+      "activity": 0.0345165298631837
+    },
+    {
+      "token": 254637.82091045522,
+      "activity": 0.034456822354117685
+    },
+    {
+      "token": 362093.67883941974,
+      "activity": 0.034424991149959644
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 1288,
+    "scene_entity_counts": [
+      39,
+      38,
+      24,
+      33,
+      35,
+      31,
+      33,
+      34,
+      23,
+      15,
+      25,
+      28,
+      19,
+      35,
+      22,
+      20,
+      34,
+      29,
+      26,
+      37,
+      21,
+      8,
+      9,
+      17,
+      26,
+      15,
+      26,
+      27,
+      32,
+      31,
+      23,
+      27,
+      26,
+      38,
+      33,
+      25,
+      28,
+      34,
+      21,
+      28,
+      22,
+      29,
+      47,
+      26,
+      24,
+      29,
+      25,
+      30,
+      20,
+      19,
+      33,
+      48,
+      19,
+      19,
+      22,
+      21,
+      24
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0157,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6713,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6713
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.427
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.1174
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1505
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4353
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6713
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": 0.07179430687479367,
+        "read_time_min": 274.6,
+        "driving_words": [
+          "fantastic",
+          "fun",
+          "win",
+          "miracle",
+          "good",
+          "perfectly"
+        ]
+      },
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.07767538372551251,
+        "read_time_min": 416.1,
+        "driving_words": [
+          "triumph",
+          "funny",
+          "miracle",
+          "wonderful",
+          "best",
+          "happy"
+        ]
+      },
+      {
+        "position": 0.3838383838383838,
+        "smoothed": 0.11519278088321017,
+        "read_time_min": 557.6,
+        "driving_words": [
+          "rejoicing",
+          "wonderful",
+          "rejoiced",
+          "rejoices",
+          "great",
+          "love"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.6161616161616161,
+        "smoothed": -0.09247909249844442,
+        "read_time_min": 883.0,
+        "driving_words": [
+          "tortured",
+          "criminal",
+          "loss",
+          "miserable",
+          "angry",
+          "inexcusable"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": -0.104565697354737,
+        "read_time_min": 1137.6,
+        "driving_words": [
+          "mad",
+          "dying",
+          "dumb",
+          "angry",
+          "terrible",
+          "losing"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": -0.21490363030508086,
+        "read_time_min": 1321.5,
+        "driving_words": [
+          "tortured",
+          "violent",
+          "anger",
+          "fatal",
+          "lost",
+          "arrested"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Brothers_Karamazov_Fyodor_Dostoyevsky/sentiment_arc.png"
+  }
+}

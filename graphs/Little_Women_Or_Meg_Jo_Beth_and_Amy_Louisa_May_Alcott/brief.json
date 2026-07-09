@@ -1,0 +1,302 @@
+{
+  "slug": "Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott",
+  "title_display": "Little Women Or Meg Jo Beth and Amy Louisa May Alcott",
+  "language": "en",
+  "length_tokens": 258484,
+  "length_words": 194190,
+  "unique_entities": 165,
+  "entity_mentions": 5528,
+  "scene_count": 64,
+  "top_entities": [
+    {
+      "label": "jo",
+      "count": 1346,
+      "type": "PERSON"
+    },
+    {
+      "label": "meg",
+      "count": 670,
+      "type": "ORG"
+    },
+    {
+      "label": "amy",
+      "count": 659,
+      "type": "ORG"
+    },
+    {
+      "label": "laurie",
+      "count": 598,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth",
+      "count": 482,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 149,
+      "type": "PERSON"
+    },
+    {
+      "label": "hannah",
+      "count": 120,
+      "type": "PERSON"
+    },
+    {
+      "label": "laurence",
+      "count": 97,
+      "type": "ORG"
+    },
+    {
+      "label": "brooke",
+      "count": 94,
+      "type": "PERSON"
+    },
+    {
+      "label": "bhaer",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "teddy",
+      "count": 62,
+      "type": "PERSON"
+    },
+    {
+      "label": "marmee",
+      "count": 44,
+      "type": "ORG"
+    },
+    {
+      "label": "demi",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "sallie",
+      "count": 38,
+      "type": "ORG"
+    },
+    {
+      "label": "fred",
+      "count": 36,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 70601.15957978989,
+      "activity": 0.042248118486246794
+    },
+    {
+      "token": 39955.60130065033,
+      "activity": 0.0407056935563876
+    },
+    {
+      "token": 93100.43021510755,
+      "activity": 0.03918780312118368
+    },
+    {
+      "token": 66204.75037518759,
+      "activity": 0.03903619352016628
+    },
+    {
+      "token": 82109.4072036018,
+      "activity": 0.03862602264172532
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 64,
+    "edges": 891,
+    "scene_entity_counts": [
+      28,
+      12,
+      14,
+      15,
+      19,
+      16,
+      20,
+      10,
+      15,
+      13,
+      13,
+      8,
+      24,
+      21,
+      16,
+      11,
+      30,
+      29,
+      16,
+      16,
+      15,
+      12,
+      14,
+      15,
+      18,
+      23,
+      13,
+      18,
+      15,
+      15,
+      18,
+      18,
+      15,
+      16,
+      17,
+      14,
+      17,
+      16,
+      26,
+      15,
+      18,
+      25,
+      22,
+      14,
+      16,
+      12,
+      18,
+      21,
+      12,
+      10,
+      16,
+      17,
+      9,
+      14,
+      9,
+      13,
+      14,
+      13,
+      19,
+      16,
+      16,
+      14,
+      24,
+      18
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0169,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.5286,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5286
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3902
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2237
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2016
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.223
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5286
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.6262626262626263,
+        "smoothed": 0.32823540995715966,
+        "read_time_min": 481.4,
+        "driving_words": [
+          "fun",
+          "brilliant",
+          "heavenly",
+          "funny",
+          "good",
+          "pleased"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": 0.34721805037596043,
+        "read_time_min": 682.3,
+        "driving_words": [
+          "rejoice",
+          "win",
+          "triumph",
+          "funny",
+          "rapturous",
+          "winning"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.3298662003835914,
+        "read_time_min": 741.9,
+        "driving_words": [
+          "winning",
+          "brilliant",
+          "heavenly",
+          "funny",
+          "rejoicing",
+          "miracle"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.14991831142467357,
+        "read_time_min": 124.2,
+        "driving_words": [
+          "humiliation",
+          "charged",
+          "mad",
+          "suck",
+          "disastrous",
+          "tyrannical"
+        ]
+      },
+      {
+        "position": 0.23232323232323232,
+        "smoothed": 0.1687059336927339,
+        "read_time_min": 191.2,
+        "driving_words": [
+          "bad",
+          "worried",
+          "damage",
+          "desperately",
+          "worst",
+          "selfish"
+        ]
+      },
+      {
+        "position": 0.3434343434343434,
+        "smoothed": 0.16291152305121684,
+        "read_time_min": 273.0,
+        "driving_words": [
+          "deceive",
+          "hate",
+          "selfish",
+          "despondent",
+          "desperately",
+          "mad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Little_Women_Or_Meg_Jo_Beth_and_Amy_Louisa_May_Alcott/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe",
+  "title_display": "The Sorrows of Young Werther Johann Wolfgang von Goethe",
+  "language": "en",
+  "length_tokens": 54035,
+  "length_words": 42716,
+  "unique_entities": 23,
+  "entity_mentions": 490,
+  "scene_count": 17,
+  "top_entities": [
+    {
+      "label": "charlotte",
+      "count": 179,
+      "type": "GPE"
+    },
+    {
+      "label": "albert",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "werther",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilhelm",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "walheim",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "daura",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "colma",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "morar",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "salgar",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "adieu",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "armin",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "armar",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "ossian",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "farewell",
+      "count": 5,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 48519.774887443724,
+      "activity": 0.03630561862632025
+    },
+    {
+      "token": 47303.40170085042,
+      "activity": 0.0348756593744047
+    },
+    {
+      "token": 48006.19509754877,
+      "activity": 0.03294268461920526
+    },
+    {
+      "token": 44086.7703851926,
+      "activity": 0.030580412140271396
+    },
+    {
+      "token": 46438.4252126063,
+      "activity": 0.03030012532953137
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 68,
+    "scene_entity_counts": [
+      2,
+      3,
+      3,
+      6,
+      7,
+      4,
+      3,
+      5,
+      3,
+      4,
+      6,
+      6,
+      7,
+      7,
+      14,
+      6,
+      5
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0074,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8056,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8056
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2795
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2573
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2928
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5775
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8056
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.21594345288459407,
+        "read_time_min": 24.0,
+        "driving_words": [
+          "heavenly",
+          "wonderful",
+          "brilliant",
+          "fun",
+          "beloved",
+          "impress"
+        ]
+      },
+      {
+        "position": 0.12121212121212122,
+        "smoothed": 0.19378769827396838,
+        "read_time_min": 35.9,
+        "driving_words": [
+          "wonderful",
+          "heavenly",
+          "fun",
+          "triumph",
+          "good",
+          "amused"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.18470735689868611,
+        "read_time_min": 94.0,
+        "driving_words": [
+          "superb",
+          "heavenly",
+          "brilliant",
+          "triumph",
+          "rejoice",
+          "happy"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.056761597387418025,
+        "read_time_min": 124.4,
+        "driving_words": [
+          "scandal",
+          "catastrophe",
+          "died",
+          "dead",
+          "destroyed",
+          "nuts"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.0016899764688754182,
+        "read_time_min": 137.6,
+        "driving_words": [
+          "die",
+          "fatality",
+          "betray",
+          "violent",
+          "lost",
+          "victim"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.025095635659479552,
+        "read_time_min": 145.6,
+        "driving_words": [
+          "hatred",
+          "mad",
+          "dreadful",
+          "crime",
+          "criminal",
+          "victim"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sorrows_of_Young_Werther_Johann_Wolfgang_von_Goethe/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "slug": "Twenty_years_after_Alexandre_Dumas",
+  "title_display": "Twenty years after Alexandre Dumas",
+  "language": "en",
+  "length_tokens": 335532,
+  "length_words": 246786,
+  "unique_entities": 285,
+  "entity_mentions": 8602,
+  "scene_count": 62,
+  "top_entities": [
+    {
+      "label": "d’artagnan",
+      "count": 1311,
+      "type": "PERSON"
+    },
+    {
+      "label": "athos",
+      "count": 991,
+      "type": "ORG"
+    },
+    {
+      "label": "aramis",
+      "count": 673,
+      "type": "ORG"
+    },
+    {
+      "label": "porthos",
+      "count": 669,
+      "type": "ORG"
+    },
+    {
+      "label": "grimaud",
+      "count": 296,
+      "type": "PERSON"
+    },
+    {
+      "label": "mordaunt",
+      "count": 219,
+      "type": "PERSON"
+    },
+    {
+      "label": "raoul",
+      "count": 212,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 191,
+      "type": "GPE"
+    },
+    {
+      "label": "planchet",
+      "count": 171,
+      "type": "GPE"
+    },
+    {
+      "label": "gascon",
+      "count": 126,
+      "type": "GPE"
+    },
+    {
+      "label": "la ramee",
+      "count": 125,
+      "type": "PERSON"
+    },
+    {
+      "label": "france",
+      "count": 117,
+      "type": "GPE"
+    },
+    {
+      "label": "cromwell",
+      "count": 103,
+      "type": "ORG"
+    },
+    {
+      "label": "mousqueton",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "groslow",
+      "count": 81,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 242038.87043521763,
+      "activity": 0.04519194371207815
+    },
+    {
+      "token": 240024.67733866934,
+      "activity": 0.042505847118868234
+    },
+    {
+      "token": 293736.4932466233,
+      "activity": 0.0416789573994014
+    },
+    {
+      "token": 235324.89344672338,
+      "activity": 0.04139972476882681
+    },
+    {
+      "token": 231464.3566783392,
+      "activity": 0.04089310291098375
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 62,
+    "edges": 1634,
+    "scene_entity_counts": [
+      44,
+      39,
+      30,
+      27,
+      23,
+      22,
+      17,
+      22,
+      44,
+      22,
+      27,
+      21,
+      31,
+      39,
+      33,
+      18,
+      33,
+      22,
+      32,
+      18,
+      20,
+      30,
+      33,
+      22,
+      32,
+      37,
+      34,
+      39,
+      42,
+      55,
+      53,
+      23,
+      28,
+      27,
+      32,
+      23,
+      30,
+      36,
+      37,
+      33,
+      25,
+      26,
+      36,
+      32,
+      27,
+      29,
+      19,
+      20,
+      24,
+      18,
+      27,
+      14,
+      58,
+      35,
+      48,
+      52,
+      37,
+      19,
+      20,
+      44,
+      49,
+      30
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.016,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.564,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.564
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4245
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3755
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4245
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5568
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5672
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.19343017366555137,
+        "read_time_min": 144.4,
+        "driving_words": [
+          "superb",
+          "win",
+          "brilliant",
+          "wonderfully",
+          "good",
+          "charming"
+        ]
+      },
+      {
+        "position": 0.24242424242424243,
+        "smoothed": 0.16247936675118155,
+        "read_time_min": 249.6,
+        "driving_words": [
+          "wonderful",
+          "win",
+          "supreme",
+          "greatest",
+          "love",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.10218688958863997,
+        "read_time_min": 938.4,
+        "driving_words": [
+          "wonderful",
+          "triumph",
+          "good",
+          "pleasure",
+          "marvelous",
+          "fascinating"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3838383838383838,
+        "smoothed": -0.09223216916481268,
+        "read_time_min": 383.6,
+        "driving_words": [
+          "damned",
+          "dreadful",
+          "dying",
+          "dumb",
+          "violently",
+          "awful"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": -0.02442302684084786,
+        "read_time_min": 641.9,
+        "driving_words": [
+          "despair",
+          "lost",
+          "deception",
+          "charged",
+          "killed",
+          "mad"
+        ]
+      },
+      {
+        "position": 0.8585858585858586,
+        "smoothed": -0.03213160716208118,
+        "read_time_min": 833.2,
+        "driving_words": [
+          "hell",
+          "torture",
+          "destroy",
+          "bad",
+          "awful",
+          "kill"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Twenty_years_after_Alexandre_Dumas/sentiment_arc.png"
+  }
+}

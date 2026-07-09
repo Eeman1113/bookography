@@ -1,0 +1,250 @@
+{
+  "slug": "Cynthias_Chauffeur_Louis_Tracy",
+  "title": "Cynthias Chauffeur Louis Tracy",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 109614,
+  "n_unique_entities": 130,
+  "n_entity_mentions": 3062,
+  "sigma": 274.035,
+  "target_scenes": 36,
+  "detected_scene_boundaries": [
+    2584.7513611615245,
+    4634.02722323049,
+    5990.2633443552195,
+    7505.48398741207,
+    9946.85641891892,
+    12824.798611111111,
+    15071.351851851852,
+    16983.985185185185,
+    19136.763312368974,
+    22673.878624022087,
+    26182.537175452402,
+    28572.730050933787,
+    31438.82955465587,
+    34390.6360780065,
+    37511.585345405765,
+    41613.69285714286,
+    44834.993693693694,
+    47583.112027027026,
+    50214.613735632185,
+    51685.463259441705,
+    53400.02683150183,
+    55673.68377110694,
+    58104.331969743755,
+    62188.615506329115,
+    65835.73349056604,
+    67944.22654612159,
+    70472.48449391172,
+    73052.16018835615,
+    76035.3731617647,
+    79195.99347426472,
+    81578.81466490965,
+    83672.99060240964,
+    85619.78615384616,
+    87126.43166109253,
+    89459.37335771366,
+    93223.91007268951,
+    97024.6253968254,
+    100276.65317460318,
+    103545.26212121212,
+    106987.32081686429
+  ],
+  "n_scenes": 41,
+  "top_entities": [
+    {
+      "label": "medenham",
+      "count": 387,
+      "type": "PERSON"
+    },
+    {
+      "label": "cynthia",
+      "count": 385,
+      "type": "PERSON"
+    },
+    {
+      "label": "devar",
+      "count": 256,
+      "type": "PERSON"
+    },
+    {
+      "label": "vanrenen",
+      "count": 167,
+      "type": "PERSON"
+    },
+    {
+      "label": "dale",
+      "count": 165,
+      "type": "ORG"
+    },
+    {
+      "label": "marigny",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "fitzroy",
+      "count": 118,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 86,
+      "type": "GPE"
+    },
+    {
+      "label": "mercury",
+      "count": 76,
+      "type": "ORG"
+    },
+    {
+      "label": "bristol",
+      "count": 73,
+      "type": "ORG"
+    },
+    {
+      "label": "simmonds",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "frenchman",
+      "count": 62,
+      "type": "ORG"
+    },
+    {
+      "label": "hereford",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "american",
+      "count": 42,
+      "type": "NORP"
+    },
+    {
+      "label": "earl",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "leland",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 38,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 38,
+      "type": "GPE"
+    },
+    {
+      "label": "fairholme",
+      "count": 36,
+      "type": "LOC"
+    },
+    {
+      "label": "smith",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "viscount medenham",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 28,
+      "type": "NORP"
+    },
+    {
+      "label": "cynthia vanrenen",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "bournemouth",
+      "count": 20,
+      "type": "ORG"
+    },
+    {
+      "label": "porthcawl",
+      "count": 20,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90421.12906453227,
+      "activity": 0.05501656832145425
+    },
+    {
+      "token": 49131.189594797404,
+      "activity": 0.0537737559025608
+    },
+    {
+      "token": 59549.633816908456,
+      "activity": 0.04984433931588798
+    },
+    {
+      "token": 102265.25512756378,
+      "activity": 0.049652017418757376
+    },
+    {
+      "token": 91408.1395697849,
+      "activity": 0.04754497687464503
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 41,
+    "edges": 869,
+    "scene_entity_counts": [
+      27,
+      15,
+      12,
+      17,
+      20,
+      27,
+      31,
+      18,
+      18,
+      24,
+      34,
+      20,
+      24,
+      19,
+      24,
+      26,
+      24,
+      25,
+      39,
+      20,
+      26,
+      20,
+      25,
+      38,
+      13,
+      12,
+      20,
+      25,
+      33,
+      28,
+      22,
+      27,
+      28,
+      22,
+      26,
+      41,
+      22,
+      21,
+      37,
+      38,
+      11
+    ]
+  }
+}

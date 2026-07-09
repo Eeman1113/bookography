@@ -1,0 +1,286 @@
+{
+  "slug": "Sense_and_Sensibility_Jane_Austen",
+  "title_display": "Sense and Sensibility Jane Austen",
+  "language": "en",
+  "length_tokens": 152266,
+  "length_words": 120865,
+  "unique_entities": 79,
+  "entity_mentions": 3287,
+  "scene_count": 48,
+  "top_entities": [
+    {
+      "label": "marianne",
+      "count": 533,
+      "type": "PERSON"
+    },
+    {
+      "label": "elinor",
+      "count": 417,
+      "type": "PERSON"
+    },
+    {
+      "label": "edward",
+      "count": 231,
+      "type": "PERSON"
+    },
+    {
+      "label": "jennings",
+      "count": 229,
+      "type": "PERSON"
+    },
+    {
+      "label": "willoughby",
+      "count": 197,
+      "type": "PERSON"
+    },
+    {
+      "label": "dashwood",
+      "count": 188,
+      "type": "ORG"
+    },
+    {
+      "label": "lucy",
+      "count": 165,
+      "type": "PERSON"
+    },
+    {
+      "label": "brandon",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 105,
+      "type": "PERSON"
+    },
+    {
+      "label": "ferrars",
+      "count": 103,
+      "type": "PERSON"
+    },
+    {
+      "label": "middleton",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "barton",
+      "count": 73,
+      "type": "GPE"
+    },
+    {
+      "label": "palmer",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "norland",
+      "count": 51,
+      "type": "ORG"
+    },
+    {
+      "label": "fanny",
+      "count": 46,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 90414.48474237119,
+      "activity": 0.04092748252374112
+    },
+    {
+      "token": 148075.61780890444,
+      "activity": 0.03866578852724132
+    },
+    {
+      "token": 33515.05752876438,
+      "activity": 0.03762674887510576
+    },
+    {
+      "token": 25974.169584792395,
+      "activity": 0.036129573082867766
+    },
+    {
+      "token": 141220.26513256627,
+      "activity": 0.035768149544720254
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 48,
+    "edges": 748,
+    "scene_entity_counts": [
+      10,
+      9,
+      19,
+      18,
+      13,
+      11,
+      12,
+      9,
+      12,
+      16,
+      13,
+      20,
+      8,
+      15,
+      15,
+      24,
+      23,
+      19,
+      14,
+      22,
+      21,
+      18,
+      10,
+      13,
+      12,
+      16,
+      15,
+      29,
+      24,
+      23,
+      21,
+      25,
+      32,
+      14,
+      20,
+      15,
+      15,
+      19,
+      21,
+      13,
+      16,
+      20,
+      14,
+      13,
+      19,
+      18,
+      24,
+      25
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0123,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.5915,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5915
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4347
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.4051
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4347
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5314
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5943
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.2646668748324087,
+        "read_time_min": 33.4,
+        "driving_words": [
+          "rejoiced",
+          "rapturous",
+          "ecstatic",
+          "miracle",
+          "rejoicing",
+          "perfectly"
+        ]
+      },
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.1824827295621076,
+        "read_time_min": 132.0,
+        "driving_words": [
+          "delight",
+          "happiness",
+          "wealth",
+          "happy",
+          "magnificent",
+          "admire"
+        ]
+      },
+      {
+        "position": 0.6060606060606061,
+        "smoothed": 0.1920214305462758,
+        "read_time_min": 288.8,
+        "driving_words": [
+          "rejoice",
+          "rejoiced",
+          "triumph",
+          "good",
+          "grand",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.45454545454545453,
+        "smoothed": -0.0010536357376093397,
+        "read_time_min": 221.6,
+        "driving_words": [
+          "torture",
+          "worse",
+          "violent",
+          "hated",
+          "lost",
+          "betray"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.08458605654665392,
+        "read_time_min": 324.6,
+        "driving_words": [
+          "torture",
+          "disgust",
+          "evil",
+          "worse",
+          "violent",
+          "hysterics"
+        ]
+      },
+      {
+        "position": 0.8585858585858586,
+        "smoothed": 0.04308923531866775,
+        "read_time_min": 400.7,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "loss",
+          "disgusting",
+          "selfishness",
+          "violent"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Sense_and_Sensibility_Jane_Austen/sentiment_arc.png"
+  }
+}

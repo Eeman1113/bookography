@@ -1,0 +1,295 @@
+{
+  "slug": "Doctor_Cupid_A_Novel_Rhoda_Broughton",
+  "title_display": "Doctor Cupid A Novel Rhoda Broughton",
+  "language": "en",
+  "length_tokens": 163463,
+  "length_words": 128288,
+  "unique_entities": 75,
+  "entity_mentions": 2455,
+  "scene_count": 57,
+  "top_entities": [
+    {
+      "label": "peggy",
+      "count": 503,
+      "type": "PERSON"
+    },
+    {
+      "label": "prue",
+      "count": 465,
+      "type": "PERSON"
+    },
+    {
+      "label": "betty",
+      "count": 188,
+      "type": "PERSON"
+    },
+    {
+      "label": "margaret",
+      "count": 156,
+      "type": "PERSON"
+    },
+    {
+      "label": "freddy",
+      "count": 154,
+      "type": "PERSON"
+    },
+    {
+      "label": "evans",
+      "count": 91,
+      "type": "PERSON"
+    },
+    {
+      "label": "talbot",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "harborough",
+      "count": 58,
+      "type": "PERSON"
+    },
+    {
+      "label": "franky",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "john talbot",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "lily",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "roupell",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "jacob",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "ducane",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 27,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 2044.297148574287,
+      "activity": 0.0349701183357904
+    },
+    {
+      "token": 99598.15707853927,
+      "activity": 0.03058412197272097
+    },
+    {
+      "token": 132715.7708854427,
+      "activity": 0.028791897283915072
+    },
+    {
+      "token": 53478.813406703346,
+      "activity": 0.0281030955440141
+    },
+    {
+      "token": 143918.5192596298,
+      "activity": 0.02705229132398493
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 674,
+    "scene_entity_counts": [
+      17,
+      12,
+      15,
+      12,
+      9,
+      21,
+      18,
+      20,
+      16,
+      14,
+      12,
+      11,
+      20,
+      21,
+      8,
+      13,
+      16,
+      13,
+      20,
+      17,
+      19,
+      16,
+      13,
+      6,
+      20,
+      15,
+      8,
+      6,
+      10,
+      14,
+      9,
+      9,
+      9,
+      13,
+      26,
+      20,
+      9,
+      13,
+      8,
+      5,
+      4,
+      6,
+      4,
+      18,
+      9,
+      12,
+      21,
+      15,
+      15,
+      15,
+      5,
+      9,
+      12,
+      20,
+      15,
+      8,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0106,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.086,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.086
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0574
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0509
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.027
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0601
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.086
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.07010760756893773,
+        "read_time_min": 34.3,
+        "driving_words": [
+          "ecstatic",
+          "funny",
+          "heavenly",
+          "pleased",
+          "pleasure",
+          "perfectly"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.07635811845640009,
+        "read_time_min": 287.6,
+        "driving_words": [
+          "rejoices",
+          "rapturous",
+          "win",
+          "wonderful",
+          "wonderfully",
+          "joy"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.1282156441838952,
+        "read_time_min": 431.0,
+        "driving_words": [
+          "superb",
+          "fun",
+          "triumph",
+          "funny",
+          "wonderfully",
+          "funnier"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.47474747474747475,
+        "smoothed": -0.04240016068264229,
+        "read_time_min": 244.6,
+        "driving_words": [
+          "looses",
+          "slave",
+          "worse",
+          "crisis",
+          "catastrophe",
+          "arrested"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": -0.0332676937071084,
+        "read_time_min": 383.2,
+        "driving_words": [
+          "miserable",
+          "disgust",
+          "horrible",
+          "desperately",
+          "murderous",
+          "cruelty"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.1120314619067255,
+        "read_time_min": 478.8,
+        "driving_words": [
+          "torturing",
+          "dead",
+          "dying",
+          "ridiculous",
+          "die",
+          "killed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Doctor_Cupid_A_Novel_Rhoda_Broughton/sentiment_arc.png"
+  }
+}

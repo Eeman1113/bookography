@@ -1,0 +1,260 @@
+{
+  "slug": "The_Green_Mouse_Robert_W_Chambers",
+  "title_display": "The Green Mouse Robert W Chambers",
+  "language": "en",
+  "length_tokens": 68355,
+  "length_words": 48843,
+  "unique_entities": 59,
+  "entity_mentions": 759,
+  "scene_count": 22,
+  "top_entities": [
+    {
+      "label": "brown",
+      "count": 85,
+      "type": "PERSON"
+    },
+    {
+      "label": "carr",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "smith",
+      "count": 63,
+      "type": "ORG"
+    },
+    {
+      "label": "sacharissa",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "flavilla",
+      "count": 45,
+      "type": "PERSON"
+    },
+    {
+      "label": "drusilla",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "clarence",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "linda",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "chambers",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "yates",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "destyn",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "ferdinand",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "oyster bay",
+      "count": 15,
+      "type": "LOC"
+    },
+    {
+      "label": "george",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 14,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 52214.38619309655,
+      "activity": 0.04086312895543849
+    },
+    {
+      "token": 11694.381190595297,
+      "activity": 0.03921967709527332
+    },
+    {
+      "token": 12720.204102051026,
+      "activity": 0.03770884307481154
+    },
+    {
+      "token": 53889.89694847424,
+      "activity": 0.036030655875661816
+    },
+    {
+      "token": 13301.503751875938,
+      "activity": 0.03195245318362323
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 129,
+    "scene_entity_counts": [
+      2,
+      1,
+      2,
+      13,
+      19,
+      10,
+      6,
+      13,
+      5,
+      6,
+      6,
+      8,
+      9,
+      9,
+      9,
+      10,
+      21,
+      8,
+      9,
+      8,
+      8,
+      6
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0049,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.6034,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6034
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0325
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0325
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4152
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5834
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.8214
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.16161616161616163,
+        "smoothed": 0.12126546437102288,
+        "read_time_min": 45.1,
+        "driving_words": [
+          "superb",
+          "thrilled",
+          "brilliant",
+          "fun",
+          "funny",
+          "winning"
+        ]
+      },
+      {
+        "position": 0.24242424242424243,
+        "smoothed": 0.09640607843710285,
+        "read_time_min": 57.7,
+        "driving_words": [
+          "superb",
+          "thrilled",
+          "fun",
+          "funny",
+          "winning",
+          "terrific"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.19269916956157254,
+        "read_time_min": 172.2,
+        "driving_words": [
+          "superb",
+          "thrilled",
+          "wonderful",
+          "amazing",
+          "brilliant",
+          "heavenly"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.04388553395800409,
+        "read_time_min": 96.9,
+        "driving_words": [
+          "violently",
+          "crisis",
+          "horrified",
+          "losing",
+          "maddening",
+          "worry"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.04305660195065926,
+        "read_time_min": 109.5,
+        "driving_words": [
+          "conspiracy",
+          "horrid",
+          "mad",
+          "disgusted",
+          "awful",
+          "destroy"
+        ]
+      },
+      {
+        "position": 0.696969696969697,
+        "smoothed": 0.021448499927049884,
+        "read_time_min": 128.3,
+        "driving_words": [
+          "lost",
+          "inexorable",
+          "outraged",
+          "dying",
+          "misleading",
+          "died"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mouse_Robert_W_Chambers/sentiment_arc.png"
+  }
+}

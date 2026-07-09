@@ -1,0 +1,255 @@
+{
+  "slug": "Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller",
+  "title_display": "Daintys Cruel Rivals Or The Fatal Birthday Mrs Alex McVeigh Miller",
+  "language": "en",
+  "length_tokens": 70743,
+  "length_words": 54744,
+  "unique_entities": 43,
+  "entity_mentions": 1006,
+  "scene_count": 17,
+  "top_entities": [
+    {
+      "label": "ellsworth",
+      "count": 217,
+      "type": "PERSON"
+    },
+    {
+      "label": "dainty",
+      "count": 162,
+      "type": "ORG"
+    },
+    {
+      "label": "ela",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "chase",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "olive",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "lovelace ellsworth",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "richmond",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "franklin",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "ailsa",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheila",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheila kelly",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "platt",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "dainty chase",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "mammy",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "peters",
+      "count": 15,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 37653.570785392694,
+      "activity": 0.03589618751610466
+    },
+    {
+      "token": 68052.4592296148,
+      "activity": 0.03559159266903165
+    },
+    {
+      "token": 68406.34617308654,
+      "activity": 0.035276675855316755
+    },
+    {
+      "token": 2795.706853426713,
+      "activity": 0.0331884510745018
+    },
+    {
+      "token": 65646.028014007,
+      "activity": 0.03107872896855387
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 187,
+    "scene_entity_counts": [
+      14,
+      9,
+      9,
+      8,
+      11,
+      13,
+      15,
+      18,
+      11,
+      16,
+      14,
+      10,
+      13,
+      14,
+      10,
+      14,
+      31
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0096,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8279,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8279
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5403
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0612
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5667
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.8166
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8279
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.13037347781995723,
+        "read_time_min": 25.4,
+        "driving_words": [
+          "thrilled",
+          "brilliant",
+          "win",
+          "ecstatic",
+          "rapturous",
+          "triumph"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.1205382231891462,
+        "read_time_min": 43.5,
+        "driving_words": [
+          "thrilled",
+          "win",
+          "triumph",
+          "winning",
+          "fun",
+          "fantastic"
+        ]
+      },
+      {
+        "position": 0.3939393939393939,
+        "smoothed": 0.16428438468451723,
+        "read_time_min": 90.5,
+        "driving_words": [
+          "superb",
+          "triumph",
+          "win",
+          "rejoiced",
+          "wins",
+          "loved"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.6161616161616161,
+        "smoothed": -0.18028450670871746,
+        "read_time_min": 130.3,
+        "driving_words": [
+          "tortured",
+          "hated",
+          "brutal",
+          "terrible",
+          "victims",
+          "crime"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": -0.16818508513093025,
+        "read_time_min": 162.8,
+        "driving_words": [
+          "torture",
+          "dead",
+          "bloody",
+          "hated",
+          "loss",
+          "terrible"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": -0.16520978374021072,
+        "read_time_min": 177.3,
+        "driving_words": [
+          "torture",
+          "tortured",
+          "fraud",
+          "dying",
+          "cruel",
+          "destroyed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller/sentiment_arc.png"
+  }
+}

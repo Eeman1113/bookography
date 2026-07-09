@@ -1,0 +1,232 @@
+{
+  "slug": "Camille_La_Dame_aux_Camilias_Alexandre_Dumas",
+  "title": "Camille La Dame aux Camilias Alexandre Dumas",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 86283,
+  "n_unique_entities": 41,
+  "n_entity_mentions": 911,
+  "sigma": 215.7075,
+  "target_scenes": 28,
+  "detected_scene_boundaries": [
+    3296.7438423645317,
+    4915.632413793103,
+    6999.525217391304,
+    9971.27950310559,
+    13092.3489010989,
+    15375.174615384614,
+    19282.48318181818,
+    23199.23106060606,
+    24608.67850378788,
+    27019.015625,
+    30062.103260869568,
+    32040.500988142296,
+    33493.12272727273,
+    36081.85,
+    39536.315217391304,
+    42821.50070126227,
+    45207.659621802,
+    47665.824137931035,
+    50735.369230769225,
+    53259.22511312217,
+    55955.32767722473,
+    59200.2317948718,
+    62424.09809523809,
+    65170.079558652724,
+    67423.32675753228,
+    69401.756127451,
+    72291.20138888889,
+    76175.38510101009,
+    78820.55454545454,
+    80206.76000000001,
+    83246.29461538463
+  ],
+  "n_scenes": 32,
+  "top_entities": [
+    {
+      "label": "marguerite",
+      "count": 376,
+      "type": "NORP"
+    },
+    {
+      "label": "paris",
+      "count": 85,
+      "type": "GPE"
+    },
+    {
+      "label": "armand",
+      "count": 80,
+      "type": "ORG"
+    },
+    {
+      "label": "prudence",
+      "count": 59,
+      "type": "GPE"
+    },
+    {
+      "label": "gaston",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "mme",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "nanine",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "duvernoy",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "mlle",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "bougival",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "joseph",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "marguerite gautier",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "olympe",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "bagnères",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "manon",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "the champs-elysées",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "julie duprat",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "the rue d’antin",
+      "count": 8,
+      "type": "LOC"
+    },
+    {
+      "label": "m. de g.",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "manon lescaut",
+      "count": 7,
+      "type": "FAC"
+    },
+    {
+      "label": "m. duval",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "gautier’s",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "the opera comique",
+      "count": 5,
+      "type": "FAC"
+    },
+    {
+      "label": "champs-elysées",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "vaudeville",
+      "count": 5,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85764.04902451225,
+      "activity": 0.026069350156860363
+    },
+    {
+      "token": 56974.60730365182,
+      "activity": 0.02588472791008239
+    },
+    {
+      "token": 22487.704852426214,
+      "activity": 0.024948797517488543
+    },
+    {
+      "token": 68671.6668334167,
+      "activity": 0.02491831534032818
+    },
+    {
+      "token": 52744.67433716858,
+      "activity": 0.024669441989827182
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 32,
+    "edges": 234,
+    "scene_entity_counts": [
+      5,
+      6,
+      8,
+      10,
+      6,
+      8,
+      10,
+      13,
+      9,
+      4,
+      6,
+      5,
+      6,
+      6,
+      8,
+      9,
+      13,
+      6,
+      6,
+      10,
+      8,
+      12,
+      10,
+      7,
+      9,
+      13,
+      8,
+      15,
+      8,
+      5,
+      13,
+      13
+    ]
+  }
+}

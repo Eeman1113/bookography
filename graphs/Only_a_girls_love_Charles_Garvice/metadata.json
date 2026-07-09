@@ -1,0 +1,272 @@
+{
+  "slug": "Only_a_girls_love_Charles_Garvice",
+  "title": "Only a girls love Charles Garvice",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 208692,
+  "n_unique_entities": 131,
+  "n_entity_mentions": 3965,
+  "sigma": 521.73,
+  "target_scenes": 60,
+  "detected_scene_boundaries": [
+    5255.67354038923,
+    11821.545573095402,
+    15609.132535460993,
+    19425.21130952381,
+    24025.081501831504,
+    26809.641025641024,
+    28978.305555555555,
+    31794.432316118935,
+    35228.5899958575,
+    38777.156217750264,
+    43576.56419457735,
+    47334.6519138756,
+    50337.92776057791,
+    54219.262443438914,
+    57597.43482905983,
+    60303.48893596987,
+    63603.10699152542,
+    67719.09134615384,
+    72272.41813186812,
+    76185.20018315018,
+    78408.22435897436,
+    82596.4581043956,
+    87367.08140756303,
+    91645.63711681856,
+    96064.7967806841,
+    101339.77142857143,
+    105835.63846153846,
+    108026.18846153846,
+    111393.83636363636,
+    116203.21136363636,
+    121344.78353658537,
+    126224.9980427582,
+    130644.70489078823,
+    134274.54767628206,
+    136954.3676849251,
+    140325.86396468699,
+    144605.77551020408,
+    151050.46680178918,
+    156660.12424897862,
+    160786.31282752336,
+    166751.1655844156,
+    170859.08475479746,
+    173689.31482124262,
+    176921.84883720928,
+    181078.35885012918,
+    186333.43055555556,
+    190682.4971264368,
+    193511.82168784027,
+    196688.45961887477,
+    200772.882805219,
+    205502.08108108107
+  ],
+  "n_scenes": 52,
+  "top_entities": [
+    {
+      "label": "stella",
+      "count": 940,
+      "type": "PERSON"
+    },
+    {
+      "label": "leycester",
+      "count": 677,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 262,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper",
+      "count": 244,
+      "type": "GPE"
+    },
+    {
+      "label": "charles",
+      "count": 144,
+      "type": "PERSON"
+    },
+    {
+      "label": "etheridge",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "lilian",
+      "count": 94,
+      "type": "NORP"
+    },
+    {
+      "label": "charles garvice",
+      "count": 89,
+      "type": "PERSON"
+    },
+    {
+      "label": "penfold",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "wyndward",
+      "count": 63,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "georgie sheldon",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "lenore",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasper adelstone",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "adelstone",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "alex",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "charlie",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "george rathborne",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "mcveigh miller",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "effie",
+      "count": 32,
+      "type": "ORG"
+    },
+    {
+      "label": "geraldine fleming",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "oliver",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "leycester wyndward",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "emma garrison",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "harriet lewis",
+      "count": 20,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 1670.3631815907954,
+      "activity": 0.08636542177009612
+    },
+    {
+      "token": 5219.884942471235,
+      "activity": 0.06436420314590093
+    },
+    {
+      "token": 7725.429714857429,
+      "activity": 0.051979145637314386
+    },
+    {
+      "token": 9395.792896448223,
+      "activity": 0.049101590578639456
+    },
+    {
+      "token": 109408.7883941971,
+      "activity": 0.04268920235711023
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 52,
+    "edges": 557,
+    "scene_entity_counts": [
+      40,
+      57,
+      11,
+      13,
+      12,
+      9,
+      7,
+      12,
+      11,
+      8,
+      14,
+      6,
+      14,
+      16,
+      11,
+      13,
+      15,
+      10,
+      6,
+      12,
+      9,
+      11,
+      14,
+      11,
+      13,
+      8,
+      12,
+      11,
+      12,
+      10,
+      17,
+      16,
+      16,
+      14,
+      13,
+      13,
+      7,
+      18,
+      17,
+      9,
+      21,
+      16,
+      9,
+      8,
+      11,
+      10,
+      10,
+      8,
+      16,
+      8,
+      16,
+      7
+    ]
+  }
+}

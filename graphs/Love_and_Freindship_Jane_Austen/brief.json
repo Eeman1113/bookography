@@ -1,0 +1,252 @@
+{
+  "slug": "Love_and_Freindship_Jane_Austen",
+  "title_display": "Love and Freindship Jane Austen",
+  "language": "en",
+  "length_tokens": 41452,
+  "length_words": 33935,
+  "unique_entities": 125,
+  "entity_mentions": 950,
+  "scene_count": 14,
+  "top_entities": [
+    {
+      "label": "edward",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "laura",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "sophia",
+      "count": 42,
+      "type": "GPE"
+    },
+    {
+      "label": "matilda",
+      "count": 25,
+      "type": "ORG"
+    },
+    {
+      "label": "augustus",
+      "count": 22,
+      "type": "ORG"
+    },
+    {
+      "label": "house",
+      "count": 21,
+      "type": "ORG"
+    },
+    {
+      "label": "lesley",
+      "count": 20,
+      "type": "ORG"
+    },
+    {
+      "label": "eloisa",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "augusta",
+      "count": 17,
+      "type": "PERSON"
+    },
+    {
+      "label": "husband",
+      "count": 17,
+      "type": "ORG"
+    },
+    {
+      "label": "scotland",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "freind",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "charlotte",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 14,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 39626.24362181091,
+      "activity": 0.05902894927835465
+    },
+    {
+      "token": 11902.388194097048,
+      "activity": 0.05659715100719829
+    },
+    {
+      "token": 3545.833416708354,
+      "activity": 0.05530536866619612
+    },
+    {
+      "token": 82.94347173586793,
+      "activity": 0.05187302219769201
+    },
+    {
+      "token": 13353.898949474737,
+      "activity": 0.04821275832497979
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 264,
+    "scene_entity_counts": [
+      26,
+      18,
+      21,
+      19,
+      20,
+      47,
+      25,
+      24,
+      24,
+      38,
+      35,
+      20,
+      31,
+      41
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0063,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.6677,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.6677
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.6244
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.6004
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.235
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.6004
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.6582
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.43434343434343436,
+        "smoothed": 0.1911810131728148,
+        "read_time_min": 61.6,
+        "driving_words": [
+          "fun",
+          "wonderful",
+          "admired",
+          "great",
+          "best",
+          "succeeded"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": 0.10664312155665343,
+        "read_time_min": 85.8,
+        "driving_words": [
+          "perfectly",
+          "handsome",
+          "beauty",
+          "greatest",
+          "amuse",
+          "love"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.21806202686764234,
+        "read_time_min": 112.8,
+        "driving_words": [
+          "wonderful",
+          "winning",
+          "fun",
+          "praise",
+          "great",
+          "celebrated"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.032476989429955555,
+        "read_time_min": 22.9,
+        "driving_words": [
+          "violent",
+          "violence",
+          "lost",
+          "betray",
+          "cruel",
+          "vile"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.03809583283424626,
+        "read_time_min": 32.6,
+        "driving_words": [
+          "destroyed",
+          "cruel",
+          "abhorred",
+          "arrested",
+          "deploring",
+          "violently"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.06395338216244445,
+        "read_time_min": 40.3,
+        "driving_words": [
+          "deploring",
+          "violently",
+          "despair",
+          "victim",
+          "cruelty",
+          "violence"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Love_and_Freindship_Jane_Austen/sentiment_arc.png"
+  }
+}

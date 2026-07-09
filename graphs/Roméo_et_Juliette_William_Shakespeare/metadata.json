@@ -1,0 +1,204 @@
+{
+  "slug": "Roméo_et_Juliette_William_Shakespeare",
+  "title": "Roméo et Juliette William Shakespeare",
+  "language": "fr",
+  "status": "ok",
+  "n_tokens": 49444,
+  "n_unique_entities": 83,
+  "n_entity_mentions": 993,
+  "sigma": 123.61,
+  "target_scenes": 16,
+  "detected_scene_boundaries": [
+    3461.783921341816,
+    6065.764003759398,
+    8007.181547619048,
+    10003.77688172043,
+    12955.495272525028,
+    16029.13708999159,
+    18184.865853658535,
+    20240.994773519164,
+    22430.568452380954,
+    24408.726715686273,
+    27388.116867201425,
+    30283.61781215772,
+    33294.930871025084,
+    37310.19530808366,
+    39904.466289243435,
+    43187.67657249467,
+    46671.483807506054
+  ],
+  "n_scenes": 18,
+  "top_entities": [
+    {
+      "label": "roméo",
+      "count": 163,
+      "type": "ORG"
+    },
+    {
+      "label": "juliette",
+      "count": 87,
+      "type": "PER"
+    },
+    {
+      "label": "frère",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "tybalt",
+      "count": 52,
+      "type": "LOC"
+    },
+    {
+      "label": "capulet",
+      "count": 43,
+      "type": "LOC"
+    },
+    {
+      "label": "shakspeare",
+      "count": 39,
+      "type": "MISC"
+    },
+    {
+      "label": "montaigu",
+      "count": 36,
+      "type": "PER"
+    },
+    {
+      "label": "mercutio",
+      "count": 34,
+      "type": "LOC"
+    },
+    {
+      "label": "pâris",
+      "count": 30,
+      "type": "PER"
+    },
+    {
+      "label": "vérone",
+      "count": 23,
+      "type": "MISC"
+    },
+    {
+      "label": "laurence",
+      "count": 21,
+      "type": "PER"
+    },
+    {
+      "label": "dieu",
+      "count": 19,
+      "type": "MISC"
+    },
+    {
+      "label": "madame",
+      "count": 18,
+      "type": "PER"
+    },
+    {
+      "label": "mantoue",
+      "count": 16,
+      "type": "LOC"
+    },
+    {
+      "label": "benvolio",
+      "count": 15,
+      "type": "LOC"
+    },
+    {
+      "label": "signora",
+      "count": 15,
+      "type": "MISC"
+    },
+    {
+      "label": "amour",
+      "count": 13,
+      "type": "LOC"
+    },
+    {
+      "label": "entrent",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "rosaline",
+      "count": 10,
+      "type": "PER"
+    },
+    {
+      "label": "juliette.--je",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "nourrice",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "allons",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "roméo.--c'",
+      "count": 9,
+      "type": "PER"
+    },
+    {
+      "label": "viens",
+      "count": 9,
+      "type": "PER"
+    },
+    {
+      "label": "oh!",
+      "count": 8,
+      "type": "MISC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 5119.910455227614,
+      "activity": 0.09819865501858764
+    },
+    {
+      "token": 1360.3626813406702,
+      "activity": 0.050562780258758114
+    },
+    {
+      "token": 2077.6448224112055,
+      "activity": 0.049313884083171826
+    },
+    {
+      "token": 44916.70235117558,
+      "activity": 0.04874288369022447
+    },
+    {
+      "token": 28913.89044522261,
+      "activity": 0.0479983954559618
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 18,
+    "edges": 281,
+    "scene_entity_counts": [
+      15,
+      24,
+      17,
+      14,
+      34,
+      15,
+      16,
+      14,
+      18,
+      17,
+      27,
+      18,
+      19,
+      30,
+      22,
+      26,
+      20,
+      18
+    ]
+  }
+}

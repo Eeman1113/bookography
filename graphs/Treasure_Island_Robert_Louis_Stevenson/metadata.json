@@ -1,0 +1,172 @@
+{
+  "slug": "Treasure_Island_Robert_Louis_Stevenson",
+  "title": "Treasure Island Robert Louis Stevenson",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 91027,
+  "n_unique_entities": 71,
+  "n_entity_mentions": 965,
+  "sigma": 227.5675,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    46629.594010989014
+  ],
+  "n_scenes": 2,
+  "top_entities": [
+    {
+      "label": "jim",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "silver",
+      "count": 75,
+      "type": "ORG"
+    },
+    {
+      "label": "flint",
+      "count": 54,
+      "type": "GPE"
+    },
+    {
+      "label": "livesey",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "smollett",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "hispaniola",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "ben gunn",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "trelawney",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "hunter",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "hawkins",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "dick",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "morgan",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "bill",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "joyce",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "redruth",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "bristol",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "i.",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "tom",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "hands",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "jim hawkins",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "benbow",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "dance",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "long john",
+      "count": 13,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 84787.59979989995,
+      "activity": 0.02934755528129896
+    },
+    {
+      "token": 29734.85642821411,
+      "activity": 0.02907025676491366
+    },
+    {
+      "token": 17941.092546273136,
+      "activity": 0.0272983652203347
+    },
+    {
+      "token": 21083.060530265135,
+      "activity": 0.026335888452205553
+    },
+    {
+      "token": 46719.697848924465,
+      "activity": 0.024861561354612403
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 49,
+    "scene_entity_counts": [
+      64,
+      56
+    ]
+  }
+}

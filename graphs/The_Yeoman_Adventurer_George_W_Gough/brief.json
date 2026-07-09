@@ -1,0 +1,294 @@
+{
+  "slug": "The_Yeoman_Adventurer_George_W_Gough",
+  "title_display": "The Yeoman Adventurer George W Gough",
+  "language": "en",
+  "length_tokens": 165472,
+  "length_words": 126545,
+  "unique_entities": 182,
+  "entity_mentions": 2871,
+  "scene_count": 56,
+  "top_entities": [
+    {
+      "label": "margaret",
+      "count": 332,
+      "type": "PERSON"
+    },
+    {
+      "label": "brocton",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "oliver",
+      "count": 99,
+      "type": "PERSON"
+    },
+    {
+      "label": "kate",
+      "count": 92,
+      "type": "PERSON"
+    },
+    {
+      "label": "wheatman",
+      "count": 82,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 75,
+      "type": "GPE"
+    },
+    {
+      "label": "donald",
+      "count": 75,
+      "type": "PERSON"
+    },
+    {
+      "label": "hanyards",
+      "count": 71,
+      "type": "FAC"
+    },
+    {
+      "label": "sultan",
+      "count": 71,
+      "type": "LOC"
+    },
+    {
+      "label": "jack",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "freake",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "mistress waynflete",
+      "count": 68,
+      "type": "ORG"
+    },
+    {
+      "label": "jane",
+      "count": 65,
+      "type": "PERSON"
+    },
+    {
+      "label": "i.",
+      "count": 62,
+      "type": "ORG"
+    },
+    {
+      "label": "maclachlan",
+      "count": 60,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 76071.96048024012,
+      "activity": 0.039251630081169143
+    },
+    {
+      "token": 10512.664832416207,
+      "activity": 0.03842976222243011
+    },
+    {
+      "token": 164477.67733866934,
+      "activity": 0.03662825106887725
+    },
+    {
+      "token": 160421.60980490246,
+      "activity": 0.03231969103346076
+    },
+    {
+      "token": 60758.23611805903,
+      "activity": 0.032276350499233344
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 56,
+    "edges": 1037,
+    "scene_entity_counts": [
+      16,
+      19,
+      18,
+      28,
+      16,
+      12,
+      24,
+      29,
+      20,
+      9,
+      12,
+      24,
+      12,
+      13,
+      20,
+      21,
+      21,
+      13,
+      15,
+      33,
+      28,
+      15,
+      29,
+      22,
+      16,
+      17,
+      28,
+      16,
+      27,
+      23,
+      9,
+      27,
+      25,
+      6,
+      8,
+      22,
+      27,
+      25,
+      29,
+      17,
+      25,
+      36,
+      29,
+      27,
+      23,
+      22,
+      29,
+      22,
+      25,
+      11,
+      21,
+      48,
+      29,
+      21,
+      32,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0081,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3432,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3432
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0989
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0431
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1144
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2447
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3432
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.15548212852894594,
+        "read_time_min": 43.5,
+        "driving_words": [
+          "triumphant",
+          "fun",
+          "godsend",
+          "good",
+          "happy",
+          "luck"
+        ]
+      },
+      {
+        "position": 0.5252525252525253,
+        "smoothed": 0.17919216300917157,
+        "read_time_min": 264.9,
+        "driving_words": [
+          "win",
+          "miracle",
+          "victories",
+          "great",
+          "affection",
+          "best"
+        ]
+      },
+      {
+        "position": 0.7474747474747475,
+        "smoothed": 0.10999982609927901,
+        "read_time_min": 368.5,
+        "driving_words": [
+          "brilliant",
+          "triumph",
+          "win",
+          "winning",
+          "good",
+          "merry"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.2727272727272727,
+        "smoothed": 0.024783554015201697,
+        "read_time_min": 147.1,
+        "driving_words": [
+          "bitch",
+          "cock",
+          "dick",
+          "damned",
+          "lost",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.40404040404040403,
+        "smoothed": 0.05118763755108742,
+        "read_time_min": 208.4,
+        "driving_words": [
+          "bitch",
+          "cock",
+          "hell",
+          "damned",
+          "hell's",
+          "nasty"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": -0.023508270896497204,
+        "read_time_min": 434.4,
+        "driving_words": [
+          "damned",
+          "hell",
+          "ass",
+          "dead",
+          "desperately",
+          "jerk"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Yeoman_Adventurer_George_W_Gough/sentiment_arc.png"
+  }
+}

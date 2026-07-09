@@ -1,0 +1,248 @@
+{
+  "slug": "I_am_a_woman_Ann_Bannon",
+  "title": "I am a woman Ann Bannon",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 107661,
+  "n_unique_entities": 41,
+  "n_entity_mentions": 2897,
+  "sigma": 269.1525,
+  "target_scenes": 35,
+  "detected_scene_boundaries": [
+    3703.773550724638,
+    5639.755,
+    8183.992903225807,
+    10488.017314990513,
+    12136.955259222334,
+    14459.40016252612,
+    16962.9968560521,
+    18512.3552332913,
+    20489.915384615386,
+    23384.786639676116,
+    26827.634502923975,
+    29843.270671834623,
+    32196.66609667123,
+    34077.419730392154,
+    36464.8203125,
+    39358.43979779412,
+    42249.09379084967,
+    44566.609003831414,
+    46486.67207572684,
+    48712.21994324045,
+    50524.185562364815,
+    53708.83613336779,
+    56662.21493027071,
+    59216.18526570048,
+    61730.46577060932,
+    63057.30179580978,
+    65218.5824742268,
+    68584.88448321438,
+    71704.03724053723,
+    74046.4674096589,
+    77427.94042553191,
+    81485.99726027397,
+    84351.3686888454,
+    86534.2085419735,
+    89732.57921866523,
+    94866.93622291021,
+    98625.14198998749,
+    100876.7931553593,
+    103881.91359985055
+  ],
+  "n_scenes": 40,
+  "top_entities": [
+    {
+      "label": "laura",
+      "count": 1293,
+      "type": "PERSON"
+    },
+    {
+      "label": "marcie",
+      "count": 448,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 422,
+      "type": "PERSON"
+    },
+    {
+      "label": "beebo",
+      "count": 266,
+      "type": "PERSON"
+    },
+    {
+      "label": "sarah",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "terry",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "laur",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "merrill landon",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "marcie’s",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "jesus",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "laura’s",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "jean",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "chicago",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "hollingsworth",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "mcalton",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "nix",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "burr and marcie",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "village",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "dutton",
+      "count": 6,
+      "type": "ORG"
+    },
+    {
+      "label": "burr’s",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "n’t",
+      "count": 5,
+      "type": "GPE"
+    },
+    {
+      "label": "cellar",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "miss",
+      "count": 5,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 64359.029514757385,
+      "activity": 0.04982029419468792
+    },
+    {
+      "token": 104751.72586293147,
+      "activity": 0.047217264826352294
+    },
+    {
+      "token": 100066.17308654328,
+      "activity": 0.04687177648244655
+    },
+    {
+      "token": 35114.71735867934,
+      "activity": 0.044635254615238255
+    },
+    {
+      "token": 105559.57978989495,
+      "activity": 0.04457158763908113
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 321,
+    "scene_entity_counts": [
+      14,
+      7,
+      6,
+      9,
+      7,
+      10,
+      5,
+      5,
+      10,
+      7,
+      7,
+      11,
+      9,
+      8,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      5,
+      15,
+      7,
+      9,
+      14,
+      8,
+      6,
+      12,
+      10,
+      11,
+      8,
+      14,
+      12,
+      9,
+      15,
+      10,
+      14,
+      9,
+      7,
+      10
+    ]
+  }
+}

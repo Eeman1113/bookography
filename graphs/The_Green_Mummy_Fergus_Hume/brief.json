@@ -1,0 +1,280 @@
+{
+  "slug": "The_Green_Mummy_Fergus_Hume",
+  "title_display": "The Green Mummy Fergus Hume",
+  "language": "en",
+  "length_tokens": 117901,
+  "length_words": 88822,
+  "unique_entities": 100,
+  "entity_mentions": 3721,
+  "scene_count": 42,
+  "top_entities": [
+    {
+      "label": "braddock",
+      "count": 434,
+      "type": "PERSON"
+    },
+    {
+      "label": "jasher",
+      "count": 393,
+      "type": "PERSON"
+    },
+    {
+      "label": "lucy",
+      "count": 328,
+      "type": "PERSON"
+    },
+    {
+      "label": "random",
+      "count": 226,
+      "type": "PERSON"
+    },
+    {
+      "label": "don pedro",
+      "count": 209,
+      "type": "PERSON"
+    },
+    {
+      "label": "hope",
+      "count": 192,
+      "type": "PERSON"
+    },
+    {
+      "label": "archie",
+      "count": 172,
+      "type": "ORG"
+    },
+    {
+      "label": "bolton",
+      "count": 157,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "cockatoo",
+      "count": 106,
+      "type": "GPE"
+    },
+    {
+      "label": "sidney",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "peruvian",
+      "count": 61,
+      "type": "NORP"
+    },
+    {
+      "label": "mummy",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "hervey",
+      "count": 56,
+      "type": "GPE"
+    },
+    {
+      "label": "donna inez",
+      "count": 54,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 57740.92046023012,
+      "activity": 0.05595701305463024
+    },
+    {
+      "token": 106634.91745872937,
+      "activity": 0.0559333844872601
+    },
+    {
+      "token": 94308.20410205102,
+      "activity": 0.055560212198463424
+    },
+    {
+      "token": 76555.37768884443,
+      "activity": 0.05294371334571555
+    },
+    {
+      "token": 116484.49224612306,
+      "activity": 0.05288674477011309
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 42,
+    "edges": 924,
+    "scene_entity_counts": [
+      27,
+      13,
+      25,
+      25,
+      24,
+      25,
+      12,
+      11,
+      21,
+      20,
+      25,
+      27,
+      22,
+      36,
+      26,
+      38,
+      22,
+      21,
+      33,
+      26,
+      21,
+      28,
+      20,
+      23,
+      37,
+      38,
+      30,
+      25,
+      30,
+      27,
+      16,
+      19,
+      23,
+      24,
+      15,
+      9,
+      14,
+      18,
+      32,
+      21,
+      39,
+      36
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0104,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.3847,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.3847
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2879
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1579
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1079
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.1804
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2879
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.08022613751847472,
+        "read_time_min": 26.4,
+        "driving_words": [
+          "supreme",
+          "loved",
+          "good",
+          "glad",
+          "love",
+          "nice"
+        ]
+      },
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.10628314615995574,
+        "read_time_min": 137.8,
+        "driving_words": [
+          "wonderfully",
+          "brilliant",
+          "wonderful",
+          "good",
+          "admires",
+          "love"
+        ]
+      },
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.010146050709462376,
+        "read_time_min": 220.6,
+        "driving_words": [
+          "wonderful",
+          "good",
+          "won't",
+          "joy",
+          "beauty",
+          "glad"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": -0.13035226462726163,
+        "read_time_min": 64.6,
+        "driving_words": [
+          "ass",
+          "lunatic",
+          "worry",
+          "worried",
+          "furious",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": -0.09019454374861191,
+        "read_time_min": 262.0,
+        "driving_words": [
+          "damned",
+          "ugly",
+          "damage",
+          "angry",
+          "liar",
+          "madness"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.09086911792207492,
+        "read_time_min": 322.5,
+        "driving_words": [
+          "damned",
+          "die",
+          "crime",
+          "worse",
+          "killed",
+          "dying"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Green_Mummy_Fergus_Hume/sentiment_arc.png"
+  }
+}

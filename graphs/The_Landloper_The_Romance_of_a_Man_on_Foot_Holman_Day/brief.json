@@ -1,0 +1,286 @@
+{
+  "slug": "The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day",
+  "title_display": "The Landloper The Romance of a Man on Foot Holman Day",
+  "language": "en",
+  "length_tokens": 134399,
+  "length_words": 103508,
+  "unique_entities": 98,
+  "entity_mentions": 1805,
+  "scene_count": 48,
+  "top_entities": [
+    {
+      "label": "farr",
+      "count": 342,
+      "type": "PERSON"
+    },
+    {
+      "label": "dodd",
+      "count": 234,
+      "type": "PERSON"
+    },
+    {
+      "label": "converse",
+      "count": 109,
+      "type": "PERSON"
+    },
+    {
+      "label": "etienne",
+      "count": 88,
+      "type": "GPE"
+    },
+    {
+      "label": "walker farr",
+      "count": 67,
+      "type": "ORG"
+    },
+    {
+      "label": "consolidated",
+      "count": 55,
+      "type": "ORG"
+    },
+    {
+      "label": "kate",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "kilgour",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "citizen drew",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "breed",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard dodd",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "archer converse",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "rosemarie",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "symonds dodd",
+      "count": 26,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 50558.92746373187,
+      "activity": 0.04159926349359419
+    },
+    {
+      "token": 68308.33816908454,
+      "activity": 0.030456779051768308
+    },
+    {
+      "token": 122968.45522761381,
+      "activity": 0.02599960446725599
+    },
+    {
+      "token": 73283.55177588794,
+      "activity": 0.02581656459580203
+    },
+    {
+      "token": 52172.51025512756,
+      "activity": 0.025587598985123326
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 48,
+    "edges": 481,
+    "scene_entity_counts": [
+      6,
+      9,
+      8,
+      7,
+      3,
+      4,
+      4,
+      4,
+      8,
+      7,
+      15,
+      16,
+      12,
+      11,
+      11,
+      16,
+      14,
+      22,
+      14,
+      5,
+      10,
+      9,
+      12,
+      9,
+      7,
+      7,
+      19,
+      15,
+      11,
+      10,
+      18,
+      11,
+      16,
+      20,
+      10,
+      15,
+      20,
+      20,
+      15,
+      13,
+      9,
+      7,
+      11,
+      19,
+      17,
+      13,
+      17,
+      23
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0078,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.2787,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.2787
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2259
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.1946
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.1481
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.1481
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2806
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": 0.10126462578522244,
+        "read_time_min": 88.0,
+        "driving_words": [
+          "wonderful",
+          "funny",
+          "good",
+          "loves",
+          "affection",
+          "happy"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": 0.14792127576864297,
+        "read_time_min": 186.2,
+        "driving_words": [
+          "fun",
+          "win",
+          "amazing",
+          "godsend",
+          "good",
+          "best"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.07384684334858935,
+        "read_time_min": 382.7,
+        "driving_words": [
+          "amazing",
+          "win",
+          "triumph",
+          "wonderful",
+          "great",
+          "loyal"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": -0.024589072750758004,
+        "read_time_min": 35.1,
+        "driving_words": [
+          "hell",
+          "died",
+          "losing",
+          "dying",
+          "damage",
+          "selfish"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": -0.022339480989538574,
+        "read_time_min": 133.3,
+        "driving_words": [
+          "hell",
+          "ass",
+          "die",
+          "dead",
+          "anger",
+          "bad"
+        ]
+      },
+      {
+        "position": 0.6262626262626263,
+        "smoothed": 0.009425105443144349,
+        "read_time_min": 254.2,
+        "driving_words": [
+          "hell",
+          "worry",
+          "selfish",
+          "angry",
+          "anger",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day/sentiment_arc.png"
+  }
+}

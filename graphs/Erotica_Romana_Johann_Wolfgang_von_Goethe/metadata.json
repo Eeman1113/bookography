@@ -1,0 +1,84 @@
+{
+  "slug": "Erotica_Romana_Johann_Wolfgang_von_Goethe",
+  "title": "Erotica Romana Johann Wolfgang von Goethe",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 8814,
+  "n_unique_entities": 7,
+  "n_entity_mentions": 53,
+  "sigma": 22.035,
+  "target_scenes": 3,
+  "detected_scene_boundaries": [
+    2979.08850931677,
+    5282.29981884058
+  ],
+  "n_scenes": 3,
+  "top_entities": [
+    {
+      "label": "rome",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "cupid",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "jupiter",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "midas",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "werther",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "juno",
+      "count": 3,
+      "type": "PERSON"
+    },
+    {
+      "label": "hercules",
+      "count": 3,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 361.51375687843927,
+      "activity": 0.054045221505162146
+    },
+    {
+      "token": 2812.7533766883444,
+      "activity": 0.05121582269150439
+    },
+    {
+      "token": 767.1145572786394,
+      "activity": 0.04522550035442999
+    },
+    {
+      "token": 7662.328164082041,
+      "activity": 0.037837550005866805
+    },
+    {
+      "token": 3209.5367683841923,
+      "activity": 0.03561789304708783
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 7,
+    "scene_entity_counts": [
+      5,
+      4,
+      5
+    ]
+  }
+}

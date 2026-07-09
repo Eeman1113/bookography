@@ -1,0 +1,240 @@
+{
+  "slug": "The_Romance_of_Tristan_and_Iseult_Joseph_Bédier",
+  "title_display": "The Romance of Tristan and Iseult Joseph Bédier",
+  "language": "en",
+  "length_tokens": 32905,
+  "length_words": 26008,
+  "unique_entities": 53,
+  "entity_mentions": 897,
+  "scene_count": 2,
+  "top_entities": [
+    {
+      "label": "tristan",
+      "count": 301,
+      "type": "GPE"
+    },
+    {
+      "label": "iseult",
+      "count": 161,
+      "type": "ORG"
+    },
+    {
+      "label": "king mark",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "king",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "kaherdin",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "mark",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "cornwall",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "brangien",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "morholt",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "tintagel",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "queen",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "fair",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "lyonesse",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "ireland",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "perinis",
+      "count": 12,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 7999.671835917959,
+      "activity": 0.06565758193852214
+    },
+    {
+      "token": 2650.097048524262,
+      "activity": 0.06041532619033175
+    },
+    {
+      "token": 26484.51025512756,
+      "activity": 0.05735218300308549
+    },
+    {
+      "token": 30270.363181590794,
+      "activity": 0.056739849805583185
+    },
+    {
+      "token": 26007.163581790894,
+      "activity": 0.05582941289765172
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 2,
+    "edges": 29,
+    "scene_entity_counts": [
+      38,
+      44
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 8582,
+    "volatility": 0.0037,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.5198,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5198
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0369
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0369
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.227
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.503
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.6185
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.04734449685576305,
+        "read_time_min": 20.7,
+        "driving_words": [
+          "great",
+          "delight",
+          "good",
+          "marvel",
+          "love",
+          "loves"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.021669384470967695,
+        "read_time_min": 66.4,
+        "driving_words": [
+          "win",
+          "rejoiced",
+          "good",
+          "great",
+          "loved",
+          "love"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.01357182884017721,
+        "read_time_min": 72.8,
+        "driving_words": [
+          "win",
+          "rejoiced",
+          "wonderful",
+          "great",
+          "splendid",
+          "loved"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.36363636363636365,
+        "smoothed": -0.062195570063792956,
+        "read_time_min": 42.5,
+        "driving_words": [
+          "hell",
+          "dead",
+          "anguish",
+          "charged",
+          "betray",
+          "hated"
+        ]
+      },
+      {
+        "position": 0.45454545454545453,
+        "smoothed": -0.04701013631340173,
+        "read_time_min": 48.8,
+        "driving_words": [
+          "hell",
+          "dying",
+          "terrible",
+          "hated",
+          "hatred",
+          "evil"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": -0.050344098457002495,
+        "read_time_min": 55.9,
+        "driving_words": [
+          "hell",
+          "evil",
+          "madly",
+          "vile",
+          "mad",
+          "die"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Romance_of_Tristan_and_Iseult_Joseph_Bédier/sentiment_arc.png"
+  }
+}

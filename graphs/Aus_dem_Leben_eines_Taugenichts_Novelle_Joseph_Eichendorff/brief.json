@@ -1,0 +1,239 @@
+{
+  "slug": "Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff",
+  "title_display": "Aus dem Leben eines Taugenichts Novelle Joseph Eichendorff",
+  "language": "de",
+  "length_tokens": 39626,
+  "length_words": 31382,
+  "unique_entities": 64,
+  "entity_mentions": 372,
+  "scene_count": 6,
+  "top_entities": [
+    {
+      "label": "italien",
+      "count": 21,
+      "type": "LOC"
+    },
+    {
+      "label": "andern",
+      "count": 17,
+      "type": "LOC"
+    },
+    {
+      "label": "leonhard",
+      "count": 17,
+      "type": "PER"
+    },
+    {
+      "label": "mir",
+      "count": 12,
+      "type": "MISC"
+    },
+    {
+      "label": "bergen",
+      "count": 12,
+      "type": "LOC"
+    },
+    {
+      "label": "rom",
+      "count": 12,
+      "type": "LOC"
+    },
+    {
+      "label": "damen",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "stadt",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "hause",
+      "count": 10,
+      "type": "PER"
+    },
+    {
+      "label": "donau",
+      "count": 10,
+      "type": "LOC"
+    },
+    {
+      "label": "guido",
+      "count": 10,
+      "type": "PER"
+    },
+    {
+      "label": "mond",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "erde",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "zeit",
+      "count": 8,
+      "type": "MISC"
+    },
+    {
+      "label": "mirs",
+      "count": 8,
+      "type": "PER"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 23033.641820910456,
+      "activity": 0.03419445368690321
+    },
+    {
+      "token": 3171.5857928964483,
+      "activity": 0.02705162442764597
+    },
+    {
+      "token": 39387.13106553277,
+      "activity": 0.025854868394346548
+    },
+    {
+      "token": 25868.246623311654,
+      "activity": 0.025103078707747153
+    },
+    {
+      "token": 38059.02951475738,
+      "activity": 0.024234972004187214
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 117,
+    "scene_entity_counts": [
+      40,
+      24,
+      26,
+      33,
+      31,
+      27
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0019,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.1598,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.1598
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0707
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0253
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.077
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.1598
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2302
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1717171717171717,
+        "smoothed": -0.4411198494971156,
+        "read_time_min": 34.7,
+        "driving_words": [
+          "best",
+          "gold",
+          "kinder",
+          "courage",
+          "rose"
+        ]
+      },
+      {
+        "position": 0.29292929292929293,
+        "smoothed": -0.41884368059525967,
+        "read_time_min": 45.1,
+        "driving_words": [
+          "best",
+          "kinder",
+          "courage",
+          "rose",
+          "warm"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.42106591784936453,
+        "read_time_min": 102.9,
+        "driving_words": [
+          "kinder",
+          "courage",
+          "devotion"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": -0.4654109340807018,
+        "read_time_min": 22.6,
+        "driving_words": [
+          "dick",
+          "hell",
+          "die",
+          "war",
+          "lied",
+          "rage"
+        ]
+      },
+      {
+        "position": 0.5454545454545454,
+        "smoothed": -0.455828797899829,
+        "read_time_min": 66.7,
+        "driving_words": [
+          "hell",
+          "die",
+          "war",
+          "lied",
+          "fallen",
+          "stab"
+        ]
+      },
+      {
+        "position": 0.7171717171717171,
+        "smoothed": -0.4659232980567803,
+        "read_time_min": 81.3,
+        "driving_words": [
+          "hell",
+          "die",
+          "desperate",
+          "war",
+          "lied",
+          "fallen"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Aus_dem_Leben_eines_Taugenichts_Novelle_Joseph_Eichendorff/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "slug": "A_pair_of_blue_eyes_Thomas_Hardy",
+  "title_display": "A pair of blue eyes Thomas Hardy",
+  "language": "en",
+  "length_tokens": 173950,
+  "length_words": 133853,
+  "unique_entities": 89,
+  "entity_mentions": 2723,
+  "scene_count": 65,
+  "top_entities": [
+    {
+      "label": "knight",
+      "count": 596,
+      "type": "PERSON"
+    },
+    {
+      "label": "elfride",
+      "count": 447,
+      "type": "ORG"
+    },
+    {
+      "label": "stephen",
+      "count": 421,
+      "type": "PERSON"
+    },
+    {
+      "label": "swancourt",
+      "count": 237,
+      "type": "GPE"
+    },
+    {
+      "label": "smith",
+      "count": 116,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 69,
+      "type": "GPE"
+    },
+    {
+      "label": "stephen’s",
+      "count": 65,
+      "type": "PERSON"
+    },
+    {
+      "label": "luxellian",
+      "count": 62,
+      "type": "PERSON"
+    },
+    {
+      "label": "endelstow",
+      "count": 38,
+      "type": "NORP"
+    },
+    {
+      "label": "jethway",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "stephen smith",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "harry",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "elfie",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "john",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "st. launce’s",
+      "count": 27,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 118170.45622811405,
+      "activity": 0.03244341117387833
+    },
+    {
+      "token": 120519.94247123561,
+      "activity": 0.03129633243202966
+    },
+    {
+      "token": 35155.27563781891,
+      "activity": 0.0306040676323361
+    },
+    {
+      "token": 171773.54977488745,
+      "activity": 0.029528409993880834
+    },
+    {
+      "token": 161679.4607303652,
+      "activity": 0.02920869104248971
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 65,
+    "edges": 646,
+    "scene_entity_counts": [
+      22,
+      10,
+      10,
+      9,
+      9,
+      10,
+      11,
+      13,
+      9,
+      8,
+      4,
+      10,
+      21,
+      14,
+      7,
+      6,
+      17,
+      14,
+      12,
+      9,
+      12,
+      14,
+      10,
+      11,
+      6,
+      10,
+      7,
+      6,
+      6,
+      13,
+      12,
+      13,
+      8,
+      13,
+      6,
+      4,
+      16,
+      19,
+      14,
+      12,
+      13,
+      14,
+      17,
+      14,
+      13,
+      9,
+      7,
+      12,
+      10,
+      6,
+      9,
+      11,
+      6,
+      11,
+      11,
+      8,
+      8,
+      5,
+      10,
+      21,
+      15,
+      14,
+      21,
+      12,
+      21
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0062,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6067,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6067
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3372
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0898
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3587
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5314
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6067
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.12763626472099765,
+        "read_time_min": 85.1,
+        "driving_words": [
+          "win",
+          "supreme",
+          "brilliant",
+          "triumph",
+          "wonderfully",
+          "excellent"
+        ]
+      },
+      {
+        "position": 0.3434343434343434,
+        "smoothed": 0.11305809805138589,
+        "read_time_min": 190.1,
+        "driving_words": [
+          "winning",
+          "brilliant",
+          "affection",
+          "good",
+          "mirth",
+          "impressed"
+        ]
+      },
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.10564449577180483,
+        "read_time_min": 265.2,
+        "driving_words": [
+          "miracle",
+          "perfectly",
+          "best",
+          "love",
+          "admire",
+          "loved"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.025787776583998792,
+        "read_time_min": 340.3,
+        "driving_words": [
+          "torture",
+          "dumb",
+          "killed",
+          "suck",
+          "killing",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.015448384006733443,
+        "read_time_min": 460.4,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "died",
+          "irritate",
+          "fatal",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.98989898989899,
+        "smoothed": 0.04644596550157668,
+        "read_time_min": 510.4,
+        "driving_words": [
+          "torture",
+          "die",
+          "worse",
+          "lost",
+          "miserably",
+          "cruel"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_pair_of_blue_eyes_Thomas_Hardy/sentiment_arc.png"
+  }
+}

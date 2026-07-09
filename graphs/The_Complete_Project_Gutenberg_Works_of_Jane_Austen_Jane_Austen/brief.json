@@ -1,0 +1,302 @@
+{
+  "slug": "The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen",
+  "title_display": "The Complete Project Gutenberg Works of Jane Austen Jane Austen",
+  "language": "en",
+  "length_tokens": 412784,
+  "length_words": 784838,
+  "unique_entities": 243,
+  "entity_mentions": 9119,
+  "scene_count": 64,
+  "top_entities": [
+    {
+      "label": "fanny",
+      "count": 850,
+      "type": "ORG"
+    },
+    {
+      "label": "crawford",
+      "count": 537,
+      "type": "PERSON"
+    },
+    {
+      "label": "catherine",
+      "count": 474,
+      "type": "PERSON"
+    },
+    {
+      "label": "anne",
+      "count": 442,
+      "type": "PERSON"
+    },
+    {
+      "label": "thomas",
+      "count": 323,
+      "type": "PERSON"
+    },
+    {
+      "label": "elliot",
+      "count": 236,
+      "type": "PERSON"
+    },
+    {
+      "label": "bertram",
+      "count": 222,
+      "type": "PERSON"
+    },
+    {
+      "label": "rushworth",
+      "count": 217,
+      "type": "PERSON"
+    },
+    {
+      "label": "norris",
+      "count": 207,
+      "type": "PERSON"
+    },
+    {
+      "label": "tilney",
+      "count": 201,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary",
+      "count": 186,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry",
+      "count": 177,
+      "type": "PERSON"
+    },
+    {
+      "label": "isabella",
+      "count": 157,
+      "type": "PERSON"
+    },
+    {
+      "label": "mansfield",
+      "count": 147,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 143,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 54721.10805402701,
+      "activity": 0.041439131921437666
+    },
+    {
+      "token": 68969.2456228114,
+      "activity": 0.037690646175650405
+    },
+    {
+      "token": 264726.2661330665,
+      "activity": 0.036133773039605036
+    },
+    {
+      "token": 31180.706853426713,
+      "activity": 0.03593454635684209
+    },
+    {
+      "token": 239533.90695347672,
+      "activity": 0.03301184583370148
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 64,
+    "edges": 1462,
+    "scene_entity_counts": [
+      32,
+      35,
+      29,
+      21,
+      30,
+      27,
+      19,
+      30,
+      32,
+      37,
+      40,
+      28,
+      47,
+      43,
+      31,
+      23,
+      33,
+      29,
+      32,
+      13,
+      24,
+      24,
+      25,
+      22,
+      21,
+      30,
+      22,
+      19,
+      10,
+      14,
+      19,
+      22,
+      20,
+      36,
+      31,
+      34,
+      20,
+      24,
+      22,
+      31,
+      31,
+      30,
+      26,
+      30,
+      26,
+      22,
+      29,
+      26,
+      26,
+      18,
+      20,
+      24,
+      20,
+      15,
+      24,
+      31,
+      26,
+      27,
+      28,
+      27,
+      25,
+      23,
+      27,
+      43
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0156,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3192,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3192
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2812
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0063
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0118
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1622
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3192
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.32323232323232326,
+        "smoothed": 0.23682619293207954,
+        "read_time_min": 1021.8,
+        "driving_words": [
+          "rejoice",
+          "amazing",
+          "wonderful",
+          "good",
+          "happiness",
+          "pleased"
+        ]
+      },
+      {
+        "position": 0.42424242424242425,
+        "smoothed": 0.22323275922923966,
+        "read_time_min": 1334.9,
+        "driving_words": [
+          "brilliant",
+          "pleasure",
+          "happy",
+          "happiness",
+          "great",
+          "grateful"
+        ]
+      },
+      {
+        "position": 0.5050505050505051,
+        "smoothed": 0.21034843478798948,
+        "read_time_min": 1585.3,
+        "driving_words": [
+          "rejoiced",
+          "rejoice",
+          "happy",
+          "beauty",
+          "pleased",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1717171717171717,
+        "smoothed": 0.09048757489344104,
+        "read_time_min": 552.2,
+        "driving_words": [
+          "violently",
+          "dreadful",
+          "horrid",
+          "frightening",
+          "faggot",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.797979797979798,
+        "smoothed": 0.0910236519607113,
+        "read_time_min": 2493.2,
+        "driving_words": [
+          "cruel",
+          "worse",
+          "anger",
+          "deceived",
+          "hate",
+          "hatred"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": 0.07399601414085488,
+        "read_time_min": 2868.9,
+        "driving_words": [
+          "torture",
+          "distrust",
+          "selfish",
+          "worse",
+          "dead",
+          "angry"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Complete_Project_Gutenberg_Works_of_Jane_Austen_Jane_Austen/sentiment_arc.png"
+  }
+}

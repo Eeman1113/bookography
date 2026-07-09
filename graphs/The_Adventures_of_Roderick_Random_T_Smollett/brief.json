@@ -1,0 +1,303 @@
+{
+  "slug": "The_Adventures_of_Roderick_Random_T_Smollett",
+  "title_display": "The Adventures of Roderick Random T Smollett",
+  "language": "en",
+  "length_tokens": 239869,
+  "length_words": 193190,
+  "unique_entities": 174,
+  "entity_mentions": 2011,
+  "scene_count": 65,
+  "top_entities": [
+    {
+      "label": "strap",
+      "count": 204,
+      "type": "PERSON"
+    },
+    {
+      "label": "narcissa",
+      "count": 105,
+      "type": "PERSON"
+    },
+    {
+      "label": "morgan",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "thompson",
+      "count": 56,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 54,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 50,
+      "type": "NORP"
+    },
+    {
+      "label": "banter",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "melinda",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "williams",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "jackson",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 30,
+      "type": "GPE"
+    },
+    {
+      "label": "random",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "weazel",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "crampley",
+      "count": 28,
+      "type": "PERSON"
+    },
+    {
+      "label": "wagtail",
+      "count": 25,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 31798.409204602303,
+      "activity": 0.022683779121901625
+    },
+    {
+      "token": 149512.52026013008,
+      "activity": 0.020626004376227202
+    },
+    {
+      "token": 230268.48024012006,
+      "activity": 0.01933601383686055
+    },
+    {
+      "token": 34198.289144572285,
+      "activity": 0.019335344683843316
+    },
+    {
+      "token": 97315.1315657829,
+      "activity": 0.019079954020502454
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 65,
+    "edges": 671,
+    "scene_entity_counts": [
+      9,
+      11,
+      10,
+      13,
+      15,
+      6,
+      9,
+      10,
+      14,
+      20,
+      20,
+      15,
+      5,
+      9,
+      14,
+      7,
+      10,
+      8,
+      3,
+      8,
+      13,
+      10,
+      15,
+      11,
+      14,
+      25,
+      16,
+      15,
+      13,
+      19,
+      17,
+      8,
+      10,
+      5,
+      10,
+      23,
+      10,
+      12,
+      21,
+      14,
+      18,
+      15,
+      15,
+      16,
+      9,
+      14,
+      14,
+      9,
+      10,
+      17,
+      15,
+      7,
+      10,
+      9,
+      17,
+      14,
+      8,
+      5,
+      11,
+      11,
+      13,
+      19,
+      31,
+      21,
+      20
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0207,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.6641,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.6641
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5145
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.243
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.2139
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2759
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.6641
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.20013335038396007,
+        "read_time_min": 538.1,
+        "driving_words": [
+          "thrilled",
+          "win",
+          "triumph",
+          "masterpiece",
+          "affection",
+          "best"
+        ]
+      },
+      {
+        "position": 0.8080808080808081,
+        "smoothed": 0.1988038715032392,
+        "read_time_min": 612.1,
+        "driving_words": [
+          "rejoiced",
+          "rejoice",
+          "triumph",
+          "love",
+          "good",
+          "great"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.2127863628830964,
+        "read_time_min": 738.0,
+        "driving_words": [
+          "overjoyed",
+          "rejoiced",
+          "amazing",
+          "rapturous",
+          "miracle",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.12121212121212122,
+        "smoothed": -0.039833750338186515,
+        "read_time_min": 108.8,
+        "driving_words": [
+          "cock",
+          "hell",
+          "rape",
+          "damned",
+          "dreadful",
+          "desperate"
+        ]
+      },
+      {
+        "position": 0.2727272727272727,
+        "smoothed": -0.030147710118806886,
+        "read_time_min": 219.8,
+        "driving_words": [
+          "torture",
+          "hell",
+          "conspiracy",
+          "lost",
+          "guilt",
+          "crime"
+        ]
+      },
+      {
+        "position": 0.3838383838383838,
+        "smoothed": -0.13365053495632748,
+        "read_time_min": 301.3,
+        "driving_words": [
+          "bitches",
+          "cock",
+          "bitch",
+          "ass",
+          "hell",
+          "died"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Roderick_Random_T_Smollett/sentiment_arc.png"
+  }
+}

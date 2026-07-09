@@ -1,0 +1,266 @@
+{
+  "slug": "The_Secret_of_Chimneys_Agatha_Christie",
+  "title_display": "The Secret of Chimneys Agatha Christie",
+  "language": "en",
+  "length_tokens": 105855,
+  "length_words": 77328,
+  "unique_entities": 136,
+  "entity_mentions": 3241,
+  "scene_count": 28,
+  "top_entities": [
+    {
+      "label": "anthony",
+      "count": 570,
+      "type": "PERSON"
+    },
+    {
+      "label": "virginia",
+      "count": 314,
+      "type": "GPE"
+    },
+    {
+      "label": "caterham",
+      "count": 214,
+      "type": "PERSON"
+    },
+    {
+      "label": "battle",
+      "count": 160,
+      "type": "ORG"
+    },
+    {
+      "label": "bill",
+      "count": 118,
+      "type": "PERSON"
+    },
+    {
+      "label": "bundle",
+      "count": 100,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "cade",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "superintendent battle",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "lomax",
+      "count": 56,
+      "type": "ORG"
+    },
+    {
+      "label": "fish",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "king victor",
+      "count": 44,
+      "type": "ORG"
+    },
+    {
+      "label": "revel",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "lemoine",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 39,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 53853.68584292146,
+      "activity": 0.050126040950354674
+    },
+    {
+      "token": 36908.57328664332,
+      "activity": 0.04907520242447986
+    },
+    {
+      "token": 44745.68784392196,
+      "activity": 0.046024623837139116
+    },
+    {
+      "token": 90656.35217608804,
+      "activity": 0.045655716236756155
+    },
+    {
+      "token": 58248.8244122061,
+      "activity": 0.04538436480300465
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 716,
+    "scene_entity_counts": [
+      22,
+      24,
+      40,
+      39,
+      24,
+      25,
+      26,
+      30,
+      33,
+      28,
+      50,
+      33,
+      29,
+      20,
+      29,
+      32,
+      45,
+      24,
+      25,
+      35,
+      31,
+      26,
+      36,
+      27,
+      30,
+      37,
+      24,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0046,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.5103,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5103
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0483
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0483
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1929
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.4891
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.7106
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.12442428600447261,
+        "read_time_min": 22.7,
+        "driving_words": [
+          "funny",
+          "fantastic",
+          "wonderfully",
+          "wonderful",
+          "soothing",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.10101010101010101,
+        "smoothed": 0.10581012010134673,
+        "read_time_min": 47.2,
+        "driving_words": [
+          "wonderfully",
+          "wonderful",
+          "good",
+          "splendid",
+          "magnificent",
+          "perfect"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": 0.09230428353241965,
+        "read_time_min": 262.1,
+        "driving_words": [
+          "funny",
+          "terrific",
+          "win",
+          "fun",
+          "wonderful",
+          "good"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.2828282828282828,
+        "smoothed": 0.005000401792328337,
+        "read_time_min": 96.2,
+        "driving_words": [
+          "damned",
+          "ass",
+          "awful",
+          "dead",
+          "horrible",
+          "hysterics"
+        ]
+      },
+      {
+        "position": 0.3939393939393939,
+        "smoothed": 0.021086109508063805,
+        "read_time_min": 126.1,
+        "driving_words": [
+          "worst",
+          "dead",
+          "crime",
+          "arrested",
+          "harassed",
+          "crimes"
+        ]
+      },
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.03317359135211143,
+        "read_time_min": 191.4,
+        "driving_words": [
+          "damned",
+          "ass",
+          "criminals",
+          "betrayed",
+          "desperate",
+          "violent"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Secret_of_Chimneys_Agatha_Christie/sentiment_arc.png"
+  }
+}

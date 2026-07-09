@@ -1,0 +1,252 @@
+{
+  "slug": "Victorian_Short_Stories_Stories_of_Courtship",
+  "title_display": "Victorian Short Stories Stories of Courtship",
+  "language": "en",
+  "length_tokens": 47595,
+  "length_words": 37020,
+  "unique_entities": 49,
+  "entity_mentions": 485,
+  "scene_count": 14,
+  "top_entities": [
+    {
+      "label": "anthony",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "le smyrger",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "broughton",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "john",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "oxney colne",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "garstin",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "patience",
+      "count": 21,
+      "type": "GPE"
+    },
+    {
+      "label": "rosa",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "patty",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "ye",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "patience woolsworthy",
+      "count": 12,
+      "type": "ORG"
+    },
+    {
+      "label": "tony",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "woolsworthy",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "helpholme",
+      "count": 10,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6095.079539769885,
+      "activity": 0.036902016274080005
+    },
+    {
+      "token": 7428.378189094547,
+      "activity": 0.03576518042006789
+    },
+    {
+      "token": 5261.7678839419705,
+      "activity": 0.0350205796583729
+    },
+    {
+      "token": 17999.53176588294,
+      "activity": 0.03133850921321442
+    },
+    {
+      "token": 21380.39619809905,
+      "activity": 0.030238766446903303
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 108,
+    "scene_entity_counts": [
+      4,
+      15,
+      17,
+      12,
+      10,
+      11,
+      16,
+      11,
+      9,
+      7,
+      16,
+      9,
+      10,
+      10
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0043,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.9104,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.9104
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3235
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3235
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6682
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.8553
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.8954
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.16585198855175992,
+        "read_time_min": 25.5,
+        "driving_words": [
+          "rejoiced",
+          "delight",
+          "glad",
+          "best",
+          "happy",
+          "good"
+        ]
+      },
+      {
+        "position": 0.494949494949495,
+        "smoothed": -0.009630120997419367,
+        "read_time_min": 73.5,
+        "driving_words": [
+          "wonderful",
+          "triumph",
+          "great",
+          "best",
+          "wealth",
+          "happy"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": 0.11217304482470031,
+        "read_time_min": 116.1,
+        "driving_words": [
+          "superb",
+          "thrilled",
+          "wonderful",
+          "funny",
+          "brilliant",
+          "fun"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.4444444444444444,
+        "smoothed": -0.025568698130268314,
+        "read_time_min": 68.0,
+        "driving_words": [
+          "bitches",
+          "anger",
+          "terrible",
+          "angry",
+          "'angry",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.5353535353535354,
+        "smoothed": -0.015104410445454968,
+        "read_time_min": 77.9,
+        "driving_words": [
+          "bitches",
+          "terrible",
+          "hate",
+          "'loose",
+          "bad",
+          "sinful"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": 0.09100041237269994,
+        "read_time_min": 123.7,
+        "driving_words": [
+          "damned",
+          "torture",
+          "'kill'",
+          "kill",
+          "awful",
+          "idiot"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Victorian_Short_Stories_Stories_of_Courtship/sentiment_arc.png"
+  }
+}

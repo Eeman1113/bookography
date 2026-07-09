@@ -1,0 +1,299 @@
+{
+  "slug": "Linnet_A_Romance_Grant_Allen",
+  "title_display": "Linnet A Romance Grant Allen",
+  "language": "en",
+  "length_tokens": 189058,
+  "length_words": 146948,
+  "unique_entities": 210,
+  "entity_mentions": 4549,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "linnet",
+      "count": 522,
+      "type": "PERSON"
+    },
+    {
+      "label": "florian",
+      "count": 478,
+      "type": "NORP"
+    },
+    {
+      "label": "rue",
+      "count": 228,
+      "type": "PERSON"
+    },
+    {
+      "label": "franz",
+      "count": 215,
+      "type": "ORG"
+    },
+    {
+      "label": "andreas",
+      "count": 192,
+      "type": "PERSON"
+    },
+    {
+      "label": "philippina",
+      "count": 164,
+      "type": "GPE"
+    },
+    {
+      "label": "will",
+      "count": 141,
+      "type": "PERSON"
+    },
+    {
+      "label": "will deverill",
+      "count": 133,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 116,
+      "type": "GPE"
+    },
+    {
+      "label": "andreas hausberger",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "tyrolese",
+      "count": 96,
+      "type": "NORP"
+    },
+    {
+      "label": "seer",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "st valentin",
+      "count": 77,
+      "type": "FAC"
+    },
+    {
+      "label": "german",
+      "count": 71,
+      "type": "NORP"
+    },
+    {
+      "label": "american",
+      "count": 69,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 129379.67783891947,
+      "activity": 0.04465985748596592
+    },
+    {
+      "token": 105546.57928964483,
+      "activity": 0.04397510662486424
+    },
+    {
+      "token": 181207.20960480243,
+      "activity": 0.04231582013253714
+    },
+    {
+      "token": 52489.56228114058,
+      "activity": 0.041925853930895686
+    },
+    {
+      "token": 78497.903951976,
+      "activity": 0.04116266633036112
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 1403,
+    "scene_entity_counts": [
+      27,
+      29,
+      12,
+      14,
+      17,
+      16,
+      20,
+      18,
+      22,
+      20,
+      21,
+      17,
+      20,
+      16,
+      30,
+      26,
+      23,
+      13,
+      29,
+      30,
+      26,
+      25,
+      21,
+      26,
+      28,
+      20,
+      22,
+      33,
+      33,
+      24,
+      18,
+      24,
+      46,
+      65,
+      31,
+      35,
+      36,
+      34,
+      25,
+      37,
+      31,
+      36,
+      39,
+      32,
+      32,
+      30,
+      21,
+      24,
+      7,
+      12,
+      22,
+      15,
+      26,
+      18,
+      28,
+      60,
+      19,
+      24,
+      42,
+      34,
+      32
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0142,
+    "best_shape": "Icarus",
+    "best_shape_correlation": 0.4851,
+    "shape_matches": [
+      {
+        "shape": "Icarus",
+        "correlation": 0.4851
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3962
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1261
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1531
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.1537
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3962
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.48484848484848486,
+        "smoothed": 0.2107840779130339,
+        "read_time_min": 285.6,
+        "driving_words": [
+          "wonderful",
+          "miracle",
+          "brilliant",
+          "triumphant",
+          "triumph",
+          "win"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.254475389072612,
+        "read_time_min": 324.3,
+        "driving_words": [
+          "brilliant",
+          "ecstatic",
+          "wonderful",
+          "triumph",
+          "amused",
+          "good"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.23077567986400815,
+        "read_time_min": 374.1,
+        "driving_words": [
+          "superb",
+          "wonderful",
+          "triumphant",
+          "rejoicing",
+          "good",
+          "adores"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7777777777777778,
+        "smoothed": -0.003400204857874041,
+        "read_time_min": 446.1,
+        "driving_words": [
+          "damned",
+          "tortures",
+          "hell",
+          "dreadful",
+          "warning",
+          "violently"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.022920410373671235,
+        "read_time_min": 495.9,
+        "driving_words": [
+          "fraud",
+          "torturing",
+          "hell",
+          "terribly",
+          "cruelty",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.98989898989899,
+        "smoothed": -0.013907506855028916,
+        "read_time_min": 562.3,
+        "driving_words": [
+          "fraud",
+          "lost",
+          "worse",
+          "bad",
+          "miserable",
+          "swindling"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Linnet_A_Romance_Grant_Allen/sentiment_arc.png"
+  }
+}

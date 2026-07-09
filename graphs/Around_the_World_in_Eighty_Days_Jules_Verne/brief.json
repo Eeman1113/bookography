@@ -1,0 +1,269 @@
+{
+  "slug": "Around_the_World_in_Eighty_Days_Jules_Verne",
+  "title_display": "Around the World in Eighty Days Jules Verne",
+  "language": "en",
+  "length_tokens": 84163,
+  "length_words": 64288,
+  "unique_entities": 141,
+  "entity_mentions": 2176,
+  "scene_count": 31,
+  "top_entities": [
+    {
+      "label": "fogg",
+      "count": 512,
+      "type": "PERSON"
+    },
+    {
+      "label": "aouda",
+      "count": 135,
+      "type": "PERSON"
+    },
+    {
+      "label": "phileas fogg",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 64,
+      "type": "GPE"
+    },
+    {
+      "label": "hong kong",
+      "count": 62,
+      "type": "GPE"
+    },
+    {
+      "label": "bombay",
+      "count": 60,
+      "type": "GPE"
+    },
+    {
+      "label": "francis",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "yokohama",
+      "count": 40,
+      "type": "GPE"
+    },
+    {
+      "label": "india",
+      "count": 35,
+      "type": "GPE"
+    },
+    {
+      "label": "indian",
+      "count": 31,
+      "type": "NORP"
+    },
+    {
+      "label": "parsee",
+      "count": 31,
+      "type": "GPE"
+    },
+    {
+      "label": "american",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "liverpool",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "new york",
+      "count": 28,
+      "type": "GPE"
+    },
+    {
+      "label": "san francisco",
+      "count": 28,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 5725.878939469735,
+      "activity": 0.06081936879331872
+    },
+    {
+      "token": 57300.89144572286,
+      "activity": 0.05853296502026958
+    },
+    {
+      "token": 37512.92746373187,
+      "activity": 0.049796228539760186
+    },
+    {
+      "token": 42270.45922961481,
+      "activity": 0.0480085686002043
+    },
+    {
+      "token": 81972.69334667335,
+      "activity": 0.047892150114173526
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 538,
+    "scene_entity_counts": [
+      21,
+      33,
+      32,
+      22,
+      19,
+      21,
+      17,
+      12,
+      18,
+      17,
+      8,
+      27,
+      24,
+      31,
+      29,
+      24,
+      16,
+      21,
+      23,
+      28,
+      27,
+      34,
+      23,
+      22,
+      23,
+      11,
+      19,
+      22,
+      17,
+      15,
+      23
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0056,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3247,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3247
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.2508
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.0006
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0194
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1073
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3247
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.09567802094462831,
+        "read_time_min": 26.6,
+        "driving_words": [
+          "win",
+          "fantastic",
+          "good",
+          "handsome",
+          "magnificent",
+          "perfect"
+        ]
+      },
+      {
+        "position": 0.5757575757575758,
+        "smoothed": 0.09199743723268458,
+        "read_time_min": 145.0,
+        "driving_words": [
+          "miracle",
+          "terrific",
+          "wonderful",
+          "winning",
+          "fantastic",
+          "triumph"
+        ]
+      },
+      {
+        "position": 0.6666666666666666,
+        "smoothed": 0.11359327603275399,
+        "read_time_min": 164.8,
+        "driving_words": [
+          "hurrah",
+          "wonderful",
+          "winning",
+          "fantastic",
+          "triumph",
+          "terrific"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.29292929292929293,
+        "smoothed": -0.012336311337897641,
+        "read_time_min": 83.6,
+        "driving_words": [
+          "tortures",
+          "betrayed",
+          "horrible",
+          "angry",
+          "worrying",
+          "hideous"
+        ]
+      },
+      {
+        "position": 0.8383838383838383,
+        "smoothed": -0.014847494958804039,
+        "read_time_min": 202.1,
+        "driving_words": [
+          "ass",
+          "irritated",
+          "anger",
+          "bankruptcy",
+          "outraged",
+          "assassination"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": -0.050930616385977186,
+        "read_time_min": 226.2,
+        "driving_words": [
+          "ass",
+          "tortured",
+          "lost",
+          "violent",
+          "killed",
+          "dead"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Around_the_World_in_Eighty_Days_Jules_Verne/sentiment_arc.png"
+  }
+}

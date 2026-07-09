@@ -1,0 +1,285 @@
+{
+  "slug": "The_Boy_with_Wings_Berta_Ruck",
+  "title_display": "The Boy with Wings Berta Ruck",
+  "language": "en",
+  "length_tokens": 126197,
+  "length_words": 92279,
+  "unique_entities": 122,
+  "entity_mentions": 1790,
+  "scene_count": 47,
+  "top_entities": [
+    {
+      "label": "leslie",
+      "count": 258,
+      "type": "PERSON"
+    },
+    {
+      "label": "gwenna",
+      "count": 176,
+      "type": "NORP"
+    },
+    {
+      "label": "paul",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "dampier",
+      "count": 77,
+      "type": "PERSON"
+    },
+    {
+      "label": "paul dampier",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "ryan",
+      "count": 54,
+      "type": "PERSON"
+    },
+    {
+      "label": "taffy",
+      "count": 42,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 38,
+      "type": "GPE"
+    },
+    {
+      "label": "welsh",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "leslie long",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "airman",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "german",
+      "count": 28,
+      "type": "NORP"
+    },
+    {
+      "label": "gwenna williams",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "crewe",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "club",
+      "count": 26,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 124807.14957478739,
+      "activity": 0.042307372075484205
+    },
+    {
+      "token": 102017.37668834417,
+      "activity": 0.027849208742388745
+    },
+    {
+      "token": 22663.513756878438,
+      "activity": 0.02780003405871824
+    },
+    {
+      "token": 1515.1095547773887,
+      "activity": 0.027796416852602136
+    },
+    {
+      "token": 105236.98449224612,
+      "activity": 0.02729863167992571
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 47,
+    "edges": 716,
+    "scene_entity_counts": [
+      26,
+      15,
+      6,
+      11,
+      12,
+      9,
+      16,
+      18,
+      19,
+      17,
+      18,
+      26,
+      17,
+      21,
+      11,
+      11,
+      17,
+      14,
+      14,
+      28,
+      18,
+      14,
+      16,
+      18,
+      21,
+      22,
+      16,
+      16,
+      16,
+      20,
+      30,
+      27,
+      21,
+      15,
+      25,
+      16,
+      19,
+      26,
+      32,
+      20,
+      16,
+      14,
+      14,
+      14,
+      13,
+      15,
+      18
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0062,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.3457,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.3457
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3103
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1496
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3183
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.3414
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.3457
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.18020817027363684,
+        "read_time_min": 30.0,
+        "driving_words": [
+          "thrilled",
+          "miracle",
+          "supreme",
+          "fun",
+          "fantastic",
+          "wonderful"
+        ]
+      },
+      {
+        "position": 0.26262626262626265,
+        "smoothed": 0.1517077496638569,
+        "read_time_min": 106.4,
+        "driving_words": [
+          "thrilled",
+          "winning",
+          "funny",
+          "brilliant",
+          "loved",
+          "love"
+        ]
+      },
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.15375465009529085,
+        "read_time_min": 182.9,
+        "driving_words": [
+          "win",
+          "fun",
+          "wonderful",
+          "brilliant",
+          "triumphant",
+          "funny"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.16161616161616163,
+        "smoothed": 0.08452031928291472,
+        "read_time_min": 73.2,
+        "driving_words": [
+          "loose",
+          "dead",
+          "lost",
+          "dying",
+          "irritating",
+          "irritated"
+        ]
+      },
+      {
+        "position": 0.3838383838383838,
+        "smoothed": 0.06868205992844428,
+        "read_time_min": 146.3,
+        "driving_words": [
+          "ass",
+          "dead",
+          "bad",
+          "fatal",
+          "idiotic",
+          "rotten"
+        ]
+      },
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.08254082145325381,
+        "read_time_min": 229.4,
+        "driving_words": [
+          "dreadful",
+          "horrible",
+          "badly",
+          "fatality",
+          "killed",
+          "die"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Boy_with_Wings_Berta_Ruck/sentiment_arc.png"
+  }
+}

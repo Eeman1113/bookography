@@ -1,0 +1,295 @@
+{
+  "slug": "Complete_Short_Works_of_George_Meredith_George_Meredith",
+  "title_display": "Complete Short Works of George Meredith George Meredith",
+  "language": "en",
+  "length_tokens": 220623,
+  "length_words": 172433,
+  "unique_entities": 301,
+  "entity_mentions": 4416,
+  "scene_count": 57,
+  "top_entities": [
+    {
+      "label": "tinman",
+      "count": 198,
+      "type": "PERSON"
+    },
+    {
+      "label": "margarita",
+      "count": 165,
+      "type": "ORG"
+    },
+    {
+      "label": "farina",
+      "count": 163,
+      "type": "PERSON"
+    },
+    {
+      "label": "chloe",
+      "count": 159,
+      "type": "PERSON"
+    },
+    {
+      "label": "camper",
+      "count": 129,
+      "type": "ORG"
+    },
+    {
+      "label": "crickledon",
+      "count": 105,
+      "type": "GPE"
+    },
+    {
+      "label": "van diemen",
+      "count": 103,
+      "type": "PERSON"
+    },
+    {
+      "label": "beamish",
+      "count": 97,
+      "type": "PERSON"
+    },
+    {
+      "label": "italian",
+      "count": 88,
+      "type": "NORP"
+    },
+    {
+      "label": "pollingray",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "gottlieb",
+      "count": 72,
+      "type": "ORG"
+    },
+    {
+      "label": "fellingham",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "elizabeth",
+      "count": 70,
+      "type": "PERSON"
+    },
+    {
+      "label": "werner",
+      "count": 65,
+      "type": "PERSON"
+    },
+    {
+      "label": "guy",
+      "count": 61,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 181000.54027013507,
+      "activity": 0.05654356251258367
+    },
+    {
+      "token": 44919.036518259134,
+      "activity": 0.051241415919224126
+    },
+    {
+      "token": 2869.52076038019,
+      "activity": 0.04806663710311031
+    },
+    {
+      "token": 185635.91995998,
+      "activity": 0.04599990262596865
+    },
+    {
+      "token": 144469.33366683344,
+      "activity": 0.03873360263214254
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 57,
+    "edges": 885,
+    "scene_entity_counts": [
+      41,
+      27,
+      11,
+      16,
+      14,
+      27,
+      13,
+      18,
+      17,
+      33,
+      26,
+      48,
+      15,
+      6,
+      10,
+      6,
+      18,
+      13,
+      9,
+      7,
+      18,
+      12,
+      10,
+      22,
+      13,
+      10,
+      7,
+      8,
+      18,
+      32,
+      24,
+      22,
+      25,
+      22,
+      26,
+      26,
+      28,
+      19,
+      22,
+      6,
+      9,
+      11,
+      10,
+      12,
+      30,
+      16,
+      30,
+      51,
+      46,
+      34,
+      16,
+      26,
+      39,
+      28,
+      36,
+      20,
+      27
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0128,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.2455,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2455
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.1226
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.1226
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2385
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2434
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2932
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.1821349278423044,
+        "read_time_min": 33.1,
+        "driving_words": [
+          "triumph",
+          "win",
+          "wonderful",
+          "wins",
+          "'good",
+          "good"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.18096412131647202,
+        "read_time_min": 157.8,
+        "driving_words": [
+          "wins",
+          "winning",
+          "brilliant",
+          "overjoyed",
+          "amazing",
+          "wonderful"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": 0.18522724874359522,
+        "read_time_min": 656.6,
+        "driving_words": [
+          "brilliant",
+          "win",
+          "wins",
+          "rejoicing",
+          "fun",
+          "heavenly"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.1111111111111111,
+        "smoothed": 0.03580110737989749,
+        "read_time_min": 92.2,
+        "driving_words": [
+          "prick",
+          "hell's",
+          "hell",
+          "ungrateful",
+          "worse",
+          "harassed"
+        ]
+      },
+      {
+        "position": 0.45454545454545453,
+        "smoothed": 0.02039583274426266,
+        "read_time_min": 315.3,
+        "driving_words": [
+          "deception",
+          "deceived",
+          "cheat",
+          "terrible",
+          "'terrible",
+          "destruction"
+        ]
+      },
+      {
+        "position": 0.8484848484848485,
+        "smoothed": 0.004949879823414926,
+        "read_time_min": 571.3,
+        "driving_words": [
+          "cruelty",
+          "dumb",
+          "bloody",
+          "terrible",
+          "lost",
+          "killed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Complete_Short_Works_of_George_Meredith_George_Meredith/sentiment_arc.png"
+  }
+}

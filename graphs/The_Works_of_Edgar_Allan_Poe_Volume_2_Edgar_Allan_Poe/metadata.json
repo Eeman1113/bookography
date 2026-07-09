@@ -1,0 +1,248 @@
+{
+  "slug": "The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe",
+  "title": "The Works of Edgar Allan Poe Volume 2 Edgar Allan Poe",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 123480,
+  "n_unique_entities": 72,
+  "n_entity_mentions": 435,
+  "sigma": 308.7,
+  "target_scenes": 41,
+  "detected_scene_boundaries": [
+    2859.68509984639,
+    5495.559523809524,
+    8694.84126984127,
+    12148.868055555555,
+    14973.395833333332,
+    17376.64912280702,
+    20087.815789473687,
+    23996.818181818184,
+    27458.377005347596,
+    31832.492156862747,
+    35620.70256410257,
+    36937.090659340654,
+    39887.32142857143,
+    43744.5,
+    46204.0,
+    48399.25,
+    51956.17307692308,
+    56279.7491638796,
+    60986.57608695652,
+    65386.82894736842,
+    67869.93609022556,
+    69347.85714285714,
+    70755.1875,
+    72373.1875,
+    74832.0,
+    78494.07142857142,
+    81805.32142857142,
+    85263.28846153847,
+    88473.76068376069,
+    90282.68055555556,
+    92768.24404761905,
+    95535.28571428571,
+    98567.5,
+    101808.1,
+    104805.45714285714,
+    107733.54464285714,
+    111851.6875,
+    116976.02173913043,
+    121166.35507246378
+  ],
+  "n_scenes": 40,
+  "top_entities": [
+    {
+      "label": "dupin",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "prefect",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "ellison",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. valdemar",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilson",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "von kempelen",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "eleonora",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "scheherazade",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "moskoe",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "valdemar",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "valley",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "sinbad",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "lofoden",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "fortunato",
+      "count": 8,
+      "type": "NORP"
+    },
+    {
+      "label": "amontillado",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "earth",
+      "count": 7,
+      "type": "LOC"
+    },
+    {
+      "label": "europe",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "ström",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "kissam",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "arnheim",
+      "count": 6,
+      "type": "GPE"
+    },
+    {
+      "label": "william wilson",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "the red death",
+      "count": 5,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58311.24362181091,
+      "activity": 0.01759084734195561
+    },
+    {
+      "token": 864.7853926963483,
+      "activity": 0.016586799314608207
+    },
+    {
+      "token": 26128.872936468237,
+      "activity": 0.01400925025988245
+    },
+    {
+      "token": 119093.30265132566,
+      "activity": 0.012530961162711386
+    },
+    {
+      "token": 4385.697348674337,
+      "activity": 0.012496496708106342
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 112,
+    "scene_entity_counts": [
+      7,
+      4,
+      4,
+      8,
+      4,
+      2,
+      6,
+      2,
+      11,
+      9,
+      5,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      7,
+      7,
+      3,
+      7,
+      5,
+      4,
+      6,
+      2,
+      1,
+      7,
+      2,
+      3,
+      4,
+      3,
+      7,
+      2,
+      7,
+      4,
+      8,
+      10,
+      2,
+      8,
+      3
+    ]
+  }
+}

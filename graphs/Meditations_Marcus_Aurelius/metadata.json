@@ -1,0 +1,242 @@
+{
+  "slug": "Meditations_Marcus_Aurelius",
+  "title": "Meditations Marcus Aurelius",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 90597,
+  "n_unique_entities": 73,
+  "n_entity_mentions": 761,
+  "sigma": 226.4925,
+  "target_scenes": 30,
+  "detected_scene_boundaries": [
+    1486.5029644268775,
+    2677.1029644268774,
+    4551.918181818182,
+    8575.625,
+    12470.125,
+    14751.766666666666,
+    16531.67843137255,
+    19068.883986928107,
+    21920.047222222223,
+    24506.463888888888,
+    26777.20138888889,
+    28593.729166666664,
+    30421.345238095237,
+    32047.85164835165,
+    34156.76682692308,
+    36456.17708333333,
+    39272.23333333334,
+    41894.00714285714,
+    43459.91483516483,
+    44682.95054945055,
+    47242.20807453417,
+    50552.719063545155,
+    54381.98717948718,
+    57592.61458333333,
+    59440.67708333333,
+    61733.7193627451,
+    64132.26102941176,
+    66865.71527777778,
+    70161.88492063493,
+    72685.65476190476,
+    74492.04761904762,
+    77091.70588235295,
+    80034.5294117647,
+    82132.14852941176,
+    84204.29868421052,
+    87291.46069719753
+  ],
+  "n_scenes": 37,
+  "top_entities": [
+    {
+      "label": "thou",
+      "count": 203,
+      "type": "NORP"
+    },
+    {
+      "label": "marcus",
+      "count": 46,
+      "type": "GPE"
+    },
+    {
+      "label": "fronto",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "stoic",
+      "count": 23,
+      "type": "NORP"
+    },
+    {
+      "label": "roman",
+      "count": 21,
+      "type": "NORP"
+    },
+    {
+      "label": "greek",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "rome",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "b.c.",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "plato",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "marcus aurelius",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "christian",
+      "count": 14,
+      "type": "NORP"
+    },
+    {
+      "label": "xii",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "xiv",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "whatsoever",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "xv",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "xxii",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "xxv",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "doth",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "providence",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "xx",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "xxix",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "chrysippus",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "faustina",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "christians",
+      "count": 7,
+      "type": "NORP"
+    },
+    {
+      "label": "athens",
+      "count": 7,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 88465.92896448224,
+      "activity": 0.03804548329259341
+    },
+    {
+      "token": 89553.6248124062,
+      "activity": 0.036019250023306644
+    },
+    {
+      "token": 87740.7983991996,
+      "activity": 0.032911522812324664
+    },
+    {
+      "token": 2401.9949974987494,
+      "activity": 0.03128141451648786
+    },
+    {
+      "token": 3988.2181090545273,
+      "activity": 0.026505792816374347
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 37,
+    "edges": 285,
+    "scene_entity_counts": [
+      11,
+      16,
+      12,
+      14,
+      7,
+      5,
+      6,
+      7,
+      9,
+      14,
+      5,
+      3,
+      4,
+      4,
+      7,
+      11,
+      10,
+      8,
+      6,
+      5,
+      9,
+      15,
+      10,
+      10,
+      5,
+      5,
+      6,
+      12,
+      7,
+      5,
+      9,
+      7,
+      15,
+      12,
+      8,
+      15,
+      44
+    ]
+  }
+}

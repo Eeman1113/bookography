@@ -1,0 +1,194 @@
+{
+  "slug": "The_Love_Letters_of_Mary_Wollstonecraft_to_Gilbert_Imlay_Mary_Wollstonecraft",
+  "title": "The Love Letters of Mary Wollstonecraft to Gilbert Imlay Mary Wollstonecraft",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 42949,
+  "n_unique_entities": 42,
+  "n_entity_mentions": 490,
+  "sigma": 107.3725,
+  "target_scenes": 14,
+  "detected_scene_boundaries": [
+    2843.9230180470513,
+    5215.440295049046,
+    9029.614325068871,
+    13200.821603128055,
+    17190.5564516129,
+    20837.027777777777,
+    23066.802777777775,
+    25986.61590909091,
+    29438.57424242424,
+    32266.852898550726,
+    35478.309565217394,
+    39420.99555555555
+  ],
+  "n_scenes": 13,
+  "top_entities": [
+    {
+      "label": "mary",
+      "count": 128,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 56,
+      "type": "GPE"
+    },
+    {
+      "label": "godwin",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "mary wollstonecraft",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "----",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "havre",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "fanny",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "adieu",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "shelley",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "imlay",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "johnson",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "tonsberg",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "sweden",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "bishop",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "kegan paul",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "god",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "wollstonecraft",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "fanny blood",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "everina",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "william godwin",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 5,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 7755.991995997999,
+      "activity": 0.04694589066478746
+    },
+    {
+      "token": 1912.1420710355178,
+      "activity": 0.046371983487221
+    },
+    {
+      "token": 5134.853426713356,
+      "activity": 0.04618212682978044
+    },
+    {
+      "token": 2986.3791895947975,
+      "activity": 0.04591316972887481
+    },
+    {
+      "token": 945.3286643321661,
+      "activity": 0.043354480686811823
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 13,
+    "edges": 98,
+    "scene_entity_counts": [
+      25,
+      20,
+      21,
+      7,
+      7,
+      6,
+      5,
+      6,
+      8,
+      11,
+      8,
+      10,
+      6
+    ]
+  }
+}

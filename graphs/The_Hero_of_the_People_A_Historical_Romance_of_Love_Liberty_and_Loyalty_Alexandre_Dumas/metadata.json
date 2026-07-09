@@ -1,0 +1,248 @@
+{
+  "slug": "The_Hero_of_the_People_A_Historical_Romance_of_Love_Liberty_and_Loyalty_Alexandre_Dumas",
+  "title": "The Hero of the People A Historical Romance of Love Liberty and Loyalty Alexandre Dumas",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 104168,
+  "n_unique_entities": 130,
+  "n_entity_mentions": 1640,
+  "sigma": 260.42,
+  "target_scenes": 34,
+  "detected_scene_boundaries": [
+    1646.0144927536232,
+    3004.436061381074,
+    4810.542780748663,
+    6789.679545454545,
+    8993.213095238096,
+    11076.565018315017,
+    12663.653846153846,
+    14144.71978021978,
+    16016.195488721803,
+    19110.16870300752,
+    22232.370973389356,
+    25088.48823529412,
+    27877.693333333333,
+    31031.396363636362,
+    34781.31636363636,
+    38011.542499999996,
+    40932.875265957446,
+    43100.30487122061,
+    44373.91432748538,
+    46501.48323917137,
+    49568.07768361582,
+    52475.19968553459,
+    55232.91843553459,
+    58516.189470720725,
+    61653.53231492362,
+    64329.308906030856,
+    66757.89795285359,
+    69495.53952991453,
+    72884.68189964158,
+    76243.02363090773,
+    78561.25145348837,
+    81352.87867647059,
+    84380.60784313726,
+    86415.53401360544,
+    89463.32189239332,
+    93223.19922630562,
+    95724.43356973995,
+    98887.83174603173,
+    102399.97619047618
+  ],
+  "n_scenes": 40,
+  "top_entities": [
+    {
+      "label": "gilbert",
+      "count": 159,
+      "type": "PERSON"
+    },
+    {
+      "label": "pitou",
+      "count": 124,
+      "type": "GPE"
+    },
+    {
+      "label": "catherine",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 79,
+      "type": "GPE"
+    },
+    {
+      "label": "andrea",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "majesty",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "sebastian",
+      "count": 53,
+      "type": "PERSON"
+    },
+    {
+      "label": "beausire",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "charny",
+      "count": 45,
+      "type": "GPE"
+    },
+    {
+      "label": "france",
+      "count": 44,
+      "type": "GPE"
+    },
+    {
+      "label": "king",
+      "count": 41,
+      "type": "LOC"
+    },
+    {
+      "label": "mirabeau",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "queen",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "isidore",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "nicole",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "bastile",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "versailles",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "favras",
+      "count": 19,
+      "type": "ORG"
+    },
+    {
+      "label": "louis",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "haramont",
+      "count": 18,
+      "type": "GPE"
+    },
+    {
+      "label": "assembly",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "fortier",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "marie antoinette",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "marat",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "billet",
+      "count": 14,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 66022.80590295147,
+      "activity": 0.03869274461198445
+    },
+    {
+      "token": 91608.59729864933,
+      "activity": 0.03657660891039069
+    },
+    {
+      "token": 48253.44772386193,
+      "activity": 0.03390168008231569
+    },
+    {
+      "token": 42312.95847923962,
+      "activity": 0.033324673464303484
+    },
+    {
+      "token": 90722.73486743371,
+      "activity": 0.03252714385359642
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 530,
+    "scene_entity_counts": [
+      15,
+      6,
+      9,
+      8,
+      24,
+      15,
+      13,
+      14,
+      24,
+      14,
+      17,
+      16,
+      23,
+      16,
+      23,
+      10,
+      16,
+      17,
+      5,
+      20,
+      26,
+      25,
+      29,
+      24,
+      17,
+      9,
+      27,
+      25,
+      6,
+      12,
+      20,
+      15,
+      6,
+      5,
+      29,
+      35,
+      15,
+      18,
+      4,
+      8
+    ]
+  }
+}

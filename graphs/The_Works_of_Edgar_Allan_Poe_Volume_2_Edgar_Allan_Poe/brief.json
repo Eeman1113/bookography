@@ -1,0 +1,278 @@
+{
+  "slug": "The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe",
+  "title_display": "The Works of Edgar Allan Poe Volume 2 Edgar Allan Poe",
+  "language": "en",
+  "length_tokens": 123480,
+  "length_words": 96960,
+  "unique_entities": 72,
+  "entity_mentions": 435,
+  "scene_count": 40,
+  "top_entities": [
+    {
+      "label": "dupin",
+      "count": 31,
+      "type": "ORG"
+    },
+    {
+      "label": "prefect",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "ellison",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. valdemar",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilson",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "von kempelen",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "eleonora",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "scheherazade",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "moskoe",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "valdemar",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "valley",
+      "count": 9,
+      "type": "LOC"
+    },
+    {
+      "label": "sinbad",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "lofoden",
+      "count": 8,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58311.24362181091,
+      "activity": 0.01759084734195561
+    },
+    {
+      "token": 864.7853926963483,
+      "activity": 0.016586799314608207
+    },
+    {
+      "token": 26128.872936468237,
+      "activity": 0.01400925025988245
+    },
+    {
+      "token": 119093.30265132566,
+      "activity": 0.012530961162711386
+    },
+    {
+      "token": 4385.697348674337,
+      "activity": 0.012496496708106342
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 112,
+    "scene_entity_counts": [
+      7,
+      4,
+      4,
+      8,
+      4,
+      2,
+      6,
+      2,
+      11,
+      9,
+      5,
+      2,
+      2,
+      1,
+      2,
+      2,
+      1,
+      7,
+      7,
+      3,
+      7,
+      5,
+      4,
+      6,
+      2,
+      1,
+      7,
+      2,
+      3,
+      4,
+      3,
+      7,
+      2,
+      7,
+      4,
+      8,
+      10,
+      2,
+      8,
+      3
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0128,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.4137,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.4137
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.0818
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.0818
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2056
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3799
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.4033
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.05500837105418025,
+        "read_time_min": 30.5,
+        "driving_words": [
+          "wins",
+          "wonderful",
+          "brilliant",
+          "good",
+          "great",
+          "perfectly"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.07168836336741277,
+        "read_time_min": 93.8,
+        "driving_words": [
+          "wonderfully",
+          "heavenly",
+          "miracle",
+          "magnificent",
+          "great",
+          "amusement"
+        ]
+      },
+      {
+        "position": 0.7878787878787878,
+        "smoothed": 0.16559636753022472,
+        "read_time_min": 294.1,
+        "driving_words": [
+          "supreme",
+          "triumphant",
+          "wonderful",
+          "rejoice",
+          "miracle",
+          "fantastic"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3333333333333333,
+        "smoothed": -0.1310690581820179,
+        "read_time_min": 135.9,
+        "driving_words": [
+          "tortured",
+          "hell",
+          "damned",
+          "torture",
+          "dead",
+          "madness"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": -0.15369133052203512,
+        "read_time_min": 244.9,
+        "driving_words": [
+          "torture",
+          "hell",
+          "damned",
+          "terrible",
+          "deadly",
+          "mad"
+        ]
+      },
+      {
+        "position": 0.9393939393939394,
+        "smoothed": -0.10794944510377351,
+        "read_time_min": 346.8,
+        "driving_words": [
+          "damned",
+          "hell",
+          "defect",
+          "harassed",
+          "disgusting",
+          "hated"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Works_of_Edgar_Allan_Poe_Volume_2_Edgar_Allan_Poe/sentiment_arc.png"
+  }
+}

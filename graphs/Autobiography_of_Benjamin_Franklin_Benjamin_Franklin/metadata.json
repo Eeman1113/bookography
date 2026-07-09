@@ -1,0 +1,244 @@
+{
+  "slug": "Autobiography_of_Benjamin_Franklin_Benjamin_Franklin",
+  "title": "Autobiography of Benjamin Franklin Benjamin Franklin",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 98313,
+  "n_unique_entities": 156,
+  "n_entity_mentions": 1348,
+  "sigma": 245.7825,
+  "target_scenes": 32,
+  "detected_scene_boundaries": [
+    2946.8977554179564,
+    4879.557843137255,
+    7808.760416666666,
+    11183.431985294119,
+    13773.82037815126,
+    16681.223668280873,
+    21580.31049094097,
+    25667.024847870183,
+    28143.611287758344,
+    30474.3566249176,
+    33712.066604127576,
+    37090.212158808936,
+    39027.55677419355,
+    40783.23777777777,
+    43221.11111111111,
+    45354.90476190476,
+    48085.553571428565,
+    51446.675691244236,
+    54509.64809384164,
+    56889.3354978355,
+    58244.250517598346,
+    59611.353436185134,
+    61439.93699596774,
+    63132.453125,
+    64985.96666666667,
+    67712.18988095238,
+    69834.17321428572,
+    71692.23125,
+    73959.24553571429,
+    76180.39906832298,
+    79238.57203751066,
+    82407.4705882353,
+    85690.72522522524,
+    88938.43633633634,
+    91752.93250414594,
+    94613.510010921,
+    96613.26901004303
+  ],
+  "n_scenes": 38,
+  "top_entities": [
+    {
+      "label": "franklin",
+      "count": 93,
+      "type": "ORG"
+    },
+    {
+      "label": "philadelphia",
+      "count": 71,
+      "type": "GPE"
+    },
+    {
+      "label": "england",
+      "count": 50,
+      "type": "GPE"
+    },
+    {
+      "label": "assembly",
+      "count": 49,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "boston",
+      "count": 41,
+      "type": "GPE"
+    },
+    {
+      "label": "keimer",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "pennsylvania",
+      "count": 31,
+      "type": "GPE"
+    },
+    {
+      "label": "thro",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "america",
+      "count": 29,
+      "type": "GPE"
+    },
+    {
+      "label": "house",
+      "count": 27,
+      "type": "ORG"
+    },
+    {
+      "label": "french",
+      "count": 22,
+      "type": "NORP"
+    },
+    {
+      "label": "ralph",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "france",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "richard",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "bradford",
+      "count": 16,
+      "type": "GPE"
+    },
+    {
+      "label": "indians",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "paris",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "new england",
+      "count": 13,
+      "type": "LOC"
+    },
+    {
+      "label": "braddock",
+      "count": 12,
+      "type": "ORG"
+    },
+    {
+      "label": "junto",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "time",
+      "count": 12,
+      "type": "ORG"
+    },
+    {
+      "label": "us'd",
+      "count": 11,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 3836.0860430215107,
+      "activity": 0.04728288680042213
+    },
+    {
+      "token": 93541.48274137068,
+      "activity": 0.043411543389963524
+    },
+    {
+      "token": 1721.320660330165,
+      "activity": 0.042949928736360075
+    },
+    {
+      "token": 3000.016008004002,
+      "activity": 0.04122341172398646
+    },
+    {
+      "token": 18442.72136068034,
+      "activity": 0.03278714474812957
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 38,
+    "edges": 496,
+    "scene_entity_counts": [
+      27,
+      23,
+      16,
+      13,
+      15,
+      16,
+      29,
+      26,
+      9,
+      19,
+      23,
+      16,
+      14,
+      12,
+      6,
+      4,
+      9,
+      14,
+      21,
+      12,
+      5,
+      12,
+      13,
+      18,
+      8,
+      9,
+      25,
+      21,
+      11,
+      24,
+      13,
+      27,
+      23,
+      21,
+      22,
+      34,
+      24,
+      18
+    ]
+  }
+}

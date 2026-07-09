@@ -1,0 +1,241 @@
+{
+  "slug": "Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass",
+  "title_display": "Narrative of the Life of Frederick Douglass an American Slave Frederick Douglass",
+  "language": "en",
+  "length_tokens": 51129,
+  "length_words": 41320,
+  "unique_entities": 60,
+  "entity_mentions": 493,
+  "scene_count": 3,
+  "top_entities": [
+    {
+      "label": "covey",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "baltimore",
+      "count": 42,
+      "type": "GPE"
+    },
+    {
+      "label": "lloyd’s",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "new bedford",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "henry",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "maryland",
+      "count": 15,
+      "type": "GPE"
+    },
+    {
+      "label": "lloyd",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "thomas",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "gore",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "freeland",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "master hugh",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "gardner",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "christianity",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "easton",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "hamilton",
+      "count": 9,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 38493.06653326663,
+      "activity": 0.034574829920773986
+    },
+    {
+      "token": 46114.94947473737,
+      "activity": 0.03386992250753485
+    },
+    {
+      "token": 31561.75687843922,
+      "activity": 0.03217230696653508
+    },
+    {
+      "token": 46498.60130065033,
+      "activity": 0.02928130475165695
+    },
+    {
+      "token": 21305.464732366185,
+      "activity": 0.02882626569370738
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 3,
+    "edges": 47,
+    "scene_entity_counts": [
+      40,
+      25,
+      42
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0065,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.9139,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.9139
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.8107
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.5906
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.021
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.56
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.9139
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.06459501716192526,
+        "read_time_min": 108.6,
+        "driving_words": [
+          "triumph",
+          "wonderful",
+          "heavenly",
+          "devoted",
+          "pleased",
+          "joy"
+        ]
+      },
+      {
+        "position": 0.9090909090909091,
+        "smoothed": -0.021742437140184458,
+        "read_time_min": 133.9,
+        "driving_words": [
+          "heavenly",
+          "pleasure",
+          "great",
+          "sweetest",
+          "loved",
+          "popular"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.027582103342981945,
+        "read_time_min": 141.5,
+        "driving_words": [
+          "heavenly",
+          "succeeded",
+          "joy",
+          "great",
+          "excitement",
+          "won"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": -0.23652069368756615,
+        "read_time_min": 26.3,
+        "driving_words": [
+          "hell",
+          "torture",
+          "slavery",
+          "lost",
+          "slave",
+          "slaves"
+        ]
+      },
+      {
+        "position": 0.16161616161616163,
+        "smoothed": -0.1561483179669444,
+        "read_time_min": 40.2,
+        "driving_words": [
+          "nigger",
+          "hell",
+          "torture",
+          "slave",
+          "died",
+          "slaves"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": -0.15572166104911592,
+        "read_time_min": 59.2,
+        "driving_words": [
+          "nigger",
+          "torture",
+          "slaves",
+          "slave",
+          "bad",
+          "cruel"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Narrative_of_the_Life_of_Frederick_Douglass_an_American_Slave_Frederick_Douglass/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "slug": "The_Adventures_of_Sherlock_Holmes_Arthur_Conan_Doyle",
+  "title": "The Adventures of Sherlock Holmes Arthur Conan Doyle",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 136993,
+  "n_unique_entities": 138,
+  "n_entity_mentions": 1572,
+  "sigma": 342.4825,
+  "target_scenes": 45,
+  "detected_scene_boundaries": [
+    2106.796296296296,
+    4542.895833333333,
+    7117.6625,
+    9476.1,
+    11596.89534883721,
+    13865.53534883721,
+    16561.515,
+    19149.193181818184,
+    21465.52507836991,
+    24244.23750879662,
+    28471.669501133787,
+    32300.878019323674,
+    35800.653764581126,
+    38848.79761286975,
+    41154.443954333154,
+    43269.797086720864,
+    44954.01944444444,
+    47536.25833333333,
+    50570.08790322581,
+    52823.91647465438,
+    55637.97023809524,
+    59132.851851851854,
+    62432.985185185185,
+    65603.60769230769,
+    68787.55769230769,
+    71352.63461538462,
+    73401.69711538462,
+    75910.73185483871,
+    77922.31679073615,
+    81151.19431089744,
+    85149.90557065218,
+    87272.40869565218,
+    88599.42000000001,
+    90931.68666666668,
+    93520.2725490196,
+    95236.45588235295,
+    97937.15384615384,
+    101145.17657342658,
+    104415.19133192388,
+    107659.17441860464,
+    111970.6308139535,
+    116210.035,
+    118170.46769230769,
+    120198.75213675214,
+    123254.49206349207,
+    125724.77261904761,
+    127525.05833333333,
+    129695.96666666667,
+    133395.65220125788
+  ],
+  "n_scenes": 50,
+  "top_entities": [
+    {
+      "label": "holmes",
+      "count": 434,
+      "type": "PERSON"
+    },
+    {
+      "label": "watson",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "lestrade",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "rucastle",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "mccarthy",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "baker street",
+      "count": 27,
+      "type": "FAC"
+    },
+    {
+      "label": "england",
+      "count": 20,
+      "type": "GPE"
+    },
+    {
+      "label": "arthur",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "sherlock holmes",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "hunter",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "turner",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "frank",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "majesty",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "geese",
+      "count": 16,
+      "type": "NORP"
+    },
+    {
+      "label": "german",
+      "count": 15,
+      "type": "NORP"
+    },
+    {
+      "label": "i.",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "stoner",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "holder",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "neville st. clair",
+      "count": 14,
+      "type": "ORG"
+    },
+    {
+      "label": "irene adler",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilson",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "hosmer angel",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "windibank",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "merryweather",
+      "count": 12,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 39953.144572286146,
+      "activity": 0.02866218710421227
+    },
+    {
+      "token": 33785.42071035518,
+      "activity": 0.027470531312993304
+    },
+    {
+      "token": 136512.28814407205,
+      "activity": 0.025998683328134313
+    },
+    {
+      "token": 10279.539769884943,
+      "activity": 0.024581919036191342
+    },
+    {
+      "token": 26247.091545772888,
+      "activity": 0.023848262869043586
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 50,
+    "edges": 416,
+    "scene_entity_counts": [
+      9,
+      11,
+      11,
+      6,
+      12,
+      12,
+      10,
+      11,
+      10,
+      11,
+      17,
+      15,
+      21,
+      12,
+      10,
+      12,
+      8,
+      16,
+      10,
+      13,
+      15,
+      14,
+      14,
+      12,
+      14,
+      13,
+      7,
+      11,
+      12,
+      16,
+      11,
+      6,
+      2,
+      12,
+      10,
+      7,
+      4,
+      10,
+      16,
+      16,
+      13,
+      9,
+      7,
+      7,
+      8,
+      16,
+      10,
+      7,
+      7,
+      11
+    ]
+  }
+}

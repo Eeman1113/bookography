@@ -1,0 +1,252 @@
+{
+  "slug": "Dr_Mabuse_der_Spieler_Norbert_Jacques",
+  "title_display": "Dr Mabuse der Spieler Norbert Jacques",
+  "language": "de",
+  "length_tokens": 98462,
+  "length_words": 73883,
+  "unique_entities": 151,
+  "entity_mentions": 1558,
+  "scene_count": 24,
+  "top_entities": [
+    {
+      "label": "wenk",
+      "count": 363,
+      "type": "LOC"
+    },
+    {
+      "label": "hull",
+      "count": 56,
+      "type": "PER"
+    },
+    {
+      "label": "mabuse",
+      "count": 52,
+      "type": "MISC"
+    },
+    {
+      "label": "spoerri",
+      "count": 42,
+      "type": "PER"
+    },
+    {
+      "label": "münchen",
+      "count": 41,
+      "type": "LOC"
+    },
+    {
+      "label": "told",
+      "count": 38,
+      "type": "PER"
+    },
+    {
+      "label": "georg",
+      "count": 34,
+      "type": "PER"
+    },
+    {
+      "label": "carozza",
+      "count": 24,
+      "type": "LOC"
+    },
+    {
+      "label": "weltmann",
+      "count": 23,
+      "type": "PER"
+    },
+    {
+      "label": "augenblick",
+      "count": 20,
+      "type": "MISC"
+    },
+    {
+      "label": "schweiz",
+      "count": 20,
+      "type": "LOC"
+    },
+    {
+      "label": "basch",
+      "count": 20,
+      "type": "MISC"
+    },
+    {
+      "label": "konstanz",
+      "count": 20,
+      "type": "LOC"
+    },
+    {
+      "label": "mabuses",
+      "count": 19,
+      "type": "PER"
+    },
+    {
+      "label": "zeit",
+      "count": 17,
+      "type": "MISC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 41817.60330165082,
+      "activity": 0.04081599389822974
+    },
+    {
+      "token": 85162.11555777889,
+      "activity": 0.03545424374926817
+    },
+    {
+      "token": 70976.63881940971,
+      "activity": 0.031068665703610724
+    },
+    {
+      "token": 63292.838919459726,
+      "activity": 0.030512167981391183
+    },
+    {
+      "token": 8570.39219609805,
+      "activity": 0.03041296760178097
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 494,
+    "scene_entity_counts": [
+      20,
+      22,
+      17,
+      18,
+      37,
+      45,
+      31,
+      28,
+      39,
+      30,
+      27,
+      15,
+      16,
+      18,
+      34,
+      33,
+      18,
+      26,
+      38,
+      26,
+      29,
+      26,
+      25,
+      27
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0052,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6154,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6154
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.5043
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0004
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0351
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.343
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6154
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.29292929292929293,
+        "smoothed": -0.39874021750261707,
+        "read_time_min": 94.9,
+        "driving_words": [
+          "genial",
+          "elegant",
+          "talent",
+          "kinder",
+          "vision"
+        ]
+      },
+      {
+        "position": 0.40404040404040403,
+        "smoothed": -0.39706759615540166,
+        "read_time_min": 123.2,
+        "driving_words": [
+          "ha",
+          "kinder"
+        ]
+      },
+      {
+        "position": 0.696969696969697,
+        "smoothed": -0.3948912011908306,
+        "read_time_min": 198.1,
+        "driving_words": [
+          "gift",
+          "kinder",
+          "warm"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.10101010101010101,
+        "smoothed": -0.4411616160408707,
+        "read_time_min": 45.8,
+        "driving_words": [
+          "die",
+          "bad",
+          "war",
+          "lied",
+          "fallen",
+          "lag"
+        ]
+      },
+      {
+        "position": 0.8585858585858586,
+        "smoothed": -0.5346770009611727,
+        "read_time_min": 239.4,
+        "driving_words": [
+          "die",
+          "war",
+          "alarm",
+          "lag"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.4962827306393408,
+        "read_time_min": 265.2,
+        "driving_words": [
+          "die",
+          "war",
+          "fallen",
+          "stricken",
+          "lag",
+          "block"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Dr_Mabuse_der_Spieler_Norbert_Jacques/sentiment_arc.png"
+  }
+}

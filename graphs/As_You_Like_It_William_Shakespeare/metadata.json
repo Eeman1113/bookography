@@ -1,0 +1,180 @@
+{
+  "slug": "As_You_Like_It_William_Shakespeare",
+  "title": "As You Like It William Shakespeare",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 32581,
+  "n_unique_entities": 44,
+  "n_entity_mentions": 662,
+  "sigma": 81.4525,
+  "target_scenes": 10,
+  "detected_scene_boundaries": [
+    4828.719851258581,
+    9790.44668784029,
+    14859.07879310345,
+    19383.813514851485,
+    24582.92258892556
+  ],
+  "n_scenes": 6,
+  "top_entities": [
+    {
+      "label": "orlando",
+      "count": 167,
+      "type": "ORG"
+    },
+    {
+      "label": "jaques",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "phoebe",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "oliver",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 37,
+      "type": "GPE"
+    },
+    {
+      "label": "audrey",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "adam",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "charles",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "celia",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "silvius",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "william",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "nay",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "le beau",
+      "count": 14,
+      "type": "FAC"
+    },
+    {
+      "label": "exit",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "duke",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "marry",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "aliena",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "rowland",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "shall",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "rosalind",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "hose",
+      "count": 6,
+      "type": "PERSON"
+    },
+    {
+      "label": "the forest of arden",
+      "count": 5,
+      "type": "ORG"
+    },
+    {
+      "label": "amiens",
+      "count": 5,
+      "type": "PERSON"
+    },
+    {
+      "label": "oliver’s",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "oliver martext",
+      "count": 4,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 814.9074537268634,
+      "activity": 0.07428569671686759
+    },
+    {
+      "token": 16705.6028014007,
+      "activity": 0.06680509220268216
+    },
+    {
+      "token": 27087.523761880937,
+      "activity": 0.060926199269785396
+    },
+    {
+      "token": 29907.103551775886,
+      "activity": 0.056094214968018766
+    },
+    {
+      "token": 1613.5167583791895,
+      "activity": 0.056031404221248055
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 86,
+    "scene_entity_counts": [
+      26,
+      25,
+      18,
+      18,
+      19,
+      24
+    ]
+  }
+}

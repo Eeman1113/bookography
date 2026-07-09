@@ -1,0 +1,285 @@
+{
+  "slug": "King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory",
+  "title_display": "King Arthur and the Knights of the Round Table Thomas Malory",
+  "language": "en",
+  "length_tokens": 126786,
+  "length_words": 98862,
+  "unique_entities": 203,
+  "entity_mentions": 3467,
+  "scene_count": 47,
+  "top_entities": [
+    {
+      "label": "lancelot",
+      "count": 389,
+      "type": "PERSON"
+    },
+    {
+      "label": "arthur",
+      "count": 232,
+      "type": "PERSON"
+    },
+    {
+      "label": "king arthur",
+      "count": 203,
+      "type": "GPE"
+    },
+    {
+      "label": "gawain",
+      "count": 186,
+      "type": "PERSON"
+    },
+    {
+      "label": "tristram",
+      "count": 140,
+      "type": "ORG"
+    },
+    {
+      "label": "thou",
+      "count": 124,
+      "type": "GPE"
+    },
+    {
+      "label": "beaumains",
+      "count": 106,
+      "type": "PERSON"
+    },
+    {
+      "label": "merlin",
+      "count": 97,
+      "type": "NORP"
+    },
+    {
+      "label": "galahad",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "bors",
+      "count": 82,
+      "type": "PERSON"
+    },
+    {
+      "label": "balin",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "anon",
+      "count": 68,
+      "type": "LOC"
+    },
+    {
+      "label": "gareth",
+      "count": 67,
+      "type": "PERSON"
+    },
+    {
+      "label": "key",
+      "count": 61,
+      "type": "PERSON"
+    },
+    {
+      "label": "percival",
+      "count": 47,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 116002.88394197098,
+      "activity": 0.05664873205428068
+    },
+    {
+      "token": 1458.7568784392197,
+      "activity": 0.05580647655203068
+    },
+    {
+      "token": 74396.6008004002,
+      "activity": 0.05548614662816765
+    },
+    {
+      "token": 122789.27463731865,
+      "activity": 0.0504561763812993
+    },
+    {
+      "token": 90189.22961480741,
+      "activity": 0.050327934934344495
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 47,
+    "edges": 686,
+    "scene_entity_counts": [
+      41,
+      25,
+      11,
+      16,
+      23,
+      28,
+      15,
+      17,
+      16,
+      22,
+      11,
+      19,
+      13,
+      15,
+      20,
+      10,
+      22,
+      26,
+      16,
+      6,
+      17,
+      15,
+      14,
+      14,
+      14,
+      12,
+      19,
+      42,
+      21,
+      27,
+      29,
+      25,
+      24,
+      26,
+      22,
+      15,
+      4,
+      12,
+      14,
+      11,
+      14,
+      27,
+      22,
+      23,
+      19,
+      19,
+      16
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0064,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.6861,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.6861
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.6508
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5664
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.3088
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5664
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.6425
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.40404040404040403,
+        "smoothed": 0.12419868516623174,
+        "read_time_min": 163.6,
+        "driving_words": [
+          "winning",
+          "triumph",
+          "rejoicing",
+          "wonderful",
+          "overjoyed",
+          "win"
+        ]
+      },
+      {
+        "position": 0.6363636363636364,
+        "smoothed": 0.11085748166332816,
+        "read_time_min": 246.2,
+        "driving_words": [
+          "rejoicing",
+          "win",
+          "rejoiced",
+          "winner",
+          "love",
+          "good"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": 0.10052348626686546,
+        "read_time_min": 346.7,
+        "driving_words": [
+          "rejoiced",
+          "win",
+          "good",
+          "best",
+          "great",
+          "greater"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": 0.0033406417513905918,
+        "read_time_min": 48.7,
+        "driving_words": [
+          "lost",
+          "angry",
+          "deadly",
+          "destroy",
+          "treason",
+          "chastise"
+        ]
+      },
+      {
+        "position": 0.1414141414141414,
+        "smoothed": -0.006647893524768502,
+        "read_time_min": 70.3,
+        "driving_words": [
+          "cock",
+          "bloody",
+          "killing",
+          "anger",
+          "destroyed",
+          "hatred"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": -0.0026003588634433104,
+        "read_time_min": 127.7,
+        "driving_words": [
+          "madly",
+          "die",
+          "dead",
+          "foul",
+          "charged",
+          "mad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/King_Arthur_and_the_Knights_of_the_Round_Table_Thomas_Malory/sentiment_arc.png"
+  }
+}

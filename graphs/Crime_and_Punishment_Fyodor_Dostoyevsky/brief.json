@@ -1,0 +1,302 @@
+{
+  "slug": "Crime_and_Punishment_Fyodor_Dostoyevsky",
+  "title_display": "Crime and Punishment Fyodor Dostoyevsky",
+  "language": "en",
+  "length_tokens": 270860,
+  "length_words": 208782,
+  "unique_entities": 129,
+  "entity_mentions": 4099,
+  "scene_count": 64,
+  "top_entities": [
+    {
+      "label": "raskolnikov",
+      "count": 774,
+      "type": "PERSON"
+    },
+    {
+      "label": "sonia",
+      "count": 344,
+      "type": "PERSON"
+    },
+    {
+      "label": "dounia",
+      "count": 312,
+      "type": "GPE"
+    },
+    {
+      "label": "svidrigaïlov",
+      "count": 194,
+      "type": "PERSON"
+    },
+    {
+      "label": "razumihin",
+      "count": 156,
+      "type": "ORG"
+    },
+    {
+      "label": "katerina ivanovna",
+      "count": 147,
+      "type": "PERSON"
+    },
+    {
+      "label": "pyotr petrovitch",
+      "count": 140,
+      "type": "PERSON"
+    },
+    {
+      "label": "rodya",
+      "count": 125,
+      "type": "NORP"
+    },
+    {
+      "label": "porfiry",
+      "count": 113,
+      "type": "PERSON"
+    },
+    {
+      "label": "pulcheria alexandrovna",
+      "count": 110,
+      "type": "PERSON"
+    },
+    {
+      "label": "avdotya romanovna",
+      "count": 104,
+      "type": "PERSON"
+    },
+    {
+      "label": "luzhin",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "nastasya",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "zossimov",
+      "count": 82,
+      "type": "GPE"
+    },
+    {
+      "label": "porfiry petrovitch",
+      "count": 75,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 147962.9954977489,
+      "activity": 0.03262447370965686
+    },
+    {
+      "token": 265168.1155577789,
+      "activity": 0.03050191035387426
+    },
+    {
+      "token": 99183.9859929965,
+      "activity": 0.030391774006251003
+    },
+    {
+      "token": 120321.5567783892,
+      "activity": 0.028190593403205854
+    },
+    {
+      "token": 190780.12606303152,
+      "activity": 0.0279309528115873
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 64,
+    "edges": 749,
+    "scene_entity_counts": [
+      12,
+      5,
+      6,
+      10,
+      10,
+      9,
+      16,
+      13,
+      12,
+      3,
+      3,
+      6,
+      5,
+      14,
+      10,
+      11,
+      11,
+      22,
+      9,
+      22,
+      14,
+      15,
+      15,
+      8,
+      12,
+      13,
+      16,
+      23,
+      15,
+      23,
+      14,
+      16,
+      15,
+      14,
+      28,
+      14,
+      15,
+      11,
+      12,
+      11,
+      11,
+      13,
+      24,
+      12,
+      19,
+      13,
+      16,
+      13,
+      17,
+      8,
+      15,
+      15,
+      18,
+      16,
+      12,
+      14,
+      15,
+      21,
+      24,
+      18,
+      12,
+      17,
+      15,
+      7
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0157,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.2231,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2231
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0936
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0248
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1026
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1778
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2231
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.06060606060606061,
+        "smoothed": 0.060132766868309824,
+        "read_time_min": 68.2,
+        "driving_words": [
+          "triumph",
+          "fantastic",
+          "won",
+          "amused",
+          "excited",
+          "good"
+        ]
+      },
+      {
+        "position": 0.40404040404040403,
+        "smoothed": 0.017268489760948722,
+        "read_time_min": 341.3,
+        "driving_words": [
+          "rejoiced",
+          "overjoyed",
+          "ecstatic",
+          "won",
+          "devoted",
+          "delighted"
+        ]
+      },
+      {
+        "position": 0.6767676767676768,
+        "smoothed": 0.037662116120700424,
+        "read_time_min": 558.1,
+        "driving_words": [
+          "amazing",
+          "win",
+          "fantastic",
+          "rejoice",
+          "great",
+          "joy"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.31313131313131315,
+        "smoothed": -0.10547930463782987,
+        "read_time_min": 269.0,
+        "driving_words": [
+          "cock",
+          "prick",
+          "torturing",
+          "torture",
+          "hell",
+          "dead"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": -0.17987121552546312,
+        "read_time_min": 630.4,
+        "driving_words": [
+          "torture",
+          "terror",
+          "anguish",
+          "hysterical",
+          "vile",
+          "terrified"
+        ]
+      },
+      {
+        "position": 0.9797979797979798,
+        "smoothed": -0.10181057456967865,
+        "read_time_min": 799.1,
+        "driving_words": [
+          "tortured",
+          "angry",
+          "worry",
+          "anguish",
+          "disgust",
+          "anger"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Crime_and_Punishment_Fyodor_Dostoyevsky/sentiment_arc.png"
+  }
+}

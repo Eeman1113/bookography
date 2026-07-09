@@ -1,0 +1,240 @@
+{
+  "slug": "The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain",
+  "title": "The Adventures of Tom Sawyer Complete Mark Twain",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 96611,
+  "n_unique_entities": 65,
+  "n_entity_mentions": 1720,
+  "sigma": 241.5275,
+  "target_scenes": 32,
+  "detected_scene_boundaries": [
+    1872.4755747126435,
+    4598.744514106583,
+    7208.35885167464,
+    9656.781578947368,
+    12832.349999999999,
+    16405.403125,
+    20514.06359011628,
+    23448.488124690746,
+    25969.438770685578,
+    28315.725396825394,
+    29745.106593406592,
+    31152.120879120877,
+    33158.64133738602,
+    35778.31914893617,
+    38106.8639587363,
+    39804.079004329,
+    42071.80980066445,
+    45561.528372093024,
+    49756.59147058823,
+    53525.18354605993,
+    56367.759735046166,
+    60508.527659574465,
+    64389.55217391304,
+    67724.8950310559,
+    70797.55952380953,
+    73307.48630952381,
+    76561.62202380953,
+    79104.38786482335,
+    81039.40356897734,
+    83870.8591107474,
+    86544.26838413159,
+    88155.43473553975,
+    90038.40283159463,
+    92331.0628458498,
+    94375.19655797101
+  ],
+  "n_scenes": 36,
+  "top_entities": [
+    {
+      "label": "tom",
+      "count": 695,
+      "type": "PERSON"
+    },
+    {
+      "label": "huck",
+      "count": 230,
+      "type": "PERSON"
+    },
+    {
+      "label": "becky",
+      "count": 88,
+      "type": "GPE"
+    },
+    {
+      "label": "joe",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "sid",
+      "count": 58,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom’s",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "injun joe",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "potter",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "thatcher",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom sawyer",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "aunt polly",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "welshman",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "muff potter",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "joe harper",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "jim",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "ben",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "huckleberry",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "becky thatcher",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "harper",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "jones",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "robin hood",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "injun joe’s",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "spaniard",
+      "count": 10,
+      "type": "NORP"
+    },
+    {
+      "label": "huckleberry finn",
+      "count": 9,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85445.96298149075,
+      "activity": 0.05002708293518359
+    },
+    {
+      "token": 17978.449224612308,
+      "activity": 0.048002348388036624
+    },
+    {
+      "token": 47700.88544272137,
+      "activity": 0.04554484767388745
+    },
+    {
+      "token": 46927.6188094047,
+      "activity": 0.03961360608565636
+    },
+    {
+      "token": 89505.61280640321,
+      "activity": 0.037018830652149864
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 36,
+    "edges": 317,
+    "scene_entity_counts": [
+      12,
+      6,
+      13,
+      9,
+      8,
+      19,
+      20,
+      13,
+      9,
+      11,
+      4,
+      9,
+      10,
+      12,
+      12,
+      12,
+      5,
+      11,
+      12,
+      16,
+      13,
+      11,
+      16,
+      12,
+      10,
+      6,
+      12,
+      9,
+      4,
+      14,
+      7,
+      9,
+      9,
+      9,
+      12,
+      6
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain",
+  "title_display": "The Adventures of Tom Sawyer Complete Mark Twain",
+  "language": "en",
+  "length_tokens": 96611,
+  "length_words": 74381,
+  "unique_entities": 65,
+  "entity_mentions": 1720,
+  "scene_count": 36,
+  "top_entities": [
+    {
+      "label": "tom",
+      "count": 695,
+      "type": "PERSON"
+    },
+    {
+      "label": "huck",
+      "count": 230,
+      "type": "PERSON"
+    },
+    {
+      "label": "becky",
+      "count": 88,
+      "type": "GPE"
+    },
+    {
+      "label": "joe",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "sid",
+      "count": 58,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom’s",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "mary",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "injun joe",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "potter",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "thatcher",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "tom sawyer",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "aunt polly",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "welshman",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "muff potter",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "joe harper",
+      "count": 15,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85445.96298149075,
+      "activity": 0.05002708293518359
+    },
+    {
+      "token": 17978.449224612308,
+      "activity": 0.048002348388036624
+    },
+    {
+      "token": 47700.88544272137,
+      "activity": 0.04554484767388745
+    },
+    {
+      "token": 46927.6188094047,
+      "activity": 0.03961360608565636
+    },
+    {
+      "token": 89505.61280640321,
+      "activity": 0.037018830652149864
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 36,
+    "edges": 317,
+    "scene_entity_counts": [
+      12,
+      6,
+      13,
+      9,
+      8,
+      19,
+      20,
+      13,
+      9,
+      11,
+      4,
+      9,
+      10,
+      12,
+      12,
+      12,
+      5,
+      11,
+      12,
+      16,
+      13,
+      11,
+      16,
+      12,
+      10,
+      6,
+      12,
+      9,
+      4,
+      14,
+      7,
+      9,
+      9,
+      9,
+      12,
+      6
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0089,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.3382,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3382
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.263
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.263
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.2704
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2745
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3406
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.08985429060571905,
+        "read_time_min": 30.4,
+        "driving_words": [
+          "triumph",
+          "fun",
+          "wow",
+          "winning",
+          "win",
+          "stunning"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.05797487557804175,
+        "read_time_min": 53.8,
+        "driving_words": [
+          "win",
+          "stunning",
+          "wonderful",
+          "wonderfully",
+          "won",
+          "good"
+        ]
+      },
+      {
+        "position": 0.5959595959595959,
+        "smoothed": 0.023992628331985916,
+        "read_time_min": 173.5,
+        "driving_words": [
+          "winning",
+          "triumphant",
+          "funny",
+          "fun",
+          "triumph",
+          "terrific"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.20202020202020202,
+        "smoothed": -0.054965776117479374,
+        "read_time_min": 72.0,
+        "driving_words": [
+          "nigger",
+          "anguish",
+          "died",
+          "dead",
+          "miserable",
+          "loose"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": -0.14575599716383902,
+        "read_time_min": 98.0,
+        "driving_words": [
+          "prick",
+          "torture",
+          "frauds",
+          "hell",
+          "disgust",
+          "hideous"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": -0.08959102795071171,
+        "read_time_min": 259.3,
+        "driving_words": [
+          "nigger",
+          "tortured",
+          "ass",
+          "died",
+          "kill",
+          "killing"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Adventures_of_Tom_Sawyer_Complete_Mark_Twain/sentiment_arc.png"
+  }
+}

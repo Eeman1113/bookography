@@ -1,0 +1,260 @@
+{
+  "slug": "Manon_Lescaut_Prévost",
+  "title_display": "Manon Lescaut Prévost",
+  "language": "en",
+  "length_tokens": 79582,
+  "length_words": 63013,
+  "unique_entities": 38,
+  "entity_mentions": 720,
+  "scene_count": 22,
+  "top_entities": [
+    {
+      "label": "manon",
+      "count": 300,
+      "type": "GPE"
+    },
+    {
+      "label": "paris",
+      "count": 69,
+      "type": "GPE"
+    },
+    {
+      "label": "lescaut",
+      "count": 54,
+      "type": "PERSON"
+    },
+    {
+      "label": "tiberge",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "m. de t----",
+      "count": 29,
+      "type": "ORG"
+    },
+    {
+      "label": "st. lazare",
+      "count": 26,
+      "type": "FAC"
+    },
+    {
+      "label": "america",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "chaillot",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "hospital",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "amiens",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "magdalen",
+      "count": 11,
+      "type": "ORG"
+    },
+    {
+      "label": "st. sulpice",
+      "count": 10,
+      "type": "FAC"
+    },
+    {
+      "label": "providence",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "le chatelet",
+      "count": 7,
+      "type": "ORG"
+    },
+    {
+      "label": "france",
+      "count": 7,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 42716.5647823912,
+      "activity": 0.02656189305451658
+    },
+    {
+      "token": 26354.48824412206,
+      "activity": 0.02327848763479922
+    },
+    {
+      "token": 31330.788894447225,
+      "activity": 0.022185547835015258
+    },
+    {
+      "token": 39014.19709854927,
+      "activity": 0.022090370865365302
+    },
+    {
+      "token": 41681.49424712356,
+      "activity": 0.020613657031672856
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 149,
+    "scene_entity_counts": [
+      13,
+      5,
+      6,
+      8,
+      4,
+      7,
+      11,
+      5,
+      11,
+      8,
+      10,
+      16,
+      9,
+      6,
+      5,
+      8,
+      6,
+      13,
+      10,
+      10,
+      7,
+      9
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0062,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6573,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6573
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.3177
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.0898
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1231
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.4447
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6573
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.04040404040404041,
+        "smoothed": 0.14818567054062395,
+        "read_time_min": 28.6,
+        "driving_words": [
+          "thrilled",
+          "wonderfully",
+          "triumph",
+          "brilliant",
+          "triumphant",
+          "successful"
+        ]
+      },
+      {
+        "position": 0.13131313131313133,
+        "smoothed": 0.12300142528794779,
+        "read_time_min": 47.8,
+        "driving_words": [
+          "thrilled",
+          "triumph",
+          "brilliant",
+          "triumphant",
+          "amazing",
+          "good"
+        ]
+      },
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.1584502152123101,
+        "read_time_min": 125.0,
+        "driving_words": [
+          "brilliant",
+          "overjoyed",
+          "heavenly",
+          "supreme",
+          "rejoiced",
+          "triumph"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.00515147148528389,
+        "read_time_min": 182.8,
+        "driving_words": [
+          "violent",
+          "victims",
+          "despair",
+          "crime",
+          "destruction",
+          "abhor"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": -0.013844760324303937,
+        "read_time_min": 204.2,
+        "driving_words": [
+          "evil",
+          "destruction",
+          "outrage",
+          "anger",
+          "kill",
+          "irritate"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.01723818570272156,
+        "read_time_min": 225.6,
+        "driving_words": [
+          "damned",
+          "violence",
+          "desperate",
+          "catastrophe",
+          "losing",
+          "violent"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Manon_Lescaut_Prévost/sentiment_arc.png"
+  }
+}

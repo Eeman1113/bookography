@@ -1,0 +1,278 @@
+{
+  "slug": "The_Lady_of_the_Lake_Walter_Scott",
+  "title_display": "The Lady of the Lake Walter Scott",
+  "language": "en",
+  "length_tokens": 109034,
+  "length_words": 77891,
+  "unique_entities": 275,
+  "entity_mentions": 2181,
+  "scene_count": 40,
+  "top_entities": [
+    {
+      "label": "scott",
+      "count": 130,
+      "type": "ORG"
+    },
+    {
+      "label": "douglas",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "shakespeare",
+      "count": 71,
+      "type": "PERSON"
+    },
+    {
+      "label": "ellen",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "scotland",
+      "count": 50,
+      "type": "GPE"
+    },
+    {
+      "label": "scottish",
+      "count": 42,
+      "type": "NORP"
+    },
+    {
+      "label": "highland",
+      "count": 40,
+      "type": "LOC"
+    },
+    {
+      "label": "roderick",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 35,
+      "type": "GPE"
+    },
+    {
+      "label": "james",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "allan",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "roderick dhu",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "stirling",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "chieftain",
+      "count": 23,
+      "type": "GPE"
+    },
+    {
+      "label": "fitz-james",
+      "count": 23,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 50671.164082041025,
+      "activity": 0.04727313634689383
+    },
+    {
+      "token": 95069.79439719861,
+      "activity": 0.03962356380813256
+    },
+    {
+      "token": 66107.05152576289,
+      "activity": 0.036600732227922594
+    },
+    {
+      "token": 13199.5927963982,
+      "activity": 0.036580647728658995
+    },
+    {
+      "token": 44725.892946473235,
+      "activity": 0.03563077442241895
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 40,
+    "edges": 1053,
+    "scene_entity_counts": [
+      29,
+      26,
+      22,
+      18,
+      40,
+      27,
+      35,
+      39,
+      49,
+      38,
+      39,
+      34,
+      29,
+      29,
+      33,
+      23,
+      24,
+      28,
+      45,
+      47,
+      33,
+      35,
+      35,
+      38,
+      61,
+      25,
+      25,
+      33,
+      33,
+      29,
+      22,
+      39,
+      18,
+      30,
+      32,
+      43,
+      30,
+      40,
+      29,
+      44
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0071,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.2165,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.2165
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.1862
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.1489
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0295
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.1489
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.1846
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.09961057154007893,
+        "read_time_min": 25.5,
+        "driving_words": [
+          "thrilled",
+          "heavenly",
+          "triumph",
+          "winning",
+          "terrific",
+          "vigor"
+        ]
+      },
+      {
+        "position": 0.48484848484848486,
+        "smoothed": 0.09197562559319439,
+        "read_time_min": 151.7,
+        "driving_words": [
+          "wonderfully",
+          "faithful",
+          "loyal",
+          "paradise",
+          "won",
+          "popularity"
+        ]
+      },
+      {
+        "position": 0.8181818181818182,
+        "smoothed": 0.0800501562345546,
+        "read_time_min": 242.2,
+        "driving_words": [
+          "thrilled",
+          "fantastic",
+          "win",
+          "wins",
+          "wonderful",
+          "best"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.16161616161616163,
+        "smoothed": -0.03393132926241149,
+        "read_time_min": 63.9,
+        "driving_words": [
+          "torturing",
+          "hell",
+          "warning",
+          "despair",
+          "worse",
+          "terror"
+        ]
+      },
+      {
+        "position": 0.32323232323232326,
+        "smoothed": -0.014937248212985428,
+        "read_time_min": 107.8,
+        "driving_words": [
+          "hell",
+          "desperate",
+          "wrathful",
+          "foul",
+          "outrage",
+          "warning"
+        ]
+      },
+      {
+        "position": 0.9595959595959596,
+        "smoothed": -0.011092628760100975,
+        "read_time_min": 280.6,
+        "driving_words": [
+          "prick",
+          "whore",
+          "damned",
+          "loose",
+          "cruel",
+          "miserable"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Lady_of_the_Lake_Walter_Scott/sentiment_arc.png"
+  }
+}

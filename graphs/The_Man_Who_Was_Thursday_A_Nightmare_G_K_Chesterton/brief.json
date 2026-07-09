@@ -1,0 +1,260 @@
+{
+  "slug": "The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton",
+  "title_display": "The Man Who Was Thursday A Nightmare G K Chesterton",
+  "language": "en",
+  "length_tokens": 75674,
+  "length_words": 59004,
+  "unique_entities": 41,
+  "entity_mentions": 1001,
+  "scene_count": 22,
+  "top_entities": [
+    {
+      "label": "syme",
+      "count": 465,
+      "type": "ORG"
+    },
+    {
+      "label": "bull",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "gregory",
+      "count": 82,
+      "type": "ORG"
+    },
+    {
+      "label": "marquis",
+      "count": 62,
+      "type": "PERSON"
+    },
+    {
+      "label": "gogol",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "ratcliffe",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "renard",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "ducroix",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "de worms",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "victoria",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "christians",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "saffron park",
+      "count": 8,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 44063.71785892946,
+      "activity": 0.03423248366455142
+    },
+    {
+      "token": 61931.47973986993,
+      "activity": 0.030713089121915567
+    },
+    {
+      "token": 46637.886943471734,
+      "activity": 0.030095382279437474
+    },
+    {
+      "token": 45540.07953976988,
+      "activity": 0.02798758093194223
+    },
+    {
+      "token": 47357.14007003501,
+      "activity": 0.027053356788537018
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 153,
+    "scene_entity_counts": [
+      8,
+      4,
+      8,
+      10,
+      6,
+      8,
+      5,
+      12,
+      9,
+      13,
+      10,
+      11,
+      9,
+      10,
+      15,
+      10,
+      6,
+      13,
+      9,
+      5,
+      5,
+      8
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0052,
+    "best_shape": "Cinderella",
+    "best_shape_correlation": 0.5325,
+    "shape_matches": [
+      {
+        "shape": "Cinderella",
+        "correlation": 0.5325
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.4813
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3929
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.1489
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.1489
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.5439
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5353535353535354,
+        "smoothed": 0.03697993065337705,
+        "read_time_min": 124.9,
+        "driving_words": [
+          "stunning",
+          "wonderfully",
+          "fantastic",
+          "miracle",
+          "excitement",
+          "amused"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.036557404724991305,
+        "read_time_min": 146.7,
+        "driving_words": [
+          "wonderfully",
+          "fantastic",
+          "miracle",
+          "wonderful",
+          "supreme",
+          "triumph"
+        ]
+      },
+      {
+        "position": 0.7171717171717171,
+        "smoothed": 0.03209546278930898,
+        "read_time_min": 160.6,
+        "driving_words": [
+          "fantastic",
+          "miracle",
+          "wonderful",
+          "supreme",
+          "triumph",
+          "wonderfully"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": -0.04728198914449431,
+        "read_time_min": 35.8,
+        "driving_words": [
+          "damned",
+          "ass",
+          "hell",
+          "deadly",
+          "violently",
+          "awful"
+        ]
+      },
+      {
+        "position": 0.20202020202020202,
+        "smoothed": -0.05748755497368869,
+        "read_time_min": 59.6,
+        "driving_words": [
+          "damned",
+          "hell",
+          "ass",
+          "torture",
+          "destroy",
+          "died"
+        ]
+      },
+      {
+        "position": 0.898989898989899,
+        "smoothed": -0.07995625586542833,
+        "read_time_min": 196.2,
+        "driving_words": [
+          "catastrophic",
+          "jackasses",
+          "hell",
+          "mad",
+          "atrocious",
+          "worse"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton/sentiment_arc.png"
+  }
+}

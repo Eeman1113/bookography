@@ -1,0 +1,296 @@
+{
+  "slug": "Four_Arthurian_Romances_Chrétien_de_Troyes",
+  "title_display": "Four Arthurian Romances Chrétien de Troyes",
+  "language": "en",
+  "length_tokens": 239503,
+  "length_words": 190945,
+  "unique_entities": 154,
+  "entity_mentions": 2279,
+  "scene_count": 58,
+  "top_entities": [
+    {
+      "label": "yvain",
+      "count": 161,
+      "type": "PERSON"
+    },
+    {
+      "label": "lancelot",
+      "count": 153,
+      "type": "PERSON"
+    },
+    {
+      "label": "gawain",
+      "count": 137,
+      "type": "PERSON"
+    },
+    {
+      "label": "cligés",
+      "count": 116,
+      "type": "PERSON"
+    },
+    {
+      "label": "kay",
+      "count": 84,
+      "type": "PERSON"
+    },
+    {
+      "label": "alexander",
+      "count": 83,
+      "type": "PERSON"
+    },
+    {
+      "label": "chrétien",
+      "count": 78,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 78,
+      "type": "GPE"
+    },
+    {
+      "label": "enide",
+      "count": 69,
+      "type": "ORG"
+    },
+    {
+      "label": "king",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "arthur",
+      "count": 66,
+      "type": "PERSON"
+    },
+    {
+      "label": "queen",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "john",
+      "count": 50,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 43,
+      "type": "NORP"
+    },
+    {
+      "label": "erec",
+      "count": 39,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 2276.407203601801,
+      "activity": 0.03750697063584008
+    },
+    {
+      "token": 718.8654327163581,
+      "activity": 0.03667082625984726
+    },
+    {
+      "token": 4552.814407203602,
+      "activity": 0.03498148085353517
+    },
+    {
+      "token": 63739.40170085042,
+      "activity": 0.032370175507445656
+    },
+    {
+      "token": 121009.01450725363,
+      "activity": 0.03175056931922439
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 58,
+    "edges": 661,
+    "scene_entity_counts": [
+      40,
+      27,
+      50,
+      18,
+      19,
+      16,
+      4,
+      2,
+      3,
+      3,
+      12,
+      9,
+      14,
+      10,
+      39,
+      57,
+      15,
+      16,
+      10,
+      6,
+      25,
+      11,
+      12,
+      6,
+      10,
+      18,
+      15,
+      10,
+      11,
+      64,
+      4,
+      7,
+      4,
+      2,
+      6,
+      11,
+      8,
+      5,
+      5,
+      5,
+      11,
+      4,
+      2,
+      11,
+      6,
+      44,
+      10,
+      7,
+      9,
+      6,
+      8,
+      11,
+      5,
+      8,
+      12,
+      16,
+      8,
+      28
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0158,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.6229,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6229
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5637
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3189
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5637
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.6317
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6478
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.050505050505050504,
+        "smoothed": 0.2637285765502114,
+        "read_time_min": 56.6,
+        "driving_words": [
+          "rejoiced",
+          "rejoicing",
+          "win",
+          "rejoice",
+          "winning",
+          "victory"
+        ]
+      },
+      {
+        "position": 0.24242424242424243,
+        "smoothed": 0.2718265479027573,
+        "read_time_min": 195.5,
+        "driving_words": [
+          "rejoice",
+          "rejoicing",
+          "rejoiced",
+          "win",
+          "loved",
+          "pleased"
+        ]
+      },
+      {
+        "position": 0.8383838383838383,
+        "smoothed": 0.1001050372001402,
+        "read_time_min": 626.8,
+        "driving_words": [
+          "win",
+          "overjoyed",
+          "rejoice",
+          "greatest",
+          "pleased",
+          "great"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.494949494949495,
+        "smoothed": -0.022992504069529032,
+        "read_time_min": 378.2,
+        "driving_words": [
+          "torture",
+          "hell",
+          "fraud",
+          "bad",
+          "lost",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.6565656565656566,
+        "smoothed": 0.008769253542972082,
+        "read_time_min": 495.2,
+        "driving_words": [
+          "loss",
+          "lost",
+          "bad",
+          "killed",
+          "dead",
+          "kill"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": -0.012144435796723113,
+        "read_time_min": 692.6,
+        "driving_words": [
+          "shrew",
+          "hates",
+          "worst",
+          "violently",
+          "hated",
+          "hate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Four_Arthurian_Romances_Chrétien_de_Troyes/sentiment_arc.png"
+  }
+}

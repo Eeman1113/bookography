@@ -1,0 +1,196 @@
+{
+  "slug": "Romeo_and_Juliet_William_Shakespeare",
+  "title": "Romeo and Juliet William Shakespeare",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 37715,
+  "n_unique_entities": 48,
+  "n_entity_mentions": 990,
+  "sigma": 94.2875,
+  "target_scenes": 12,
+  "detected_scene_boundaries": [
+    1664.669142614601,
+    3885.501095181203,
+    7425.097358962338,
+    11184.703037974683,
+    13663.386213592234,
+    15728.620531774051,
+    17885.17247910136,
+    20253.00692804283,
+    23298.218377512898,
+    26469.008658008657,
+    28830.213984327907,
+    31240.482691810903,
+    34766.36923658352
+  ],
+  "n_scenes": 14,
+  "top_entities": [
+    {
+      "label": "juliet",
+      "count": 163,
+      "type": "PERSON"
+    },
+    {
+      "label": "nurse",
+      "count": 124,
+      "type": "GPE"
+    },
+    {
+      "label": "mercutio",
+      "count": 81,
+      "type": "PERSON"
+    },
+    {
+      "label": "benvolio",
+      "count": 74,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 69,
+      "type": "GPE"
+    },
+    {
+      "label": "romeo",
+      "count": 64,
+      "type": "ORG"
+    },
+    {
+      "label": "paris",
+      "count": 52,
+      "type": "GPE"
+    },
+    {
+      "label": "montague",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "capulet",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "peter",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "exit",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "prince",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "verona",
+      "count": 13,
+      "type": "GPE"
+    },
+    {
+      "label": "nay",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "mantua",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "madam",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "farewell",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "marry",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "shall",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "doth",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "ho",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "servant",
+      "count": 10,
+      "type": "ORG"
+    },
+    {
+      "label": "rosaline",
+      "count": 9,
+      "type": "ORG"
+    },
+    {
+      "label": "friar lawrence",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "tybalt",
+      "count": 7,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 320.72936468234116,
+      "activity": 0.11581931461818885
+    },
+    {
+      "token": 14810.150075037518,
+      "activity": 0.07468967197376582
+    },
+    {
+      "token": 9282.285142571285,
+      "activity": 0.06523309901416784
+    },
+    {
+      "token": 13715.896948474237,
+      "activity": 0.061239602907264205
+    },
+    {
+      "token": 4886.406203101551,
+      "activity": 0.058123164309106266
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 200,
+    "scene_entity_counts": [
+      25,
+      15,
+      20,
+      21,
+      18,
+      12,
+      19,
+      14,
+      13,
+      19,
+      16,
+      18,
+      21,
+      17
+    ]
+  }
+}

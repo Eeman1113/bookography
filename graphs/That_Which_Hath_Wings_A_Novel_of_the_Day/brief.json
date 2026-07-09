@@ -1,0 +1,299 @@
+{
+  "slug": "That_Which_Hath_Wings_A_Novel_of_the_Day",
+  "title_display": "That Which Hath Wings A Novel of the Day",
+  "language": "en",
+  "length_tokens": 255072,
+  "length_words": 189683,
+  "unique_entities": 398,
+  "entity_mentions": 5112,
+  "scene_count": 61,
+  "top_entities": [
+    {
+      "label": "patrine",
+      "count": 324,
+      "type": "PERSON"
+    },
+    {
+      "label": "saxham",
+      "count": 287,
+      "type": "GPE"
+    },
+    {
+      "label": "sherbrand",
+      "count": 286,
+      "type": "PERSON"
+    },
+    {
+      "label": "franky",
+      "count": 226,
+      "type": "PERSON"
+    },
+    {
+      "label": "von herrnung",
+      "count": 201,
+      "type": "PERSON"
+    },
+    {
+      "label": "german",
+      "count": 192,
+      "type": "NORP"
+    },
+    {
+      "label": "margot",
+      "count": 165,
+      "type": "GPE"
+    },
+    {
+      "label": "bawne",
+      "count": 157,
+      "type": "ORG"
+    },
+    {
+      "label": "british",
+      "count": 92,
+      "type": "NORP"
+    },
+    {
+      "label": "paris",
+      "count": 86,
+      "type": "GPE"
+    },
+    {
+      "label": "french",
+      "count": 80,
+      "type": "NORP"
+    },
+    {
+      "label": "lynette",
+      "count": 58,
+      "type": "ORG"
+    },
+    {
+      "label": "france",
+      "count": 56,
+      "type": "GPE"
+    },
+    {
+      "label": "london",
+      "count": 53,
+      "type": "GPE"
+    },
+    {
+      "label": "bird",
+      "count": 46,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 148653.18409204602,
+      "activity": 0.03706175323136841
+    },
+    {
+      "token": 157074.73786893446,
+      "activity": 0.03692001472205301
+    },
+    {
+      "token": 181191.0055027514,
+      "activity": 0.03611187463970905
+    },
+    {
+      "token": 19139.89494747374,
+      "activity": 0.03412792218707679
+    },
+    {
+      "token": 20160.689344672337,
+      "activity": 0.03322973731428481
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 61,
+    "edges": 1764,
+    "scene_entity_counts": [
+      35,
+      21,
+      26,
+      26,
+      46,
+      52,
+      42,
+      39,
+      44,
+      35,
+      24,
+      35,
+      30,
+      25,
+      24,
+      47,
+      36,
+      50,
+      35,
+      34,
+      38,
+      28,
+      35,
+      26,
+      17,
+      16,
+      17,
+      28,
+      39,
+      21,
+      33,
+      46,
+      33,
+      55,
+      65,
+      32,
+      13,
+      49,
+      39,
+      55,
+      38,
+      46,
+      49,
+      73,
+      56,
+      23,
+      31,
+      50,
+      23,
+      24,
+      37,
+      38,
+      37,
+      21,
+      20,
+      28,
+      28,
+      41,
+      37,
+      42,
+      29
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.008,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8454,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8454
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.6359
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0969
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.6599
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.8088
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8454
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.1397857209691032,
+        "read_time_min": 41.8,
+        "driving_words": [
+          "terrific",
+          "brilliant",
+          "wonderfully",
+          "wonderful",
+          "successfully",
+          "good"
+        ]
+      },
+      {
+        "position": 0.15151515151515152,
+        "smoothed": 0.12204305905382107,
+        "read_time_min": 128.9,
+        "driving_words": [
+          "superb",
+          "wonderful",
+          "triumph",
+          "brilliant",
+          "wonderfully",
+          "winning"
+        ]
+      },
+      {
+        "position": 0.29292929292929293,
+        "smoothed": 0.1048011421557359,
+        "read_time_min": 230.5,
+        "driving_words": [
+          "superb",
+          "wonderful",
+          "funny",
+          "handsome",
+          "pleasant",
+          "pleasure"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7777777777777778,
+        "smoothed": -0.03972486073441847,
+        "read_time_min": 579.0,
+        "driving_words": [
+          "damned",
+          "torture",
+          "hell",
+          "tortured",
+          "dreadful",
+          "violence"
+        ]
+      },
+      {
+        "position": 0.8888888888888888,
+        "smoothed": -0.028591533476214695,
+        "read_time_min": 658.9,
+        "driving_words": [
+          "prick",
+          "tortured",
+          "loose",
+          "whitewash",
+          "jerk",
+          "terror"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": -0.049823298255183265,
+        "read_time_min": 717.0,
+        "driving_words": [
+          "tortured",
+          "torture",
+          "die",
+          "madness",
+          "ungrateful",
+          "desperate"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Which_Hath_Wings_A_Novel_of_the_Day/sentiment_arc.png"
+  }
+}

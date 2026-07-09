@@ -1,0 +1,275 @@
+{
+  "slug": "The_Enchanted_April_Elizabeth_Von_Arnim",
+  "title_display": "The Enchanted April Elizabeth Von Arnim",
+  "language": "en",
+  "length_tokens": 102335,
+  "length_words": 80189,
+  "unique_entities": 60,
+  "entity_mentions": 2497,
+  "scene_count": 37,
+  "top_entities": [
+    {
+      "label": "wilkins",
+      "count": 467,
+      "type": "PERSON"
+    },
+    {
+      "label": "fisher",
+      "count": 400,
+      "type": "PERSON"
+    },
+    {
+      "label": "arbuthnot",
+      "count": 218,
+      "type": "PERSON"
+    },
+    {
+      "label": "caroline",
+      "count": 173,
+      "type": "PERSON"
+    },
+    {
+      "label": "scrap",
+      "count": 144,
+      "type": "PERSON"
+    },
+    {
+      "label": "briggs",
+      "count": 139,
+      "type": "PERSON"
+    },
+    {
+      "label": "rose",
+      "count": 115,
+      "type": "PERSON"
+    },
+    {
+      "label": "lotty",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "mellersh",
+      "count": 88,
+      "type": "PERSON"
+    },
+    {
+      "label": "san salvatore",
+      "count": 81,
+      "type": "GPE"
+    },
+    {
+      "label": "frederick",
+      "count": 80,
+      "type": "PERSON"
+    },
+    {
+      "label": "francesca",
+      "count": 49,
+      "type": "ORG"
+    },
+    {
+      "label": "italy",
+      "count": 36,
+      "type": "GPE"
+    },
+    {
+      "label": "domenico",
+      "count": 34,
+      "type": "GPE"
+    },
+    {
+      "label": "italian",
+      "count": 29,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 85594.02101050525,
+      "activity": 0.05024165358030534
+    },
+    {
+      "token": 54980.84842421211,
+      "activity": 0.046399666278047966
+    },
+    {
+      "token": 84672.55427713857,
+      "activity": 0.0456620539773647
+    },
+    {
+      "token": 52165.25562781391,
+      "activity": 0.044040800040371884
+    },
+    {
+      "token": 100542.25912956479,
+      "activity": 0.04380308781625281
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 37,
+    "edges": 423,
+    "scene_entity_counts": [
+      12,
+      7,
+      4,
+      6,
+      12,
+      18,
+      16,
+      9,
+      14,
+      16,
+      17,
+      15,
+      14,
+      15,
+      17,
+      11,
+      14,
+      15,
+      12,
+      9,
+      14,
+      20,
+      13,
+      10,
+      9,
+      14,
+      17,
+      14,
+      15,
+      12,
+      15,
+      14,
+      9,
+      14,
+      6,
+      17,
+      17
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0091,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.5501,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5501
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.3329
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.076
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.0471
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3079
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5501
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.2222222222222222,
+        "smoothed": 0.23382833846037865,
+        "read_time_min": 82.4,
+        "driving_words": [
+          "wonderful",
+          "rejoicing",
+          "funny",
+          "heavenly",
+          "brilliant",
+          "exuberant"
+        ]
+      },
+      {
+        "position": 0.8787878787878788,
+        "smoothed": 0.23251867318382174,
+        "read_time_min": 266.7,
+        "driving_words": [
+          "thrilled",
+          "rejoiced",
+          "wonderful",
+          "funny",
+          "love",
+          "best"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.22265195091890064,
+        "read_time_min": 292.2,
+        "driving_words": [
+          "thrilled",
+          "wonderful",
+          "funny",
+          "fun",
+          "fantastic",
+          "miracle"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.0707070707070707,
+        "smoothed": 0.06873391959357496,
+        "read_time_min": 39.9,
+        "driving_words": [
+          "miserable",
+          "guilt",
+          "guilty",
+          "corrupt",
+          "irritated",
+          "corruption"
+        ]
+      },
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.07198472934803037,
+        "read_time_min": 124.9,
+        "driving_words": [
+          "damned",
+          "worse",
+          "hate",
+          "killing",
+          "ridiculous",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.5656565656565656,
+        "smoothed": 0.09555113146136099,
+        "read_time_min": 178.8,
+        "driving_words": [
+          "bad",
+          "dreadful",
+          "die",
+          "miserable",
+          "hate",
+          "losing"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Enchanted_April_Elizabeth_Von_Arnim/sentiment_arc.png"
+  }
+}

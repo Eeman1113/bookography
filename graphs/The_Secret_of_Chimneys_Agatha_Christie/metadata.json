@@ -1,0 +1,224 @@
+{
+  "slug": "The_Secret_of_Chimneys_Agatha_Christie",
+  "title": "The Secret of Chimneys Agatha Christie",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 105855,
+  "n_unique_entities": 136,
+  "n_entity_mentions": 3241,
+  "sigma": 264.6375,
+  "target_scenes": 35,
+  "detected_scene_boundaries": [
+    3293.9529136750707,
+    5821.402097122034,
+    9816.663046574562,
+    14857.290777667,
+    19684.833150548355,
+    23396.266697432453,
+    27964.199559955996,
+    34316.770370370374,
+    38495.95955687831,
+    42390.53956702544,
+    47300.55818832531,
+    51470.02958558558,
+    54559.43593548387,
+    56687.92704998769,
+    60338.57905389776,
+    65174.395939393944,
+    69366.86474509805,
+    73100.87167366946,
+    75939.42559523809,
+    79699.40773809524,
+    83892.65122767858,
+    88214.98158482142,
+    92569.83638583639,
+    95164.45695726496,
+    98151.67026086958,
+    101108.81896883417,
+    103147.75588653603
+  ],
+  "n_scenes": 28,
+  "top_entities": [
+    {
+      "label": "anthony",
+      "count": 570,
+      "type": "PERSON"
+    },
+    {
+      "label": "virginia",
+      "count": 314,
+      "type": "GPE"
+    },
+    {
+      "label": "caterham",
+      "count": 214,
+      "type": "PERSON"
+    },
+    {
+      "label": "battle",
+      "count": 160,
+      "type": "ORG"
+    },
+    {
+      "label": "bill",
+      "count": 118,
+      "type": "PERSON"
+    },
+    {
+      "label": "bundle",
+      "count": 100,
+      "type": "GPE"
+    },
+    {
+      "label": "george",
+      "count": 95,
+      "type": "PERSON"
+    },
+    {
+      "label": "cade",
+      "count": 86,
+      "type": "PERSON"
+    },
+    {
+      "label": "superintendent battle",
+      "count": 73,
+      "type": "PERSON"
+    },
+    {
+      "label": "lomax",
+      "count": 56,
+      "type": "ORG"
+    },
+    {
+      "label": "fish",
+      "count": 51,
+      "type": "PERSON"
+    },
+    {
+      "label": "king victor",
+      "count": 44,
+      "type": "ORG"
+    },
+    {
+      "label": "revel",
+      "count": 44,
+      "type": "PERSON"
+    },
+    {
+      "label": "lemoine",
+      "count": 40,
+      "type": "ORG"
+    },
+    {
+      "label": "london",
+      "count": 39,
+      "type": "GPE"
+    },
+    {
+      "label": "jimmy",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "england",
+      "count": 39,
+      "type": "GPE"
+    },
+    {
+      "label": "michael",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "herzoslovakia",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "george lomax",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "chimneys",
+      "count": 36,
+      "type": "LOC"
+    },
+    {
+      "label": "baron",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "mcgrath",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "giuseppe",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "tredwell",
+      "count": 32,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 53853.68584292146,
+      "activity": 0.050126040950354674
+    },
+    {
+      "token": 36908.57328664332,
+      "activity": 0.04907520242447986
+    },
+    {
+      "token": 44745.68784392196,
+      "activity": 0.046024623837139116
+    },
+    {
+      "token": 90656.35217608804,
+      "activity": 0.045655716236756155
+    },
+    {
+      "token": 58248.8244122061,
+      "activity": 0.04538436480300465
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 716,
+    "scene_entity_counts": [
+      22,
+      24,
+      40,
+      39,
+      24,
+      25,
+      26,
+      30,
+      33,
+      28,
+      50,
+      33,
+      29,
+      20,
+      29,
+      32,
+      45,
+      24,
+      25,
+      35,
+      31,
+      26,
+      36,
+      27,
+      30,
+      37,
+      24,
+      28
+    ]
+  }
+}

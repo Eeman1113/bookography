@@ -1,0 +1,145 @@
+{
+  "slug": "The_strange_case_of_Dr_Jekyll_and_Mr_Hyde_Robert_Louis_Stevenson",
+  "title": "The strange case of Dr Jekyll and Mr Hyde Robert Louis Stevenson",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 33031,
+  "n_unique_entities": 16,
+  "n_entity_mentions": 390,
+  "sigma": 82.5775,
+  "target_scenes": 11,
+  "detected_scene_boundaries": [
+    1994.0148648648646,
+    4665.492315845257,
+    7561.992835595776,
+    11005.052884615385,
+    14935.341346153846,
+    18116.7400530504,
+    20580.37787356322,
+    22773.200757575756,
+    25924.556818181816,
+    29953.397727272728
+  ],
+  "n_scenes": 11,
+  "top_entities": [
+    {
+      "label": "utterson",
+      "count": 127,
+      "type": "PERSON"
+    },
+    {
+      "label": "hyde",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "jekyll",
+      "count": 49,
+      "type": "PERSON"
+    },
+    {
+      "label": "henry jekyll",
+      "count": 26,
+      "type": "GPE"
+    },
+    {
+      "label": "edward hyde",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "poole",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "enfield",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "lanyon",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 11,
+      "type": "GPE"
+    },
+    {
+      "label": "guest",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "jekyll’s",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "soho",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "danvers",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "lanyon’s",
+      "count": 4,
+      "type": "PERSON"
+    },
+    {
+      "label": "satan",
+      "count": 3,
+      "type": "FAC"
+    },
+    {
+      "label": "bradshaw",
+      "count": 3,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 6444.072036018009,
+      "activity": 0.04297812463473067
+    },
+    {
+      "token": 28899.18459229615,
+      "activity": 0.036043292921310394
+    },
+    {
+      "token": 14722.22611305653,
+      "activity": 0.03536858025447335
+    },
+    {
+      "token": 14441.330665332667,
+      "activity": 0.03423723836879434
+    },
+    {
+      "token": 5353.536768384192,
+      "activity": 0.032379521834063174
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 68,
+    "scene_entity_counts": [
+      5,
+      7,
+      10,
+      7,
+      14,
+      5,
+      9,
+      6,
+      6,
+      7,
+      8
+    ]
+  }
+}

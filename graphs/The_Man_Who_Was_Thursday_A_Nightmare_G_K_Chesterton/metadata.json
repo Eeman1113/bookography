@@ -1,0 +1,212 @@
+{
+  "slug": "The_Man_Who_Was_Thursday_A_Nightmare_G_K_Chesterton",
+  "title": "The Man Who Was Thursday A Nightmare G K Chesterton",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 75674,
+  "n_unique_entities": 41,
+  "n_entity_mentions": 1001,
+  "sigma": 189.185,
+  "target_scenes": 25,
+  "detected_scene_boundaries": [
+    4744.418452190598,
+    7477.302764370338,
+    11035.433009371747,
+    14472.182524875621,
+    17558.95138888889,
+    20170.18696581197,
+    22173.502243589744,
+    25318.220192307694,
+    30433.37132867133,
+    35245.99046563193,
+    39038.83666533387,
+    42564.85504154503,
+    45509.466944609885,
+    48767.1581027668,
+    52391.70393120393,
+    56353.64164164164,
+    59888.65034526051,
+    64134.84189618644,
+    68120.19419642858,
+    70405.0582010582,
+    73024.03703703704
+  ],
+  "n_scenes": 22,
+  "top_entities": [
+    {
+      "label": "syme",
+      "count": 465,
+      "type": "ORG"
+    },
+    {
+      "label": "bull",
+      "count": 101,
+      "type": "PERSON"
+    },
+    {
+      "label": "gregory",
+      "count": 82,
+      "type": "ORG"
+    },
+    {
+      "label": "marquis",
+      "count": 62,
+      "type": "PERSON"
+    },
+    {
+      "label": "gogol",
+      "count": 31,
+      "type": "PERSON"
+    },
+    {
+      "label": "ratcliffe",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "renard",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "paris",
+      "count": 14,
+      "type": "GPE"
+    },
+    {
+      "label": "ducroix",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "de worms",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "victoria",
+      "count": 9,
+      "type": "GPE"
+    },
+    {
+      "label": "christians",
+      "count": 9,
+      "type": "NORP"
+    },
+    {
+      "label": "saffron park",
+      "count": 8,
+      "type": "LOC"
+    },
+    {
+      "label": "gabriel syme",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "council",
+      "count": 8,
+      "type": "ORG"
+    },
+    {
+      "label": "leicester square",
+      "count": 8,
+      "type": "FAC"
+    },
+    {
+      "label": "france",
+      "count": 8,
+      "type": "GPE"
+    },
+    {
+      "label": "witherspoon",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "christian",
+      "count": 5,
+      "type": "NORP"
+    },
+    {
+      "label": "europe",
+      "count": 5,
+      "type": "LOC"
+    },
+    {
+      "label": "german",
+      "count": 5,
+      "type": "NORP"
+    },
+    {
+      "label": "british",
+      "count": 5,
+      "type": "NORP"
+    },
+    {
+      "label": "burgundy",
+      "count": 5,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 44063.71785892946,
+      "activity": 0.03423248366455142
+    },
+    {
+      "token": 61931.47973986993,
+      "activity": 0.030713089121915567
+    },
+    {
+      "token": 46637.886943471734,
+      "activity": 0.030095382279437474
+    },
+    {
+      "token": 45540.07953976988,
+      "activity": 0.02798758093194223
+    },
+    {
+      "token": 47357.14007003501,
+      "activity": 0.027053356788537018
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 22,
+    "edges": 153,
+    "scene_entity_counts": [
+      8,
+      4,
+      8,
+      10,
+      6,
+      8,
+      5,
+      12,
+      9,
+      13,
+      10,
+      11,
+      9,
+      10,
+      15,
+      10,
+      6,
+      13,
+      9,
+      5,
+      5,
+      8
+    ]
+  }
+}

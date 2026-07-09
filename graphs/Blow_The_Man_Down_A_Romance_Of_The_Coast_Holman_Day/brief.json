@@ -1,0 +1,303 @@
+{
+  "slug": "Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day",
+  "title_display": "Blow The Man Down A Romance Of The Coast Holman Day",
+  "language": "en",
+  "length_tokens": 188927,
+  "length_words": 142314,
+  "unique_entities": 106,
+  "entity_mentions": 2740,
+  "scene_count": 65,
+  "top_entities": [
+    {
+      "label": "mayo",
+      "count": 891,
+      "type": "PERSON"
+    },
+    {
+      "label": "fogg",
+      "count": 234,
+      "type": "PERSON"
+    },
+    {
+      "label": "marston",
+      "count": 167,
+      "type": "PERSON"
+    },
+    {
+      "label": "bradish",
+      "count": 112,
+      "type": "PERSON"
+    },
+    {
+      "label": "captain candage",
+      "count": 104,
+      "type": "ORG"
+    },
+    {
+      "label": "downs",
+      "count": 76,
+      "type": "PERSON"
+    },
+    {
+      "label": "wass",
+      "count": 69,
+      "type": "PERSON"
+    },
+    {
+      "label": "olenia",
+      "count": 43,
+      "type": "ORG"
+    },
+    {
+      "label": "montana",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "julius marston",
+      "count": 41,
+      "type": "PERSON"
+    },
+    {
+      "label": "speed",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "conomo",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "burkett",
+      "count": 37,
+      "type": "PERSON"
+    },
+    {
+      "label": "rowley",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "maquoit",
+      "count": 31,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 166149.02851425714,
+      "activity": 0.03301616444829124
+    },
+    {
+      "token": 11246.72036018009,
+      "activity": 0.027011053907128355
+    },
+    {
+      "token": 181837.7308654327,
+      "activity": 0.026541375763218144
+    },
+    {
+      "token": 173426.31815907953,
+      "activity": 0.025909498860739393
+    },
+    {
+      "token": 184484.0180090045,
+      "activity": 0.025326964873065124
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 65,
+    "edges": 628,
+    "scene_entity_counts": [
+      15,
+      13,
+      11,
+      18,
+      10,
+      7,
+      18,
+      14,
+      7,
+      8,
+      5,
+      7,
+      7,
+      10,
+      10,
+      10,
+      11,
+      12,
+      16,
+      12,
+      6,
+      9,
+      6,
+      13,
+      14,
+      9,
+      7,
+      12,
+      11,
+      8,
+      8,
+      12,
+      19,
+      14,
+      11,
+      11,
+      14,
+      16,
+      7,
+      5,
+      8,
+      8,
+      12,
+      7,
+      4,
+      6,
+      8,
+      8,
+      9,
+      16,
+      20,
+      16,
+      12,
+      6,
+      12,
+      10,
+      10,
+      17,
+      18,
+      12,
+      12,
+      23,
+      18,
+      6,
+      23
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0104,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.2061,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.2061
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.055
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.023
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.0644
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.2061
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.2067
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.020202020202020204,
+        "smoothed": 0.12233085667723549,
+        "read_time_min": 30.7,
+        "driving_words": [
+          "thrilled",
+          "wonderful",
+          "triumph",
+          "funny",
+          "win",
+          "fun"
+        ]
+      },
+      {
+        "position": 0.37373737373737376,
+        "smoothed": 0.10498554095415434,
+        "read_time_min": 217.8,
+        "driving_words": [
+          "fun",
+          "supreme",
+          "terrific",
+          "amazing",
+          "ecstatic",
+          "delight"
+        ]
+      },
+      {
+        "position": 0.47474747474747475,
+        "smoothed": 0.13010461010100677,
+        "read_time_min": 271.3,
+        "driving_words": [
+          "rejoicing",
+          "supreme",
+          "good",
+          "pleased",
+          "excellent",
+          "won't"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.18181818181818182,
+        "smoothed": -0.06431520504705873,
+        "read_time_min": 116.2,
+        "driving_words": [
+          "hell",
+          "irritating",
+          "anger",
+          "violence",
+          "worry",
+          "awful"
+        ]
+      },
+      {
+        "position": 0.5555555555555556,
+        "smoothed": 0.0007961141130138083,
+        "read_time_min": 314.0,
+        "driving_words": [
+          "nigger",
+          "fraud",
+          "jerk",
+          "panic",
+          "awful",
+          "damage"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": -0.09861170708278852,
+        "read_time_min": 383.5,
+        "driving_words": [
+          "nigger",
+          "anger",
+          "furious",
+          "hysterical",
+          "violence",
+          "angry"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Blow_The_Man_Down_A_Romance_Of_The_Coast_Holman_Day/sentiment_arc.png"
+  }
+}

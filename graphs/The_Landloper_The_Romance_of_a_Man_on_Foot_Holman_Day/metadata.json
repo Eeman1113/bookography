@@ -1,0 +1,264 @@
+{
+  "slug": "The_Landloper_The_Romance_of_a_Man_on_Foot_Holman_Day",
+  "title": "The Landloper The Romance of a Man on Foot Holman Day",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 134399,
+  "n_unique_entities": 98,
+  "n_entity_mentions": 1805,
+  "sigma": 335.9975,
+  "target_scenes": 44,
+  "detected_scene_boundaries": [
+    3530.366125760649,
+    5940.173526140155,
+    8103.936251920122,
+    10385.285714285714,
+    11924.555555555555,
+    14433.972222222223,
+    16952.65909090909,
+    19399.44755244755,
+    22663.26923076923,
+    27189.73076923077,
+    31407.488095238095,
+    33827.030952380956,
+    36555.250174216024,
+    39984.835888501744,
+    42750.841337386024,
+    45851.131133304385,
+    49184.844837935176,
+    51345.740424076605,
+    53592.56395348837,
+    55546.39,
+    56939.535348837206,
+    59185.11274014156,
+    62183.14046822743,
+    64591.83097165992,
+    66156.57894736843,
+    67513.69105263158,
+    70406.17,
+    74590.86875,
+    77867.80446428571,
+    80966.88333333333,
+    84176.46904761904,
+    86816.20892857143,
+    91094.02840909091,
+    95306.65219941348,
+    97257.7789373814,
+    99739.82694938441,
+    102674.04972785749,
+    105769.40860735011,
+    108925.0023923445,
+    110827.28421052631,
+    112614.82826086957,
+    114809.60983981693,
+    117290.21157894738,
+    121122.2368627451,
+    124333.07546739627,
+    126885.46272229822,
+    130470.58333333334
+  ],
+  "n_scenes": 48,
+  "top_entities": [
+    {
+      "label": "farr",
+      "count": 342,
+      "type": "PERSON"
+    },
+    {
+      "label": "dodd",
+      "count": 234,
+      "type": "PERSON"
+    },
+    {
+      "label": "converse",
+      "count": 109,
+      "type": "PERSON"
+    },
+    {
+      "label": "etienne",
+      "count": 88,
+      "type": "GPE"
+    },
+    {
+      "label": "walker farr",
+      "count": 67,
+      "type": "ORG"
+    },
+    {
+      "label": "consolidated",
+      "count": 55,
+      "type": "ORG"
+    },
+    {
+      "label": "kate",
+      "count": 52,
+      "type": "PERSON"
+    },
+    {
+      "label": "kilgour",
+      "count": 42,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "citizen drew",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "breed",
+      "count": 34,
+      "type": "PERSON"
+    },
+    {
+      "label": "richard dodd",
+      "count": 33,
+      "type": "PERSON"
+    },
+    {
+      "label": "archer converse",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "rosemarie",
+      "count": 30,
+      "type": "PERSON"
+    },
+    {
+      "label": "symonds dodd",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "mullaney",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "marion",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "zelie dionne",
+      "count": 24,
+      "type": "PERSON"
+    },
+    {
+      "label": "bristol",
+      "count": 22,
+      "type": "PERSON"
+    },
+    {
+      "label": "briggs",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "davis",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "chick",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "danburg",
+      "count": 15,
+      "type": "ORG"
+    },
+    {
+      "label": "harwood",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "tadousac",
+      "count": 14,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 50558.92746373187,
+      "activity": 0.04159926349359419
+    },
+    {
+      "token": 68308.33816908454,
+      "activity": 0.030456779051768308
+    },
+    {
+      "token": 122968.45522761381,
+      "activity": 0.02599960446725599
+    },
+    {
+      "token": 73283.55177588794,
+      "activity": 0.02581656459580203
+    },
+    {
+      "token": 52172.51025512756,
+      "activity": 0.025587598985123326
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 48,
+    "edges": 481,
+    "scene_entity_counts": [
+      6,
+      9,
+      8,
+      7,
+      3,
+      4,
+      4,
+      4,
+      8,
+      7,
+      15,
+      16,
+      12,
+      11,
+      11,
+      16,
+      14,
+      22,
+      14,
+      5,
+      10,
+      9,
+      12,
+      9,
+      7,
+      7,
+      19,
+      15,
+      11,
+      10,
+      18,
+      11,
+      16,
+      20,
+      10,
+      15,
+      20,
+      20,
+      15,
+      13,
+      9,
+      7,
+      11,
+      19,
+      17,
+      13,
+      17,
+      23
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "slug": "That_Girl_Montana_Marah_Ellis_Ryan",
+  "title_display": "That Girl Montana Marah Ellis Ryan",
+  "language": "en",
+  "length_tokens": 138030,
+  "length_words": 104759,
+  "unique_entities": 77,
+  "entity_mentions": 2320,
+  "scene_count": 51,
+  "top_entities": [
+    {
+      "label": "overton",
+      "count": 300,
+      "type": "ORG"
+    },
+    {
+      "label": "tana",
+      "count": 260,
+      "type": "PERSON"
+    },
+    {
+      "label": "dan",
+      "count": 202,
+      "type": "PERSON"
+    },
+    {
+      "label": "lyster",
+      "count": 187,
+      "type": "PERSON"
+    },
+    {
+      "label": "huzzard",
+      "count": 142,
+      "type": "PERSON"
+    },
+    {
+      "label": "indian",
+      "count": 128,
+      "type": "NORP"
+    },
+    {
+      "label": "max",
+      "count": 118,
+      "type": "PERSON"
+    },
+    {
+      "label": "haydon",
+      "count": 104,
+      "type": "PERSON"
+    },
+    {
+      "label": "harris",
+      "count": 102,
+      "type": "PERSON"
+    },
+    {
+      "label": "akkomi",
+      "count": 69,
+      "type": "ORG"
+    },
+    {
+      "label": "seldon",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "lavina",
+      "count": 49,
+      "type": "GPE"
+    },
+    {
+      "label": "joe",
+      "count": 47,
+      "type": "PERSON"
+    },
+    {
+      "label": "indians",
+      "count": 44,
+      "type": "NORP"
+    },
+    {
+      "label": "kootenai",
+      "count": 43,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 103780.68384192095,
+      "activity": 0.03300341437176866
+    },
+    {
+      "token": 74296.75037518759,
+      "activity": 0.03254588716541024
+    },
+    {
+      "token": 70430.00500250125,
+      "activity": 0.03246453134945442
+    },
+    {
+      "token": 76782.51525762881,
+      "activity": 0.03209958811155043
+    },
+    {
+      "token": 124564.44022011005,
+      "activity": 0.03127416293699687
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 51,
+    "edges": 668,
+    "scene_entity_counts": [
+      19,
+      20,
+      10,
+      15,
+      12,
+      7,
+      11,
+      17,
+      18,
+      10,
+      17,
+      18,
+      13,
+      11,
+      10,
+      14,
+      10,
+      16,
+      13,
+      7,
+      15,
+      12,
+      16,
+      10,
+      9,
+      11,
+      21,
+      16,
+      18,
+      13,
+      17,
+      22,
+      12,
+      18,
+      15,
+      19,
+      15,
+      10,
+      20,
+      13,
+      9,
+      10,
+      15,
+      19,
+      21,
+      15,
+      25,
+      20,
+      22,
+      9,
+      10
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0074,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5939,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5939
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3679
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.0334
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3876
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.5527
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5939
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1414141414141414,
+        "smoothed": 0.1641479572817372,
+        "read_time_min": 73.6,
+        "driving_words": [
+          "funny",
+          "fun",
+          "triumph",
+          "winner",
+          "rejoicing",
+          "wonderful"
+        ]
+      },
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.11956785942793217,
+        "read_time_min": 115.7,
+        "driving_words": [
+          "fun",
+          "win",
+          "winning",
+          "won't",
+          "nice",
+          "good"
+        ]
+      },
+      {
+        "position": 0.6262626262626263,
+        "smoothed": 0.1463391733274298,
+        "read_time_min": 257.4,
+        "driving_words": [
+          "wonderfully",
+          "rejoiced",
+          "pleasant",
+          "impressed",
+          "glad",
+          "joy"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.3838383838383838,
+        "smoothed": 0.04458406248616175,
+        "read_time_min": 165.5,
+        "driving_words": [
+          "dead",
+          "ugly",
+          "killed",
+          "bad",
+          "hate",
+          "horrible"
+        ]
+      },
+      {
+        "position": 0.5151515151515151,
+        "smoothed": 0.06915935929585994,
+        "read_time_min": 215.3,
+        "driving_words": [
+          "cheated",
+          "loose",
+          "dying",
+          "worry",
+          "terror",
+          "desperate"
+        ]
+      },
+      {
+        "position": 0.8383838383838383,
+        "smoothed": -0.09219220377578818,
+        "read_time_min": 337.8,
+        "driving_words": [
+          "hell",
+          "bad",
+          "dead",
+          "ugly",
+          "awful",
+          "killed"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/That_Girl_Montana_Marah_Ellis_Ryan/sentiment_arc.png"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "slug": "Emily_Brontë_A_Mary_F_Robinson",
+  "title_display": "Emily Brontë A Mary F Robinson",
+  "language": "en",
+  "length_tokens": 90011,
+  "length_words": 70142,
+  "unique_entities": 133,
+  "entity_mentions": 1834,
+  "scene_count": 24,
+  "top_entities": [
+    {
+      "label": "charlotte",
+      "count": 224,
+      "type": "GPE"
+    },
+    {
+      "label": "branwell",
+      "count": 175,
+      "type": "ORG"
+    },
+    {
+      "label": "heathcliff",
+      "count": 102,
+      "type": "GPE"
+    },
+    {
+      "label": "anne",
+      "count": 90,
+      "type": "PERSON"
+    },
+    {
+      "label": "haworth",
+      "count": 85,
+      "type": "GPE"
+    },
+    {
+      "label": "bronte",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "catharine",
+      "count": 62,
+      "type": "GPE"
+    },
+    {
+      "label": "emily",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "emily bronte",
+      "count": 43,
+      "type": "PERSON"
+    },
+    {
+      "label": "london",
+      "count": 25,
+      "type": "GPE"
+    },
+    {
+      "label": "gaskell",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "french",
+      "count": 25,
+      "type": "NORP"
+    },
+    {
+      "label": "cathy",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "shirley",
+      "count": 23,
+      "type": "PERSON"
+    },
+    {
+      "label": "wuthering heights",
+      "count": 23,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 360.22011005502753,
+      "activity": 0.05645306568198878
+    },
+    {
+      "token": 74160.31515757879,
+      "activity": 0.04928133060124044
+    },
+    {
+      "token": 32915.11255627814,
+      "activity": 0.04857123139636354
+    },
+    {
+      "token": 88253.92696348175,
+      "activity": 0.04834260186472841
+    },
+    {
+      "token": 27736.94847423712,
+      "activity": 0.045937988904912956
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 24,
+    "edges": 436,
+    "scene_entity_counts": [
+      35,
+      31,
+      30,
+      29,
+      16,
+      22,
+      22,
+      29,
+      15,
+      30,
+      24,
+      17,
+      17,
+      17,
+      18,
+      23,
+      30,
+      23,
+      19,
+      20,
+      33,
+      22,
+      15,
+      32
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0093,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.8492,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.8492
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5364
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.021
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.5642
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.807
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.8492
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.10101010101010101,
+        "smoothed": 0.11815577589073627,
+        "read_time_min": 44.3,
+        "driving_words": [
+          "brilliant",
+          "wonderful",
+          "fun",
+          "fantastic",
+          "happiest",
+          "heroic"
+        ]
+      },
+      {
+        "position": 0.21212121212121213,
+        "smoothed": 0.20023306854786063,
+        "read_time_min": 71.0,
+        "driving_words": [
+          "brilliant",
+          "fun",
+          "fantastic",
+          "win",
+          "masterpiece",
+          "charm"
+        ]
+      },
+      {
+        "position": 0.29292929292929293,
+        "smoothed": 0.16390196688451647,
+        "read_time_min": 90.5,
+        "driving_words": [
+          "win",
+          "fun",
+          "masterpiece",
+          "amazing",
+          "brilliant",
+          "beauty"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.7070707070707071,
+        "smoothed": -0.09430599622584715,
+        "read_time_min": 190.1,
+        "driving_words": [
+          "hell",
+          "fraud",
+          "damned",
+          "disgust",
+          "selfishness",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.8282828282828283,
+        "smoothed": -0.13109813278025917,
+        "read_time_min": 219.3,
+        "driving_words": [
+          "damned",
+          "torturing",
+          "anguish",
+          "angry",
+          "ridiculous",
+          "violent"
+        ]
+      },
+      {
+        "position": 0.9494949494949495,
+        "smoothed": -0.11883222510363282,
+        "read_time_min": 248.4,
+        "driving_words": [
+          "crime",
+          "hatred",
+          "anger",
+          "furious",
+          "losing",
+          "bad"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Emily_Brontë_A_Mary_F_Robinson/sentiment_arc.png"
+  }
+}

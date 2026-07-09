@@ -1,0 +1,252 @@
+{
+  "slug": "The_Sex_Life_of_the_Gods_M_E_Knerr",
+  "title_display": "The Sex Life of the Gods M E Knerr",
+  "language": "en",
+  "length_tokens": 42875,
+  "length_words": 32265,
+  "unique_entities": 47,
+  "entity_mentions": 756,
+  "scene_count": 14,
+  "top_entities": [
+    {
+      "label": "nick",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "beth",
+      "count": 74,
+      "type": "PERSON"
+    },
+    {
+      "label": "danson",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "narvi",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "cartwell",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "terran",
+      "count": 34,
+      "type": "ORG"
+    },
+    {
+      "label": "brice",
+      "count": 33,
+      "type": "ORG"
+    },
+    {
+      "label": "lors",
+      "count": 32,
+      "type": "ORG"
+    },
+    {
+      "label": "nolan",
+      "count": 23,
+      "type": "ORG"
+    },
+    {
+      "label": "dickson",
+      "count": 20,
+      "type": "PERSON"
+    },
+    {
+      "label": "everett",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "zark",
+      "count": 19,
+      "type": "GPE"
+    },
+    {
+      "label": "nick danson",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "andy",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "sam",
+      "count": 16,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 21705.096548274134,
+      "activity": 0.07464476239467101
+    },
+    {
+      "token": 35045.58079039519,
+      "activity": 0.054880235085225916
+    },
+    {
+      "token": 24879.35967983992,
+      "activity": 0.04789427203028623
+    },
+    {
+      "token": 36053.62381190595,
+      "activity": 0.04519216509132913
+    },
+    {
+      "token": 27367.29564782391,
+      "activity": 0.043317157991716614
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 14,
+    "edges": 164,
+    "scene_entity_counts": [
+      24,
+      15,
+      9,
+      19,
+      10,
+      6,
+      18,
+      14,
+      10,
+      20,
+      21,
+      19,
+      15,
+      11
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0022,
+    "best_shape": "Man in a Hole",
+    "best_shape_correlation": 0.5487,
+    "shape_matches": [
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.5487
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.5358
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": 0.4128
+      },
+      {
+        "shape": "Icarus",
+        "correlation": 0.0787
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": -0.3974
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.5358
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.5858585858585859,
+        "smoothed": -0.007222654514521725,
+        "read_time_min": 72.2,
+        "driving_words": [
+          "fantastic",
+          "fun",
+          "funny",
+          "brilliant",
+          "wonderful",
+          "beautiful"
+        ]
+      },
+      {
+        "position": 0.7373737373737373,
+        "smoothed": -0.015287760570567606,
+        "read_time_min": 85.7,
+        "driving_words": [
+          "thrilled",
+          "funny",
+          "fantastic",
+          "fun",
+          "brilliant",
+          "wonderful"
+        ]
+      },
+      {
+        "position": 0.9191919191919192,
+        "smoothed": -0.01345091331528828,
+        "read_time_min": 101.9,
+        "driving_words": [
+          "thrilled",
+          "wonderful",
+          "win",
+          "terrific",
+          "stunning",
+          "brilliant"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.13131313131313133,
+        "smoothed": -0.04286778599440489,
+        "read_time_min": 31.7,
+        "driving_words": [
+          "bastards",
+          "hell",
+          "damned",
+          "whore",
+          "tortured",
+          "hell's"
+        ]
+      },
+      {
+        "position": 0.24242424242424243,
+        "smoothed": -0.040565063365546924,
+        "read_time_min": 41.6,
+        "driving_words": [
+          "bastards",
+          "hell",
+          "damned",
+          "whore",
+          "tortured",
+          "hell's"
+        ]
+      },
+      {
+        "position": 0.5050505050505051,
+        "smoothed": -0.041124383978443174,
+        "read_time_min": 65.0,
+        "driving_words": [
+          "bastard",
+          "damned",
+          "hell",
+          "hell's",
+          "worry",
+          "violently"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_Sex_Life_of_the_Gods_M_E_Knerr/sentiment_arc.png"
+  }
+}

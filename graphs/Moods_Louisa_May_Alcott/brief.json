@@ -1,0 +1,266 @@
+{
+  "slug": "Moods_Louisa_May_Alcott",
+  "title_display": "Moods Louisa May Alcott",
+  "language": "en",
+  "length_tokens": 109807,
+  "length_words": 86749,
+  "unique_entities": 41,
+  "entity_mentions": 1497,
+  "scene_count": 28,
+  "top_entities": [
+    {
+      "label": "sylvia",
+      "count": 521,
+      "type": "PERSON"
+    },
+    {
+      "label": "warwick",
+      "count": 204,
+      "type": "PERSON"
+    },
+    {
+      "label": "mark",
+      "count": 136,
+      "type": "PERSON"
+    },
+    {
+      "label": "adam",
+      "count": 115,
+      "type": "PERSON"
+    },
+    {
+      "label": "prue",
+      "count": 96,
+      "type": "PERSON"
+    },
+    {
+      "label": "geoffrey",
+      "count": 79,
+      "type": "PERSON"
+    },
+    {
+      "label": "faith",
+      "count": 55,
+      "type": "PERSON"
+    },
+    {
+      "label": "moor",
+      "count": 52,
+      "type": "ORG"
+    },
+    {
+      "label": "ottila",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "jessie",
+      "count": 27,
+      "type": "PERSON"
+    },
+    {
+      "label": "yule",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "gabriel",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "nat",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "tilly",
+      "count": 13,
+      "type": "ORG"
+    },
+    {
+      "label": "phebe",
+      "count": 9,
+      "type": "PERSON"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 52678.31615807904,
+      "activity": 0.03222016959239539
+    },
+    {
+      "token": 73771.6148074037,
+      "activity": 0.031435822408606054
+    },
+    {
+      "token": 72563.14457228614,
+      "activity": 0.0301759615864251
+    },
+    {
+      "token": 28838.494247123563,
+      "activity": 0.028091616961057397
+    },
+    {
+      "token": 57182.61430715358,
+      "activity": 0.02786719292188178
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 28,
+    "edges": 219,
+    "scene_entity_counts": [
+      4,
+      10,
+      10,
+      5,
+      5,
+      5,
+      5,
+      17,
+      12,
+      6,
+      8,
+      14,
+      12,
+      10,
+      12,
+      11,
+      7,
+      11,
+      10,
+      8,
+      6,
+      8,
+      5,
+      12,
+      13,
+      10,
+      11,
+      13
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0082,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.5509,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.5509
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.3803
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1109
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.3971
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.5509
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6025
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": 0.2682627264189851,
+        "read_time_min": 44.8,
+        "driving_words": [
+          "triumph",
+          "winning",
+          "supreme",
+          "win",
+          "pleasant",
+          "amused"
+        ]
+      },
+      {
+        "position": 0.26262626262626265,
+        "smoothed": 0.29712717094354985,
+        "read_time_min": 100.6,
+        "driving_words": [
+          "rejoiced",
+          "triumphant",
+          "overjoyed",
+          "fun",
+          "winning",
+          "brilliant"
+        ]
+      },
+      {
+        "position": 0.98989898989899,
+        "smoothed": 0.24562447324624967,
+        "read_time_min": 323.9,
+        "driving_words": [
+          "thrilled",
+          "wonderful",
+          "rejoicing",
+          "supreme",
+          "winning",
+          "best"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.15151515151515152,
+        "smoothed": 0.1834663032270822,
+        "read_time_min": 66.5,
+        "driving_words": [
+          "betrayed",
+          "violently",
+          "hates",
+          "terror",
+          "idiot",
+          "hysterical"
+        ]
+      },
+      {
+        "position": 0.6262626262626263,
+        "smoothed": 0.12318918595789878,
+        "read_time_min": 212.3,
+        "driving_words": [
+          "hell",
+          "selfish",
+          "lost",
+          "despair",
+          "arrested",
+          "tyrannical"
+        ]
+      },
+      {
+        "position": 0.7676767676767676,
+        "smoothed": 0.07247288800506631,
+        "read_time_min": 255.7,
+        "driving_words": [
+          "torture",
+          "terrible",
+          "betrayal",
+          "panic",
+          "despair",
+          "arrested"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Moods_Louisa_May_Alcott/sentiment_arc.png"
+  }
+}

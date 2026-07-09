@@ -1,0 +1,202 @@
+{
+  "slug": "Daintys_Cruel_Rivals_Or_The_Fatal_Birthday_Mrs_Alex_McVeigh_Miller",
+  "title": "Daintys Cruel Rivals Or The Fatal Birthday Mrs Alex McVeigh Miller",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 70743,
+  "n_unique_entities": 43,
+  "n_entity_mentions": 1006,
+  "sigma": 176.8575,
+  "target_scenes": 23,
+  "detected_scene_boundaries": [
+    4026.897301349325,
+    6321.210344827587,
+    8784.66923076923,
+    11597.533936651584,
+    15992.254289215687,
+    20618.80386904762,
+    24420.75064935065,
+    29022.40606060606,
+    34478.90253279059,
+    39095.64712153518,
+    42511.60317460318,
+    45734.13174603175,
+    50602.800996677746,
+    56812.802583979326,
+    61614.548792270536,
+    65446.817006053934
+  ],
+  "n_scenes": 17,
+  "top_entities": [
+    {
+      "label": "ellsworth",
+      "count": 217,
+      "type": "PERSON"
+    },
+    {
+      "label": "dainty",
+      "count": 162,
+      "type": "ORG"
+    },
+    {
+      "label": "ela",
+      "count": 111,
+      "type": "PERSON"
+    },
+    {
+      "label": "chase",
+      "count": 57,
+      "type": "PERSON"
+    },
+    {
+      "label": "olive",
+      "count": 46,
+      "type": "ORG"
+    },
+    {
+      "label": "lovelace ellsworth",
+      "count": 35,
+      "type": "PERSON"
+    },
+    {
+      "label": "richmond",
+      "count": 27,
+      "type": "GPE"
+    },
+    {
+      "label": "franklin",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "ailsa",
+      "count": 25,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheila",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "sheila kelly",
+      "count": 21,
+      "type": "PERSON"
+    },
+    {
+      "label": "platt",
+      "count": 19,
+      "type": "PERSON"
+    },
+    {
+      "label": "dainty chase",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "mammy",
+      "count": 16,
+      "type": "PERSON"
+    },
+    {
+      "label": "peters",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "white",
+      "count": 15,
+      "type": "PERSON"
+    },
+    {
+      "label": "vernon ashley",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "sparks",
+      "count": 13,
+      "type": "PERSON"
+    },
+    {
+      "label": "love ellsworth",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "new york",
+      "count": 10,
+      "type": "GPE"
+    },
+    {
+      "label": "craye",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "aunt judith",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "lovelace",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "ela craye",
+      "count": 7,
+      "type": "PERSON"
+    },
+    {
+      "label": "west virginia",
+      "count": 7,
+      "type": "GPE"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 37653.570785392694,
+      "activity": 0.03589618751610466
+    },
+    {
+      "token": 68052.4592296148,
+      "activity": 0.03559159266903165
+    },
+    {
+      "token": 68406.34617308654,
+      "activity": 0.035276675855316755
+    },
+    {
+      "token": 2795.706853426713,
+      "activity": 0.0331884510745018
+    },
+    {
+      "token": 65646.028014007,
+      "activity": 0.03107872896855387
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 17,
+    "edges": 187,
+    "scene_entity_counts": [
+      14,
+      9,
+      9,
+      8,
+      11,
+      13,
+      15,
+      18,
+      11,
+      16,
+      14,
+      10,
+      13,
+      14,
+      10,
+      14,
+      31
+    ]
+  }
+}

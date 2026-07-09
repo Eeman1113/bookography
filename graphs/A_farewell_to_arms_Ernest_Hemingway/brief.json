@@ -1,0 +1,282 @@
+{
+  "slug": "A_farewell_to_arms_Ernest_Hemingway",
+  "title_display": "A farewell to arms Ernest Hemingway",
+  "language": "en",
+  "length_tokens": 123201,
+  "length_words": 91577,
+  "unique_entities": 106,
+  "entity_mentions": 1473,
+  "scene_count": 44,
+  "top_entities": [
+    {
+      "label": "catherine",
+      "count": 268,
+      "type": "PERSON"
+    },
+    {
+      "label": "rinaldi",
+      "count": 72,
+      "type": "PERSON"
+    },
+    {
+      "label": "tenente",
+      "count": 68,
+      "type": "PERSON"
+    },
+    {
+      "label": "piani",
+      "count": 59,
+      "type": "ORG"
+    },
+    {
+      "label": "italian",
+      "count": 57,
+      "type": "NORP"
+    },
+    {
+      "label": "bonello",
+      "count": 48,
+      "type": "ORG"
+    },
+    {
+      "label": "ferguson",
+      "count": 37,
+      "type": "ORG"
+    },
+    {
+      "label": "american",
+      "count": 35,
+      "type": "NORP"
+    },
+    {
+      "label": "austrians",
+      "count": 34,
+      "type": "NORP"
+    },
+    {
+      "label": "aymo",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "milan",
+      "count": 30,
+      "type": "GPE"
+    },
+    {
+      "label": "italians",
+      "count": 30,
+      "type": "NORP"
+    },
+    {
+      "label": "barkley",
+      "count": 29,
+      "type": "PERSON"
+    },
+    {
+      "label": "germans",
+      "count": 23,
+      "type": "NORP"
+    },
+    {
+      "label": "ettore",
+      "count": 21,
+      "type": "ORG"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 28165.28264132066,
+      "activity": 0.05176706726397296
+    },
+    {
+      "token": 91090.34517258628,
+      "activity": 0.04475077225991214
+    },
+    {
+      "token": 6964.282141070535,
+      "activity": 0.03798377455601635
+    },
+    {
+      "token": 43634.61730865433,
+      "activity": 0.037051817561076276
+    },
+    {
+      "token": 70505.6528264132,
+      "activity": 0.035970370065507434
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 44,
+    "edges": 355,
+    "scene_entity_counts": [
+      7,
+      13,
+      19,
+      14,
+      24,
+      11,
+      12,
+      8,
+      6,
+      22,
+      10,
+      14,
+      9,
+      13,
+      29,
+      25,
+      7,
+      5,
+      3,
+      13,
+      6,
+      8,
+      14,
+      17,
+      10,
+      8,
+      11,
+      15,
+      7,
+      12,
+      13,
+      9,
+      5,
+      5,
+      3,
+      9,
+      9,
+      9,
+      7,
+      8,
+      2,
+      4,
+      3,
+      3
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0099,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.2159,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.2159
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.0752
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.0752
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.1335
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.2039
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.3117
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.010101010101010102,
+        "smoothed": 0.08394338896606651,
+        "read_time_min": 23.3,
+        "driving_words": [
+          "win",
+          "wonderful",
+          "funny",
+          "lovely",
+          "perfectly",
+          "amused"
+        ]
+      },
+      {
+        "position": 0.30303030303030304,
+        "smoothed": 0.19889285443000557,
+        "read_time_min": 118.9,
+        "driving_words": [
+          "funny",
+          "wonderful",
+          "wonderfully",
+          "fun",
+          "terrific",
+          "winner"
+        ]
+      },
+      {
+        "position": 0.9292929292929293,
+        "smoothed": 0.20446072163181062,
+        "read_time_min": 323.2,
+        "driving_words": [
+          "wonderful",
+          "fun",
+          "funny",
+          "won",
+          "nice",
+          "grand"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.08080808080808081,
+        "smoothed": -0.0058752225434425135,
+        "read_time_min": 46.4,
+        "driving_words": [
+          "bitches",
+          "hell",
+          "damned",
+          "angry",
+          "bad",
+          "bloody"
+        ]
+      },
+      {
+        "position": 0.4444444444444444,
+        "smoothed": 0.04750272108847156,
+        "read_time_min": 165.0,
+        "driving_words": [
+          "whore",
+          "hell",
+          "bad",
+          "lost",
+          "killed",
+          "worse"
+        ]
+      },
+      {
+        "position": 0.6868686868686869,
+        "smoothed": -0.0706851034554698,
+        "read_time_min": 244.1,
+        "driving_words": [
+          "hell",
+          "damned",
+          "killed",
+          "kill",
+          "angry",
+          "bloody"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/A_farewell_to_arms_Ernest_Hemingway/sentiment_arc.png"
+  }
+}

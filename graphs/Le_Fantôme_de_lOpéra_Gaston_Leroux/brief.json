@@ -1,0 +1,284 @@
+{
+  "slug": "Le_Fantôme_de_lOpéra_Gaston_Leroux",
+  "title_display": "Le Fantôme de lOpéra Gaston Leroux",
+  "language": "fr",
+  "length_tokens": 138989,
+  "length_words": 102693,
+  "unique_entities": 174,
+  "entity_mentions": 3417,
+  "scene_count": 46,
+  "top_entities": [
+    {
+      "label": "raoul",
+      "count": 391,
+      "type": "PER"
+    },
+    {
+      "label": "christine",
+      "count": 383,
+      "type": "MISC"
+    },
+    {
+      "label": "erik",
+      "count": 251,
+      "type": "PER"
+    },
+    {
+      "label": "persan",
+      "count": 169,
+      "type": "MISC"
+    },
+    {
+      "label": "richard",
+      "count": 150,
+      "type": "ORG"
+    },
+    {
+      "label": "opéra",
+      "count": 137,
+      "type": "LOC"
+    },
+    {
+      "label": "moncharmin",
+      "count": 114,
+      "type": "PER"
+    },
+    {
+      "label": "christine daaé",
+      "count": 112,
+      "type": "PER"
+    },
+    {
+      "label": "carlotta",
+      "count": 60,
+      "type": "LOC"
+    },
+    {
+      "label": "m.",
+      "count": 50,
+      "type": "PER"
+    },
+    {
+      "label": "poligny",
+      "count": 49,
+      "type": "LOC"
+    },
+    {
+      "label": "--je",
+      "count": 37,
+      "type": "LOC"
+    },
+    {
+      "label": "mame giry",
+      "count": 37,
+      "type": "PER"
+    },
+    {
+      "label": "lac",
+      "count": 35,
+      "type": "LOC"
+    },
+    {
+      "label": "sorelli",
+      "count": 34,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 79819.02151075538,
+      "activity": 0.05099086035661807
+    },
+    {
+      "token": 20928.15807903952,
+      "activity": 0.04999704642354873
+    },
+    {
+      "token": 87814.82941470736,
+      "activity": 0.04890653237078075
+    },
+    {
+      "token": 84755.56378189095,
+      "activity": 0.047149451220588154
+    },
+    {
+      "token": 134538.15907953976,
+      "activity": 0.04587878696744094
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 46,
+    "edges": 874,
+    "scene_entity_counts": [
+      31,
+      10,
+      19,
+      24,
+      18,
+      24,
+      31,
+      29,
+      27,
+      19,
+      7,
+      18,
+      35,
+      31,
+      16,
+      26,
+      18,
+      20,
+      28,
+      12,
+      18,
+      16,
+      23,
+      22,
+      33,
+      33,
+      35,
+      26,
+      28,
+      35,
+      26,
+      22,
+      13,
+      19,
+      24,
+      16,
+      21,
+      15,
+      16,
+      18,
+      13,
+      21,
+      16,
+      29,
+      42,
+      25
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0028,
+    "best_shape": "Tragedy",
+    "best_shape_correlation": 0.6827,
+    "shape_matches": [
+      {
+        "shape": "Tragedy",
+        "correlation": 0.6827
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.5344
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.1272
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.553
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.6827
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.6913
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.1111111111111111,
+        "smoothed": -0.026794840416395724,
+        "read_time_min": 61.2,
+        "driving_words": [
+          "grand",
+          "adore",
+          "j'adore",
+          "grand'mère",
+          "compliments",
+          "confidence"
+        ]
+      },
+      {
+        "position": 0.31313131313131315,
+        "smoothed": -0.0424915853439397,
+        "read_time_min": 136.1,
+        "driving_words": [
+          "miracle",
+          "grand",
+          "courage",
+          "brave",
+          "pardon",
+          "fond"
+        ]
+      },
+      {
+        "position": 0.696969696969697,
+        "smoothed": -0.042377680907500236,
+        "read_time_min": 278.4,
+        "driving_words": [
+          "grand",
+          "grand'",
+          "brave",
+          "prudence",
+          "chances",
+          "pardon"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.42424242424242425,
+        "smoothed": -0.07025695794826935,
+        "read_time_min": 177.3,
+        "driving_words": [
+          "dire",
+          "terrible",
+          "horrible",
+          "cruel",
+          "fatal",
+          "catastrophe"
+        ]
+      },
+      {
+        "position": 0.5858585858585859,
+        "smoothed": -0.07405111296442372,
+        "read_time_min": 237.2,
+        "driving_words": [
+          "dire",
+          "terrible",
+          "s'abuse",
+          "catastrophe",
+          "violence",
+          "tout"
+        ]
+      },
+      {
+        "position": 0.8181818181818182,
+        "smoothed": -0.09865394309240831,
+        "read_time_min": 323.4,
+        "driving_words": [
+          "terrible",
+          "dire",
+          "cruel",
+          "fatal",
+          "crimes",
+          "horrible"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Le_Fantôme_de_lOpéra_Gaston_Leroux/sentiment_arc.png"
+  }
+}

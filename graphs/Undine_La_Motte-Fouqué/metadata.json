@@ -1,0 +1,130 @@
+{
+  "slug": "Undine_La_Motte-Fouqué",
+  "title": "Undine La Motte-Fouqué",
+  "language": "en",
+  "status": "ok",
+  "n_tokens": 42038,
+  "n_unique_entities": 13,
+  "n_entity_mentions": 436,
+  "sigma": 105.095,
+  "target_scenes": 14,
+  "detected_scene_boundaries": [
+    3536.134782608696,
+    7359.838008415147,
+    11258.49697580645,
+    15718.54375,
+    18896.476315789474,
+    21963.835839598996,
+    26372.02380952381,
+    32037.23067915691,
+    36263.20994182972,
+    38738.565888812635
+  ],
+  "n_scenes": 11,
+  "top_entities": [
+    {
+      "label": "undine",
+      "count": 189,
+      "type": "PERSON"
+    },
+    {
+      "label": "bertalda",
+      "count": 112,
+      "type": "ORG"
+    },
+    {
+      "label": "huldbrand",
+      "count": 40,
+      "type": "PERSON"
+    },
+    {
+      "label": "kuhleborn",
+      "count": 26,
+      "type": "PERSON"
+    },
+    {
+      "label": "ringstetten",
+      "count": 14,
+      "type": "PERSON"
+    },
+    {
+      "label": "danube",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "heilmann",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "castle ringstetten",
+      "count": 9,
+      "type": "PERSON"
+    },
+    {
+      "label": "thou",
+      "count": 6,
+      "type": "NORP"
+    },
+    {
+      "label": "the black valley",
+      "count": 6,
+      "type": "LOC"
+    },
+    {
+      "label": "fouque",
+      "count": 4,
+      "type": "NORP"
+    },
+    {
+      "label": "christian",
+      "count": 3,
+      "type": "NORP"
+    },
+    {
+      "label": "the mediterranean sea",
+      "count": 3,
+      "type": "LOC"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 29062.098049024513,
+      "activity": 0.03858647141835456
+    },
+    {
+      "token": 34445.52576288144,
+      "activity": 0.032199522573668635
+    },
+    {
+      "token": 35896.52776388194,
+      "activity": 0.029860931277948324
+    },
+    {
+      "token": 24351.5987993997,
+      "activity": 0.028412986982113086
+    },
+    {
+      "token": 28220.93746873437,
+      "activity": 0.028127877957346663
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 11,
+    "edges": 47,
+    "scene_entity_counts": [
+      3,
+      4,
+      3,
+      5,
+      2,
+      3,
+      8,
+      9,
+      7,
+      8,
+      8
+    ]
+  }
+}

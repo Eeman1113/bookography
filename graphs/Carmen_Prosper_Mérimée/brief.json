@@ -1,0 +1,244 @@
+{
+  "slug": "Carmen_Prosper_Mérimée",
+  "title_display": "Carmen Prosper Mérimée",
+  "language": "en",
+  "length_tokens": 31672,
+  "length_words": 24486,
+  "unique_entities": 46,
+  "entity_mentions": 337,
+  "scene_count": 6,
+  "top_entities": [
+    {
+      "label": "carmen",
+      "count": 28,
+      "type": "ORG"
+    },
+    {
+      "label": "spanish",
+      "count": 19,
+      "type": "NORP"
+    },
+    {
+      "label": "el dancaire",
+      "count": 18,
+      "type": "ORG"
+    },
+    {
+      "label": "garcia",
+      "count": 18,
+      "type": "PERSON"
+    },
+    {
+      "label": "seville",
+      "count": 17,
+      "type": "GPE"
+    },
+    {
+      "label": "cordova",
+      "count": 16,
+      "type": "ORG"
+    },
+    {
+      "label": "basque",
+      "count": 16,
+      "type": "NORP"
+    },
+    {
+      "label": "spain",
+      "count": 12,
+      "type": "GPE"
+    },
+    {
+      "label": "don jose",
+      "count": 12,
+      "type": "PERSON"
+    },
+    {
+      "label": "antonio",
+      "count": 11,
+      "type": "PERSON"
+    },
+    {
+      "label": "gibraltar",
+      "count": 11,
+      "type": "LOC"
+    },
+    {
+      "label": "romany",
+      "count": 10,
+      "type": "PERSON"
+    },
+    {
+      "label": "calle del candilejo",
+      "count": 8,
+      "type": "PERSON"
+    },
+    {
+      "label": "andalusia",
+      "count": 7,
+      "type": "GPE"
+    },
+    {
+      "label": "andalusian",
+      "count": 7,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 31179.853926963482,
+      "activity": 0.0338532817252356
+    },
+    {
+      "token": 23971.09704852426,
+      "activity": 0.033669645687093526
+    },
+    {
+      "token": 21515.366683341672,
+      "activity": 0.03308481637535356
+    },
+    {
+      "token": 21087.594297148575,
+      "activity": 0.030448125137242644
+    },
+    {
+      "token": 31005.57628814407,
+      "activity": 0.03039722363547472
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 6,
+    "edges": 68,
+    "scene_entity_counts": [
+      20,
+      22,
+      13,
+      17,
+      26,
+      16
+    ]
+  },
+  "sentiment": {
+    "reliability": "medium",
+    "window_size": 8080,
+    "volatility": 0.0023,
+    "best_shape": "Oedipus",
+    "best_shape_correlation": 0.8472,
+    "shape_matches": [
+      {
+        "shape": "Oedipus",
+        "correlation": 0.8472
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": 0.4814
+      },
+      {
+        "shape": "Rags to Riches",
+        "correlation": -0.4814
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": -0.7371
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.7383
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.8433
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.030303030303030304,
+        "smoothed": 0.08085522635915483,
+        "read_time_min": 18.1,
+        "driving_words": [
+          "wonderful",
+          "best",
+          "good",
+          "delightful",
+          "splendid",
+          "great"
+        ]
+      },
+      {
+        "position": 0.25252525252525254,
+        "smoothed": 0.04949893783824048,
+        "read_time_min": 32.7,
+        "driving_words": [
+          "wonderful",
+          "greatest",
+          "good",
+          "great",
+          "charm",
+          "astound"
+        ]
+      },
+      {
+        "position": 0.6464646464646465,
+        "smoothed": 0.044891569994871594,
+        "read_time_min": 58.6,
+        "driving_words": [
+          "brilliant",
+          "good",
+          "love",
+          "merry",
+          "great",
+          "best"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.5252525252525253,
+        "smoothed": 0.007374434507535086,
+        "read_time_min": 50.6,
+        "driving_words": [
+          "torture",
+          "killed",
+          "rotten",
+          "mad",
+          "evil",
+          "lost"
+        ]
+      },
+      {
+        "position": 0.7070707070707071,
+        "smoothed": 0.02570744247072478,
+        "read_time_min": 62.6,
+        "driving_words": [
+          "hell",
+          "lunatic",
+          "cruel",
+          "killed",
+          "dead",
+          "slave"
+        ]
+      },
+      {
+        "position": 0.8080808080808081,
+        "smoothed": 0.022222077630967143,
+        "read_time_min": 69.2,
+        "driving_words": [
+          "hell",
+          "bad",
+          "violent",
+          "angry",
+          "jerk",
+          "terrible"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/Carmen_Prosper_Mérimée/sentiment_arc.png"
+  }
+}

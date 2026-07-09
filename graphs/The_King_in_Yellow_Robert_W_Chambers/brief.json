@@ -1,0 +1,269 @@
+{
+  "slug": "The_King_in_Yellow_Robert_W_Chambers",
+  "title_display": "The King in Yellow Robert W Chambers",
+  "language": "en",
+  "length_tokens": 95142,
+  "length_words": 73084,
+  "unique_entities": 130,
+  "entity_mentions": 1548,
+  "scene_count": 31,
+  "top_entities": [
+    {
+      "label": "clifford",
+      "count": 138,
+      "type": "PERSON"
+    },
+    {
+      "label": "hastings",
+      "count": 93,
+      "type": "PERSON"
+    },
+    {
+      "label": "boris",
+      "count": 64,
+      "type": "PERSON"
+    },
+    {
+      "label": "wilde",
+      "count": 59,
+      "type": "PERSON"
+    },
+    {
+      "label": "elliott",
+      "count": 56,
+      "type": "PERSON"
+    },
+    {
+      "label": "sylvia",
+      "count": 48,
+      "type": "PERSON"
+    },
+    {
+      "label": "tessie",
+      "count": 48,
+      "type": "GPE"
+    },
+    {
+      "label": "selby",
+      "count": 39,
+      "type": "PERSON"
+    },
+    {
+      "label": "hawberk",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "jack",
+      "count": 38,
+      "type": "PERSON"
+    },
+    {
+      "label": "colette",
+      "count": 36,
+      "type": "PERSON"
+    },
+    {
+      "label": "louis",
+      "count": 33,
+      "type": "GPE"
+    },
+    {
+      "label": "west",
+      "count": 32,
+      "type": "LOC"
+    },
+    {
+      "label": "braith",
+      "count": 32,
+      "type": "PERSON"
+    },
+    {
+      "label": "american",
+      "count": 30,
+      "type": "NORP"
+    }
+  ],
+  "peak_activity_positions": [
+    {
+      "token": 58921.739869934965,
+      "activity": 0.05086116487573373
+    },
+    {
+      "token": 80101.20210105053,
+      "activity": 0.04860158916894439
+    },
+    {
+      "token": 81053.088044022,
+      "activity": 0.04644434016171732
+    },
+    {
+      "token": 57969.85392696348,
+      "activity": 0.04384490650653217
+    },
+    {
+      "token": 68630.97648824412,
+      "activity": 0.04137414725278583
+    }
+  ],
+  "narrative_flow": {
+    "scenes": 31,
+    "edges": 311,
+    "scene_entity_counts": [
+      27,
+      21,
+      12,
+      20,
+      18,
+      13,
+      11,
+      11,
+      7,
+      7,
+      12,
+      5,
+      7,
+      6,
+      7,
+      8,
+      3,
+      3,
+      8,
+      16,
+      19,
+      29,
+      23,
+      13,
+      14,
+      28,
+      30,
+      26,
+      16,
+      6,
+      15
+    ]
+  },
+  "sentiment": {
+    "reliability": "high",
+    "window_size": 10000,
+    "volatility": 0.0077,
+    "best_shape": "Rags to Riches",
+    "best_shape_correlation": 0.3144,
+    "shape_matches": [
+      {
+        "shape": "Rags to Riches",
+        "correlation": 0.3144
+      },
+      {
+        "shape": "Oedipus",
+        "correlation": 0.152
+      },
+      {
+        "shape": "Man in a Hole",
+        "correlation": 0.0526
+      },
+      {
+        "shape": "Cinderella",
+        "correlation": -0.1291
+      },
+      {
+        "shape": "Tragedy",
+        "correlation": -0.3144
+      },
+      {
+        "shape": "Icarus",
+        "correlation": -0.5259
+      }
+    ],
+    "peaks": [
+      {
+        "position": 0.494949494949495,
+        "smoothed": 0.05780601662438247,
+        "read_time_min": 144.9,
+        "driving_words": [
+          "win",
+          "fantastic",
+          "beautiful",
+          "amusement",
+          "pleasant",
+          "good"
+        ]
+      },
+      {
+        "position": 0.8686868686868687,
+        "smoothed": 0.09003738080033498,
+        "read_time_min": 239.2,
+        "driving_words": [
+          "fun",
+          "funny",
+          "funnier",
+          "brilliant",
+          "miracle",
+          "rejoices"
+        ]
+      },
+      {
+        "position": 0.9696969696969697,
+        "smoothed": 0.10179423236866524,
+        "read_time_min": 264.7,
+        "driving_words": [
+          "brilliant",
+          "miracle",
+          "rejoices",
+          "triumphant",
+          "winner",
+          "glee"
+        ]
+      }
+    ],
+    "valleys": [
+      {
+        "position": 0.24242424242424243,
+        "smoothed": -0.04099666554403255,
+        "read_time_min": 81.2,
+        "driving_words": [
+          "tortured",
+          "hell",
+          "torture",
+          "die",
+          "angry",
+          "hated"
+        ]
+      },
+      {
+        "position": 0.3333333333333333,
+        "smoothed": -0.060255065339227025,
+        "read_time_min": 104.1,
+        "driving_words": [
+          "torture",
+          "ass",
+          "destruction",
+          "hatred",
+          "loose",
+          "evil"
+        ]
+      },
+      {
+        "position": 0.6666666666666666,
+        "smoothed": -0.11554139217698607,
+        "read_time_min": 188.2,
+        "driving_words": [
+          "dead",
+          "worse",
+          "dying",
+          "warning",
+          "furious",
+          "worried"
+        ]
+      }
+    ]
+  },
+  "graph_paths": {
+    "scatter": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/scatter.png",
+    "activity": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/activity.png",
+    "heatmap": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/heatmap.png",
+    "combined": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/combined.png",
+    "narrative_flow": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/narrative_flow.png",
+    "sentiment_arc": "/Users/eemanmajumder/code_shit/DataStorehouse/scraper/gutenberg/graphs/The_King_in_Yellow_Robert_W_Chambers/sentiment_arc.png"
+  }
+}
